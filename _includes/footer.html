@@ -1,38 +1,90 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-6">
+        <h5>NDSA</h5>
+        <ul class="list-unstyled">
+          <li>
+            <a href="/">Home</a>
+          </li>
+          <li>
+            <a href="/about/">About</a>
+          </li>
+          <li>
+            <a href="/members/">Members</a>
+          </li>
+          <li>
+            <a href="/calendar/">Calendar</a>
+          </li>
+          <li>
+            <a href="/coordinating-committee/">Coordinating Committee</a>
+          </li>
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
+      <div class="col-md-3 col-sm-6">
+        <h5>Social</h5>
+        <ul class="list-unstyled">
           <li>
-            {% include icon-github.html username=site.github_username %}
+            <a href="#">Facebook</a>
           </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
           <li>
-            {% include icon-twitter.html username=site.twitter_username %}
+            <a href="">Twitter</a>
           </li>
-          {% endif %}
+          <li>
+            <a href="">Github</a>
+          </li>
+          <li>
+            <a href="">Youtube</a>
+          </li>
         </ul>
       </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+
+      <div class="col-md-3 col-sm-6">
+        <h5>Support</h5>
+        <ul class="list-unstyled">
+          <li>
+            <a href="">Privacy Policy</a>
+          </li>
+          <li>
+            <a href="">FAQ</a>
+          </li>
+          <li>
+            <a href="">Terms and Conditions</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="col-md-3 col-sm-6">
+        <h5>Contact</h5>
+        <address>
+          1707 L St. NW,<br>
+          Suite 650 <br>
+          Washington, DC 20036 <br>
+
+          <abbr title="Phone">P:</abbr>  (202) 939-4750 <br>
+          <abbr title="Email">E:</abbr> <a href="mailto:">foo@ndsa.org</a>
+        </address>
+      </div>
+
+    </div>
+
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="footer-alt">
+          <p class="pull-right">
+            2015 &copy; DLF
+          </p>
+          <p class="logo">
+            <a href="http://diglib.org">DLF</a>
+          </p>
+        </div>
       </div>
     </div>
 
   </div>
-
 </footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
