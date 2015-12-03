@@ -181,6 +181,28 @@ address {
     }
   }
 }
+
+// Sponsors
+.sponsors {
+  padding-top: 60px;
+  padding-bottom: 60px;
+
+  img:hover {
+    opacity: 0.8;
+    transition: 0.5s;
+  }
+
+  .brand-item {
+    display: inline-block;
+    margin-left: 50px;
+    margin-bottom: 10px;
+
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+}
+
 // Footer
 footer {
   h5 {

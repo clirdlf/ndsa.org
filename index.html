@@ -18,15 +18,16 @@ layout: default
   </div>
 </section>
 
-
-
 <!-- sponsors -->
 <section class="sponsors bg-gray">
   <div class="container">
     <div class="row text-center">
       <div class="col-sm-12">
         <div class="brand-item animated fadeInLeft" data-wow-delay=".1s">
-          <a href="#"><img alt="DLF" src="{{ "/images/sponsors/dlf.png" | prepend: site.baseurl }}"></a>
+          <a href="http://diglib.org"><img height="46" alt="DLF" src="{{ "/images/sponsors/dlf.png" | prepend: site.baseurl }}"></a>
+        </div>
+        <div class="brand-item animated fadeInLeft" data-wow-delay=".2s">
+          <a href="http://ndsa.org"><img height="46px" alt="DLF" src="{{ "/images/sponsors/ndsa.png" | prepend: site.baseurl }}"></a>
         </div>
       </div>
     </div>
@@ -121,22 +122,23 @@ layout: default
   </div>
 </section>
 
-<!-- <div class="home">
+<section class="section bg-dark" id="social">
+  <div class="container">
+    <div class="row social">
+      <div class="col-sm-6">
+        <div class="animated fadeInLeft wow" data-wow-delay=".1s">
+          <h3>Blog</h3>
+          <div id="blog"></div>
+        </div>
+      </div>
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div> -->
+      <div class="col-sm-6">
+        <div class="animated fadeInRight wow" data-wow-delay=".1s">
+          <h3>Twitter</h3>
+          <a class="twitter-timeline" href="https://twitter.com/NDSA2" data-widget-id="672461315265404928">Tweets by @NDSA2</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -13,4 +13,8 @@ $(document).ready(function(){
     }
   );
   wow.init();
+
+  $('#blog').rss('http://diglib.org/feed');
+
+
 });
