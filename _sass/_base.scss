@@ -140,6 +140,21 @@ address {
   color: #97a0af;
 }
 // Navbar
+
+.navbar-abs {
+	position: absolute;
+	top:0px;
+	width: 100%;
+	z-index: 999;
+}
+
+.is-sticky {
+	background-color: #fff;
+  -moz-box-shadow: 0, 2px, 2px, rgba(0,0,0, 0.1);
+  -webkit-box-shadow: 0, 2px, 2px, rgba(0,0,0, 0.1);
+  box-shadow: 0, 2px, 2px, rgba(0,0,0, 0.1);
+}
+
 .navbar-custom {
   background-color: #fff;
   -moz-box-shadow: 0 2px 2px rgba(0,0,0,.1);
