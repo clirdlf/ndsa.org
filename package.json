@@ -1,0 +1,23 @@
+{
+  "name": "ndsa.org",
+  "version": "1.0.0",
+  "description": "National Digital Preservation Alliance",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waynegraham/ndsa.org.git"
+  },
+  "author": "CLIR/DLF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clirdlf/ndsa.org/issues"
+  },
+  "homepage": "https://github.com/clirdlf/ndsa.org#readme",
+  "dependencies": {
+    "jquery-sticky": "^1.0.3",
+    "rss-parser": "^2.1.1",
+    "wow": "0.0.6"
+  }
+}
