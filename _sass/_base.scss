@@ -10,6 +10,35 @@ $ndsa-logo-color: #0165AE;
 .itemTitle a:hover{ text-decoration:underline }
 .itemDate{font-size:11px;color:#AAAAAA;}
 
+@media(min-width: 768px) {
+	.navbar-nav>li>a {
+		padding-top: 18px;
+		padding-bottom: 18px;
+	}
+
+	.dropdown-menu.arrow:before, .dropdown-menu.arror:after {
+		position: absolute;
+		top: -8px;
+		right: 12px;
+		display: inline-block;
+		content: '';
+		border-right: 8px solid transparent;
+		border-left: 8px solid transparent;
+		border-bottom: 8px solid transparent;
+	}
+
+	.dropdown-menu > li > a {
+		color: #4c5667 !important;
+	}
+}
+
+@media(max-width: 767px){
+	.dropdown-menu > li > a:hover {
+		background-color: transparent;
+		colord: #fff;
+	}
+}
+
 // Font stuff
 @font-face {
 	font-family: 'icomoon';
