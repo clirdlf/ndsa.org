@@ -9,7 +9,7 @@ National Digital Stewardship Alliance organizations have proven themselves in th
 In particular, we'd like to highlight the following individuals who are available to speak to the news media about a variety of topics and who are recognized for their contributions throughout the digital preservation community. They can be contacted with questions about the Alliance or for their area of expertise or interest.
 
 ## Micah Altman
-Director of Research, MIT Libraries, MIT; Non‐Resident Senior Fellow, Brookings Institution.
+Director of Research, MIT Libraries, MIT; Non‐Resident Senior Fellow, Brookings Institution
 Dr Micah Altman is Director of Research and Head/Scientist, Program on Information Science for the MIT Libraries, at the Massachusetts Institute of Technology. Dr. Altman is also a Non‐Resident Senior Fellow at The Brookings Institution. Dr. Altman conducts research in social science, information science and research methods—focusing on the intersections of information, technology, privacy, and politics, and on the dissemination, preservation, reliability and governance of scientific knowledge. Altman serves as the chair of the NSDA Coordinating Committee.
 
 Email address: escience@MIT.EDU
@@ -24,7 +24,7 @@ Email address: jefferson@archive.org
 Director of Media Library and Archives, WGBH
 Karen Cariani has worked at WGBH since 1984 in television production and archival‐related roles. She has 20‐plus years of production and project management experience, has worked on numerous award‐winning historical documentaries, and has been project director for many critical projects. She worked with the WNET, PBS, NYU and WGBH Preserving Public Television partnership as part of the Library of Congress National Digital Information Infrastructure Preservation Project. She served two terms (2001‐2005) on the Board of Directors of Association of Moving Image Archivists (AMIA). She also serves on Digital Commonwealth executive committee. Recent projects include managing the American Archive Inventory project for CPB, and project director of PBCore development and Boston Local TV News Digital Library project. Cariani is the co‐chair of the NDSA Infrastructure Working Group.
 
-Email address:  karen_cariani@WGBH.ORG
+Email address: karen_cariani@WGBH.ORG
 
 ## Jim Corridan
 State Archivist and Director of the Indiana Commission on Public Records
@@ -39,7 +39,8 @@ As assistant director, Jonathan Crabtree completely revamped the institute’s t
 Email address: jonathan_crabtree@UNC.EDU
 
 ## Andrea Goethals
-Digital Preservation and Repository Services Manager, Harvard Library Andrea Goethals is responsible for providing leadership in the development and operation of Harvard's digital preservation program and for the management and oversight of the Digital Repository Service (DRS), the university's large‐scale digital preservation repository. She is currently involved in the rolling out of the next‐generation DRS, planning for new digital preservation services at the university, and heading an IMLS-funded project to test the National Digital Stewardship Residency program in the Boston area. She participates in the International Internet Preservation Consortium’s Preservation Working Group and is the co‐chair of the NDSA Standards and Practices Working Group.
+Digital Preservation and Repository Services Manager, Harvard Library
+Andrea Goethals is responsible for providing leadership in the development and operation of Harvard's digital preservation program and for the management and oversight of the Digital Repository Service (DRS), the university's large‐scale digital preservation repository. She is currently involved in the rolling out of the next‐generation DRS, planning for new digital preservation services at the university, and heading an IMLS-funded project to test the National Digital Stewardship Residency program in the Boston area. She participates in the International Internet Preservation Consortium’s Preservation Working Group and is the co‐chair of the NDSA Standards and Practices Working Group.
 
 Email address: andrea_goethals@HARVARD.EDU
 
@@ -89,7 +90,7 @@ Chief Technical Officer for the University of Virginia Library
 As a founding member of the Fedora, Blacklight, Hydra and Academic Preservation Trust communities, UVa has a long standing commitment to evolving digital stewardship technologies and practices. She serves in a strategic or technical advisory capacity in each of these communities and is responsible for the strategic, architectural and operational aspects of technology for the UVa Library. Ruggaber's career spans spans across industry, federal and state agencies with deepest expertise in directing the design and development of strategies and systems to solve complex problems and meet organization objectives. Ruggaber has worked with UVa for 20 years and before joining the Library in 2011, was the Assistant Director for Infrastructure Division for UVa's core IT organization. She is drawn to work in digital stewardship due to the complex challenges facing the community and the opportunity to protect availability and access to intellectual and cultural knowledge.
 
 ## John Spencer
-President and co‐founder, BMS/Chace.
+President and co‐founder, BMS/Chace
 John Spencer has widespread experience and visibility both in the music industry and in the fields of archival preservation and enterprise class information technology. Since 1978, he has been involved in many facets of high‐technology professional audio and video, and was previously Vice President of Sales and Marketing for Otari Corp. Spencer is CEO of BMS/Chace, working with commercial companies to further the value of structured metadata collection for media companies and institutions worldwide. He is a member of the following professional associations: The Recording Academy Producers & Engineers Wing National Advisory Council, and Nashville chapter Advisory Council, Audio Engineering Society (AES) Studio Practices and Production Technical Committee, Association of Recorded Sound Collections (ARSC) Technical Committee, National Recording Preservation Board (NRPB) Digital Audio Preservation, and Standards Task Force. Spencer serves on the NSDA Coordinating Committee.
 
 Email address: jspencer@BMSCHACE.COM
