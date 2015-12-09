@@ -19,30 +19,37 @@ The NDSA organizes a national network of collaborative partners to take stewards
 
 The NDSA works toward those goals through three primary types of activities.
 
-- **Reports and Guidance Materials**: Working groups produce a range of reports and guidance materials; for example, the Levels of Digital Preservation, the NDSA Storage Survey, and the NDSA Staffing Survey each serve to identify and communicate common needs of member organizations. In 2013, the NDSA published the inaugural [National Agenda for Digital Stewardship](http://ndsa.diglib.org/national-agenda/), a guiding document that outlines the challenges and opportunities related to digital preservation activities. A complete list of reports and other projects is available.
+- **Reports and Guidance Materials**: Working groups produce a range of [reports and guidance materials](http://ndsa.diglib.org/activities/); for example, the [Levels of Digital Preservation](http://ndsa.diglib.org/activities/levels-of-digital-preservation/), the NDSA Storage Survey, and the NDSA Staffing Survey each serve to identify and communicate common needs of member organizations. In 2013, the NDSA published the inaugural [National Agenda for Digital Stewardship](http://ndsa.diglib.org/national-agenda/), a guiding document that outlines the challenges and opportunities related to digital preservation activities. A complete list of [reports and other projects](http://ndsa.diglib.org/activities/) is available.
 - **Meetings and Events**: Regional meetings, meetups, and representation at the NDIIPP-hosted annual Digital Preservation meeting, are particularly important as professional development opportunities and as a means to connect and network a national community of practice for digital stewardship. See the NDSA Calendar for a list of upcoming presentations at conference and meetings.
 - **Knowledge Exchange**:  Monthly or bi-monthly briefing, demo and presentation webinars on tools, techniques, and approaches to digital preservation serve as ongoing professional development opportunities for staff at member organizations, while disseminating information about the tools and services many NDSA member organizations are developing.
-- For a calendar of upcoming events, including working group calls, webinars and presentation dates, see the NDSA Calendar.
+- For a calendar of upcoming events, including working group calls, webinars and presentation dates, see the [NDSA Calendar](http://ndsa.diglib.org/calendar/).
 
 You can read about NDSA projects and activities on The Signal blog posts.
 
 ## Who We Are
-The NDSA is a dynamic organization with more than 160 partner organizations, including universities, government and nonprofit organizations, commercial businesses, and professional associations. NDSA members have proven themselves in the field of digital stewardship. See the current [list of member organizations](http://ndsa.diglib.org/members/).
+The NDSA is a dynamic organization with more than 160 partner organizations, including universities, government and nonprofit organizations, commercial businesses, and professional associations. NDSA members have proven themselves in the field of digital stewardship. See the current [list of member organizations](http://ndsa.diglib.org/members-list/).
 
-The work of the NDSA is organized by 5 working groups, each with two co-chairs, and led by an elected Coordinating Committee.
+The work of the NDSA is organized by 5 [working groups](http://ndsa.diglib.org/working-groups/), each with two co-chairs, and led by an elected [Coordinating Committee](http://ndsa.diglib.org/coordinating-committee/).
 
-While membership in the NDSA is at the institutional level, individuals serving in leadership roles are experienced in the areas of digital stewardship and have made contributions to the field of digital preservation. A list of these individuals and their contact information is available through the NDSA Experts Guide.
+While membership in the NDSA is at the institutional level, individuals serving in leadership roles are experienced in the areas of digital stewardship and have made contributions to the field of digital preservation. A list of these individuals and their contact information is available through the [NDSA Experts Guide](http://ndsa.diglib.org/experts-guide/).
 
 ## How We Work
-Members join by agreeing to our Principles of Collaboration and the Membership Agreement, found in the NDSA Membership Packet (PDF, 826KB), and by participating in working groups. There are no membership fees to join the NDSA but members do commit to work collaboratively and share expertise. An elected Coordinating Committee provides strategic direction for the NDSA.
+Members join by agreeing to our Principles of Collaboration and the Membership Agreement, found in the NDSA Membership Packet (PDF, 826KB), and by participating in [working groups](http://ndsa.diglib.org/working-groups/). There are no membership fees to join the NDSA but members do commit to work collaboratively and share expertise. An elected [Coordinating Committee](http://ndsa.diglib.org/coordinating-committee/) provides strategic direction for the NDSA.
 
 ## Resources
-NDSA Calendar (including working group calls, upcoming presentation dates, and NDSA Regional Meetings) Reports and articles Working Group Projects and Activities The National Agenda for Digital Stewardship NDSA Experts Guide NDSA Values Statement Information about joining the NDSA Current list of NDSA Members
+- [NDSA Calendar](http://ndsa.diglib.org/calendar/) (including working group calls, upcoming presentation dates, and NDSA Regional Meetings)
+- Reports and articles
+- Working Group Projects and Activities
+- [The National Agenda for Digital Stewardship](http://ndsa.diglib.org/national-agenda/)
+- [NDSA Experts Guide](http://ndsa.diglib.org/experts-guide/)
+- NDSA Values Statement
+- [Information about joining the NDSA](http://ndsa.diglib.org/get-involved/)
+- Current list of [NDSA Members](http://ndsa.diglib.org/members-list/)
 
 ## Questions?
 For questions and more detailed information about the NDSA and how to join:
 
 Send an email with your questions to ndsa@loc.gov
 
-- See our FAQs
-- Are you interested in hosting a briefing on the NDSA or have a specific question about a digital preservation topic area? Consider contacting any of the expert individuals listed in the NDSA Experts Guide.
+- See our [FAQs](http://ndsa.diglib.org/faq/)
+- Are you interested in hosting a briefing on the NDSA or have a specific question about a digital preservation topic area? Consider contacting any of the expert individuals listed in the [NDSA Experts Guide](http://ndsa.diglib.org/experts-guide/).
