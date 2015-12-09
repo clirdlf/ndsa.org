@@ -4,8 +4,7 @@ layout: page
 permalink: /working-groups/
 ---
 
-<!-- TODO: TOC for each working group -->
-<!-- Page needs work -->
+TODO: TOC for each working group
 
 <p>The NDSA has established five Working Groups focusing on the following areas of digital preservation:</p>
 
