@@ -3,6 +3,7 @@ title: Infrastructure Working Group
 layout: page
 permalink: /working-groups/infrastructure/
 ---
+
 The Infrastructure Working Group works to identify and share emerging practices around the development and maintenance of tools and systems for the curation, preservation, storage, hosting, migration, and similar activities supporting the long term preservation of digital content.
 
 ## The NDSA Levels of Digital Preservation
