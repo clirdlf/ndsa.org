@@ -38,7 +38,7 @@ Email ndsa@loc.gov
 
 **What commitment is expected if my organization joins the NDSA?**
 
-It is expected that members actively engage in digital stewardship and share their lessons learned and practical knowledge about ensuring long term access to digital materials. Working Groups are the primary mechanism through which the NDSA accomplishes its [goals](/). Participation in working group conference calls and projects can take anywhere from two to seven hours a month. There are no fees associated with joining the NDSA.
+It is expected that members actively engage in digital stewardship and share their lessons learned and practical knowledge about ensuring long-term access to digital materials. Working Groups are the primary mechanism through which the NDSA accomplishes its [goals](/). Participation in working group conference calls and projects can take anywhere from two to seven hours a month. There are no fees associated with joining the NDSA.
 
 **What are the benefits of joining the NDSA?**
 
@@ -48,11 +48,11 @@ Members have a direct contact with experts in digital stewardship and an opportu
 
 **Which working groups are right for my organization?**
 
-The answer is going to depend on what exactly your organizations goals and needs are. It is generally best to try and match the right people in your organization with the right working group. For example, developers, and IT staff and administrators are a great fit for the [Infrastructure working group](/workgroups/infrastructure/), where individuals in marketing and communications are a great fit for the [Outreach working group](/working-groups/outreach/). It is best to think about what your organizations strengths are and work from there. In general, the more directly the working groups mission fits with the nature of the individuals participating from member organizations the more that both the NDSA and the working group benefit.
+The answer is going to depend on what exactly your organizations goals and needs are. It is generally best to try to match the right people in your organization with the right working group. For example, developers and IT staff and administrators are a great fit for the [Infrastructure working group](/workgroups/infrastructure/), where individuals in marketing and communications are a great fit for the [Outreach working group](/working-groups/outreach/). It is best to think about what your organization's strengths are and work from there. In general, the more directly the working groups mission fits with the nature of the individuals participating from member organizations, the more that both the NDSA and the working group benefit.
 
 **How do we join a specific working group?**
 
-When organizations join the NDSA the individuals they identify which working groups they would like to join and identify which individuals they want to participate in those groups. Once a organization joins those individuals are added to the working group listservs and given access to the NDSA wiki. Individuals at member organizations can also join other groups at any point. To join a particular working group contact ndsa@loc.gov, mention what member organization you represent and make your request.
+When organizations join the NDSA, they indicate which working groups they would like to join, and which individuals will participate in each of those groups. Once a organization's application is approved, those individuals are added to the working group listservs and given access to the NDSA wiki. Individuals at member organizations can also join other groups at any point. To join a particular working group, contact ndsa@loc.gov, mention what member organization you represent, and make your request.
 
 **Can individuals switch to a different working group?**
 
@@ -60,7 +60,7 @@ Yes, individuals associated with member organizations can change working groups 
 
 **Can member organizations participate in more than one working group?**
 
-Yes, the NDSA encourages participation on multiple working groups. In most cases, it is best to have different individuals from a member organization participate in different working groups. Ideally, the work of the working group will be a direct and natural fit for the nature of the group they participate in.
+Yes, the NDSA encourages participation on multiple working groups. In most cases, it is best to have different individuals from a member organization participate in different working groups. Ideally, the working group will be a direct and natural fit for the nature of each individual's role within your organization.
 
 **Does the NDSA providing funding?**
 
@@ -93,7 +93,7 @@ We are thrilled that you've joined the NDSA! There are many ways you can get inv
 
 **Who are the NDSA Working Group Co-Chairs?**
 
-Each working group has two chairs, or co-chairs. One chair is from a member organization and the other co-chair is from the Library of Congress. Below are the current co-chairs and their content information.
+Each working group has two chairs, or co-chairs. Below are the current co-chairs and their contact information.
 
 - **Content Working Group Co-Chairs**: Christie Moffatt, National Library of Medicine - moffattc at mail dot nlm dot nih dot gov; Abbey Potter, Library of Congress - abpo at loc dot gov.
 - **Infrastructure Working Group Co-Chairs**: Nick Krabbenhoeft, Educopia - nick at educopia dot org; Sibyl Schaefer, University of California, San Diego - sschaefer at ucsd dot edu
