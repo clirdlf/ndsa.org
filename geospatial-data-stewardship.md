@@ -1,7 +1,7 @@
 ---
-title: Geospatial Working Group
+title: Geospatial Data Stewardship
 layout: page
-permalink: /working-groups/geospatial/
+permalink: /working-groups/content/geospatial-data-stewardship/
 ---
 Geospatial Data Stewardship: Key Online Resources
 
