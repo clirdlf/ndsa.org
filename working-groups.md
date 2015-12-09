@@ -5,6 +5,7 @@ permalink: /working-groups/
 ---
 
 <!-- TODO: TOC for each working group -->
+<!-- Page needs work -->
 
 <p>The NDSA has established five Working Groups focusing on the following areas of digital preservation:</p>
 
@@ -54,11 +55,11 @@ Innovation: Working to encourage and share innovative methods of digital preserv
 </div>
 
 <div class="row">
-<div class="col-sm-12">
-<p>NDSA members commit to having participants in one or more Working Groups. Working Groups identify tasks and develop work plans that will be accomplished by participants.</p>
+  <div class="col-sm-12">
+    <p>NDSA members commit to having participants in one or more Working Groups. Working Groups identify tasks and develop work plans that will be accomplished by participants.</p>
 
-<p>Each Working Group is led by a pair of co-chairs that commit to promoting the tasks of the working group that have been identified by participants. One co-chair is from a member organization, the second co-chair is a representative from the Library of Congress.</p>
+    <p>Each Working Group is led by a pair of co-chairs that commit to promoting the tasks of the working group that have been identified by participants. One co-chair is from a member organization, the second co-chair is a representative from the Library of Congress.</p>
 
-<p>Questions about what working group you should join? Send an email to ndsa@loc.gov.</p>
-</div>
+    <p>Questions about what working group you should join? Send an email to ndsa@loc.gov.</p>
+  </div>
 </div>
