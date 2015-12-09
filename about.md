@@ -8,7 +8,7 @@ The National Digital Stewardship Alliance is a consortium of organizations that 
 
 The NDSA was launched as a membership organization in July 2010 as an initiative of the National Digital Information Infrastructure and Preservation Program.
 
-For an inaugural 4-year term, the Library of Congress has provided secretariat and membership management support to  the NDSA, contributing working group  leadership, expertise, and administrative support. The NDSA Coordinating Committee and The Library of Congress seek proposals from organizations to host the NDSA for its next 4-year term. More information about the NDSA transition can be found here.
+For an inaugural 4-year term, the Library of Congress provided secretariat and membership management support to the NDSA, contributing working group leadership, expertise, and administrative support. The NDSA's institutional home as of January 1, 2016, is the [Digital Library Federation (DLF)](https://www.diglib.org), a program of the [Council on Library and Information Resources (CLIR)](http://www.clir.org/). This selection followed a nationwide search and evaluation of cultural heritage, membership, and technical service organizations, in consultation with NDSA working groups, their members, and external advisors.
 
 ## What We Do
 The NDSA organizes a national network of collaborative partners to take stewardship action across a range of issues and functions toward three primary objectives:
@@ -19,15 +19,15 @@ The NDSA organizes a national network of collaborative partners to take stewards
 
 The NDSA works toward those goals through three primary types of activities.
 
-- **Reports and Guidance Materials**: Working groups produce a range of reports and guidance materials, for example the Levels of Digital Preservation, the NDSA Storage Survey and the NDSA Staffing Survey each serve to identify and communicate common needs of member organizations. In 2013, the NDSA published the inaugural National Agenda for Digital Stewardship, a guiding document that outlines the challenges and opportunities related to digital preservation activities. A complete list of reports and other projects is available.
-- **Meetings and Events**: Regional meetings, meetups, and through representation at the NDIIPP-hosted annual Digital Preservation meeting. are particularly important as professional development opportunities and as a means to connect and network a national community of practice for digital stewardship. See the NDSA Calendar for a list of upcoming presentations at conference and meetings.
-- **Knowledge Exchange**:  Monthly or bi-monthly briefing, demo and presentation webinars on tools, techniques and approaches to digital preservation serve as ongoing professional development opportunities for staff at members while disseminating information about the tools and services many NDSA member organizations are developing.
+- **Reports and Guidance Materials**: Working groups produce a range of reports and guidance materials; for example, the Levels of Digital Preservation, the NDSA Storage Survey, and the NDSA Staffing Survey each serve to identify and communicate common needs of member organizations. In 2013, the NDSA published the inaugural [National Agenda for Digital Stewardship](http://ndsa.diglib.org/national-agenda/), a guiding document that outlines the challenges and opportunities related to digital preservation activities. A complete list of reports and other projects is available.
+- **Meetings and Events**: Regional meetings, meetups, and representation at the NDIIPP-hosted annual Digital Preservation meeting, are particularly important as professional development opportunities and as a means to connect and network a national community of practice for digital stewardship. See the NDSA Calendar for a list of upcoming presentations at conference and meetings.
+- **Knowledge Exchange**:  Monthly or bi-monthly briefing, demo and presentation webinars on tools, techniques, and approaches to digital preservation serve as ongoing professional development opportunities for staff at member organizations, while disseminating information about the tools and services many NDSA member organizations are developing.
 - For a calendar of upcoming events, including working group calls, webinars and presentation dates, see the NDSA Calendar.
 
 You can read about NDSA projects and activities on The Signal blog posts.
 
 ## Who We Are
-The NDSA is a dynamic organization with more than 160 partner organizations, including universities, government and nonprofit organizations, commercial businesses, and professional associations. NDSA members have proven themselves in the field of digital stewardship. See the current list of member organizations.
+The NDSA is a dynamic organization with more than 160 partner organizations, including universities, government and nonprofit organizations, commercial businesses, and professional associations. NDSA members have proven themselves in the field of digital stewardship. See the current [list of member organizations](http://ndsa.diglib.org/members/).
 
 The work of the NDSA is organized by 5 working groups, each with two co-chairs, and led by an elected Coordinating Committee.
 
