@@ -11,7 +11,7 @@ The NDSA is about membership collaboration. Your organization’s participation 
 
 ## Learn More About NDSA Activities
 
-Check out current **NDSA Activities**: http://www.digitalpreservation.gov/ndsa/activities/
+Check out current [NDSA Activities](http://ndsa.diglib.org/activities/)
 
 Visit the wiki: http://www.loc.gov/extranet/wiki/osi/ndiip/ndsa/index.php?title=Main_Page
 The wiki includes an overview of the scope of work for each of the working groups and links to all the emerging projects and activities. Plus, it’s a great place to launch new projects.
