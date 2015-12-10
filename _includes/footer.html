@@ -90,5 +90,7 @@
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 <script src="{{ "/js/wow.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/jquery.sticky.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/FeedEk.js" | prepend: site.baseurl }}"></script>
+{% for js in page.javascript %}
+   <script src="{{ js }}"></script>
+{% endfor %}
 <script src="{{ "/js/app.js"| prepend: site.baseurl }}"></script>
