@@ -1,11 +1,13 @@
 $(window).load(function(){
-  $('.sticky').sticky({topSpacing: 0});
 
-  $('.status').fadeOut();
-  $('.preloader').delay(350).fadeOut('slow');
 });
 
 $(document).ready(function(){
+
+  $('.sticky').sticky({topSpacing: 0});
+
+  // $('.status').fadeOut();
+  // $('.preloader').delay(350).fadeOut('slow');
 
   wow = new WOW(
     {
