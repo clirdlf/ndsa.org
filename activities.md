@@ -7,7 +7,7 @@ permalink: /activities/
 ## Current Projects
 
 ### 2013 Web Archiving Survey
-During Fall 2013, the Content Working Group invited U.S. organizations engaged in web archiving or in the process of planning a web archive to take the 2013 NDSA Web Archiving Survey. The group published a report (PDF, 1010 KB)of the survey results in Fall 2014. A list of the survey questions is available [here](/documents/ndsa_web_archiving_survey_2013.pdf) (PDF, 196 KB).
+During Fall 2013, the Content Working Group invited U.S. organizations engaged in web archiving or in the process of planning a web archive to take the 2013 NDSA Web Archiving Survey. The group published a report (PDF, 1010 KB) of the survey results in Fall 2014. A list of the survey questions is available [here](/documents/ndsa_web_archiving_survey_2013.pdf) (PDF, 196 KB).
 
 ### [Annual Innovation Awards](http://blogs.loc.gov/digitalpreservation/2013/06/and-the-winner-is-announcing-the-2013-ndsa-innovation-award-winners/)
 A committee of NDSA members solicits and reviews nominations to give out recognition awards to promote innovative work in the field.
@@ -25,7 +25,7 @@ The Outreach Working Group developed Digital Preservation In A Box, an online co
 The Standards and Best Practices Working Group is working together to improve the accuracy and breadth of information on the Digital Preservation page on Wikipedia and recast it as an appropriate launch page to more detailed information about standards and best practices.
 
 ### [Insights Interview Blog Post Series on The Signal](http://blogs.loc.gov/digitalpreservation/category/insights-interview/)
-Members are interviewing people with experience interesting to but outside of the digital preservation field.
+Members are interviewing people with experience relevant to, but outside of, the digital preservation field.
 
 ### [Levels of Preservation](/activities/)
 Members are defining a brief set of guidelines on tiered levels of digital preservation.
