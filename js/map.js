@@ -12,7 +12,7 @@ $(document).ready(function() {
 
     var map = L.map('map', {
       center: [39.73, -104.99],
-      zoom: 10,
+      zoom: 4,
       layers: [Thunderforest_SpinalMap, MapQuestOpen_OSM]
   });
 
@@ -24,8 +24,7 @@ var baseMaps = {
 L.control.layers(baseMaps).addTo(map);
 
 function onEachFeature(feature, layer) {
-  var popupContent = "<p>starts as a " + feature.geometry.type + " and ends up a vector";
-
+  var popupContent = '';
   if (feature.properties && feature.properties.popupContent) {
     popupContent += feature.properties.popupContent;
   }
@@ -35,7 +34,7 @@ function onEachFeature(feature, layer) {
 
 L.geoJson([members], {
   style: function(feature) {
-    return feature.properties && feature.properties.style
+    return feature.properties && feature.properties.style;
   },
   onEachFeature: onEachFeature,
   pointToLayer: function(feature, latlng) {
