@@ -59,6 +59,12 @@ Innovation: Working to encourage and share innovative methods of digital preserv
 
     <p>Each Working Group is led by a pair of co-chairs that commit to promoting the tasks of the working group that have been identified by participants. One co-chair is from a member organization, the second co-chair is a representative from the Library of Congress.</p>
 
+    - **Content Working Group Co-Chairs**: Christie Moffatt, National Library of Medicine - moffattc at mail dot nlm dot nih dot gov; Abbey Potter, Library of Congress - abpo at loc dot gov.
+    - **Infrastructure Working Group Co-Chairs**: Nick Krabbenhoeft, Educopia - nick at educopia dot org; Sibyl Schaefer, University of California, San Diego - sschaefer at ucsd dot edu
+    - **Innovation Working Group Co-Chairs**: Jefferson Bailey, Internet Archive- jefferson at archive dot org; Trevor Owens, Library of Congress - trow at loc dot gov ; Jane Mandelbaum, Library of Congress - jman at loc dot gov
+    - **Outreach Working Group Co-Chairs**: Carol Minton Morris, DuraSpace - cmmorris at fedora-commons dot org ; and Butch Lazorchak, Library of Congress - wlaz at loc dot gov
+    - **Standards Working Group Co-Chairs**: Andrea Goethals, Harvard University - andrea_goethals at harvard dot edu; Kate Murray, Library of Congress - kmur at loc dot gov
+
     <p>Questions about what working group you should join? Send an email to ndsa@loc.gov.</p>
   </div>
 </div>
