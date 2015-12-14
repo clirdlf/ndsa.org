@@ -32,5 +32,3 @@ Completed Case Studies:
 - [Community and Hyperlocal](/documents/NDSA_CaseStudy_CommunityNews.pdf) News (PDF, 124KB)
 - [Citizen Journalism](/documents/NDSA_CaseStudy_CitizenJournalism.pdf) (PDF, 119KB)
 - [Newspaper E-Prints](/documents/NDSA_CaseStudy_NewspaperEPrints.pdf) (PDF, 119KB)
-
-NDSA questions? Send an email to ndsa@loc.gov.
