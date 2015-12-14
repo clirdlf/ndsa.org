@@ -20,4 +20,4 @@ The National Digital Stewardship Alliance and all member organizations are bound
 
 ## Organization
 
-The work of the NDSA is organized by 5 working groups and lead by an elected Coordinating Committee. The Library of Congress acts as the secretariat of NDSA and provides program support. NDSA questions? Send an email to ndsa@loc.gov.
+The work of the NDSA is organized by 5 working groups and lead by an elected Coordinating Committee. The Library of Congress acts as the secretariat of NDSA and provides program support. NDSA questions? Send an email to ndsa@diglib.org.

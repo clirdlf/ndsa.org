@@ -65,4 +65,4 @@ nat
 ### Storage Survey
 The [NDSA Infrastructure Working Group](/working-groups/infrastructure/) conducted a 2011 survey of member institutions on their institutions' current long-term archival storage for digital materials and projected storage needs for the future. The information from this survey was shared though a series of blog posts and an article and was published in D-Lib article in the May/June 2013 edition, "[NDSA Storage Report: Reflections on National Digital Stewardship Alliance Member Approaches to Preservation Storage Technologies.](http://www.dlib.org/dlib/may13/altman/05altman.html)" Early analysis of the survey is available here.
 
-Questions about any of these activities? Send an email to ndsa@loc.gov.
+Questions about any of these activities? Send an email to ndsa@diglib.org.

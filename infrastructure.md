@@ -18,4 +18,4 @@ The group is also surveying emerging practices around the use of large-scale and
 - Exploring the use of computer forensics tools for the appraisal, processing, and preservation of born-digital collections
 - Encouraging communities with highly specialized needs (e.g., geospatial, datasets, observational data) to develop storage networks or access services that can serve the entire community.
 
-NDSA questions? Send an email to ndsa@loc.gov.
+NDSA questions? Send an email to ndsa@diglib.org.

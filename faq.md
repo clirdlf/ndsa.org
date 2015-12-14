@@ -34,7 +34,7 @@ If your organization has an active digital preservation program and wants to wor
 
 **How can my organization check the status of our application?**
 
-Email ndsa@loc.gov
+Email ndsa@diglib.org
 
 **What commitment is expected if my organization joins the NDSA?**
 
@@ -52,7 +52,7 @@ The answer is going to depend on what exactly your organizations goals and needs
 
 **How do we join a specific working group?**
 
-When organizations join the NDSA, they indicate which working groups they would like to join, and which individuals will participate in each of those groups. Once a organization's application is approved, those individuals are added to the working group listservs and given access to the NDSA wiki. Individuals at member organizations can also join other groups at any point. To join a particular working group, contact ndsa@loc.gov, mention what member organization you represent, and make your request.
+When organizations join the NDSA, they indicate which working groups they would like to join, and which individuals will participate in each of those groups. Once a organization's application is approved, those individuals are added to the working group listservs and given access to the NDSA wiki. Individuals at member organizations can also join other groups at any point. To join a particular working group, contact ndsa@diglib.org, mention what member organization you represent, and make your request.
 
 **Can individuals switch to a different working group?**
 
@@ -70,7 +70,7 @@ The NDSA does not provide funding for projects (some member organizations do tho
 
 **How do members access NDSA listservs?**
 
-NDSA has several email lists for sharing information and coordinating activities. The lists are private, so only subscribers may post messages and access the archives. To subscribe to one or more of the lists below, send a request to ndsa@loc.gov.
+NDSA has several email lists for sharing information and coordinating activities. The lists are private, so only subscribers may post messages and access the archives. To subscribe to one or more of the lists below, send a request to ndsa@diglib.org.
 
 TODO: Links for new lists
 
@@ -85,7 +85,7 @@ TODO: Links for new lists
 
  TODO: fix link to new wiki
 
-NDSA has a wiki to provide information about current activities and facilitate the work of the coordinating committee and working groups: http://www.loc.gov/extranet/wiki/osi/ndiip/ndsa/index.php. Editing privileges are reserved for members, who may request a username and password from ndsa@loc.gov.
+NDSA has a wiki to provide information about current activities and facilitate the work of the coordinating committee and working groups: http://www.loc.gov/extranet/wiki/osi/ndiip/ndsa/index.php. Editing privileges are reserved for members, who may request a username and password from ndsa@diglib.org.
 
 **I just joined the NDSA. How can I get involved?**
 

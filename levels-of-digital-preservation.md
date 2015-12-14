@@ -21,4 +21,4 @@ Comments and suggestions for improvement can be sent to:
 - Trevor Owens - trow at loc dot gov
 - Meg Phillips - meg dot phillips at nara dot gov
 
-NDSA questions? Send an email to ndsa@loc.gov.
+NDSA questions? Send an email to ndsa@diglib.org.

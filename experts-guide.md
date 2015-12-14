@@ -114,4 +114,4 @@ Email address: kzwa@LOC.GOV
 
 If you are a member of Linkedin, you can also follow any discussions and those members of the [NDSA Professional Group](http://www.linkedin.com/groups/NDSA-Professional-Group-4836034).
 
-**Questions?** Send an email to any of the individuals listed above or to ndsa@loc.gov.
+**Questions?** Send an email to any of the individuals listed above or to ndsa@diglib.org.

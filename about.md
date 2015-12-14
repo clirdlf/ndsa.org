@@ -49,7 +49,7 @@ Members join by agreeing to our Principles of Collaboration and the Membership A
 ## Questions?
 For questions and more detailed information about the NDSA and how to join:
 
-Send an email with your questions to ndsa@loc.gov
+Send an email with your questions to ndsa@diglib.org
 
 - See our [FAQs](http://ndsa.diglib.org/faq/)
 - Are you interested in hosting a briefing on the NDSA or have a specific question about a digital preservation topic area? Consider contacting any of the expert individuals listed in the [NDSA Experts Guide](http://ndsa.diglib.org/experts-guide/).

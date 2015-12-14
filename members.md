@@ -28,4 +28,4 @@ If you're not an NDSA member but interested in learning more, you can check out 
 - Frequently Asked Questions about membership, participation and communications.
 
 ## Questions?
-For questions and more detailed information about the send an email with to ndsa@loc.gov
+For questions and more detailed information about the send an email with to ndsa@diglib.org

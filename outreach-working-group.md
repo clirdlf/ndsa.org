@@ -22,4 +22,4 @@ TODO: is this still the case for Facebook
 
 You can join the conversation online at the [NDIIPP Facebook page](http://www.facebook.com/digitalpreservation), or on twitter with the hashtag [#NDSA](https://twitter.com/hashtag/NDSA?src=hash) or through the [@NDSA2](https://twitter.com/#!/ndsa2) twitter account.
 
-NDSA questions? Send an email to ndsa@loc.gov.
+NDSA questions? Send an email to ndsa@diglib.org.

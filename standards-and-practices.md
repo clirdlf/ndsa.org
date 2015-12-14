@@ -34,4 +34,4 @@ Current Working Group activities include:
 
 [Who’s Minding the (Data) Store? Results of the NDSA Digital Preservation Staffing Survey](h/documents/NDSA-staff-survey-poster-ipres2012.pdf) (PDF). Poster from [iPres2012](https://ipres.ischool.utoronto.ca/).
 
-NDSA questions? Send an email to ndsa@loc.gov.
+NDSA questions? Send an email to ndsa@diglib.org.

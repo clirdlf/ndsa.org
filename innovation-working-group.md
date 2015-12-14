@@ -11,4 +11,4 @@ The innovation working group is currently engaged in two projects:
 - Developing a series of digital preservation challenges to recognize and encourage important innovative work in digital preservation.
 - Hosting a series of dialogs with individuals with a range of viewpoints or organizations and specialties outside NDSA, to bring a creative mix of ideas and experience into the conversation with the digital preservation community.
 
-NDSA questions? Send an email to ndsa@loc.gov.
+NDSA questions? Send an email to ndsa@diglib.org.

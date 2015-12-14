@@ -57,4 +57,4 @@ The NDSA welcomes applications from consortia, provided that there is a clear re
 Commercial Members and Vendors
 Applications are welcome from all sectors. All members must share the values of the NDSA and agree to maintain vendor neutrality.
 
-NDSA questions? Send an email to ndsa@loc.gov.
+NDSA questions? Send an email to ndsa@diglib.org.
