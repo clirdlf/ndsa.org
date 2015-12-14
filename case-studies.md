@@ -4,7 +4,7 @@ layout: page
 permalink: /activities/case-studies/
 ---
 
-The Content Working Group is focusing on investigating guidelines for the selection of significant content, discovery of at-risk digital content or collections, and engaging all stakeholders in the process of acquiring the content, preserve it, and provide access to it. The Content Working Group’s current scope of work involves "content teams" grouped in the following topical areas:
+The Content Working Group is focusing on investigating guidelines for the selection of significant content, discovery of at-risk digital content or collections, and engaging all stakeholders in the process of acquiring the content, preserving it, and providing access to it. The Content Working Group’s current scope of work involves "content teams" grouped in the following topical areas:
 
 - Government
 - Geospatial
@@ -23,7 +23,7 @@ Case Studies will:
 - Describe target audiences/stakeholders. Who would find value in this content and how might they be engaged in the process of preservation?
 - Outline a plan for educating stakeholders. How might NDSA or another organization raise the awareness of stakeholders including content creators, publishers, educators, libraries, researchers, or donors?
 - Describe potential obstacles or risk factors. What barriers for users/creators/preservationists might be faced and what options are there for overcoming them?
-- Develop actionable next steps. What can we do next, as a community or as individual institutions to ensure that important content is preserved?
+- Develop actionable next steps. What can we do next, as a community or as individual institutions, to ensure that important content is preserved?
 
 Completed Case Studies:
 
