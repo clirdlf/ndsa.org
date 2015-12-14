@@ -21,9 +21,9 @@ permalink: /national-agenda/
 
 The NDSA National Agenda for Digital Stewardship integrates the perspective of dozens of experts and hundreds of institutions, convened through the Library of Congress, to provide funders and executive decision‐makers insight into emerging technological trends, gaps in digital stewardship capacity, and key areas for funding, research and development to ensure that today's valuable digital content remains accessible and comprehensible in the future, supporting a thriving economy, a robust democracy, and a rich cultural heritage.
 
-This new edition of the Agenda builds on earlier work, updating the 2014 report, and highlighting new areas of focus, specifically the selection and preservation of content at-scale. It also more clearly articulates the need for an evidence base for efficient and reliable digital preservation practice. Recent gains and observations on the technical infrastructure required for large-scale digital stewardship and the supporting policies and organizational structures required are also outlined. The report synthesizes the latest issues for funders, researcher and organizational leaders and provides actionable recommendations for practitioners.   
+This new edition of the Agenda builds on earlier work, updating the 2014 report, and highlighting new areas of focus, specifically the selection and preservation of content at-scale. It also more clearly articulates the need for an evidence base for efficient and reliable digital preservation practice. Recent gains and observations on the technical infrastructure required for large-scale digital stewardship and the supporting policies and organizational structures required are also outlined. The report synthesizes the latest issues for funders, researchers, and organizational leaders, and provides actionable recommendations for practitioners.   
 
-Over the coming year the NDSA will work to promote the Agenda and explore educational and collaborative opportunities with all interested parties.
+Over the coming year, the NDSA will work to promote the Agenda and explore educational and collaborative opportunities with all interested parties.
 
 ## Previous Versions
 
