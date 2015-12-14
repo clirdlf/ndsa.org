@@ -11,12 +11,12 @@
 {% endif %}
 <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
 {% if page.url %}
-  <meta content="{{ page.url | prepend: site.url }}" property="og:url">
+  <meta content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" property="og:url">
 {% endif %}
 {% if page.date %}
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+  <meta content="{{ '/about/' | prepend: site.url }}" property="article:author">
 {% endif %}
-<meta content="{{ '/about/' | prepend: site.url }}" property="article:author">
 {% if page.image %}
   <meta content="{{ page.image | prepend: site.url }}" property="og:image">
 {% else %}
