@@ -8,6 +8,7 @@ require 'geocoder'
 require 'csv'
 require 'date'
 require 'erb'
+require 'json'
 
 Geocoder.configure(
   :lookup  => :opencagedata,
@@ -110,6 +111,25 @@ namespace :convert do
     #  @worksheet = @session.spreadsheet_by_key('').worksheets[0]
 
     # puts @worksheet
+  end
+
+  task table: :dotenv do
+    json_string = "---
+layout: null
+permalink: /data/members
+---
+    ["
+    CSV.foreach('tmp/ndsa-members.csv', :encoding=> 'ISO-8859-1', :headers => true) do |row|
+      json_string += "{
+        \"organization\": \"#{row['Partner Institutions']}\",
+        \"state\": \"#{row['State']}\",
+        \"focus\": \"#{row['DP Focus']}\"
+      },"
+    end
+    json_string += "]"
+
+    puts json_string
+
   end
 
 
