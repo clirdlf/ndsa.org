@@ -42,10 +42,10 @@ Resources that address the processes of appraisal and selection as they apply to
 - [NDSA Issues in the Appraisal and Selection of Geospatial Data Report](http://www.digitalpreservation.gov/ndsa/working_groups/documents/NDSA_AppraisalSelection_report_final102413.pdf)
 - [Collection Development Policy for the National Geospatial Digital Archive](http://www.ngda.org/research/Collections/NGDA_Collection_Development_Policy_11_06_final.doc)
 - [FGDC: Managing Historical Geospatial Data Records: Guide for Federal Agencies](http://www.fgdc.gov/library/factsheets/documents/histdata.pdf)
-- [Collection Development Policy for Montana State Library](http://apps.msl.mt.gov/About_the_Library/Policies/22_colldev.pdf)
+- [Collection Development Policy for Montana State Library](http://docs.msl.mt.gov/Central_Services/Staff_Handbook/comm_pols/22_colldev.pdf)
 - [Collection Policy - Cornell University Geospatial Information Repository](http://cugir.mannlib.cornell.edu/CUGIRCollectionDevtPolicy_20060825.pdf)
 - [Library of Congress Collections Policy Statements: Cartographic and Geospatial Materials](http://www.loc.gov/acq/devpol/cartog.pdf)
-- [California's Geospatial Records: Archival Appraisal, Accessioning, and Preservation](http://salt.unc.edu/eLegacy/)
+- [California's Geospatial Records: Archival Appraisal, Accessioning, and Preservation](http://salt.umd.edu/eLegacy/)
 
 ## Geospatial Data Description
 

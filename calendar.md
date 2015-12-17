@@ -14,8 +14,6 @@ If you're an NDSA member and have questions about the calendar or would like to 
 - Past Presentations at Conferences and Meetings
 - NDSA Regional Meeting
 
-<!-- TODO: Clean up this table -->
-
 <div class="tab_container">
 
   <div id="tab1" class="tab_content">
@@ -166,7 +164,7 @@ If you're an NDSA member and have questions about the calendar or would like to 
       <tbody>
         <tr>
           <td>Feb. 9, 2014</td>
-          <td><a href="http://www.imls.gov/about/webwise.aspx">WebWise</a></td>
+          <td><a href="http://imlswebwise.chnm.gmu.edu/agenda/">WebWise</a></td>
           <td>Baltimore, MD</td>
           <td> Presentation</td>
         </tr>
@@ -240,7 +238,7 @@ If you're an NDSA member and have questions about the calendar or would like to 
         <td>May 10, 2013</td>
         <td>
           <p><a href="http://projects.iq.harvard.edu/ne_ndsa">NE NDSA Regional Workshop</a></p>
-          <a href="digcurvvideo.html"></a>
+
         </td>
         <td>Boston, MA</td>
       </tr>
@@ -251,7 +249,7 @@ If you're an NDSA member and have questions about the calendar or would like to 
       </tr>
       <tr>
         <td>January 23-24, 2014</td>
-        <td><a href="http://www.librarycompany.org/events/ndsaregional.htm">NDSA Philly Regional Meeting</a></td>
+        <td><a href="http://www.librarycompany.org/events/ndsaregional/How%20Do%20We%20Approach%20Becoming%20a%20Regional%20Hub%20of%20DPLA.pdf">NDSA Philly Regional Meeting</a></td>
         <td>Philadelphia, PA</td>
       </tr>
       <tr>
