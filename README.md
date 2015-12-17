@@ -17,3 +17,25 @@ cd ~/projects/ndsa.org && git checkout gh-pages && bundle install
 - Open your browser to [http://localhost:3000](http://localhost:3000)
 
 Every time you save a change, Jekyll will rebuild the website.
+
+## Accessibility
+
+We're using [pa11y](https://github.com/nature/pa11y) for accessibility testing.
+
+### Installation
+
+You will need to make sure you have [npm](https://www.npmjs.com/) installed.
+Easiest way on OS X is with [brew](http://brew.sh/).
+
+```
+$ brew install npm
+$ npm install -g phantomjs pa11y
+```
+
+### Generating a Report
+
+There is a `Rake` task that will generate the appropriate report:
+
+```
+$ rake pally:report
+```

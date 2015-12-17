@@ -40,6 +40,16 @@ end
 
 task default: 'convert:map'
 
+namespace :pa11y do
+  desc "Generate accessibility report for the site"
+  task :report do
+    puts "Analyzing site at http://localhost:3000"
+    `pa11y --reporter html http://localhost:3000 > pa11y.html`
+    puts "Finished. You can see the report at ./pa11y.html"
+    `open pa11y.html`
+  end
+end
+
 namespace :convert do
   desc 'Generates GeoJSON of members list'
   task map: :dotenv do
