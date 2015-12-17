@@ -18,6 +18,15 @@ cd ~/projects/ndsa.org && git checkout gh-pages && bundle install
 
 Every time you save a change, Jekyll will rebuild the website.
 
+## Validating HTML
+This app uses [html-proofer](https://rubygems.org/gems/html-proofer) to validate
+HTML (especially links and whatever). All of the dependencies are installed via
+`bundler` and executed via `rake` task:
+
+```
+$ rake test:html
+```
+
 ## Accessibility
 
 We're using [pa11y](https://github.com/nature/pa11y) for accessibility testing.

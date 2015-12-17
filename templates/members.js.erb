@@ -1,0 +1,19 @@
+var members = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          <%= @lon %>,
+          <%= @lat %>
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<%= popup %>"
+      },
+      "id": <%= counter %>
+    },
+  ]
+};

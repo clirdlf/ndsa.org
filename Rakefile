@@ -50,6 +50,16 @@ namespace :pa11y do
   end
 end
 
+namespace :test do
+  desc 'Validate HTML output'
+  task :html do
+    require 'html/proofer'
+
+    `bundle exec jekyll build`
+    HTML::Proofer.new('./_site').run
+  end
+end
+
 namespace :convert do
   desc 'Generates GeoJSON of members list'
   task map: :dotenv do
