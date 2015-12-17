@@ -45,6 +45,16 @@ The NDSA Coordinating Committee provides strategic leadership to the NDSA. Commi
 
 <div class="row">
   <div class="col-sm-10 animated fadeInRight wow" data-wow-delay=".1s">
+    <h4>Bethany Nowviskie</h4>
+    <p>Bethany Nowviskie is Director of the Digital Library Federation (DLF) at CLIR, the Council on Library and Information Resources, and Research Associate Professor of Digital Humanities in the Department of English at the University of Virginia. Previously, Dr. Nowviskie was the director of the Scholars' Lab and Department of Digital Research & Scholarship at the University of Virginia Library and Special Advisor to the Provost, for the advancement of digital humanities research at UVa. Recent past roles have included that of Distinguished Presidential Fellow at CLIR, President of the Association for Computers and the Humanities, and chair of both the UVa General Faculty Council and the Modern Language Association's Committee on Information Technology. Recent projects have included Neatline, the Praxis Program and Praxis Network, Speaking in Code, #Alt-Academy, and the Scholarly Communication Institute. Nowviskie was named one of "Ten Tech Innovators" for 2013 by the Chronical of Higher Education. Her doctorate is in English Language and Literature from the University of Virginia. </p>
+  </div>
+  <div class="col-sm-2 animated fadeInRight wow" data-wow-delay=".3s">
+    <img alt="Robin Ruggaber" src="{{ "/images/coordinating-committee/Ruggaber.jpg" | prepend: site.baseurl }}">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-10 animated fadeInRight wow" data-wow-delay=".1s">
     <h4>Robin Ruggaber</h4>
     <p>Robin Ruggaber is the Chief Technical Officer for the University of Virginia Library. As a founding member of the Fedora, Blacklight, Hydra and Academic Preservation Trust communities, UVa has a long standing commitment to evolving digital stewardship technologies and practices. She serves in a strategic or technical advisory capacity in each of these communities and is responsible for the strategic, architectural and operational aspects of technology for the UVa Library. Ruggaber's career spans spans across industry, federal and state agencies with deepest expertise in directing the design and development of strategies and systems to solve complex problems and meet organization objectives. Ruggaber has worked with UVa for 20 years and before joining the Library in 2011, was the Assistant Director for Infrastructure Division for UVa's core IT organization. She is drawn to work in digital stewardship due to the complex challenges facing the community and the opportunity to protect availability and access to intellectual and cultural knowledge.</p>
   </div>
