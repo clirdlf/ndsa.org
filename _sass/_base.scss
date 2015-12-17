@@ -1,5 +1,6 @@
 $base-color: #4c5667;
 $ndsa-logo-color: #0165AE;
+
 .blue { color: $ndsa-logo-color; }
 
 // RSS Stuff
@@ -72,7 +73,6 @@ $ndsa-logo-color: #0165AE;
 
 // The good stuff
 
-
 body {
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
@@ -87,6 +87,7 @@ body {
   background: rgba(151, 160, 175, 0.5);
   color: #fff;
 }
+
 a {
   &:hover,
   &:focus,
@@ -103,8 +104,13 @@ h1 {
   font-size: 22px;
   color: #111 !important;
   letter-spacing: 1px;
-  color: $ndsa-logo-color;
 }
+
+.dlf {
+	font-family: 'Crimson Text', sans-serif;
+	span { font-size: 24px; }
+}
+
 .font-bold {
   font-weight: 700;
 }

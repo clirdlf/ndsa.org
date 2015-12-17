@@ -17,6 +17,8 @@ twitter_username: clirdlf
 github_username:  clirdlf
 
 exclude: ['node_modules']
-
+sass:
+  style: compressed
+  
 # Build settings
 markdown: kramdown
