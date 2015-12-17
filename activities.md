@@ -41,7 +41,7 @@ A [report](/documents/NDSA-Fixity-Guidance-Report-final100214.pdf) (PDF, 150 KB)
 
 ### "Geospatial Data Stewardship: Key Online Resources"
 
-A [report](/documents/NDSA_Geo-stewardship-key-resources_final030414.pdf) (PDF) of the Geospatial Content Team that lists online resources that highlight key concepts and practices supporting the preservation and stewardship of digital geospatial data and information. The resources offer a starting point to methods, tools and approaches across the information lifecycle to assist in understanding current best practices in the stewardship of geospatial data. These resources will be regularly updated online at the ["Geospatial Data Stewardship: Key Online Resources"](/working-groups/content/geo-stewardship-resources) web page.
+A [report](/documents/NDSA_Geo-stewardship-key-resources_final030414.pdf) (PDF) of the Geospatial Content Team that lists online resources that highlight key concepts and practices supporting the preservation and stewardship of digital geospatial data and information. The resources offer a starting point to methods, tools and approaches across the information lifecycle to assist in understanding current best practices in the stewardship of geospatial data. These resources will be regularly updated online at the ["Geospatial Data Stewardship: Key Online Resources"](/working-groups/content/geospatial-data-stewardship/) web page.
 
 ### "The Benefits and Risks of the PDF/A-3 File Format for Archival Institutions"
 
@@ -61,7 +61,7 @@ A [report](/documents/NDSA_AppraisalSelection_report_final102413.pdf) (PDF, 554 
 A [report](/documents/NDSA-Staffing-Survey-Report-Final122013.pdf) (PDF, 1.8 MB) created by the [Standards and Practices Working Group](/working-groups/standards-and-practices/), sharing what the group learned by surveying 85 institutions with a mandate to preserve digital content about how they staffed and organized their preservation functions. The [poster](/documents/NDSA-staff-survey-poster-ipres2012.pdf) (PDF, 1.2 MB) describing this survey won second place at iPRES 2012 More information in a [12/16/13 blog post](http://blogs.loc.gov/digitalpreservation/2013/12/just-released-staffing-for-effective-digital-preservation-an-ndsa-report/) on the Signal.
 
 ## Articles
-nat
+
 ### Storage Survey
 The [NDSA Infrastructure Working Group](/working-groups/infrastructure/) conducted a 2011 survey of member institutions on their institutions' current long-term archival storage for digital materials and projected storage needs for the future. The information from this survey was shared though a series of blog posts and an article and was published in D-Lib article in the May/June 2013 edition, "[NDSA Storage Report: Reflections on National Digital Stewardship Alliance Member Approaches to Preservation Storage Technologies.](http://www.dlib.org/dlib/may13/altman/05altman.html)" Early analysis of the survey is available here.
 

@@ -8,7 +8,7 @@ The Annual Innovation Awards were established by the National Digital Stewardshi
 
 ## 2015 NDSA Innovation Award Winners
 
-The nomination period was open from May 12 - June 30. Awardees were [announced](http://digitalpreservation.gov/ndsa/blogs.loc.gov/digitalpreservation/2015/10/announcing-the-2015-innovation-award-winners) on October 15, 2015.
+The nomination period was open from May 12 - June 30. Awardees were [announced](http://blogs.loc.gov/digitalpreservation/2015/10/announcing-the-2015-innovation-award-winners/) on October 15, 2015.
 
 **Future Steward: Lauren Work, VCU Libraries.** Lauren is recognized for her work on several projects with the aim of giving VCU Libraries' collections greater exposure and connecting the Library with the Richmond community. In her short time at VCU, she’s created collaborations and working relationships inside and outside of the library to expose hidden collections in order to further digital preservation.
 

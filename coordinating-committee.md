@@ -13,7 +13,7 @@ The NDSA Coordinating Committee provides strategic leadership to the NDSA. Commi
     <p>Dr. Altman conducts research in social science, information science and research methods -- focusing on the intersections of information, technology, privacy, and politics; and on the dissemination, preservation, reliability and governance of scientific knowledge.</p>
   </div>
   <div class="col-sm-2 animated fadeInLeft wow" data-wow-delay=".3s">
-    <img src="{{ "/images/coordinating-committee/Altman.jpg" | prepend: site.baseurl }}">
+    <img alt="Micah Altman" src="{{ "/images/coordinating-committee/Altman.jpg" | prepend: site.baseurl }}">
   </div>
 </div>
 
@@ -25,7 +25,7 @@ The NDSA Coordinating Committee provides strategic leadership to the NDSA. Commi
     <p>He joined the institute nineteen years ago and is responsible for designing and maintaining the technology infrastructure that supports the institute’s wide array of services. Before moving to the social science side of campus he was an information systems technologist for the University of North Carolina at Chapel Hill School of Medicine. His grounding in medical information technology adds to his education and training in electrical engineering, library and information science, digital preservation, computer science, economics, geographic information systems, hydrology and geomorphology.</p>
   </div>
   <div class="col-sm-2 animated fadeInRight wow" data-wow-delay=".3s">
-    <img src="{{ "/images/coordinating-committee/jon-crabtree.jpg" | prepend: site.baseurl }}">
+    <img alt="Jonathan Crabtree" src="{{ "/images/coordinating-committee/jon-crabtree.jpg" | prepend: site.baseurl }}">
   </div>
 </div>
 
@@ -39,7 +39,7 @@ The NDSA Coordinating Committee provides strategic leadership to the NDSA. Commi
     <p>Working with the staff from the Library of Congress, Jim and the Indiana State Archives hosted the first regional Digital Preservation Outreach and Education (DPOE) project, the Midwest train-the-trainer program in partnership with the Library of Congress in August of 2012 and has been an advocate for digital preservation. He was also a founder and serves as a board member of the International Governance Committee of Evergreen, the open source integrated library system.</p>
   </div>
   <div class="col-sm-2 animated fadeInLeft wow" data-wow-delay=".3s">
-    <img src="{{ "/images/coordinating-committee/corridan_web.jpg" | prepend: site.baseurl }}">
+    <img alt="Jim Corridan" src="{{ "/images/coordinating-committee/corridan_web.jpg" | prepend: site.baseurl }}">
   </div>
 </div>
 
@@ -49,7 +49,7 @@ The NDSA Coordinating Committee provides strategic leadership to the NDSA. Commi
     <p>Robin Ruggaber is the Chief Technical Officer for the University of Virginia Library. As a founding member of the Fedora, Blacklight, Hydra and Academic Preservation Trust communities, UVa has a long standing commitment to evolving digital stewardship technologies and practices. She serves in a strategic or technical advisory capacity in each of these communities and is responsible for the strategic, architectural and operational aspects of technology for the UVa Library. Ruggaber's career spans spans across industry, federal and state agencies with deepest expertise in directing the design and development of strategies and systems to solve complex problems and meet organization objectives. Ruggaber has worked with UVa for 20 years and before joining the Library in 2011, was the Assistant Director for Infrastructure Division for UVa's core IT organization. She is drawn to work in digital stewardship due to the complex challenges facing the community and the opportunity to protect availability and access to intellectual and cultural knowledge.</p>
   </div>
   <div class="col-sm-2 animated fadeInRight wow" data-wow-delay=".3s">
-    <img src="{{ "/images/coordinating-committee/Ruggaber.jpg" | prepend: site.baseurl }}">
+    <img alt="Robin Ruggaber" src="{{ "/images/coordinating-committee/Ruggaber.jpg" | prepend: site.baseurl }}">
   </div>
 </div>
 
@@ -59,7 +59,7 @@ The NDSA Coordinating Committee provides strategic leadership to the NDSA. Commi
     <p>BMS/Chace President and co-founder John Spencer has widespread experience and visibility both in the music industry and in the fields of archival preservation and enterprise class information technology. Since 1978, he has been involved in many facets of high-technology professional audio and video, and was previously Vice-President of Sales and Marketing for Otari Corp. Spencer is CEO and ambassador at large for BMS/Chace, preaching the gospel of structured metadata collection to media companies and institutions worldwide. His efforts led to a 3-year partnership with the Library of Congress, strategically focused on metadata best practices for the commercial recording industry. Spencer received a B.A. in Mass Communications with Honors from Middle Tennessee State University. He is a member of the following professioanl associations: The Recording Academy Producers & Engineers Wing National Advisory Council and Nashville chapter Advisory Council; Audio Engineering Society (AES) Studio Practices and Production Technical Committee and the Technical Committee on Archiving, Restoration and Digital Libraries; Association of Moving Image Archivists (AMIA) Digital Issues Committee; Association of Recorded Sound Collections (ARSC) Technical Committee; National Recording Preservation Board (NRPB) Digital Audio Preservation and Standards Task Force.</p>
   </div>
   <div class="col-sm-2 animated fadeInLeft wow" data-wow-delay=".3s">
-    <img src="{{ "/images/coordinating-committee/Spencer.jpg" | prepend: site.baseurl }}">
+    <img alt="John Spencer" src="{{ "/images/coordinating-committee/Spencer.jpg" | prepend: site.baseurl }}">
   </div>
 </div>
 
@@ -69,7 +69,7 @@ The NDSA Coordinating Committee provides strategic leadership to the NDSA. Commi
     <p>Dr. Tibbo is an Alumni Distinguished Professor at the School of Information and Library Science (SILS) at the University of North Carolina at Chapel Hill (UNC-CH), and teaches in the areas of archives and records management, digital preservation and access, appraisal, and archival reference and outreach. She is also a Fellow of the Society of American Archivists (SAA) and was SAA President 2010-2011. From 2006-2009, Dr. Tibbo was the Principal Investigator (PI) for the IMLS (Institute for Museum and Library Services)-funded DigCCurr I project that developed an International Digital Curation Curriculum for master’s level students. She is also the PI for DigCCurr II (2008-2012) that extends the Digital Curation Curriculum to the doctoral level. In 2009, IMLS awarded Prof. Tibbo two additional projects, Educating Stewards of Public Information in the 21st Century (ESOPI-21) and Closing the Digital Curation Gap (CDCG). ESOPI-21 is a partnership with UNC’s School of Government to provide students with a Master’s of Science in Library/Information Science and a Master’s of Public Administration so that they can work in the public policy arena concerning digital preservation and curation issues and laws. CDCG is a collaboration with the Joint Information Systems Committee (JISC) and the Digital Curation Center (DCC), both of the United Kingdom, to explore educational and guidance needs of cultural heritage information professionals in the digital curation domain in the US and the UK. Dr. Tibbo is a co-PI with collaborators from the University of Michigan and the University of Toronto on a National Historical Publications and Records Commission (NHPRC)-funded project to develop standardized metrics for assessing use and user services for primary sources in government settings. This project extends work that explored user-based evaluation in academic archival settings funded by the Mellon Foundation. Prof. Tibbo is also co-PI on the IMLS-Funded POlicy-Driven Repository Interoperability (PoDRI) project lead by Dr. Richard Marciano and conducted test audits of repositories in Europe and the US with the European Commission-funded ARPARSEN project during the summer of 2011.</p>
   </div>
   <div class="col-sm-2 animated fadeInRight wow" data-wow-delay=".3s">
-    <img src="{{ "/images/coordinating-committee/tibbo.jpg" | prepend: site.baseurl }}">
+    <img alt="Helen Tibbo" src="{{ "/images/coordinating-committee/tibbo.jpg" | prepend: site.baseurl }}">
   </div>
 </div>
 
@@ -79,7 +79,7 @@ The NDSA Coordinating Committee provides strategic leadership to the NDSA. Commi
     <p>Kate Wittenberg is Managing Director for Portico, a digital content preservation service that is part of ITHAKA. Before taking on this position in September 2011, Wittenberg was Project Director, Client and Partnership Development in the Strategy and Research group at Ithaka, where she focused on building partnerships among scholars, publishers, libraries, technology providers, and foundations with an interest in promoting the development and sustainability of digital scholarship and learning. Before joining Ithaka, she directed the Electronic Publishing Initiative at Columbia (EPIC), a collaboration of the libraries, academic computing division, and university press, where she developed digital publications in the humanities, social sciences, and sciences. At EPIC, Wittenberg's projects included Columbia International Affairs Online, Digital Anthropology Resources for Teaching, and the National Science Digital Library Core Integration program.</p>
   </div>
   <div class="col-sm-2 animated fadeInLeft wow" data-wow-delay=".3s">
-    <img src="{{ "/images/coordinating-committee/Wittenberg.jpg" | prepend: site.baseurl }}">
+    <img alt="Kate Wittenberg" src="{{ "/images/coordinating-committee/Wittenberg.jpg" | prepend: site.baseurl }}">
   </div>
 </div>
 
@@ -92,6 +92,6 @@ The NDSA Coordinating Committee provides strategic leadership to the NDSA. Commi
     <p>Throughout her career Phillips has sought opportunities to get more and more involved in electronic records and digital preservation, and working with ERA at the National Archives has been fascinating and challenging. She was previously the electronic records project manager and ERA coordinator for NARA’s Office of Regional Records Services. She began her NARA career in 2002 on the records management staff of the Mid-Atlantic Region, where she advised Federal agencies on electronic records issues and appraised records. Before joining NARA Phillips managed the archives and records management program of a large non-profit. Phillips has a BA in history from Haverford College, an MA in history from the University of Chicago, and an MLS from the University of North Carolina at Chapel Hill.</p>
   </div>
   <div class="col-sm-2 animated fadeInRight wow" data-wow-delay=".3s">
-    <img src="{{ "/images/coordinating-committee/Phillips_web.jpg" | prepend: site.baseurl }}">
+    <img alt="Meg Phillips" src="{{ "/images/coordinating-committee/Phillips_web.jpg" | prepend: site.baseurl }}">
   </div>
 </div>

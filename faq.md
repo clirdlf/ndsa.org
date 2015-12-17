@@ -48,7 +48,7 @@ Members have a direct contact with experts in digital stewardship and an opportu
 
 **Which working groups are right for my organization?**
 
-The answer is going to depend on what exactly your organizations goals and needs are. It is generally best to try to match the right people in your organization with the right working group. For example, developers and IT staff and administrators are a great fit for the [Infrastructure working group](/workgroups/infrastructure/), where individuals in marketing and communications are a great fit for the [Outreach working group](/working-groups/outreach/). It is best to think about what your organization's strengths are and work from there. In general, the more directly the working groups mission fits with the nature of the individuals participating from member organizations, the more that both the NDSA and the working group benefit.
+The answer is going to depend on what exactly your organizations goals and needs are. It is generally best to try to match the right people in your organization with the right working group. For example, developers and IT staff and administrators are a great fit for the [Infrastructure working group](/working-groups/infrastructure/), where individuals in marketing and communications are a great fit for the [Outreach working group](/working-groups/outreach/). It is best to think about what your organization's strengths are and work from there. In general, the more directly the working groups mission fits with the nature of the individuals participating from member organizations, the more that both the NDSA and the working group benefit.
 
 **How do we join a specific working group?**
 

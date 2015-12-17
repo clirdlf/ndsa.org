@@ -33,7 +33,7 @@ Case Studies will:
 - Describe potential obstacles or risk factors. What barriers for users/creators/preservationists might be faced and what options are there for overcoming them?
 - Develop actionable next steps. What can we do next, as a community or as individual institutions to ensure that important content is preserved?
 
-Completed [Case Studies](/case-studies/):
+Completed [Case Studies](/activities/case-studies/):
 
 - [Science Forums Case Study](/documents/ScienceForums_CaseStudy_public_v2.pdf) (PDF, 125KB)
 - [Science Blogs Case Study](/documents/ScienceBlogs_CaseStudy_public_v2.pdf) (PDF, 130KB)
