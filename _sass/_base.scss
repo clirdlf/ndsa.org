@@ -1,5 +1,6 @@
-$base-color: #4c5667;
+$base-color:      #4c5667;
 $ndsa-logo-color: #0165AE;
+$btn-color:       #00866c; // not 0ccfa8
 
 .blue { color: $ndsa-logo-color; }
 
@@ -7,9 +8,9 @@ $ndsa-logo-color: #0165AE;
 .feedEkList{width:450px; list-style:none outside none;background-color:#FFFFFF; border:1px solid #D3CAD7; padding:4px 6px; color:#3E3E3E;}
 .feedEkList li{border-bottom:1px solid #D3CAD7; padding:5px;}
 .feedEkList li:last-child{border-bottom:none;}
-.itemTitle a{font-weight:bold; color:#4EBAFF !important; text-decoration:none }
+.itemTitle a{font-weight:bold; color:#0f7bc0 !important; text-decoration:none }
 .itemTitle a:hover{ text-decoration:underline }
-.itemDate{font-size:11px;color:#AAAAAA;}
+.itemDate{font-size:11px;color: #767676;}
 
 @media(min-width: 768px) {
 	.navbar-nav>li>a {
@@ -118,7 +119,8 @@ h1 {
   font-weight: 700;
 }
 address {
-  color: #97a0af;
+  // color: #97a0af;
+	color: #00040c;
 }
 .section {
   padding-top: 80px;
@@ -170,12 +172,14 @@ address {
   margin-top: 0;
 }
 .sub-title {
-  color: #97a0af;
+  // color: #97a0af;
+	color: #6e7786;
   font-size: 16px;
   margin-bottom: 50px;
 }
 .text-muted {
-  color: #97a0af;
+  // color: #97a0af;
+	color: #6e7786;
 }
 // Navbar
 
@@ -243,19 +247,19 @@ address {
     outline: none;
   }
   &:focus {
-    background: #0ccfa8;
-    border: 1px solid #0ccfa8;
+    background: $btn-color;
+    border: 1px solid $btn-color;
     outline: none;
   }
   &:hover {
-    background: #0ccfa8 !important;
-    border: 1px solid #0ccfa8;
+    background: $btn-color !important;
+    border: 1px solid $btn-color;
   }
 }
 .btn-custom {
-  background: #0ccfa8;
+  background: $btn-color;
   color: #fff !important;
-  border: 1px solid #0ccfa8;
+  border: 1px solid $btn-color;
 }
 // Home
 .home-wrapper {
@@ -316,7 +320,8 @@ footer {
     letter-spacing: 1px;
   }
   a {
-    color: #97a0af;
+    // color: #97a0af;
+		color: #00040c;
     &:hover {
       color: #0ccfa8;
     }
