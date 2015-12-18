@@ -18,7 +18,7 @@ github_username:  clirdlf
 
 google-tracking-id: UA-9461551-1
 
-exclude: ['node_modules']
+exclude: ['.gitignore', '.env', '.git', 'node_modules']
 sass:
   style: compressed
 
