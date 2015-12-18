@@ -11,3 +11,4 @@ gem "colorize"
 gem 'geocoder'
 
 gem 'html-proofer'
+gem 'ra11y'

@@ -39,6 +39,7 @@ Easiest way on OS X is with [brew](http://brew.sh/).
 ```
 $ brew install npm
 $ npm install -g phantomjs pa11y
+$ gem install
 ```
 
 ### Generating a Report
@@ -46,5 +47,5 @@ $ npm install -g phantomjs pa11y
 There is a `Rake` task that will generate the appropriate report:
 
 ```
-$ rake pally:report
+$ rake test:accessibility
 ```

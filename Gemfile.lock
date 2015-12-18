@@ -101,6 +101,9 @@ GEM
       multi_xml (~> 0.5)
       rack (~> 1.2)
     parallel (1.6.1)
+    ra11y (0.0.1)
+      colorator
+      parallel
     rack (1.6.4)
     rb-fsevent (0.9.6)
     rb-inotify (0.9.5)
@@ -133,6 +136,7 @@ DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-sitemap
+  ra11y
 
 BUNDLED WITH
    1.10.6
