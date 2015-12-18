@@ -16,6 +16,8 @@ url: "http://ndsa.diglib.org" # the base hostname & protocol for your site
 twitter_username: clirdlf
 github_username:  clirdlf
 
+google-tracking-id: UA-9461551-1
+
 exclude: ['node_modules']
 sass:
   style: compressed
