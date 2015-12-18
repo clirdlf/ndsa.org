@@ -12,7 +12,7 @@ javascript:
 
 - [Should our organization join the NDSA?](#should-our-organization-join-the-ndsa)
 - [How can my organization check the status of our application?](#how-can-my-organization-check-the-status-of-our-application)
-- [What commitment is expected if my organization joins the NDSA?](what-commitment-is-expected-if-my-organization-joins-the-ndsa)
+- [What commitment is expected if my organization joins the NDSA?](#what-commitment-is-expected-if-my-organization-joins-the-ndsa)
 - [What are the benefits of joining the NDSA?](#what-are-the-benefits-of-joining-the-ndsa)
 - [Does the NDSA providing funding?](#does-the-ndsa-providing-funding)
 
@@ -117,4 +117,3 @@ Each working group has two chairs, or co-chairs. Below are the current co-chairs
   - Kate Murray, Library of Congress - kmur at loc dot gov
 
 <div class="scroll-to-top">&nbsp;</div>
-<div class="scroll-to-top"><img scr="/images/scroll-to-top.png" alt="scroll to top"></div>

@@ -13,10 +13,8 @@ $(document).ready(function() {
 
   $(window).scroll(function() {
     if ($(this).scrollTop() > offset) {
-      console.log('yep');
       $('.scroll-to-top').fadeIn(duration);
     } else {
-      console.log('nope');
       $('.scroll-to-top').fadeOut(duration);
     }
   });
