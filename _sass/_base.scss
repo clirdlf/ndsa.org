@@ -4,6 +4,20 @@ $btn-color:       #00866c; // not 0ccfa8
 
 .blue { color: $ndsa-logo-color; }
 
+.scroll-to-top {
+	position: fixed;
+	// background: image-url('/images/scroll-to-top.png') no-repeat;
+	cursor: pointer;
+	bottom: 2em;
+	height: 55px;
+	right: 15px;
+	width: 55px;
+	padding-right: 1em;
+	display:none;
+	z-index: 999;
+}
+
+
 // RSS Stuff
 .feedEkList{width:450px; list-style:none outside none;background-color:#FFFFFF; border:1px solid #D3CAD7; padding:4px 6px; color:#3E3E3E;}
 .feedEkList li{border-bottom:1px solid #D3CAD7; padding:5px;}

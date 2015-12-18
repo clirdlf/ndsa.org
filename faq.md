@@ -115,3 +115,6 @@ Each working group has two chairs, or co-chairs. Below are the current co-chairs
 - Standards Working Group Co-Chairs
   - Andrea Goethals, Harvard University - andrea_goethals at harvard dot edu
   - Kate Murray, Library of Congress - kmur at loc dot gov
+
+<div class="scroll-to-top">&nbsp;</div>
+<div class="scroll-to-top"><img scr="/images/scroll-to-top.png" alt="scroll to top"></div>
