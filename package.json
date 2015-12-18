@@ -17,6 +17,7 @@
   "homepage": "https://github.com/clirdlf/ndsa.org#readme",
   "dependencies": {
     "bootstrap-table": "^1.9.1",
+    "feedek": "https://github.com/waynegraham/FeedEk/tarball/master",
     "grunt": "^0.4.5",
     "grunt-shell": "^1.1.2",
     "jquery-sticky": "^1.0.3",
