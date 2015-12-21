@@ -19,4 +19,10 @@ $(document).ready(function(){
   );
 
   wow.init();
+
+  $('.services-box').css('cursor', 'pointer');
+  $('.services-box').click(function(){
+    window.location = $(this).find('a').attr('href');
+    return false;
+  });
 });
