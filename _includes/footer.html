@@ -101,3 +101,17 @@
    <script src="{{ js }}"></script>
 {% endfor %}
 <script src="{{ "/js/app.js"| prepend: site.baseurl }}"></script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "{{ page.title }}",
+  "description": "{{ page.content | strip_html | xml_escape | truncate: 200 }}",
+  "publisher": {
+    "@type": "EducationalOrganization",
+    "name": "National Digital Stewardship Alliance"
+  },
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+}
+</script>
