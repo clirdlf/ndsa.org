@@ -46,7 +46,8 @@ javascript:
         <div class="row">
           <div class="col-sm-6 col-sm-offset-3">
             <p class="sub-title">
-              The National Digital Stewardship Alliance, hosted by the <a href="https://www.diglib.org">Digital Library Federation</a>, is a consortium of 165 organizations, including universities, government and nonprofit organizations, commercial businesses, and professional associations, that are committed to the long-term preservation of digital information. Members collaborate to preserve access to our national digital heritage.
+              The National Digital Stewardship Alliance, hosted by the <a href="https://www.diglib.org">Digital Library Federation</a>, is a consortium of 165 organizations, including universities, government and nonprofit organizations, commercial businesses,
+              and professional associations, that are committed to the long-term preservation of digital information. Members collaborate to preserve access to our national digital heritage.
             </p>
           </div>
         </div>
@@ -56,7 +57,9 @@ javascript:
         <div class="col-sm-4">
           <div class="services-box">
             <div class="icon-box">
-              <img src="{{ "/images/icons/get-involved.png" | prepend: site.baseurl }}">
+              <a href="/get-invovlved/">
+                <img alt="get involved" src="{{ " /images/icons/get-involved.png " | prepend: site.baseurl }}">
+              </a>
             </div>
             <div>
               <h4 class="font-bold">Get Involved</h4>
@@ -70,7 +73,9 @@ javascript:
         <div class="col-sm-4">
           <div class="services-box">
             <div class="icon-box">
-              <img src="{{ "/images/icons/national-agenda.png" | prepend: site.baseurl }}">
+              <a href="/national-agenda/">
+                <img alt="national agenda" src="{{ " /images/icons/national-agenda.png " | prepend: site.baseurl }}">
+              </a>
             </div>
             <div>
               <h4 class="font-bold">National Agenda</h4>
@@ -84,7 +89,9 @@ javascript:
         <div class="col-sm-4">
           <div class="services-box">
             <div class="icon-box">
-              <img src='{{ "/images/icons/coordinating-committee.png" | prepend: site.baseurl }}'>
+              <a href="/coordinating-committee/">
+                <img alt="coordinating committee" src='{{ "/images/icons/coordinating-committee.png" | prepend: site.baseurl }}'>
+              </a>
             </div>
             <div>
               <h4 class="font-bold">Coordinating Committee</h4>
@@ -98,6 +105,7 @@ javascript:
       </div>
 
 
+<<<<<<< HEAD
       <div class="row text-center">
         <div class="col-sm-4">
           <div class="services-box">
@@ -136,27 +144,55 @@ javascript:
               </div>
             </div>
           </div>
+=======
+      <div class="row">
+        <div class="col-sm-12 text-center">
+          <div class="services-box">
+            <div class="icon-box">
+              <a href="/awards/">
+                <img src="{{ " /images/icons/awards.png " | prepend: site.baseurl }}" alt="awards">
+              </a>
+            </div>
+            <div>
+              <h4 class="font-bold">Awards</h4>
+              <p class="text-muted">Recognizing and commending excellence in the field.</p>
+            </div>
+
+          </div>
+        </div>
+>>>>>>> origin/gh-pages
 
         </div>
 
+      </div>
     </div>
-  </div>
 </section>
 
 <section class="section social bg-dark" id="social">
   <div class="container">
     <div class="row social">
       <div class="col-sm-6">
-          <h1 class="text-uppercase">Blog</h1>
-          <div id="blog"></div>
-        </div>
+        <h1 class="text-uppercase">Blog</h1>
+        <div id="blog"></div>
+      </div>
 
-        <div class="col-sm-6">
-          <h1>Twitter</h1>
-          <a class="twitter-timeline" href="https://twitter.com/NDSA2" data-widget-id="672461315265404928">Tweets by @NDSA2</a>
-          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-        </div>
+      <div class="col-sm-6">
+        <h1>Twitter</h1>
+        <a class="twitter-timeline" href="https://twitter.com/NDSA2" data-widget-id="672461315265404928">Tweets by @NDSA2</a>
+        <script>
+          ! function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0],
+              p = /^http:/.test(d.location) ? 'http' : 'https';
+            if (!d.getElementById(id)) {
+              js = d.createElement(s);
+              js.id = id;
+              js.src = p + "://platform.twitter.com/widgets.js";
+              fjs.parentNode.insertBefore(js, fjs);
+            }
+          }(document, "script", "twitter-wjs");
+        </script>
       </div>
     </div>
+  </div>
   </div>
 </section>
