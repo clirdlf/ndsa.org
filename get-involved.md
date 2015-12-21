@@ -6,8 +6,7 @@ permalink: /get-involved/
 
 ## Join the NDSA
 
-<!-- TODO: join form -->
-To apply for membership, visit www.digitalpreservation.gov/ndsa/join.php.
+To express your interest in joining the NDSA, please fill out and submit this (relatively brief) [membership application form](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform).
 
 
 ## Is the NDSA a good fit for my organization?
