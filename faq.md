@@ -30,55 +30,57 @@ javascript:
 - [I just joined the NDSA. How can I get involved?](#i-just-joined-the-ndsa-how-can-i-get-involved)
 - [Who are the NDSA Working Group Co-Chairs?](#who-are-the-ndsa-working-group-co-chairs)
 
+
+
 ## Membership
 
 ### Should our organization join the NDSA?
 
-If your organization has an active digital preservation program and wants to work with other experts in the field, yes, your organization should join the NDSA. Consortia, non profits, commercial entities and international organizations are all welcome to apply for membership or join as an Affiliate. At this time, individuals are not eligible to join the NDSA. Please see the [membership packet](/documents/MembershipPacket201103.pdf) (PDF, 94 KB) for more information about the values and principles of the NDSA.
+If your organization has an active digital preservation program and wants to work with other experts in the field, then yes, your organization should join the NDSA. Consortia, non profits, commercial entities and international organizations are all welcome to apply for membership or join as an Affiliate. At this time, individuals are not eligible to join the NDSA. Please see the [membership packet](/documents/MembershipPacket201103.pdf) for more information about our values and principles.
 
 ### How can my organization check the status of our application?
 
-Email: <mailto:ndsa@diglib.org>
+Our [Coordinating Committee](/coordinating-committee/) evaluates membership applications on a monthly basis. If it has been more than a month since you completed your application, please feel free to check in: <mailto:ndsa@diglib.org>
 
 ### What commitment is expected if my organization joins the NDSA?
 
-It is expected that members actively engage in digital stewardship and share their lessons learned and practical knowledge about ensuring long-term access to digital materials. Working Groups are the primary mechanism through which the NDSA accomplishes its [goals](/). Participation in working group conference calls and projects can take anywhere from two to seven hours a month. There are no fees associated with joining the NDSA.
+Members are expected to engage actively in digital stewardship and share lessons learned and practical knowledge about ensuring long-term access to digital materials. Working Groups are the primary mechanism through which the NDSA accomplishes its [goals](/). Participation in working group conference calls and projects can take anywhere from two to seven hours a month. There are no fees associated with joining the NDSA.
 
 ### What are the benefits of joining the NDSA?
 
-Members have a direct contact with experts in digital stewardship and an opportunity to affect national digital stewardship strategy and initiatives. Participation in NDSA Working Group products provides practical benefit to local programs and shared results. All NDSA members receive access to listservs, wikis and other shared resources.
+Members have direct contact with experts in digital stewardship and an opportunity to affect national digital stewardship strategies and initiatives. Participation in NDSA Working Group activities provides practical benefit to local programs and shared results. All NDSA members receive access to our listservs and other shared resources.
 
 ### Does the NDSA providing funding?
 
-The NDSA does not provide funding for projects (some member organizations do though) or build tools and infrastructure (some member organizations do though).
+The NDSA does not provide funding for projects or building tools and infrastructure, although some of our member organizations do. Look for [relevant funding opportunities](https://www.diglib.org/opportunities/) in data curation and digitization from NDSA's host organization, [CLIR](http://clir.org/)+[DLF](https://diglib.org/).
 
 ## Participation
 
 ### Which working groups are right for my organization?
 
-The answer is going to depend on what exactly your organizations goals and needs are. It is generally best to try to match the right people in your organization with the right working group. For example, developers and IT staff and administrators are a great fit for the [Infrastructure working group](/working-groups/infrastructure/), where individuals in marketing and communications are a great fit for the [Outreach working group](/working-groups/outreach/). It is best to think about what your organization's strengths are and work from there. In general, the more directly the working groups mission fits with the nature of the individuals participating from member organizations, the more that both the NDSA and the working group benefit.
+The answer depends on what exactly your organizational goals and needs are. It is generally best to try to match the right people in your organization with the right NDSA working group. For example, developers and IT staff and administrators are a great fit for the [Infrastructure working group](/working-groups/infrastructure/) and individuals in marketing or communications are a great fit for the [Outreach](/working-groups/outreach/). Think about what your organization's strengths are and work from there. In general, the more directly the working group's mission suits the individuals who participate from your organization, the more you, the NDSA, and the working group benefit.
 
 ### How do we join a specific working group?###
 
-When organizations join the NDSA, they indicate which working groups they would like to join, and which individuals will participate in each of those groups. Once a organization's application is approved, those individuals are added to the working group listservs and given access to the NDSA wiki. Individuals at member organizations can also join other groups at any point. To join a particular working group, contact ndsa@diglib.org, mention what member organization you represent, and make your request.
+When organizations join the NDSA, they indicate which groups they would like to join, and which individuals will participate in each of those groups. Once a organization's application is approved, those people are added to the relevant listservs and can begin collaborating. Individuals at member organizations can also join other NDSA working groups at any point. To join a particular group, contact <ndsa@diglib.org>, let us know what member organization you represent, and make your request.
 
-### Can individuals switch to a different working group?###
+### Can I switch to a different working group?###
 
-Yes, individuals associated with member organizations can change working groups at any point. We realize that as the work evolves, members may find themselves in the "wrong" group. Contact a Working Group Co-Chair if you have questions about switching working groups.
+Yes, people associated with NDSA member organizations can change working groups at any point. Contact a [Working Group Co-Chair](/working-groups/) if you have questions about making a switch.
 
 ### Can member organizations participate in more than one working group?###
 
-Yes, the NDSA encourages participation on multiple working groups. In most cases, it is best to have different individuals from a member organization participate in different working groups. Ideally, the working group will be a direct and natural fit for the nature of each individual's role within your organization.
+Definitely! We encourage participation on multiple working groups. In most cases, it is best to have different people from a member organization participate in different working groups. Ideally, the working group will be a direct and natural fit for the nature of each individual's role within your organization.
 
 ## Member Communication
 
 ### How do members access NDSA listservs?###
 
-NDSA has several email lists for sharing information and coordinating activities. The lists are private, so only subscribers may post messages and access the archives. To subscribe to one or more of the lists below, send a request to ndsa@diglib.org.
+NDSA has several email lists for sharing information and coordinating activities. The lists are private to members, so only subscribers may post messages and access the archives. To subscribe to one or more of the lists below, send a request to <ndsa@diglib.org>.
 
-TODO: Links for new lists
+**COMING SOON:** links to new, DLF-hosted lists
 
-- for general announcements
+- NDSA-all, for general announcements
 - for Content Working Group members
 - for Infrastructure Working Group members
 - for Innovation Working Group members
@@ -87,17 +89,15 @@ TODO: Links for new lists
 
 ### How do members use the NDSA wiki?###
 
- TODO: fix link to new wiki
-
-NDSA has a wiki to provide information about current activities and facilitate the work of the coordinating committee and working groups: http://www.loc.gov/extranet/wiki/osi/ndiip/ndsa/index.php. Editing privileges are reserved for members, who may request a username and password from ndsa@diglib.org.
+NDSA will shortly begin maintaining public pages on the [DLF wiki](https://wiki.diglib.org/), to provide information about current activities and facilitate the work of the coordinating committee and working groups. Meantime, the former, private wiki [remains available](http://www.loc.gov/extranet/wiki/osi/ndiip/ndsa/index.php). Editing privileges are reserved for NDSA members, who may request a username and password from <ndsa@diglib.org>.
 
 ### I just joined the NDSA. How can I get involved?###
 
-We are thrilled that you've joined the NDSA! There are many ways you can get involved. Check out the New Member Orientation and Resources page for information and tips about where to start.
+We are thrilled that you've joined! There are many ways to get involved. Check out the [New Member Orientation and Resources](/new-members/) page for information and tips about where to start.
 
 ### Who are the NDSA Working Group Co-Chairs?###
 
-Each working group has two chairs, or co-chairs. Below are the current co-chairs and their contact information.
+Each working group is led by a pair of volunteers. Below are the current co-chairs and their contact information.
 
 - Content Working Group Co-Chairs
   - Christie Moffatt, National Library of Medicine  moffattc at mail dot nlm dot nih dot gov
