@@ -1,31 +1,31 @@
 ---
-title: Members
+title: Membership Overview
 layout: page
 permalink: /members/
 ---
 
-The challenges of digital stewardship are greater than any single institution can address. Membership in the NDSA connects you to those organizations and individuals around the country working to address those challenges and come up with community solutions.
+The challenges of digital stewardship are greater than any single institution can address. Membership in the NDSA connects you to [partnering organizations](/members-list/) and individuals around the country working to address those challenges and devise community solutions.
 
-The NDSA organizes a national network of collaborative partners to take stewardship action across a range of issues, including:
+The NDSA organizes a national network of collaborative partners to take stewardship action across a range of issues, including by:
 
-- The identification, selection and stewardship of digital collections to be preserved and made available;
-- Supporting the identification and authoring of appropriate digital stewardship standards;
+- Setting a strategic, national agenda for digital stewardship;
+- Identifying, selecting, and stewarding digital collections that should to be preserved and made available;
+- Indicating and authoring appropriate digital stewardship standards;
 - Encouraging the development and maintenance of tools for curation and preservation;
 - Encouraging and conducting research in digital preservation sciences and technologies;
 - Building relationships with stakeholder communities;
 - Preparing and sharing digital preservation information resources.
 
-If you're not an NDSA member but interested in learning more, you can check out how to Get Involved.
+If you're not an NDSA member, we urge you to [get involved](/get-involved/)! Our Coordinating Committee reviews applications from new members on a monthly basis. 
 
 ## Resources for Members
 - [A full list of NDSA Member Organizations](/members-list/)
 - [Coordinating Committee Members](/coordinating-committee/)
 - [NDSA Experts Guide](/experts-guide/)
-- NDSA Wiki
-- New Member Orientation Information
-- Reports and articles
-- Working Group Projects and Activities
-- Frequently Asked Questions about membership, participation and communications.
+- the NDSA Wiki ([currently private](http://www.loc.gov/extranet/wiki/osi/ndiip/ndsa/index.php) at the Library of Congress; soon [public at the DLF](https://wiki.diglib.org/))
+- [New Member Orientation Information](/new-members/)
+- [Working Group](/working-groups) Projects and [Activities](/activities/)
+- [Frequently Asked Questions](/faq/) about membership, participation and communications.
 
 ## Questions?
-For questions and more detailed information about the send an email with to ndsa@diglib.org
+Feel free to drop us a line at <ndsa@diglib.org>.
