@@ -10,11 +10,12 @@ javascript:
 
 ### Membership
 
-- [Should our organization join the NDSA?](#should-our-organization-join-the-ndsa)
+- [Should my organization join the NDSA?](#should-my-organization-join-the-ndsa)
 - [How can my organization check the status of our application?](#how-can-my-organization-check-the-status-of-our-application)
 - [What commitment is expected if my organization joins the NDSA?](#what-commitment-is-expected-if-my-organization-joins-the-ndsa)
 - [What are the benefits of joining the NDSA?](#what-are-the-benefits-of-joining-the-ndsa)
 - [Does the NDSA providing funding?](#does-the-ndsa-providing-funding)
+- [How does NDSA relate to the DLF? To CLIR?](#how-does-ndsa-relate-to-the-dlf-to-clir)
 
 ### Participation
 
@@ -34,9 +35,9 @@ javascript:
 
 ## Membership
 
-### Should our organization join the NDSA?
+### Should my organization join the NDSA?
 
-If your organization has an active digital preservation program and wants to work with other experts in the field, then yes, your organization should join the NDSA. Consortia, non profits, commercial entities and international organizations are all welcome to apply for membership or join as an Affiliate. At this time, individuals are not eligible to join the NDSA. Please see the [membership packet](/documents/MembershipPacket201103.pdf) for more information about our values and principles.
+If your organization has an active digital preservation program and wants to work with other experts in the field, then yes, your organization should join the NDSA. Consortia, non profits, commercial entities and international organizations are all welcome to [apply for membership](/get-involved/) or join as an Affiliate. At this time, individuals are not eligible to join the NDSA. Please see the [membership packet](/documents/MembershipPacket201103.pdf) for more information about our values and principles.
 
 ### How can my organization check the status of our application?
 
@@ -53,6 +54,10 @@ Members have direct contact with experts in digital stewardship and an opportuni
 ### Does the NDSA providing funding?
 
 The NDSA does not provide funding for projects or building tools and infrastructure, although some of our member organizations do. Look for [relevant funding opportunities](https://www.diglib.org/opportunities/) in data curation and digitization from NDSA's host organization, [CLIR](http://clir.org/)+[DLF](https://diglib.org/).
+
+### How does NDSA relate to the DLF? To CLIR?
+
+CLIR and the [Digital Library Federation](https://diglib.org/) believe strongly in NDSA's mission and [set of values](/values/). NDSA is financially supported by the DLF, which also provides communications infrastructure, staff time, and participation by the DLF director on NDSA's [Coordinating Committee](/coordinating-committee/). [CLIR](http://clir.org/) is the parent organization of the DLF, but DLF itself runs on independent membership fees. If you like what the Digital Library Federation is doing to support digital stewardship at no cost to NDSA members, please [join DLF](https://www.diglib.org/members/join/) and contribute!
 
 ## Participation
 
