@@ -4,7 +4,7 @@ layout: page
 permalink: /get-involved/
 ---
 
-To express your organization's interest in joining the NDSA, please submit this brief [membership application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform).
+Ready to join the NDSA? Please submit a brief [membership application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform).
 
 
 ## Is the NDSA a good fit for my organization?
@@ -30,7 +30,7 @@ Members share in the advantages of the NDSA, including:
 Download the [NDSA Membership Packet](http://digitalpreservation.gov/ndsa/documents/MembershipPacket201311.pdf)for detailed information on benefits.
 
 ## Commitment
-There are no fees or dues for membership in the NDSA. NDSA is financially supported by the [Digital Library Federation](https://diglib.org/), which also provides communications infrastructure and staff time. But the real longevity and value of the NDSA depends on members contributing their efforts to working groups and sharing their knowledge and expertise.
+There are no fees or dues for membership in the NDSA. (NDSA is financially supported by the [Digital Library Federation](https://diglib.org/), which also provides communications infrastructure and staff time.) But the real longevity and value of the NDSA depends on members contributing their efforts to working groups and sharing their knowledge and expertise.
 
 In particular, NDSA members agree to:
 

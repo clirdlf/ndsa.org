@@ -3,8 +3,10 @@ title: New Members
 layout: page
 permalink: /new-members/
 ---
+Welcome to the NDSA! Start by reviewing this website and the information to be found on the NDSA Wiki ([currently private](http://www.loc.gov/extranet/wiki/osi/ndiip/ndsa/index.php) at the Library of Congress; soon [public at the DLF](https://wiki.diglib.org/)). Then try... 
+
 ## Five Easy Ways to Get Involved
-- Contact your working group co-chairs to learn more about how to get involved in a specific group or activity.
+- Contact your [working group co-chairs](/working-groups/) to learn more about how to get involved in a specific group or activity.
 - Offer to help take meeting minutes (this is always truly appreciated!).
 - Help with small or large tasks to accomplish working group goals.
 - Chat with your fellow members via the listserv - ask questions, tell us about your projects, introduce yourself!
