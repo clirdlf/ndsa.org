@@ -3,7 +3,7 @@ title: Glossary
 layout: page
 permalink: /glossary/
 ---
-This glossary was developed by Library of Congress Junior Fellows and released in 2013 in support of NDSA's work on [Levels of Preservation](/levels-of-digital-preservation), as a means of providing a succinct definition of terms of special value to the NDSA and its extended digital stewardship community. Learn more about the development of the glossary [here](http://blogs.loc.gov/digitalpreservation/2013/02/the-release-of-the-ndsa-digital-stewardship-glossary/).
+This glossary was developed by Library of Congress Junior Fellows and released in 2013 in support of NDSA's work on [Levels of Preservation](/activities/levels-of-digital-preservation/), as a means of providing a succinct definition of terms of special value to the NDSA and its extended digital stewardship community. Learn more about the development of the glossary [here](http://blogs.loc.gov/digitalpreservation/2013/02/the-release-of-the-ndsa-digital-stewardship-glossary/).
 
 <table class="std full glossary_ndsa">
 <thead>
