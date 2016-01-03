@@ -12,9 +12,9 @@ Below is the current NDSA Calendar. It lists upcoming working group calls, NDSA 
 
 If you're an NDSA member and have questions about the calendar or would like to add a meeting or call to it, please contact <ndsa@diglib.org>. See also the [DLF Community Calendar](https://www.diglib.org/opportunities/calendar/), with more national and international events relevant to NDSA's mission.
 
-- [Working Group Calls](#working-group-calls)
+- [Working Group Calls](#ndsa-working-group-calls)
 - [Past Presentations at Conferences and Meetings](#past-presentations-at-conferences-and-meetings)
-- [NDSA Regional Meetings](#regional-meetings)
+- [NDSA Regional Meetings](#ndsa-regional-meetings)
 
 ## NDSA Working Group Calls
 
