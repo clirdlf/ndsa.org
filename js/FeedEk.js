@@ -3,7 +3,8 @@
 * http://jquery-plugins.net/FeedEk/FeedEk.html  https://github.com/enginkizil/FeedEk
 * Author : Engin KIZIL http://www.enginkizil.com
 */
-
+// https://query.yahooapis.com/v1/public/yql?q=SELECT%20entry%20FROM%20feednormalizer%20WHERE%20output%3D%22atom_1.0%22%20AND%20url%20%3D%22http%3A%2F%2Fmix.chimpfeedr.com%2F7f8d0-NDSA%22%20LIMIT%205&format=json&diagnostics=false&callback=
+// https://query.yahooapis.com/v1/public/yql?q=SELECT%20results.entry%20FROM%20feednormalizer%20WHERE%20output%3D%22atom_1.0%22%20AND%20url%20%3D%22http%3A%2F%2Fmix.chimpfeedr.com%2F7f8d0-NDSA%22%20LIMIT%205&format=json&diagnostics=false&callback=
 (function ($) {
     $.fn.FeedEk = function (opt) {
         var def = $.extend({
@@ -18,31 +19,34 @@
 
         var id = $(this).attr("id"), i, s = "", dt;
         $("#" + id).empty();
-        if (def.FeedUrl == undefined) return;
+
+        if (def.FeedUrl === undefined) return;
+
         $("#" + id).append('<img class="img-responsive center-block" width="40px" src="images/loader.gif" />');
 
-        var YQLstr = 'SELECT channel.item FROM feednormalizer WHERE output="rss_2.0" AND url ="' + def.FeedUrl + '" LIMIT ' + def.MaxCount;
-
+        var YQLstr = 'SELECT entry FROM feednormalizer WHERE output="atom_1.0" AND url ="' + def.FeedUrl + '" LIMIT ' + def.MaxCount;
+        console.log("https://query.yahooapis.com/v1/public/yql?q=" + encodeURIComponent(YQLstr) + "&format=json&diagnostics=false&callback=?");
         $.ajax({
             url: "https://query.yahooapis.com/v1/public/yql?q=" + encodeURIComponent(YQLstr) + "&format=json&diagnostics=false&callback=?",
             dataType: "json",
             success: function (data) {
                 $("#" + id).empty();
-                if (!(data.query.results.rss instanceof Array)) {
-                    data.query.results.rss = [data.query.results.rss];
+
+                if (!(data.query.results.feed instanceof Array)) {
+                    data.query.results.feed = [data.query.results.feed];
                 }
-                $.each(data.query.results.rss, function (e, itm) {
-                    s += '<li><div class="itemTitle"><a href="' + itm.channel.item.link + '" target="' + def.TitleLinkTarget + '" >' + itm.channel.item.title + '</a></div>';
+                $.each(data.query.results.feed, function (e, itm) {
+                    s += '<li><div class="itemTitle"><a href="' + itm.entry.link.href + '" target="' + def.TitleLinkTarget + '" >' + itm.entry.title.content + '</a></div>';
 
                     if (def.ShowPubDate){
-                        dt = new Date(itm.channel.item.pubDate);
+                        dt = new Date(itm.entry.updated);
                         s += '<div class="itemDate">';
                         if ($.trim(def.DateFormat).length > 0) {
                             try {
                                 moment.lang(def.DateFormatLang);
                                 s += moment(dt).format(def.DateFormat);
                             }
-                            catch (e){s += dt.toLocaleDateString();}
+                            catch (e){ s += dt.toLocaleDateString(); }
                         }
                         else {
                             s += dt.toLocaleDateString();
@@ -51,11 +55,12 @@
                     }
                     if (def.ShowDesc) {
                         s += '<div class="itemContent">';
-                         if (def.DescCharacterLimit > 0 && itm.channel.item.description.length > def.DescCharacterLimit) {
-                            s += itm.channel.item.description.substring(0, def.DescCharacterLimit) + '...';
+                        console.log(itm.entry);
+                         if (def.DescCharacterLimit > 0 && itm.entry.summary.content.length > def.DescCharacterLimit) {
+                            s += itm.entry.summary.content.substring(0, def.DescCharacterLimit) + '...';
                         }
                         else {
-                            s += itm.channel.item.description;
+                            s += itm.entry.summary.content;
                          }
                          s += '</div>';
                     }
