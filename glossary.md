@@ -3,10 +3,7 @@ title: Glossary
 layout: page
 permalink: /glossary/
 ---
-
-The National Digital Stewardship Alliance was launched in July 2010 as an initiative of the National Digital Information Infrastructure and Preservation Program. NDSA members have been working on a "Levels of Digital Preservation" activity to provide basic digital preservation guidance on how an organization should prioritize its resource allocation. This glossary provides a common language for NDSA members to communicate about the levels work and should also be useful as a general digital stewardship glossary.
-
-Questions, comments and suggested additions to this glossary can be directed to ndsa@diglib.org.
+This glossary was developed by Library of Congress Junior Fellows and released in 2013 in support of NDSA's work on [Levels of Preservation](/levels-of-digital-preservation), as a means of providing a succinct definition of terms of special value to the NDSA and its extended digital stewardship community. Learn more about the development of the glossary [here](http://blogs.loc.gov/digitalpreservation/2013/02/the-release-of-the-ndsa-digital-stewardship-glossary/).
 
 <table class="std full glossary_ndsa">
 <thead>

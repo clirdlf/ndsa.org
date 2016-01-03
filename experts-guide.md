@@ -4,9 +4,9 @@ layout: page
 permalink: /experts-guide/
 ---
 
-National Digital Stewardship Alliance organizations have proven themselves in the field of digital stewardship. As oart if that, individuals from member organizations have made significant contributions to the work and products of the NDSA.
+National Digital Stewardship Alliance organizations have proven themselves in the field of digital stewardship, and individuals from member organizations have made significant contributions to the work and products of the NDSA.
 
-We'd like to highlight a few people who are available to speak to the news media about a variety of digital stewardship topics and who are recognized for their contributions throughout the digital preservation community. They can be contacted with questions about the NDSA or for their areas of expertise and interest.
+Here are a few people who available to speak to the news media about a variety of digital stewardship topics, and who are recognized for their contributions to the NDSA community. Suggestions for additions to this guide? Contact us at <ndsa@diglib.org>.
 
 ## Micah Altman
 Director of Research, MIT Libraries, MIT; Non‐Resident Senior Fellow, Brookings Institution
