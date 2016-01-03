@@ -8,7 +8,7 @@ The "[Levels of Digital Preservation](/documents/NDSA_Levels_Archiving_2013.pdf)
 
 It is expected that the Levels of Digital Preservation will be updated over time as additional feedback is received, experience is gained implementing its recommendations and as empirical research provides detailed information about data loss. For this reason, each iteration of the Levels will be versioned. [Version 1](/documents/Levels_v1.pdf) (PDF) is shown below.
 
-![Levels of Digital Preservation Version 1](/images/Levels_v1.jpg)
+![Levels of Digital Preservation Version 1](/images/levels_v1.jpg)
 
 The overall structure of the chart is progressive -- the actions in the first level are either necessary prerequisites for those in the second to fourth levels or are themselves the most pressing activities to accomplish first. Broadly speaking, as one moves up each of the tiers from Level 1 to Level 4, one is moving from the basic need to ensure bit preservation towards broader requirements for keeping track of digital content and being able to ensure that it can be made available over longer periods of time.
 
