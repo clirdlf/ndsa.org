@@ -4,13 +4,7 @@ layout: page
 permalink: /working-groups/standards-and-practices/
 ---
 
-## Report: "The Benefits and Risks of the PDF/A-3 File Format for Archival Institutions"
-
-A [report](/documents/NDSA_PDF_A3_report_final022014.pdf) (pdf) created by the Standards and Practices Working Group that takes a measured look at the costs and benefits of the widespread use of the PDF/A-3 format, especially as it effects content arriving in collecting institutions. It provides background on the technical development of the specification, identifies specific scenarios under which the format might be used and suggests policy prescriptions for collecting institutions to consider. More information in a [2/20/14 blog post](http://blogs.loc.gov/digitalpreservation/2014/02/new-ndsa-report-the-benefits-and-risks-of-the-pdfa-3-file-format-for-archival-institutions/) on the Signal.
-
-## Report: "Staffing for Effective Digital Preservation"
-
-A [report](/documents/NDSA-Staffing-Survey-Report-Final122013.pdf) (pdf) created by the Standards and Practices Working Group, sharing what the group learned by surveying 85 institutions with a mandate to preserve digital content about how they staffed and organized their preservation functions. More information in a [12/16/13 blog post](http://blogs.loc.gov/digitalpreservation/2013/12/just-released-staffing-for-effective-digital-preservation-an-ndsa-report/) on the Signal.
+**Standards and Practices Working Group Co-Chairs** (through end of January 2016): Andrea Goethals, Harvard University - andrea_goethals at harvard dot edu; Kate Murray, Library of Congress - kmur at loc dot gov
 
 The Standards and Practices Working Group works to facilitate a broad understanding of the role and benefit of standards in digital preservation and how to use them effectively to ensure durable and usable collections.
 
@@ -34,4 +28,10 @@ Current Working Group activities include:
 
 [Who’s Minding the (Data) Store? Results of the NDSA Digital Preservation Staffing Survey](/documents/NDSA-staff-survey-poster-ipres2012.pdf) (PDF). Poster from [iPres2012](https://ipres.ischool.utoronto.ca/).
 
-NDSA questions? Send an email to ndsa@diglib.org.
+### Report: "The Benefits and Risks of the PDF/A-3 File Format for Archival Institutions"
+
+A [report](/documents/NDSA_PDF_A3_report_final022014.pdf) (pdf) created by the Standards and Practices Working Group that takes a measured look at the costs and benefits of the widespread use of the PDF/A-3 format, especially as it effects content arriving in collecting institutions. It provides background on the technical development of the specification, identifies specific scenarios under which the format might be used and suggests policy prescriptions for collecting institutions to consider. More information in a [2/20/14 blog post](http://blogs.loc.gov/digitalpreservation/2014/02/new-ndsa-report-the-benefits-and-risks-of-the-pdfa-3-file-format-for-archival-institutions/) on the Signal.
+
+### Report: "Staffing for Effective Digital Preservation"
+
+A [report](/documents/NDSA-Staffing-Survey-Report-Final122013.pdf) (pdf) created by the Standards and Practices Working Group, sharing what the group learned by surveying 85 institutions with a mandate to preserve digital content about how they staffed and organized their preservation functions. More information in a [12/16/13 blog post](http://blogs.loc.gov/digitalpreservation/2013/12/just-released-staffing-for-effective-digital-preservation-an-ndsa-report/) on the Signal.

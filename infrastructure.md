@@ -3,6 +3,7 @@ title: Infrastructure Working Group
 layout: page
 permalink: /working-groups/infrastructure/
 ---
+**Infrastructure Working Group Co-Chairs**: Nick Krabbenhoeft - nick at codedculture dot org; Sibyl Schaefer, University of California, San Diego - sschaefer at ucsd dot edu
 
 The Infrastructure Working Group works to identify and share emerging practices around the development and maintenance of tools and systems for the curation, preservation, storage, hosting, migration, and similar activities supporting the long term preservation of digital content.
 
@@ -17,5 +18,3 @@ The group is also surveying emerging practices around the use of large-scale and
 - Promoting the collaborative development of free and open source tools, using sustainable software development processes and to create a structure for the support of the software over time
 - Exploring the use of computer forensics tools for the appraisal, processing, and preservation of born-digital collections
 - Encouraging communities with highly specialized needs (e.g., geospatial, datasets, observational data) to develop storage networks or access services that can serve the entire community.
-
-NDSA questions? Send an email to ndsa@diglib.org.

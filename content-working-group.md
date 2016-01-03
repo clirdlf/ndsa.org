@@ -3,16 +3,7 @@ title: Content Working Group
 layout: page
 permalink: /working-groups/content/
 ---
-
-# 2013 Web Archiving Survey
-During Fall 2013, the Content Working Group invited U.S. organizations engaged in web archiving or in the process of planning a web archive to take the 2013 NDSA Web Archiving Survey. A list of the survey questions is available here (PDF, 196 KB) and a report on the results is available [here](/documents/ndsa_web_archiving_survey_2013.pdf) (PDF, 1010 KB).
-
-## Recently Published Report: "Geospatial Data Stewardship: Key Online Resources"
- A [report](/documents/NDSA_AppraisalSelection_report_final102413.pdf) (PDF, 550 KB) of the Geospatial Content Team that lists online resources highlighting key concepts and practices supporting the preservation and stewardship of digital geospatial data and information. The resources offer a starting point to methods, tools and approaches across the information lifecycle to assist in understanding current best practices in the stewardship of geospatial data. These resources will be regularly updated online at the "[Geospatial Data Stewardship: Key Online Resources](/working-groups/content/geospatial-data-stewardship/)" web page.
-
-## Recently Published Report: "Issues in the Appraisal and Selection of Geospatial Data"
-
-A [report](/documents/NDSA_AppraisalSelection_report_final102413.pdf) (PDF, 554 KB) of the Geospatial Content Team considering both appraisal and selection activities as they effect decisions defining geospatial content of enduring value to the nation.
+**Content Working Group Co-Chairs**: Christie Moffatt, National Library of Medicine - moffattc at mail dot nlm dot nih dot gov; Abbey Potter, Library of Congress - abpo at loc dot gov.
 
 The Content Working Group is focusing on investigating guidelines for the selection of significant content, discovery of at-risk digital content or collections, and engaging all stakeholders in the process of acquiring the content, preserve it, and provide access to it. The Content Working Group's current scope of work involves "content teams" grouped in the following topical areas:
 
@@ -45,3 +36,13 @@ Additionally, Content Working Group Members have been engaged in:
 
 - A blog preservation plugin to easily enable content creators to opt-in to preservation.
 - Bi-annual surveying of organizations in the United States who are actively involved in or planning to archive content from the web.  A report of the 2011 survey results is also [available](/documents/ndsa_web_archiving_survey_report_2012.pdf) (PDF, 442 KB) along with the [2011 survey questions](/documents/USWebArchivingSurvey.pdf) (PDF, 272 KB).
+
+### 2013 Web Archiving Survey
+During Fall 2013, the Content Working Group invited U.S. organizations engaged in web archiving or in the process of planning a web archive to take the 2013 NDSA Web Archiving Survey. A list of the survey questions is available here (PDF, 196 KB) and a report on the results is available [here](/documents/ndsa_web_archiving_survey_2013.pdf) (PDF, 1010 KB).
+
+### Recently Published Report: "Geospatial Data Stewardship: Key Online Resources"
+ A [report](/documents/NDSA_AppraisalSelection_report_final102413.pdf) (PDF, 550 KB) of the Geospatial Content Team that lists online resources highlighting key concepts and practices supporting the preservation and stewardship of digital geospatial data and information. The resources offer a starting point to methods, tools and approaches across the information lifecycle to assist in understanding current best practices in the stewardship of geospatial data. These resources will be regularly updated online at the "[Geospatial Data Stewardship: Key Online Resources](/working-groups/content/geospatial-data-stewardship/)" web page.
+
+### Recently Published Report: "Issues in the Appraisal and Selection of Geospatial Data"
+
+A [report](/documents/NDSA_AppraisalSelection_report_final102413.pdf) (PDF, 554 KB) of the Geospatial Content Team considering both appraisal and selection activities as they effect decisions defining geospatial content of enduring value to the nation.
