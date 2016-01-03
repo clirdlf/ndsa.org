@@ -27,7 +27,7 @@ Members share in the advantages of the NDSA, including:
 - Taking part in a national [outreach](outreach-working-group/) program to build public awareness;
 - Learning about digital preservation practices from a network of thought leaders.
 
-Download the [NDSA Membership Packet](http://digitalpreservation.gov/ndsa/documents/MembershipPacket201311.pdf)for detailed information on benefits.
+Download the [NDSA Membership Packet](http://digitalpreservation.gov/ndsa/documents/MembershipPacket201311.pdf) for detailed information on benefits.
 
 ## Commitment
 There are no fees or dues for membership in the NDSA. (NDSA is financially supported by the [Digital Library Federation](https://diglib.org/), which also provides communications infrastructure and staff time.) But the real longevity and value of the NDSA depends on members contributing their efforts to working groups and sharing their knowledge and expertise.

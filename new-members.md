@@ -3,7 +3,9 @@ title: New Members
 layout: page
 permalink: /new-members/
 ---
-Welcome to the NDSA! Start by reviewing this website and the information to be found on the NDSA Wiki ([currently private](http://www.loc.gov/extranet/wiki/osi/ndiip/ndsa/index.php) at the Library of Congress; soon [public at the DLF](https://wiki.diglib.org/)). Then try... 
+Welcome! Start by reviewing this website and the NDSA Wiki ([currently private](http://www.loc.gov/extranet/wiki/osi/ndiip/ndsa/index.php) at the Library of Congress; soon [public at the DLF](https://wiki.diglib.org/)).
+
+Then try... 
 
 ## Five Easy Ways to Get Involved
 - Contact your [working group co-chairs](/working-groups/) to learn more about how to get involved in a specific group or activity.
