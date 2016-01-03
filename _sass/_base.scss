@@ -20,7 +20,16 @@ $btn-color:       #00866c; // not 0ccfa8
 
 
 // RSS Stuff
-.feedEkList{width:450px; list-style:none outside none;background-color:#FFFFFF; border:1px solid #D3CAD7; padding:4px 6px; color:#3E3E3E;}
+.feedEkList{
+	max-width: 520px;
+	list-style:none outside none;
+	background-color:#FFFFFF;
+	border:1px solid #D3CAD7;
+	padding:4px 6px;
+	color:#3E3E3E;
+	border-radius: 5px;
+}
+
 .feedEkList li{border-bottom:1px solid #D3CAD7; padding:5px;}
 .feedEkList li:last-child{border-bottom:none;}
 .itemTitle a{font-weight:bold; color:#0f7bc0 !important; text-decoration:none }
