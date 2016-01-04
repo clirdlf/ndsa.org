@@ -25,7 +25,7 @@
         $("#" + id).append('<img class="img-responsive center-block" width="40px" src="images/loader.gif" />');
 
         var YQLstr = 'SELECT entry FROM feednormalizer WHERE output="atom_1.0" AND url ="' + def.FeedUrl + '" LIMIT ' + def.MaxCount;
-        console.log("https://query.yahooapis.com/v1/public/yql?q=" + encodeURIComponent(YQLstr) + "&format=json&diagnostics=false&callback=?");
+        // console.log("https://query.yahooapis.com/v1/public/yql?q=" + encodeURIComponent(YQLstr) + "&format=json&diagnostics=false&callback=?");
         $.ajax({
             url: "https://query.yahooapis.com/v1/public/yql?q=" + encodeURIComponent(YQLstr) + "&format=json&diagnostics=false&callback=?",
             dataType: "json",
@@ -55,7 +55,7 @@
                     }
                     if (def.ShowDesc) {
                         s += '<div class="itemContent">';
-                        console.log(itm.entry);
+                        // console.log(itm.entry);
                          if (def.DescCharacterLimit > 0 && itm.entry.summary.content.length > def.DescCharacterLimit) {
                             s += itm.entry.summary.content.substring(0, def.DescCharacterLimit) + '...';
                         }
