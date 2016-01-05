@@ -664,4 +664,9 @@ permalink: /data/members.json
         "organization": "University of Maryland",
         "state": "Maryland",
         "focus": "Legal Issues, Audiovisual, Standards & Best Practices, Distributed Storage, Tools & Infrastructure, Data Transfer, Innovation, Education & Training"
-      }]
+      },{
+        "organization": "Computer History Museum",
+        "state": "CA",
+        "focus": ""
+    }
+  ]

@@ -1650,5 +1650,16 @@ var members = {
       "popupContent": "<h2><a href=''>University of Maryland</a></h2><p>Partner since <strong>9/1/04</strong></p>"
     },
     "id": 165
-  }, ]
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.0773213, 37.4143233]
+    },
+    "type": "Feature",
+    "properties": {
+      "popupContent": "<h2><a href='http://www.computerhistory.org/'>Computer History Museum</a></h2><p>Partner since <strong>12/22/15</strong></p>"
+    },
+    "id": 166
+  }]
 };
