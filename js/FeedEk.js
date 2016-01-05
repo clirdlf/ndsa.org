@@ -46,7 +46,7 @@
                                 moment.lang(def.DateFormatLang);
                                 s += moment(dt).format(def.DateFormat);
                             }
-                            catch (e){ s += dt.toLocaleDateString(); }
+                            catch (ex){ s += dt.toLocaleDateString(); }
                         }
                         else {
                             s += dt.toLocaleDateString();
