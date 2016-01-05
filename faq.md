@@ -108,16 +108,14 @@ Each working group is led by a pair of volunteers. Below are the current co-chai
   - Christie Moffatt, National Library of Medicine  moffattc at mail dot nlm dot nih dot gov
   - Abbey Potter, Library of Congress - abpo at loc dot gov
 - Infrastructure Working Group Co-Chairs
-  - Nick Krabbenhoeft, Educopia - nick at educopia dot org
+  - Nick Krabbenhoeft - nick at codedculture dot org
   - Sibyl Schaefer, University of California, San Diego - sschaefer at ucsd dot edu
-- Innovation Working Group Co-Chairs
+- Innovation Working Group Co-Chairs (through end of January 2016)
   - Jefferson Bailey, Internet Archive - jefferson at archive dot org
-  - Trevor Owens, Library of Congress - trow at loc dot gov
   - Jane Mandelbaum, Library of Congress - jman at loc dot gov
-- Outreach Working Group Co-Chairs
+- Outreach Working Group Chair
   - Carol Minton Morris, DuraSpace - cmmorris at fedora-commons dot org
-  - Butch Lazorchak, Library of Congress - wlaz at loc dot gov
-- Standards Working Group Co-Chairs
+- Standards and Practices Working Group Co-Chairs (through end of January 2016)
   - Andrea Goethals, Harvard University - andrea_goethals at harvard dot edu
   - Kate Murray, Library of Congress - kmur at loc dot gov
 
