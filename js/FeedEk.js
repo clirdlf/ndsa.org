@@ -25,7 +25,7 @@
         $("#" + id).append('<img class="img-responsive center-block" width="40px" src="images/loader.gif" />');
 
         var YQLstr = 'SELECT entry FROM feednormalizer WHERE output="atom_1.0" AND url ="' + def.FeedUrl + '" LIMIT ' + def.MaxCount;
-        // console.log("https://query.yahooapis.com/v1/public/yql?q=" + encodeURIComponent(YQLstr) + "&format=json&diagnostics=false&callback=?");
+        //console.log("https://query.yahooapis.com/v1/public/yql?q=" + encodeURIComponent(YQLstr) + "&format=json&diagnostics=false&callback=?");
         $.ajax({
             url: "https://query.yahooapis.com/v1/public/yql?q=" + encodeURIComponent(YQLstr) + "&format=json&diagnostics=false&callback=?",
             dataType: "json",
@@ -35,6 +35,10 @@
                 if (!(data.query.results.feed instanceof Array)) {
                     data.query.results.feed = [data.query.results.feed];
                 }
+
+                // add link to site home
+                s += '<li><h1 class="summary"><a href="http://blogs.loc.gov/digitalpreservation/category/ndsa-2/">See More</a></div></li>';
+
                 $.each(data.query.results.feed, function (e, itm) {
                     s += '<li><div class="itemTitle"><a href="' + itm.entry.link.href + '" target="' + def.TitleLinkTarget + '" >' + itm.entry.title.content + '</a></div>';
 
