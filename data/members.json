@@ -3,670 +3,797 @@ layout: null
 permalink: /data/members.json
 ---
 [
-    {
-        "organization": "National Endowment for the Humanities (NEH)",
-        "state": "District of Columbia ",
-        "focus": "Education & Training"
-      },
-      {
-        "organization": "Institute of Museum and Library Services (IMLS)",
-        "state": "District of Columbia",
-        "focus": "Audiovisual, Standards & Best Practices, Sustainability, Education & Training"
-      },{
-        "organization": "National Park Service",
-        "state": "Colorado",
-        "focus": "Text & Image, Standards & Best Practices, Government Information"
-      },{
-        "organization": "Educopia Institute, Inc.",
-        "state": "Georgia",
-        "focus": "Distributed Storage, Tools & Infrastructure, Education & Training"
-      },{
-        "organization": "University of South Carolina",
-        "state": "South Carolina",
-        "focus": "Tools & Infrastructure, Distributed Storage, Standards & Best Practices"
-      },{
-        "organization": "Georgetown University Law Library",
-        "state": "District of Columbia",
-        "focus": "Legal Issues"
-      },{
-        "organization": "Coalition for Networked Information",
-        "state": "District of Columbia",
-        "focus": "Sustainability"
-      },{
-        "organization": "Kansas State Historical Society",
-        "state": "Kansas",
-        "focus": "Geospatial Data, Government Information, Text & Image, Standards & Best Practices, Tools & Infrastructure"
-      },{
-        "organization": "National Center for Atmospheric Research (NCAR)",
-        "state": "Colorado",
-        "focus": "Distributed Storage, Tools & Infrastructure"
-      },{
-        "organization": "New York Public Library",
-        "state": "New York",
-        "focus": "Distributed Storage, Tools & Infrastructure"
-      },{
-        "organization": "Columbia University Library ",
-        "state": "New York",
-        "focus": "Legal Issues, Geospatial Data"
-      },{
-        "organization": "Idaho State Archives",
-        "state": "Idaho",
-        "focus": "Government Information"
-      },{
-        "organization": "Folger Shakespeare Library",
-        "state": "District of Columbia",
-        "focus": "Distributed Storage, Text & Image"
-      },{
-        "organization": "DL Consulting, Ltd.",
-        "state": "Hawaii",
-        "focus": "Text & Image, Tools & Infrastructure"
-      },{
-        "organization": "National Technical Information Service",
-        "state": "Virginia",
-        "focus": "Text & Image, Standards & Best Practices"
-      },{
-        "organization": "Ripley Entertainment Inc.",
-        "state": "Florida",
-        "focus": "Tools & Infrastructure"
-      },{
-        "organization": "Center for Cultural and Eco-Tourism-University of Louisiana",
-        "state": "Louisiana",
-        "focus": "Text & Image, Audiovisual, Standards & Best Practices"
-      },{
-        "organization": "University of Texas at Austin",
-        "state": "Texas",
-        "focus": "Text & Image, Tools & Infrastructure, Standards & Best Practices, Distributed Storage"
-      },{
-        "organization": "Texas Tech University Libraries",
-        "state": "Texas",
-        "focus": "Text & Image, Distributed Storage, Tools & Infrastructure"
-      },{
-        "organization": "Audiovisual Archive Network",
-        "state": "California",
-        "focus": "Audiovisual, Education & Training"
-      },{
-        "organization": "California Institute of Technology",
-        "state": "California",
-        "focus": "Text & Image, Scientific Data, Distributed Storage, Tools & Infrastructure, Audiovisual"
-      },{
-        "organization": "Testronic Labs",
-        "state": "California",
-        "focus": "Audiovisual, Tools & Infrastructure, Standards & Best Practices"
-      },{
-        "organization": "New Hanover County Register of Deeds",
-        "state": "North Carolina",
-        "focus": "Government Information, Text & Image, Standards & Best Practices"
-      },{
-        "organization": "University of Arkansas at Little Rock Center for Arkansas History and Culture",
-        "state": "Arkansas",
-        "focus": "Education & Training, Standards & Best Practices"
-      },{
-        "organization": "William Dolson & Associates, LLC",
-        "state": "New Mexico",
-        "focus": "Text & Image, Tools & Infrastructure, Geospatial Data, Innovation"
-      },{
-        "organization": "Property Records Industry Association (PRIA)",
-        "state": "North Carolina",
-        "focus": "Government Information, Text & Image, Geospatial Data"
-      },{
-        "organization": "Duke University Libraries",
-        "state": "North Carolina",
-        "focus": "Standards & Best Practices, Tools & Infrastructure, Sustainability"
-      },{
-        "organization": "National Press Photographers Association (NPPA)",
-        "state": "North Carolina",
-        "focus": "Text & Image"
-      },{
-        "organization": "Wake Forest University Z. Smith Reynolds Library",
-        "state": "North Carolina",
-        "focus": "Text & Image, Standards & Best Practices"
-      },{
-        "organization": "Knowledge Motifs LLC",
-        "state": "California",
-        "focus": "Text & Image, Geospatial Data, Tools & Infrastructure, Distributed Storage"
-      },{
-        "organization": "We Are What We Do, USA",
-        "state": "California",
-        "focus": "Text & Image, Geospatial Data, Tools & Infrastructure"
-      },{
-        "organization": "Pop Up Archive",
-        "state": "California",
-        "focus": "Audiovisual, Standards & Best Practices"
-      },{
-        "organization": "Truman Technologies, LLC",
-        "state": "California",
-        "focus": "Web Archives, Tools & Infrastructure, Audiovisual, Text & Image, Distributed Storage, Data Transfer, Standards & Best Practices"
-      },{
-        "organization": "U.S. Fish and Wildlife Service",
-        "state": "District of Columbia",
-        "focus": "Text & Image, Government Information"
-      },{
-        "organization": "Dance Heritage Coalition",
-        "state": "District of Columbia",
-        "focus": "Audiovisual, Standards & Best Practices"
-      },{
-        "organization": "University of Missouri Libraries",
-        "state": "Missouri",
-        "focus": "Tools & Infrastructure, Distributed Storage, Text & Image"
-      },{
-        "organization": "Enoch Pratt Free Library",
-        "state": "Maryland",
-        "focus": "Text & Image, Standards & Best Practices, Tools & Infrastructure"
-      },{
-        "organization": "History of Computing in Learning and Education",
-        "state": "California",
-        "focus": "Text & Image, Audiovisual"
-      },{
-        "organization": "Vtechgraphics LLC",
-        "state": "Ohio",
-        "focus": "Text & Image, Standards & Best Practices"
-      },{
-        "organization": "The Library Company of Philadelphia",
-        "state": "Pennsylvania",
-        "focus": "Text & Image"
-      },{
-        "organization": "Media Archaeology Lab",
-        "state": "Colorado",
-        "focus": "Tools & Infrastructure"
-      },{
-        "organization": "Princeton Theological Seminary Library",
-        "state": "New Jersey",
-        "focus": "Text & Image"
-      },{
-        "organization": "University of Pittsburgh NDSA Student Chapter",
-        "state": "Pennsylvania",
-        "focus": "Education & Training"
-      },{
-        "organization": "New York Philharmonic ",
-        "state": "New York",
-        "focus": "Audiovisual"
-      },{
-        "organization": "Pratt Institute",
-        "state": "New York",
-        "focus": "Education & Training"
-      },{
-        "organization": "New York Art Resources Consortium (NYARC)",
-        "state": "New York",
-        "focus": "Text & Image, Web Archives"
-      },{
-        "organization": "Muller Media Conversions",
-        "state": "New York",
-        "focus": "Tools & Infrastructure"
-      },{
-        "organization": "Chicago State University Library",
-        "state": "Illinois",
-        "focus": "Text & Image, Tools & Infrastructure, Distributed Storage"
-      },{
-        "organization": "Brown University Library",
-        "state": "Rhode Island",
-        "focus": "Text & Image, Tools & Infrastructure"
-      },{
-        "organization": "Adler Planetarium",
-        "state": "Illinois",
-        "focus": "Text & Image, Scientific Data, Geospatial Data, Education & Training"
-      },{
-        "organization": "NueMeta LLC",
-        "state": "Illinois",
-        "focus": "Tools & Infrastructure, Standards & Best Practices"
-      },{
-        "organization": "Northern Illinois University Library",
-        "state": "Illinois",
-        "focus": "Tools & Infrastructure, Distributed Storage, Standards & Best Practices, Education & Training"
-      },{
-        "organization": "JVC Advanced Media USA, Inc.",
-        "state": "Illinois",
-        "focus": "Tools & Infrastructure, Innovation, Standards & Best Practices"
-      },{
-        "organization": "State Library of Massachusetts",
-        "state": "Massachusetts",
-        "focus": "Text & Image, Government Information, Tools & Infrastructure"
-      },{
-        "organization": "Hampshire College Library",
-        "state": "Massachusetts",
-        "focus": "Audiovisual, Tools & Infrastructure"
-      },{
-        "organization": "Boston University",
-        "state": "Massachusetts",
-        "focus": "Text & Image, Tools & Infrastructure, Distributed Storage"
-      },{
-        "organization": "MIT Libraries",
-        "state": "Massachusetts",
-        "focus": "Text & Image, Tools & Infrastructure, Geospatial Data, Innovation"
-      },{
-        "organization": "University of Massachusetts Amherst Libraries ",
-        "state": "Massachusetts",
-        "focus": "Text & Image"
-      },{
-        "organization": "Five Colleges, Inc.",
-        "state": "Massachusetts",
-        "focus": "Standards & Best Practices, Tools & Infrastructure, Sustainability"
-      },{
-        "organization": "Northeast Document Conservation Center",
-        "state": "Massachusetts",
-        "focus": "Text & Image, Education & Training"
-      },{
-        "organization": "Williams Colleage",
-        "state": "Massachusetts",
-        "focus": "Text & Image, Tools & Infrastructure, Standards & Best Practices, Distributed Storage"
-      },{
-        "organization": "Michigan State University Archives & Historical Collections",
-        "state": "Michigan",
-        "focus": "Text & Image"
-      },{
-        "organization": "Vermont Access Network",
-        "state": "Vermont",
-        "focus": "Audiovisual"
-      },{
-        "organization": "Wisconsin Department of Public Instruction",
-        "state": "Wisconsin",
-        "focus": "Government Information, Standards & Best Practices"
-      },{
-        "organization": "AudioVisual Preservation Solutions",
-        "state": "New York",
-        "focus": "Audiovisual, Tools & Infrastructure, Standards & Best Practices"
-      },{
-        "organization": "Still Water at the University of Maine",
-        "state": "Maine",
-        "focus": "Text & Image, Tools & Infrastructure, Standards & Best Practices"
-      },{
-        "organization": "National Film Board of Canada",
-        "state": "Canada",
-        "focus": "Audiovisual"
-      },{
-        "organization": "Digital Public Library of America (DPLA)",
-        "state": "Massachusetts",
-        "focus": "Text & Image, Tools & Infrastructure, Standards & Best Practices, Distributed Storage"
-      },{
-        "organization": "University of Iowa Libraries",
-        "state": "Iowa",
-        "focus": "Text & Image, Standards & Best Practices"
-      },{
-        "organization": "National Archives and Records Administration (NARA)",
-        "state": "District of Columbia",
-        "focus": "Government Information, Text & Image, Standards & Best Practices"
-      },{
-        "organization": "Smithsonian organization",
-        "state": "District of Columbia",
-        "focus": "Text & Image, Standards & Best Practices, Sustainability, Education & Training"
-      },{
-        "organization": "U.S. Government Printing Office",
-        "state": "District of Columbia",
-        "focus": "Text & Image, Standards & Best Practices, Web Archives"
-      },{
-        "organization": "National Library of Medicine (NLM)",
-        "state": "Maryland",
-        "focus": "Text & Image, Standards & Best Practices, Legal Issues"
-      },{
-        "organization": "University of North Texas",
-        "state": "Texas",
-        "focus": "Web Archives, Tools & Infrastructure"
-      },{
-        "organization": "Internet Archive",
-        "state": "California",
-        "focus": "Web Archives, Outreach, Tools & Infrastructure "
-      },{
-        "organization": "California Digital Library",
-        "state": "California",
-        "focus": "Tools & Infrastructure, Web Archives, Standards & Best Practices, Data Transfer, Government Information "
-      },{
-        "organization": "Harvard University",
-        "state": "Massachusetts",
-        "focus": "Tools & Infrastructure, Standards & Best Practices, Web Archives, Data Transfer, Text & Image, Scientific Data"
-      },{
-        "organization": "Portico",
-        "state": "New York",
-        "focus": "Tools & Infrastructure, Standards & Best Practices"
-      },{
-        "organization": "Hawaii State Archives",
-        "state": "Hawaii",
-        "focus": "Government Information"
-      },{
-        "organization": "E-Z Photo Scan",
-        "state": "Florida",
-        "focus": "Text & Image"
-      },{
-        "organization": "Florida Center for Library Automation",
-        "state": "Florida",
-        "focus": "Standards & Best Practices, Tools & Infrastructure"
-      },{
-        "organization": "State Library and Archives of Florida",
-        "state": "Florida",
-        "focus": "Government Information"
-      },{
-        "organization": "Auburn University Libraries",
-        "state": "Alabama",
-        "focus": "Text & Image, Distributed Storage"
-      },{
-        "organization": "University of California, San Diego",
-        "state": "California",
-        "focus": "Distributed Storage, Tools & Infrastructure, Sustainability, Innovation, Audiovisual, Innovation, Data Transfer"
-      },{
-        "organization": "Arizona State Library, Archives and Public Records",
-        "state": "Arizona",
-        "focus": "Geospatial Data, Government Information"
-      },{
-        "organization": "Emory University ",
-        "state": "Georgia",
-        "focus": "Text & Image, Distributed Storage"
-      },{
-        "organization": "University of Southern California",
-        "state": "California",
-        "focus": "Text & Image"
-      },{
-        "organization": "South Carolina Department of Archives and History",
-        "state": "South Carolina",
-        "focus": "Government Information "
-      },{
-        "organization": "North Carolina State University Libraries",
-        "state": "North Carolina",
-        "focus": "Geospatial Data, Government Information"
-      },{
-        "organization": "Los Alamos National Lab Research Library",
-        "state": "New Mexico",
-        "focus": "Web Archives, Tools & Infrastructure, Text & Image, Innovation"
-      },{
-        "organization": "North Carolina Center for Geographic Information & Analysis",
-        "state": "North Carolina",
-        "focus": "Geospatial Data, Distributed Storage, Legal Issues"
-      },{
-        "organization": "North Carolina Department of Cultural Resources",
-        "state": "North Carolina",
-        "focus": "Government Information"
-      },{
-        "organization": "University of Tennessee",
-        "state": "Tennessee",
-        "focus": "Geospatial Data, Innovation"
-      },{
-        "organization": "Department of Energy Office of Scientific and Technical Information ",
-        "state": "Tennessee",
-        "focus": "Standards & Best Practices"
-      },{
-        "organization": "BMS/Chace",
-        "state": "Tennessee",
-        "focus": "Audiovisual, Standards & Best Practices"
-      },{
-        "organization": "Old Dominion University Dept. of Computer Science",
-        "state": "Virginia",
-        "focus": "Web Archives, Tools & Infrastructure, Innovation, Data Transfer "
-      },{
-        "organization": "Virginia Polytechnic Institute and State University",
-        "state": "Virginia",
-        "focus": "Text & Image "
-      },{
-        "organization": "Stanford University",
-        "state": "California",
-        "focus": "Audiovisual, Web Archives, Distributed Storage, Geospatial Data, Tools & Infrastructure, Standards & Best Practices, Data Transfer"
-      },{
-        "organization": "California State Library",
-        "state": "California",
-        "focus": "Government Information"
-      },{
-        "organization": "Federal Reserve Bank of St. Louis",
-        "state": "Missouri",
-        "focus": "Text & Image, Government Information"
-      },{
-        "organization": "Public Broadcasting Service",
-        "state": "Virginia",
-        "focus": "Audiovisual"
-      },{
-        "organization": "George Mason University, Center for History and New Media",
-        "state": "Virginia",
-        "focus": "Tools & Infrastructure, Outreach"
-      },{
-        "organization": "MAM-A Inc.",
-        "state": "Colorado",
-        "focus": "Tools & Infrastructure"
-      },{
-        "organization": "Jefferson Institute",
-        "state": "District of Columbia",
-        "focus": "Outreach"
-      },{
-        "organization": "United States Holocaust Memorial Museum",
-        "state": "District of Columbia",
-        "focus": "Text & Image, Audiovisual"
-      },{
-        "organization": "Federal Library and Information Center Committee (FLICC)",
-        "state": "District of Columbia",
-        "focus": "Standards & Best Practices"
-      },{
-        "organization": "Council on Library and Information Resources, including the Digital Library Federation",
-        "state": "District of Columbia",
-        "focus": "Sustainability"
-      },{
-        "organization": "Catholic University of America School of Library and Information Science",
-        "state": "District of Columbia",
-        "focus": "Education & Training"
-      },{
-        "organization": "Maryland State Archives",
-        "state": "Maryland",
-        "focus": "Geospatial Data, Government Information"
-      },{
-        "organization": "Nevada State Library and Archives",
-        "state": "Nevada",
-        "focus": "Government Information "
-      },{
-        "organization": "Indiana University Libraries ",
-        "state": "Indiana",
-        "focus": "Tools & Infrastructure"
-      },{
-        "organization": "Legal Information Preservation Alliance",
-        "state": "Indiana",
-        "focus": "Legal Issues"
-      },{
-        "organization": "Johns Hopkins University",
-        "state": "Maryland",
-        "focus": "Innovation, Sustainability, Data Transfer, Scientific Data, Tools & Infrastructure"
-      },{
-        "organization": "The Bishoff Group",
-        "state": "Colorado",
-        "focus": "Text & Image, Education & Training"
-      },{
-        "organization": "National Conference of State Legislatures",
-        "state": "Colorado",
-        "focus": "Government Information"
-      },{
-        "organization": "Hagley Museum and Library",
-        "state": "Delaware",
-        "focus": "Text & Image, Web Archives, Innovation"
-      },{
-        "organization": "Indiana Commission on Public Records ",
-        "state": "Indiana",
-        "focus": "Text & Image, Government Information"
-      },{
-        "organization": "American Society of Media Photographers",
-        "state": "Pennsylvania",
-        "focus": "Text & Image"
-      },{
-        "organization": "OCLC",
-        "state": "Ohio",
-        "focus": "Sustainability , Innovation, Standards & Best Practices"
-      },{
-        "organization": "University of Illinois at Urbana-Champaign (UIUC) ",
-        "state": "Illinois",
-        "focus": "Audiovisual, Standards & Best Practices, Tools & Infrastructure"
-      },{
-        "organization": "Rhizome",
-        "state": "New York",
-        "focus": "Web Archives"
-      },{
-        "organization": "New York University",
-        "state": "New York",
-        "focus": "Audiovisual, Web Archives, Standards & Best Practices, Tools & Infrastructure, Audiovisual "
-      },{
-        "organization": "Metropolitan New York Library Council",
-        "state": "New York",
-        "focus": "Education & Training"
-      },{
-        "organization": "Utah Automated Geographic Reference Center",
-        "state": "Utah",
-        "focus": "Geospatial Data, Government Information"
-      },{
-        "organization": "Utah Division of Archives and Records Service",
-        "state": "Utah",
-        "focus": "Geospatial Data, Government Information"
-      },{
-        "organization": "WNET ",
-        "state": "New York",
-        "focus": "Audiovisual"
-      },{
-        "organization": "ARTstor",
-        "state": "New York",
-        "focus": "Text & Image, Standards & Best Practices"
-      },{
-        "organization": "Center for the International Earth Science Information (CIESIN)",
-        "state": "New York",
-        "focus": "Geospatial Data"
-      },{
-        "organization": "SCOLA",
-        "state": "Iowa",
-        "focus": "Audiovisual"
-      },{
-        "organization": "Roper Center for Public Opinion Research, University of Connecticut",
-        "state": "Connecticut",
-        "focus": "Scientific Data"
-      },{
-        "organization": "Center for Research Libraries",
-        "state": "Illinois",
-        "focus": "Sustainability, Outreach"
-      },{
-        "organization": "Data Preservation Alliance for the Social Sciences (Data-PASS)",
-        "state": "Michigan",
-        "focus": "Scientific Data"
-      },{
-        "organization": "University of Michigan",
-        "state": "Michigan",
-        "focus": "Sustainability , Innovation"
-      },{
-        "organization": "WGBH Educational Foundation",
-        "state": "Massachusetts",
-        "focus": "Audiovisual"
-      },{
-        "organization": "Archive Media Partners",
-        "state": "Michigan",
-        "focus": "Education & Training"
-      },{
-        "organization": "Ex Libris Group",
-        "state": "Massachusetts",
-        "focus": "Text & Image"
-      },{
-        "organization": "Cornell University Library",
-        "state": "New York",
-        "focus": "Legal Issues"
-      },{
-        "organization": "DuraSpace",
-        "state": "New York",
-        "focus": "Distributed Storage, Tools & Infrastructure"
-      },{
-        "organization": "Munsell Studio",
-        "state": "New York",
-        "focus": "Tools & Infrastructure"
-      },{
-        "organization": "Michigan State University Library",
-        "state": "Michigan",
-        "focus": "Web Archives, Audiovisual"
-      },{
-        "organization": "Wisconsin Department of Administration",
-        "state": "Wisconsin",
-        "focus": "Geospatial Data, Government Information"
-      },{
-        "organization": "University of Wisconsin-Madison",
-        "state": "Wisconsin",
-        "focus": "Geospatial Data, Government Information"
-      },{
-        "organization": "Idaho Commission for Libraries",
-        "state": "Idaho",
-        "focus": "Government Information"
-      },{
-        "organization": "Vermont State Archives and Records Administration",
-        "state": "Vermont",
-        "focus": "Government Information"
-      },{
-        "organization": "Maine State Archives",
-        "state": "Maine",
-        "focus": "Geospatial Data, Government Information"
-      },{
-        "organization": "Oregon State Library",
-        "state": "Oregon",
-        "focus": "Government Information "
-      },{
-        "organization": "Minnesota Office of Revisor of Statutes",
-        "state": "Minnesota",
-        "focus": "Government Information"
-      },{
-        "organization": "Thomson Reuters",
-        "state": "Minnesota",
-        "focus": "Government Information"
-      },{
-        "organization": "University of Minnesota Libraries",
-        "state": "Minnesota",
-        "focus": "Text & Image"
-      },{
-        "organization": "Montana Department of Administration/State Information Technology Services Division",
-        "state": "Montana",
-        "focus": "Government Information"
-      },{
-        "organization": "University of Virginia",
-        "state": "Virginia",
-        "focus": "Sustainability, Text & Image, Tools & Infrastructure"
-      },{
-        "organization": "California State Archives",
-        "state": "California",
-        "focus": "Government Information"
-      },{
-        "organization": "Mississippi Department of Archives & History",
-        "state": "Mississippi",
-        "focus": "Geospatial Data, Government Information"
-      },{
-        "organization": "Academy of Motion Picture Arts and Sciences",
-        "state": "California",
-        "focus": "Audiovisual, Distributed Storage, Sustainability "
-      },{
-        "organization": "Oklahoma Department of Libraries",
-        "state": "Oklahoma",
-        "focus": "Government Information"
-      },{
-        "organization": "University of North Carolina at Chapel Hill",
-        "state": "North Carolina",
-        "focus": "Legal Issues, Audiovisual , Innovation, Scientific Data, Text & Image, Education & Training"
-      },{
-        "organization": "Kentucky Department for Libraries and Archives",
-        "state": "Kentucky",
-        "focus": "Geospatial Data, Government Information"
-      },{
-        "organization": "Nebraska State Historical Society",
-        "state": "Nebraska",
-        "focus": "Government Information "
-      },{
-        "organization": "Council of State Archivists",
-        "state": "Iowa",
-        "focus": "Government Information"
-      },{
-        "organization": "Inter-university Consortium for Political and Social Research (ICSPR), part of the University of Michigan",
-        "state": "Michigan",
-        "focus": "Scientific Data, Education & Training"
-      },{
-        "organization": "Tessella",
-        "state": "Massachusetts",
-        "focus": "Tools & Infrastructure, Education & Training"
-      },{
-        "organization": "Wisconsin Historical Society",
-        "state": "Wisconsin",
-        "focus": "Government Information"
-      },{
-        "organization": "Minnesota Historical Society",
-        "state": "Minnesota",
-        "focus": "Geospatial Data, Government Information"
-      },{
-        "organization": "Northwestern University ",
-        "state": "Illinois",
-        "focus": "Text & Image, Standards & Best Practices"
-      },{
-        "organization": "University of Maryland",
-        "state": "Maryland",
-        "focus": "Legal Issues, Audiovisual, Standards & Best Practices, Distributed Storage, Tools & Infrastructure, Data Transfer, Innovation, Education & Training"
-      },{
-        "organization": "Computer History Museum",
-        "state": "CA",
-        "focus": "Education & Training"
-    }
-  ]
+  {
+      "organization": "Historical Society of Washington, D.C.",
+      "state": "DC",
+      "focus": ""
+  },{
+      "organization": "Carnegie Mellon University Libraries",
+      "state": "PA",
+      "focus": ""
+  },{
+      "organization": "VT Center for Geographic Information",
+      "state": "VT",
+      "focus": ""
+  },{
+      "organization": "California State Archives",
+      "state": "CA",
+      "focus": "Government Information"
+  },{
+      "organization": "Grand Valley State University Libraries",
+      "state": "MI",
+      "focus": ""
+  },{
+      "organization": "Kansas State Historical Society",
+      "state": "KS",
+      "focus": "Geospatial Data, Government Information, Text & Image, Standards & Best Practices, Tools & Infrastructure"
+  },{
+      "organization": "Kansas State University Libraries",
+      "state": "KS",
+      "focus": ""
+  },{
+      "organization": "Nevada State Library and Archives",
+      "state": "NV",
+      "focus": "Government Information"
+  },{
+      "organization": "Roy Rosenzweig Center for History and New Media (RRCHNM), George Mason University",
+      "state": "VA",
+      "focus": "Tools & Infrastructure, Outreach"
+  },{
+      "organization": "Archive Media Partners",
+      "state": "MI",
+      "focus": "Education & Training"
+  },{
+      "organization": "Federal Reserve Bank of St. Louis",
+      "state": "MO",
+      "focus": "Text & Image, Government Information"
+  },{
+      "organization": "Idaho Commission for Libraries",
+      "state": "ID",
+      "focus": "Government Information"
+  },{
+      "organization": "EVault, a Seagate Company",
+      "state": "CA",
+      "focus": ""
+  },{
+      "organization": "State Library of Massachusetts",
+      "state": "MA",
+      "focus": "Text & Image, Government Information, Tools & Infrastructure"
+  },{
+      "organization": "Arizona State Library, Archives and Public Records",
+      "state": "AZ",
+      "focus": "Geospatial Data, Government Information"
+  },{
+      "organization": "NPR (National Public Radio)",
+      "state": "DC",
+      "focus": ""
+  },{
+      "organization": "Idaho State Archives, A Division of the Idaho State Historical Society",
+      "state": "ID",
+      "focus": "Government Information"
+  },{
+      "organization": "Adler Planetarium",
+      "state": "IL",
+      "focus": "Text & Image, Scientific Data, Geospatial Data, Education & Training"
+  },{
+      "organization": "California Digital Library",
+      "state": "CA",
+      "focus": "Tools & Infrastructure, Web Archives, Standards & Best Practices, Data Transfer, Government Information"
+  },{
+      "organization": "Florida Center for Library Automation",
+      "state": "FL",
+      "focus": "Standards & Best Practices, Tools & Infrastructure"
+  },{
+      "organization": "Forever, Inc.",
+      "state": "PA",
+      "focus": ""
+  },{
+      "organization": "i/oTrak, Inc. - E-Z Photo Scan",
+      "state": "FL",
+      "focus": "Text & Image"
+  },{
+      "organization": "Indiana University Libraries",
+      "state": "IN",
+      "focus": "Tools & Infrastructure"
+  },{
+      "organization": "Minnesota Public Radio | American Public Media",
+      "state": "MN",
+      "focus": ""
+  },{
+      "organization": "Montana Dept. of Administration/State Info Technology Services Division",
+      "state": "MT",
+      "focus": "Government Information"
+  },{
+      "organization": "National Endowment for the Humanities",
+      "state": "DC",
+      "focus": "Education & Training"
+  },{
+      "organization": "National Library of Medicine (NLM)",
+      "state": "MD",
+      "focus": "Text & Image, Standards & Best Practices, Legal Issues"
+  },{
+      "organization": "National Press Photographers Association (NPPA)",
+      "state": "NC",
+      "focus": "Text & Image"
+  },{
+      "organization": "National Technical Information Service",
+      "state": "VA",
+      "focus": "Text & Image, Standards & Best Practices"
+  },{
+      "organization": "North Carolina Center for Geographic Information and Analysis",
+      "state": "NC",
+      "focus": "Geospatial Data, Distributed Storage, Legal Issues"
+  },{
+      "organization": "New Mexico State Library",
+      "state": "NM",
+      "focus": ""
+  },{
+      "organization": "North Carolina State University Libraries",
+      "state": "NC",
+      "focus": "Geospatial Data, Government Information"
+  },{
+      "organization": "Office of Scientific and Technical Information, Department of Energy",
+      "state": "TN",
+      "focus": "Standards & Best Practices"
+  },{
+      "organization": "Oklahoma Department of Libraries",
+      "state": "OK",
+      "focus": "Government Information"
+  },{
+      "organization": "Oregon State Library",
+      "state": "OR",
+      "focus": "Government Information"
+  },{
+      "organization": "Ripley Entertainment Inc.",
+      "state": "FL",
+      "focus": "Tools & Infrastructure"
+  },{
+      "organization": "The Research Volunteer Corporation",
+      "state": "MA",
+      "focus": ""
+  },{
+      "organization": "U.S. Fish and Wildlife Service",
+      "state": "WV",
+      "focus": "Text & Image, Government Information"
+  },{
+      "organization": "University of Tennessee",
+      "state": "TN",
+      "focus": "Geospatial Data, Innovation"
+  },{
+      "organization": "Wisconsin Department of Administration",
+      "state": "WI",
+      "focus": ""
+  },{
+      "organization": "Wisconsin Dept. of Public Instruction",
+      "state": "WI",
+      "focus": "Government Information, Standards & Best Practices"
+  },{
+      "organization": "WNET",
+      "state": "NY",
+      "focus": "Audiovisual"
+  },{
+      "organization": "University of South Carolina",
+      "state": "SC",
+      "focus": "Tools & Infrastructure, Distributed Storage, Standards & Best Practices"
+  },{
+      "organization": "Princeton University Library",
+      "state": "NY",
+      "focus": ""
+  },{
+      "organization": "Georgetown University Library",
+      "state": "DC",
+      "focus": ""
+  },{
+      "organization": "Darthmouth College Library",
+      "state": "NH",
+      "focus": ""
+  },{
+      "organization": "George Blood Audiovisual LC",
+      "state": "PA",
+      "focus": ""
+  },{
+      "organization": "Texas State Library and Archives Commission",
+      "state": "TX",
+      "focus": ""
+  },{
+      "organization": "Yale University Library",
+      "state": "CT",
+      "focus": ""
+  },{
+      "organization": "Instrumental Inc",
+      "state": "MN",
+      "focus": ""
+  },{
+      "organization": "Rockefeller Archive Center",
+      "state": "NY",
+      "focus": ""
+  },{
+      "organization": "Gallinger Consulting",
+      "state": "DC",
+      "focus": ""
+  },{
+      "organization": "Virginia Commonwealth University Libraries",
+      "state": "VA",
+      "focus": ""
+  },{
+      "organization": "LLMC-Digital (Law Library Microform Consortium)",
+      "state": "HI",
+      "focus": ""
+  },{
+      "organization": "Massachusetts Archives",
+      "state": "MA",
+      "focus": ""
+  },{
+      "organization": "MediaFox LLC",
+      "state": "ID",
+      "focus": ""
+  },{
+      "organization": "San Diego County Recorder's Office",
+      "state": "CA",
+      "focus": ""
+  },{
+      "organization": "\"The President's Own\" United States Marine Band",
+      "state": "DC",
+      "focus": ""
+  },{
+      "organization": "Academy of Motion Picture Arts and Sciences",
+      "state": "CA",
+      "focus": "Audiovisual, Distributed Storage, Sustainability"
+  },{
+      "organization": "Alabama Department of Archives and History",
+      "state": "AL",
+      "focus": ""
+  },{
+      "organization": "Albany Institute of History & Art",
+      "state": "NY",
+      "focus": ""
+  },{
+      "organization": "American Society of Media Photographers",
+      "state": "PA",
+      "focus": "Text & Image"
+  },{
+      "organization": "ARTstor",
+      "state": "NY",
+      "focus": "Text & Image, Standards & Best Practices"
+  },{
+      "organization": "Auburn Univerisity Libraries",
+      "state": "AL",
+      "focus": "Text & Image, Distributed Storage"
+  },{
+      "organization": "Audiovisual Archive Network",
+      "state": "CA",
+      "focus": "Audiovisual, Education & Training"
+  },{
+      "organization": "AudioVisual Preservation Solutions",
+      "state": "NY",
+      "focus": "Audiovisual, Tools & Infrastructure, Standards & Best Practices"
+  },{
+      "organization": "Bishoff Group, The",
+      "state": "CO",
+      "focus": "Text & Image, Education & Training"
+  },{
+      "organization": "BMS/Chace",
+      "state": "TN",
+      "focus": "Audiovisual, Standards & Best Practices"
+  },{
+      "organization": "Board of Trustees of the University of Illinois",
+      "state": "IL",
+      "focus": ""
+  },{
+      "organization": "Boston University, Mugar Library",
+      "state": "MA",
+      "focus": "Text & Image, Tools & Infrastructure, Distributed Storage"
+  },{
+      "organization": "Brown University Library",
+      "state": "RI",
+      "focus": "Text & Image, Tools & Infrastructure"
+  },{
+      "organization": "California Institute of Technology",
+      "state": "CA",
+      "focus": "Text & Image, Scientific Data, Distributed Storage, Tools & Infrastructure, Audiovisual"
+  },{
+      "organization": "California State Library",
+      "state": "CA",
+      "focus": ""
+  },{
+      "organization": "Catholic University of America, School of Library & Information Science",
+      "state": "DC",
+      "focus": "Education & Training"
+  },{
+      "organization": "Center for Cultural and Eco-Tourism-University of Louisiana",
+      "state": "LA",
+      "focus": "Text & Image, Audiovisual, Standards & Best Practices"
+  },{
+      "organization": "Center for International Earth Science Information Network (CIESIN), Columbia University",
+      "state": "NY",
+      "focus": "Geospatial Data"
+  },{
+      "organization": "Center for Research Libraries",
+      "state": "IL",
+      "focus": "Sustainability, Outreach"
+  },{
+      "organization": "Chicago State University Library",
+      "state": "IL",
+      "focus": "Text & Image, Tools & Infrastructure, Distributed Storage"
+  },{
+      "organization": "Coalition for Networked Information",
+      "state": "DC",
+      "focus": "Sustainability"
+  },{
+      "organization": "Columbia University Libraries / Information Services",
+      "state": "NY",
+      "focus": "Legal Issues, Geospatial Data"
+  },{
+      "organization": "Cornell University Library",
+      "state": "NY",
+      "focus": "Legal Issues"
+  },{
+      "organization": "Council of State Archivists",
+      "state": "NY",
+      "focus": "Government Information"
+  },{
+      "organization": "Council on Library and Information Resources, including the Digital Library Federation",
+      "state": "DC",
+      "focus": "Sustainability"
+  },{
+      "organization": "Dance Heritage Coalition",
+      "state": "DC",
+      "focus": "Audiovisual, Standards & Best Practices"
+  },{
+      "organization": "Data Preservation Alliance for the Social Sciences (Data-PASS)",
+      "state": "MI",
+      "focus": "Scientific Data"
+  },{
+      "organization": "Digital Public Library of America (DPLA)",
+      "state": "MA",
+      "focus": "Text & Image, Tools & Infrastructure, Standards & Best Practices, Distributed Storage"
+  },{
+      "organization": "Division of Libraries and Information Services, Florida Department of State",
+      "state": "FL",
+      "focus": ""
+  },{
+      "organization": "DL Consulting, Ltd.",
+      "state": "HI",
+      "focus": "Text & Image, Tools & Infrastructure"
+  },{
+      "organization": "Duke University Libraries",
+      "state": "NC",
+      "focus": "Standards & Best Practices, Tools & Infrastructure, Sustainability"
+  },{
+      "organization": "DuraSpace",
+      "state": "NY",
+      "focus": "Distributed Storage, Tools & Infrastructure"
+  },{
+      "organization": "Educopia Institute",
+      "state": "GA",
+      "focus": "Distributed Storage, Tools & Infrastructure, Education & Training"
+  },{
+      "organization": "Emory University Library",
+      "state": "GA",
+      "focus": "Text & Image, Distributed Storage"
+  },{
+      "organization": "Enoch Pratt Free Library",
+      "state": "MD",
+      "focus": "Text & Image, Standards & Best Practices, Tools & Infrastructure"
+  },{
+      "organization": "Ex Libris Group",
+      "state": "MA",
+      "focus": "Text & Image"
+  },{
+      "organization": "Five Colleges, Inc.",
+      "state": "MA",
+      "focus": "Standards & Best Practices, Tools & Infrastructure, Sustainability"
+  },{
+      "organization": "Folger Shakespeare Library",
+      "state": "DC",
+      "focus": "Distributed Storage, Text & Image"
+  },{
+      "organization": "Georgetown University Law Library",
+      "state": "DC",
+      "focus": "Legal Issues"
+  },{
+      "organization": "Government Printing Office",
+      "state": "DC",
+      "focus": "Text & Image, Standards & Best Practices, Web Archives"
+  },{
+      "organization": "Hagley Museum & Library",
+      "state": "DE",
+      "focus": "Text & Image, Web Archives, Innovation"
+  },{
+      "organization": "Hampshire College Library",
+      "state": "MA",
+      "focus": "Audiovisual, Tools & Infrastructure"
+  },{
+      "organization": "Harvard University",
+      "state": "MA",
+      "focus": "Tools & Infrastructure, Standards & Best Practices, Web Archives, Data Transfer, Text & Image, Scientific Data"
+  },{
+      "organization": "Hawaii State Archives",
+      "state": "HI",
+      "focus": "Government Information"
+  },{
+      "organization": "History Associates",
+      "state": "MD",
+      "focus": ""
+  },{
+      "organization": "History of Computing in Learning and Education",
+      "state": "CA",
+      "focus": "Text & Image, Audiovisual"
+  },{
+      "organization": "Indiana Commmission on Public Records",
+      "state": "IN",
+      "focus": "Text & Image, Government Information"
+  },{
+      "organization": "Institute of Museum and Library Services",
+      "state": "DC",
+      "focus": "Audiovisual, Standards & Best Practices, Sustainability, Education & Training"
+  },{
+      "organization": "Internet Archive",
+      "state": "CA",
+      "focus": "Web Archives, Outreach, Tools & Infrastructure"
+  },{
+      "organization": "Inter-university Consortium for Political and Social Research",
+      "state": "MI",
+      "focus": "Scientific Data, Education & Training"
+  },{
+      "organization": "Jefferson Institute",
+      "state": "DC",
+      "focus": "Outreach"
+  },{
+      "organization": "Johns Hopkins University, The Sheridan Libraries",
+      "state": "MD",
+      "focus": "Innovation, Sustainability, Data Transfer, Scientific Data, Tools & Infrastructure"
+  },{
+      "organization": "JVC Advanced Media USA, Inc",
+      "state": "IL",
+      "focus": "Tools & Infrastructure, Innovation, Standards & Best Practices"
+  },{
+      "organization": "Kentucky Department for Libraries and Archives",
+      "state": "KY",
+      "focus": "Geospatial Data, Government Information"
+  },{
+      "organization": "Knowledge Motifs LLC",
+      "state": "CA",
+      "focus": "Text & Image, Geospatial Data, Tools & Infrastructure, Distributed Storage"
+  },{
+      "organization": "Legal Information Preservation Alliance",
+      "state": "IN",
+      "focus": "Legal Issues"
+  },{
+      "organization": "Library Company of Philadelphia",
+      "state": "PA",
+      "focus": "Text & Image"
+  },{
+      "organization": "Los Alamos National Laboratory Research Library",
+      "state": "NM",
+      "focus": "Web Archives, Tools & Infrastructure, Text & Image, Innovation"
+  },{
+      "organization": "Maine State Archives",
+      "state": "ME",
+      "focus": "Geospatial Data, Government Information"
+  },{
+      "organization": "MAM-A Inc.",
+      "state": "CO",
+      "focus": "Tools & Infrastructure"
+  },{
+      "organization": "Maryland Digital Library, Decker Library",
+      "state": "MD",
+      "focus": ""
+  },{
+      "organization": "Maryland State Archives",
+      "state": "MD",
+      "focus": "Geospatial Data, Government Information"
+  },{
+      "organization": "Media Archaeology Lab",
+      "state": "CO",
+      "focus": "Tools & Infrastructure"
+  },{
+      "organization": "Metropolitan New York Library Council",
+      "state": "NY",
+      "focus": "Education & Training"
+  },{
+      "organization": "Michigan State University Archives & Historical Collections",
+      "state": "MI",
+      "focus": "Text & Image"
+  },{
+      "organization": "Michigan State University Libraries",
+      "state": "MI",
+      "focus": "Web Archives, Audiovisual"
+  },{
+      "organization": "Minnesota Historical Society",
+      "state": "MN",
+      "focus": "Geospatial Data, Government Information"
+  },{
+      "organization": "Minnesota Office of the Revisor of Statutes",
+      "state": "MN",
+      "focus": "Government Information"
+  },{
+      "organization": "Mississippi Department of Archives and History",
+      "state": "MS",
+      "focus": "Geospatial Data, Government Information"
+  },{
+      "organization": "MIT Libraries",
+      "state": "MA",
+      "focus": "Text & Image, Tools & Infrastructure, Geospatial Data, Innovation"
+  },{
+      "organization": "Muller Media Conversions",
+      "state": "NY",
+      "focus": "Tools & Infrastructure"
+  },{
+      "organization": "National Archives and Records Administration",
+      "state": "DC",
+      "focus": "Government Information, Text & Image, Standards & Best Practices"
+  },{
+      "organization": "National Center for Atmospheric Research (NCAR) Library",
+      "state": "CO",
+      "focus": "Distributed Storage, Tools & Infrastructure"
+  },{
+      "organization": "National Conference of State Legislatures",
+      "state": "CO",
+      "focus": "Government Information"
+  },{
+      "organization": "National Film Board of Canada",
+      "state": "",
+      "focus": "Audiovisual"
+  },{
+      "organization": "National Park Service",
+      "state": "CO",
+      "focus": "Text & Image, Standards & Best Practices, Government Information"
+  },{
+      "organization": "NDSA Student Chapter at Pitt",
+      "state": "PA",
+      "focus": "Education & Training"
+  },{
+      "organization": "Nebraska State Historical Society",
+      "state": "NB",
+      "focus": "Government Information"
+  },{
+      "organization": "New Hanover County Register of Deeds",
+      "state": "NC",
+      "focus": "Government Information, Text & Image, Standards & Best Practices"
+  },{
+      "organization": "New York Art Resources Consortium (NYARC)",
+      "state": "NY",
+      "focus": "Text & Image, Web Archives"
+  },{
+      "organization": "New York Philharmonic",
+      "state": "NY",
+      "focus": "Audiovisual"
+  },{
+      "organization": "New York Public Library",
+      "state": "NY",
+      "focus": "Distributed Storage, Tools & Infrastructure"
+  },{
+      "organization": "New York University",
+      "state": "NY",
+      "focus": "Audiovisual, Web Archives, Standards & Best Practices, Tools & Infrastructure, Audiovisual"
+  },{
+      "organization": "North Carolina Department of Cultural Resources",
+      "state": "NC",
+      "focus": "Government Information"
+  },{
+      "organization": "Northeast Document Conservation Center",
+      "state": "MA",
+      "focus": "Text & Image, Education & Training"
+  },{
+      "organization": "Northern Illinois University Library",
+      "state": "IL",
+      "focus": "Tools & Infrastructure, Distributed Storage, Standards & Best Practices, Education & Training"
+  },{
+      "organization": "Northwestern University",
+      "state": "IL",
+      "focus": "Text & Image, Standards & Best Practices"
+  },{
+      "organization": "NueMeta LLC",
+      "state": "IL",
+      "focus": "Tools & Infrastructure, Standards & Best Practices"
+  },{
+      "organization": "OCLC",
+      "state": "OH",
+      "focus": "Sustainability , Innovation, Standards & Best Practices"
+  },{
+      "organization": "Old Dominion University, Department of Computer Science",
+      "state": "VA",
+      "focus": "Web Archives, Tools & Infrastructure, Innovation, Data Transfer"
+  },{
+      "organization": "Pop Up Archive",
+      "state": "CA",
+      "focus": "Audiovisual, Standards & Best Practices"
+  },{
+      "organization": "Portico",
+      "state": "NJ",
+      "focus": "Tools & Infrastructure, Standards & Best Practices"
+  },{
+      "organization": "Pratt Institute",
+      "state": "NY",
+      "focus": "Education & Training"
+  },{
+      "organization": "Presbyterian Historical Society",
+      "state": "PA",
+      "focus": ""
+  },{
+      "organization": "Princeton Theological Seminary Library",
+      "state": "NJ",
+      "focus": "Text & Image"
+  },{
+      "organization": "Property Records Industry Association (PRIA)",
+      "state": "NC",
+      "focus": "Government Information, Text & Image, Geospatial Data"
+  },{
+      "organization": "Public Broadcasting Service",
+      "state": "VA",
+      "focus": "Audiovisual"
+  },{
+      "organization": "Rhizome",
+      "state": "NY",
+      "focus": "Web Archives"
+  },{
+      "organization": "Roper Center for Public Opinion Research",
+      "state": "CT",
+      "focus": "Scientific Data"
+  },{
+      "organization": "SCOLA",
+      "state": "IA",
+      "focus": "Audiovisual"
+  },{
+      "organization": "Smithsonian Institution",
+      "state": "DC",
+      "focus": "Text & Image, Standards & Best Practices, Sustainability, Education & Training"
+  },{
+      "organization": "South Carolina Department of Archives and History",
+      "state": "SC",
+      "focus": "Government Information"
+  },{
+      "organization": "Stanford University Libraries",
+      "state": "CA",
+      "focus": "Audiovisual, Web Archives, Distributed Storage, Geospatial Data, Tools & Infrastructure, Standards & Best Practices, Data Transfer"
+  },{
+      "organization": "Still Water at the University of Maine",
+      "state": "ME",
+      "focus": "Text & Image, Tools & Infrastructure, Standards & Best Practices"
+  },{
+      "organization": "Tessella Inc",
+      "state": "MA",
+      "focus": "Tools & Infrastructure, Education & Training"
+  },{
+      "organization": "Testronic Labs",
+      "state": "CA",
+      "focus": "Audiovisual, Tools & Infrastructure, Standards & Best Practices"
+  },{
+      "organization": "Texas Tech University Libraries",
+      "state": "TX",
+      "focus": "Text & Image, Distributed Storage, Tools & Infrastructure"
+  },{
+      "organization": "The Federal Library and Information Network (FEDLINK)",
+      "state": "DC",
+      "focus": "Standards & Best Practices"
+  },{
+      "organization": "The University of Texas at Austin",
+      "state": "TX",
+      "focus": "Text & Image, Tools & Infrastructure, Standards & Best Practices, Distributed Storage"
+  },{
+      "organization": "Thomson Reuters",
+      "state": "MN",
+      "focus": "Government Information"
+  },{
+      "organization": "Truman Technologies, LLC",
+      "state": "CA",
+      "focus": "Web Archives, Tools & Infrastructure, Audiovisual, Text & Image, Distributed Storage, Data Transfer, Standards & Best Practices"
+  },{
+      "organization": "United States Holocaust Memorial Museum",
+      "state": "DC",
+      "focus": "Text & Image, Audiovisual"
+  },{
+      "organization": "University of Arkansas at Little Rock Center for Arkansas History and Culture",
+      "state": "AR",
+      "focus": "Education & Training, Standards & Best Practices"
+  },{
+      "organization": "University of California, San Diego",
+      "state": "CA",
+      "focus": "Distributed Storage, Tools & Infrastructure, Sustainability, Innovation, Audiovisual, Innovation, Data Transfer"
+  },{
+      "organization": "University of Delaware Library",
+      "state": "DE",
+      "focus": ""
+  },{
+      "organization": "University of Iowa Libraries",
+      "state": "IA",
+      "focus": "Text & Image, Standards & Best Practices"
+  },{
+      "organization": "University of Maryland",
+      "state": "MD",
+      "focus": "Legal Issues, Audiovisual, Standards & Best Practices, Distributed Storage, Tools & Infrastructure, Data Transfer, Innovation, Education & Training"
+  },{
+      "organization": "University of Massachusetts Amherst Libraries",
+      "state": "MA",
+      "focus": "Text & Image"
+  },{
+      "organization": "University of Michigan",
+      "state": "MI",
+      "focus": "Sustainability , Innovation"
+  },{
+      "organization": "University of Minnesota Libraries",
+      "state": "MN",
+      "focus": "Text & Image"
+  },{
+      "organization": "University of Missouri Libraries",
+      "state": "MO",
+      "focus": "Tools & Infrastructure, Distributed Storage, Text & Image"
+  },{
+      "organization": "University of North Carolina at Chapel Hill",
+      "state": "NC",
+      "focus": "Legal Issues, Audiovisual , Innovation, Scientific Data, Text & Image, Education & Training"
+  },{
+      "organization": "University of North Texas Libraries",
+      "state": "TX",
+      "focus": "Web Archives, Tools & Infrastructure"
+  },{
+      "organization": "University of Southern California",
+      "state": "CA",
+      "focus": "Text & Image"
+  },{
+      "organization": "University of Virginia",
+      "state": "VA",
+      "focus": "Sustainability, Text & Image, Tools & Infrastructure"
+  },{
+      "organization": "Utah Automated Geographic Reference Center",
+      "state": "UT",
+      "focus": "Geospatial Data, Government Information"
+  },{
+      "organization": "Utah Division of Archives and Records Service",
+      "state": "UT",
+      "focus": "Geospatial Data, Government Information"
+  },{
+      "organization": "Vermont Access Network",
+      "state": "VT",
+      "focus": "Audiovisual"
+  },{
+      "organization": "Vermont State Archives and Records Administration",
+      "state": "VT",
+      "focus": "Government Information"
+  },{
+      "organization": "Virginia Tech",
+      "state": "VA",
+      "focus": "Text & Image"
+  },{
+      "organization": "Vtechgraphics LLC",
+      "state": "OH",
+      "focus": "Text & Image, Standards & Best Practices"
+  },{
+      "organization": "Wake Forest University/ Z. Smith Reynolds Library",
+      "state": "NC",
+      "focus": "Text & Image, Standards & Best Practices"
+  },{
+      "organization": "We Are What We Do, USA",
+      "state": "CA",
+      "focus": "Text & Image, Geospatial Data, Tools & Infrastructure"
+  },{
+      "organization": "WGBH Educational Foundation",
+      "state": "MA",
+      "focus": "Audiovisual"
+  },{
+      "organization": "William Dolson & Associates, LLC",
+      "state": "NM",
+      "focus": "Text & Image, Tools & Infrastructure, Geospatial Data, Innovation"
+  },{
+      "organization": "Williams College",
+      "state": "MA",
+      "focus": "Text & Image, Tools & Infrastructure, Standards & Best Practices, Distributed Storage"
+  },{
+      "organization": "Wisconsin Historical Society",
+      "state": "WI",
+      "focus": "Government Information"
+  },{
+      "organization": "University of Pittsburgh",
+      "state": "PA",
+      "focus": "Education & Training"
+  },{
+      "organization": "The Miami Music Museum, Inc.",
+      "state": "FL",
+      "focus": ""
+  },{
+      "organization": "Computer History Museum",
+      "state": "CA",
+      "focus": "Education & Training"
+  }
+]
