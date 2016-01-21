@@ -89,7 +89,7 @@ var members = {
 },
 "id": 44},{"geometry":{"type":"Point","coordinates":[-77.071613, 38.9076729]},"type": "Feature", "properties": { "popupContent": "<h2><a href=\"http://www.library.georgetown.edu\">\"Georgetown University Library\"</a></h2><p>Partner since <strong>07/25/2014</strong>.</p>"
 },
-"id": 45},{"geometry":{"type":"Point","coordinates":[-72.2895526, 43.7022451]},"type": "Feature", "properties": { "popupContent": "<h2><a href=\"http://library.dartmouth.edu\">\"Darthmouth College Library\"</a></h2><p>Partner since <strong>09/09/2014</strong>.</p>"
+"id": 45},{"geometry":{"type":"Point","coordinates":[-72.2895526, 43.7022451]},"type": "Feature", "properties": { "popupContent": "<h2><a href=\"http://library.dartmouth.edu\">\"Dartmouth College Library\"</a></h2><p>Partner since <strong>09/09/2014</strong>.</p>"
 },
 "id": 46},{"geometry":{"type":"Point","coordinates":[-75.207019, 40.0757679]},"type": "Feature", "properties": { "popupContent": "<h2><a href=\"http://www.georgeblood.com/\">\"George Blood Audiovisual LC\"</a></h2><p>Partner since <strong>09/17/2014</strong>.</p>"
 },

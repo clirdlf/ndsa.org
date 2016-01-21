@@ -12,9 +12,11 @@ require 'date'
 require 'erb'
 require 'json'
 
+DotEnv.load
+
 Geocoder.configure(
   :lookup  => :opencagedata,
-  :api_key => ENV['430e78b92729e7ecd35a323fa8e95adc'],
+  :api_key => ENV['API_KEY'],
   :set_timeout => 15
 )
 
@@ -58,6 +60,14 @@ namespace :test do
   end
 end
 
+def clean_website(link)
+  unless link[/^https?:\/\//] || link.length == 0
+    link = "http://#{link}"
+  end
+
+  link
+end
+
 namespace :convert do
   desc 'Generates GeoJSON of members list'
   task map: :dotenv do
@@ -70,9 +80,11 @@ namespace :convert do
     CSV.foreach('tmp/20140131_AllPartnersLoad_NDSA.csv', :encoding=> 'ISO-8859-1', :headers => true) do |row|
     # CSV.foreach('tmp/NDSA_Members_current.csv', :headers => true) do |row|
 
-      @organization = row['Partner Institutions']
-      @date         = row['Partner Since'] # format date with strftime?
-      @link         = ''
+      # @organization = row['Partner Institutions']
+      @organization = row['Organization']
+      # @date         = row['Partner Since'] # format date with strftime?
+      @date         = row['Date of Initial Signup '] # format date with strftime?
+      @link         = row['Website']
       @lat, @long = ''
 
       if row['Latitude, Longitude']
@@ -134,7 +146,7 @@ namespace :convert do
   task table: :dotenv do
     json_string = "---
 layout: null
-permalink: /data/members
+permalink: /data/members.json
 ---
     ["
     CSV.foreach('tmp/ndsa-members.csv', :encoding=> 'ISO-8859-1', :headers => true) do |row|

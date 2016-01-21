@@ -12,3 +12,5 @@ gem 'geocoder'
 
 gem 'html-proofer'
 gem 'ra11y'
+
+gem 'chronic' # parsing date times
