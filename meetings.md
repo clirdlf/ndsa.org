@@ -8,7 +8,7 @@ NDSA's next annual *Digital Preservation* conference will be the first organized
 
 ## Past Meetings
 
-An archive of past meetings can be found on the [Digital Preservation Meetings page](http://www.digitalpreservation.gov/meetings/) at the Library of Congress.
+An archive of past Digital Preservation meetings (which from 2011-2014 was a combined NDIIPP-NDSA conference for the digital preservation community) can be found on the [Digital Preservation Meetings page](http://www.digitalpreservation.gov/meetings/) at the Library of Congress.
 
 ## Calendar
 
