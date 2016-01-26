@@ -14,7 +14,7 @@ javascript:
 - [How can my organization check the status of our application?](#how-can-my-organization-check-the-status-of-our-application)
 - [What commitment is expected if my organization joins the NDSA?](#what-commitment-is-expected-if-my-organization-joins-the-ndsa)
 - [What are the benefits of joining the NDSA?](#what-are-the-benefits-of-joining-the-ndsa)
-- [Does the NDSA providing funding?](#does-the-ndsa-providing-funding)
+- [Does the NDSA provide funding?](#does-the-ndsa-provide-funding)
 - [How does NDSA relate to the DLF? To CLIR?](#how-does-ndsa-relate-to-the-dlf-to-clir)
 
 ### Participation
@@ -51,7 +51,7 @@ Members are expected to engage actively in digital stewardship and share lessons
 
 Members have direct contact with experts in digital stewardship and an opportunity to affect national digital stewardship strategies and initiatives. Participation in NDSA Working Group activities provides practical benefit to local programs and shared results. All NDSA members receive access to our listservs and other shared resources.
 
-### Does the NDSA providing funding?
+### Does the NDSA provide funding?
 
 The NDSA does not provide funding for projects or building tools and infrastructure, although some of our member organizations do. Look for [relevant funding opportunities](https://www.diglib.org/opportunities/) in data curation and digitization from NDSA's host organization, [CLIR](http://clir.org/)+[DLF](https://diglib.org/).
 
