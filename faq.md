@@ -94,7 +94,7 @@ NDSA has several email lists for sharing information and coordinating activities
 
 ### How do members use the NDSA wiki?###
 
-NDSA will shortly begin maintaining public pages on the [DLF wiki](https://wiki.diglib.org/), to provide information about current activities and facilitate the work of the coordinating committee and working groups. Meantime, the former, private wiki [remains available](http://www.loc.gov/extranet/wiki/osi/ndiip/ndsa/index.php). Editing privileges are reserved for NDSA members, who may request a username and password from <ndsa@diglib.org>.
+NDSA maintains [public pages](https://wiki.diglib.org/NDSA:Main_Page) on the [DLF wiki](https://wiki.diglib.org/), to provide information about current activities and facilitate the work of the coordinating committee and working groups. Access it here: [NDSA wiki](https://wiki.diglib.org/NDSA:Main_Page). Editing privileges are reserved for NDSA members, who may request a username and password from <ndsa@diglib.org>. 
 
 ### I just joined the NDSA. How can I get involved?###
 
