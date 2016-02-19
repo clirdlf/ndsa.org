@@ -22,7 +22,7 @@ If you're not an NDSA member, we urge you to [get involved](/get-involved/)! Our
 - [A full list of NDSA Member Organizations](/members-list/)
 - [Coordinating Committee Members](/coordinating-committee/)
 - [NDSA Experts Guide](/experts-guide/)
-- the NDSA Wiki ([currently private](http://www.loc.gov/extranet/wiki/osi/ndiip/ndsa/index.php) at the Library of Congress; soon [public at the DLF](https://wiki.diglib.org/))
+- [NDSA Wiki](https://wiki.diglib.org/NDSA:Main_Page)
 - [New Member Orientation Information](/new-members/)
 - [Working Group](/working-groups) Projects and [Activities](/activities/)
 - [Frequently Asked Questions](/faq/) about membership, participation and communications.
