@@ -3,7 +3,7 @@ title: New Members
 layout: page
 permalink: /new-members/
 ---
-Welcome! Start by reviewing this website and the NDSA Wiki ([currently private](http://www.loc.gov/extranet/wiki/osi/ndiip/ndsa/index.php) at the Library of Congress; soon [public at the DLF](https://wiki.diglib.org/)).
+Welcome! Start by reviewing this website and the [NDSA Wiki](https://wiki.diglib.org/NDSA:Main_Page).
 
 Then try... 
 
@@ -20,7 +20,7 @@ Then try...
 Action teams may also be formed outside of (or within) the working groups to perform specific tasks or accomplish goals. Start one up!
 
 ## Need Help?
-- Lost your wiki login or password? Go [here](http://www.loc.gov/extranet/wiki/osi/ndiip/ndsa/index.php?title=Special:UserLogin&returnto=Main_Page), and enter your log-in (the first part of your email address before the @). Click “Request a new password.” It will be sent to your email address.
+- Lost your wiki password? Go [here](https://wiki.diglib.org/Special:PasswordReset), and enter your username. Click “Reset password”. A temporary password will be sent to your email address. Forgot your username? Go [here](https://wiki.diglib.org/index.php?title=Special:UserLogin&returnto=Special%3ASpecialPages) and click "Help with logging in".
 - Listserv questions or problems?
 If you or a colleague need to be added or removed from NDSA_ALL or one of the working group listservs, contact your working group co-chairs.
 - I’m in the "wrong working group!"
