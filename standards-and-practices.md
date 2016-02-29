@@ -4,7 +4,7 @@ layout: page
 permalink: /working-groups/standards-and-practices/
 ---
 
-**Standards and Practices Working Group Co-Chairs** (through end of January 2016): Andrea Goethals, Harvard University - andrea_goethals at harvard dot edu; Kate Murray, Library of Congress - kmur at loc dot gov
+**Standards and Practices Working Group Co-Chairs**: Meg Phillips, National Archives and Records Administration - meg.phillips at nara dot gov; Aaron Collie, Michigan State University Libraries - collie at mail dot lib dot msu dot edu
 
 The Standards and Practices Working Group works to facilitate a broad understanding of the role and benefit of standards in digital preservation and how to use them effectively to ensure durable and usable collections.
 
