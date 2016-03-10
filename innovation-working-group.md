@@ -3,7 +3,7 @@ title: Innovation Working Group
 layout: page
 permalink: /working-groups/innovation/
 ---
-**Innovation Working Group Co-Chairs** (through end of January 2016): Jefferson Bailey, Internet Archive- jefferson at archive dot org; Jane Mandelbaum, Library of Congress - jman at loc dot gov
+**Innovation Working Group Interim Chair**: Bethany Nowviskie, Digital Library Federation - bnowviskie at clir dot org
 
 By encouraging and sharing innovative methods of digital preservation practices and technologies, the Innovation Working group distributes, documents, and shares emerging concepts, while conducting and guiding research and development with engaged partners to explore new solutions and opportunities.
 
