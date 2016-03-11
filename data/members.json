@@ -795,5 +795,13 @@ permalink: /data/members.json
       "organization": "Computer History Museum",
       "state": "CA",
       "focus": "Education & Training"
+  },{
+    "organization": "James Madison University",
+    "state": "VA",
+    "focus": "Audiovisual, Standards & Best Practices, Sustainability, Text & Image"
+  },{
+    "organization": "Bryn Mawr College",
+    "state": "PA",
+    "focus": "Audiovisual, Distributed Storage, Education & Training, Outreach, Standards & Best Practices, Sustainability, Text & Image, Tools & Infrastructure, Web Archives"
   }
 ]
