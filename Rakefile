@@ -2,6 +2,7 @@ require 'rubygems'
 require 'google/api_client'
 require 'google_drive'
 require 'dotenv/tasks'
+require 'dotenv'
 require 'colorize'
 require 'geocoder'
 require 'ra11y'
@@ -12,26 +13,31 @@ require 'date'
 require 'erb'
 require 'json'
 
-DotEnv.load
+Dotenv.load
 
 Geocoder.configure(
   :lookup  => :opencagedata,
-  :api_key => ENV['API_KEY'],
+  :api_key => ENV['GEOCODER_API_KEY'],
   :set_timeout => 15
 )
 
 # horrible workaround for OS X
 # see https://github.com/google/google-api-ruby-client/issues/253
-# OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
+OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
+
 
 def login
   system('clear') # clear the screen
-  Dotenv.load
 
   puts 'Authorizing...'.green
 
-  access_token = ENV.fetch('ACCESS_TOKEN', '')
-  @session = GoogleDrive.login_with_oauth(access_token)
+  #access_token = ENV.fetch('ACCESS_TOKEN', '')
+  #@session = GoogleDrive.login_with_oauth(access_token)
+  # see https://github.com/gimite/google-drive-ruby#how-to-use
+  # need rw on https://docs.google.com/spreadsheets/d/1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84/edit
+  @session ||= GoogleDrive.saved_session('config.json')
+  @ws ||= @session.spreadsheet_by_key(ENV['SPREADSHEET_KEY']).worksheets[0]
+
 end
 
 def geocode(address)
@@ -40,6 +46,10 @@ def geocode(address)
     :lat => result.latitude,
     :lon => result.longitude
   }
+end
+
+def spreadsheet
+  @ws ||= @session.spreadsheet_by_key(ENV['SPREADSHEET_KEY'])
 end
 
 task default: 'convert:map'
@@ -69,6 +79,20 @@ def clean_website(link)
 end
 
 namespace :convert do
+
+
+  desc 'Generate GeoJSON from Google Spreadsheet'
+  task map_google: :dotenv do
+    login
+    system('clear')
+
+    (1..@ws.num_rows).each do |row|
+      (1..@ws.num_cols).each do |col|
+        p @ws[row,col]
+      end
+    end
+  end
+
   desc 'Generates GeoJSON of members list'
   task map: :dotenv do
 
