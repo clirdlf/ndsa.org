@@ -15,3 +15,4 @@ gem 'ra11y'
 
 gem 'chronic' # parsing date times
 gem 'mail' # for generating email
+gem 'sendgrid-ruby'
