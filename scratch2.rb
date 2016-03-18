@@ -17,30 +17,34 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
   contact2_email = ws[row, 16]
   contact3_email = ws[row, 19]
 
-  contacts = [
-    contact1_email,
+  additional_contacts = [
+    # contact1_email,
     contact2_email,
     contact3_email
-  ]
+  ].reject(&:empty?).reject{|value| value == contact1_email }
 
-  mail = Mail.new do
-    from 'info@diglib.org'
-    to "#{contacts.uniq.each {|email| "#{email}," }}"
-    subject "#{organization} NDSA Membership"
+  additional_contacts.uniq!
 
-    text_part do
-      body 'This is the plain text part of the message'
-    end
+  puts "#{contact1_email}: additional contacts: #{additional_contacts}"
 
-    html_part do
-      content_type 'text/html; charset=UTF-8'
-      body '<h1>This is the HTML part of the message</h1>'
-    end
-  end
+  # mail = Mail.new do
+  #   from 'info@diglib.org'
+  #   to "#{contacts.uniq.each {|email| "#{email}," }}"
+  #   subject "#{organization} NDSA Membership"
+  #
+  #   text_part do
+  #     body 'This is the plain text part of the message'
+  #   end
+  #
+  #   html_part do
+  #     content_type 'text/html; charset=UTF-8'
+  #     body '<h1>This is the HTML part of the message</h1>'
+  #   end
+  # end
+  #
+  # mail.deliver
 
-  mail.deliver
-
-  break
+  # break
 end
 
 
@@ -61,5 +65,3 @@ end
 #end
 
 #mail.deliver
-
-
