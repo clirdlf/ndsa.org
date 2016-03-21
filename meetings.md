@@ -3,8 +3,11 @@ title: Meetings
 layout: page
 permalink: /meetings/
 ---
+*Digital Preservation* is the major meeting and conference of the NDSA, open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike, and focusing on digital stewardship and preservation, data curation, and related issues.
 
-NDSA's next annual *Digital Preservation* conference will be the first organized in partnership with the [Digital Library Federation](https://diglib.org/) Mark your calendars for November 9-10, 2016, and we'll see you at the historic [Pfister Hotel](http://www.thepfisterhotel.com/) in Milwaukee, WI, just after the closing of the [2016 DLF Forum](https://www.diglib.org/forums/2016forum/). Stay tuned for more information!
+Our *[Digital Preservation 2016](https://www.diglib.org/forums/2016forum/ndsa-digipres16/)* conference will be the first organized in partnership with the [Digital Library Federation](https://diglib.org/) Mark your calendars for November 9-10, 2016, and we'll see you at the historic [Pfister Hotel](http://www.thepfisterhotel.com/) in Milwaukee, WI, just after the closing of the [2016 DLF Forum](https://www.diglib.org/forums/2016forum/).
+
+A CFP will be issued by late April. Stay tuned for more information!
 
 ## Past Meetings
 
