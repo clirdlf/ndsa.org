@@ -1977,7 +1977,7 @@ var members = {
     },
     "type": "Feature",
     "properties": {
-      "popupContent": "<h2><a href=\"https://www.jmu.edu/\">James Madison University</a></h2><p>Partner since <strong>3/11/2016</strong>.</p>"
+      "popupContent": "<h2><a href=\"https://www.jmu.edu/\">James Madison University Libraries and Educational Technologies</a></h2><p>Partner since <strong>3/11/2016</strong>.</p>"
     },
     "id": 198
   }, {
