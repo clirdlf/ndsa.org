@@ -5,6 +5,7 @@ permalink: /meetings/
 ---
 <img alt="meetings" src='{{ "/images/icons/presentation.png" | prepend: site.baseurl }}'>
 
+## Digital Preservation 2016 
 *Digital Preservation* is the major meeting and conference of the NDSA, open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike, and focusing on digital stewardship and preservation, data curation, and related issues.
 
 Our [2016 conference](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) will be the first organized in partnership with the [Digital Library Federation](https://diglib.org/). Mark your calendars for November 9-10, 2016, and we'll see you at the historic [Pfister Hotel](http://www.thepfisterhotel.com/) in Milwaukee, WI, just after the closing of the [2016 DLF Forum](https://www.diglib.org/forums/2016forum/).
