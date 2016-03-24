@@ -1990,5 +1990,15 @@ var members = {
       "popupContent": "<h2><a href=\"https://www.brynmawr.edu/\">Bryn Mawr College</a></h2><p>Partner since <strong>3/11/2016</strong>.</p>"
     },
     "id": 199
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.0110678089366, 40.7042047557096]
+    },
+    "type": "Feature",
+    "properties": {
+      "popupContent": "<h2><a href=\"https://www.mla.org/\">Modern Language Association</a></h2><p>Partner since <strong>3/24/2016</strong>.</p>"
+    },
+    "id": 200
   }, ]
 };
