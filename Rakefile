@@ -88,7 +88,7 @@ def clean_website(link)
   link
 end
 
-task default: 'convert:map'
+task default: 'convert:all'
 
 namespace :test do
   desc 'Validate HTML output'
@@ -107,6 +107,10 @@ namespace :test do
 end
 
 namespace :convert do
+  desc 'Run all conversions (for map and membership list)'
+  task :all => [:table_data, :map]
+
+
   desc 'Create dataset for data table'
   task table_data: :dotenv do
     login # login and fetch worksheet

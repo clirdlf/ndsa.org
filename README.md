@@ -18,6 +18,23 @@ cd ~/projects/ndsa.org && git checkout gh-pages && bundle install
 
 Every time you save a change, Jekyll will rebuild the website.
 
+## Membership Data
+
+There are `Rake` tasks that will retrieve data from the Google Spreadsheet where the application data is saved. By default, you only need to run `rake` in the project directory.
+
+```
+$ rake
+```
+
+This will generate new files needed by the `members-list` page.
+
+```
+rake
+git commit -am "Added [organization] to the members-list page"
+```
+
+> The applicant's `active` field needs to be set to `TRUE` (**ALL CAPS**) or these scripts will skip over the processing.
+
 ## Validating HTML
 This app uses [html-proofer](https://rubygems.org/gems/html-proofer) to validate
 HTML (especially links and whatever). All of the dependencies are installed via
