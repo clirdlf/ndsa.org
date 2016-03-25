@@ -1,19 +1,18 @@
 var members = {
   "type": "FeatureCollection",
   "features": [
+    <% @features.each do |feature| %>
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          <%= @lon %>,
-          <%= @lat %>
-        ]
+        "coordinates": [<%= feature[:longitude] %>, <%= feature[:latitude] %>]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<%= popup %>"
+        "popupContent": "<h2><a href=\"<%= feature[:website] %>\"><%= feature[:organization] %></a></h2><p>Partner since <strong><%= feature[:joined].strftime("%B %Y") %></strong></p>"
       },
-      "id": <%= counter %>
+      "id": <%= feature[:id] %>
     },
+    <% end %>
   ]
 };
