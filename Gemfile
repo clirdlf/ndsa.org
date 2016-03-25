@@ -9,6 +9,7 @@ gem "google_drive"
 gem "dotenv"
 gem "colorize"
 gem 'geocoder'
+gem "rake"
 
 gem 'html-proofer'
 gem 'ra11y'
