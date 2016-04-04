@@ -1,3 +1,5 @@
+#! /usr/bin/env ruby
+
 require 'google/api_client'
 require 'google_drive'
 require 'mail'
@@ -117,7 +119,8 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
 
     names << contact2 unless additional_contacts.include? contact2[:email]
     names << contact3 unless additional_contacts.include? contact3[:email]
-    puts "Names: #{names}" if organization == 'The Miami Music Museum, Inc.'
+
+    puts "Sending email to #{organization}"
     # puts additional_contacts.size
     # puts parse_name contact1_name
     # puts "#{contact3_name} - #{contact3_email}" if additional_contacts.include?(contact3_email) && contact3_name == ''
