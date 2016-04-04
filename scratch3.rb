@@ -17,6 +17,14 @@ def parse_name(name)
     first_name
 end
 
+def split_emails(names)
+    emails = ""
+    names.each do |name|
+        emails += "#{name[:email]},"
+    end
+    emails
+end
+
 def format_names_txt(names)
     txt = ''
     names.each do |name|
@@ -41,6 +49,19 @@ def format_names_html(names)
     end
 end
 
+def format_cc_names(names)
+    cc_names = ""
+    names.each do |name|
+        cc_names += "#{name[:name]}"
+        if(names.size > 0)
+            ## TODO remove last ,
+            cc_names += ","
+        end
+    end
+    puts cc_names
+    cc_names
+end
+
 def text_markup(primary_contact, organization, secondary_contacts)
     markup = <<-TEXT
 Dear #{parse_name(primary_contact)},
@@ -60,6 +81,8 @@ Thanks very much for your help! We're grateful for your time and attention. If y
 Warmly,
 
 Oliver Bendorf (on behalf of DLF)
+
+Cc: #{format_cc_names(secondary_contacts)}
 
     TEXT
 end
@@ -83,6 +106,8 @@ def html_markup(primary_contact, organization, secondary_contacts)
 <p>Warmly,<br>
 
 Oliver Bendorf (on behalf of DLF)</p>
+
+<p>Cc: #{format_cc_names(secondary_contacts)}</p>
 HTML
 end
 
@@ -131,6 +156,7 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
     mail = Mail.new do
         from 'National Digital Stewardship Alliance <ndsa@diglib.org>'
         to contact1_email
+        cc "#{split_emails names}"
         #   to "#{contacts.uniq.each {|email| "#{email}," }}"
         subject "#{organization} NDSA Membership Renewal"
 
@@ -145,4 +171,5 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
         end
     end
     mail.deliver
+    # break
 end
