@@ -56,12 +56,13 @@ def format_cc_names(names)
     cc_names = ""
     names.each do |name|
         cc_names += "#{name[:name]}" unless name[:name] == ""
+
         if(names.size > 0 && name[:name] != "")
             ## TODO remove last ,
             cc_names += ", "
         end
     end
-    cc_names
+    "Cc: #{cc_names.chop.chop}" unless names.size == 0
 end
 
 def text_markup(primary_contact, organization, secondary_contacts)
@@ -85,7 +86,7 @@ Warmly,
 
 Oliver Bendorf (on behalf of DLF)
 
-Cc: #{format_cc_names(secondary_contacts)}
+#{format_cc_names(secondary_contacts)}
 
     TEXT
 end
@@ -110,7 +111,7 @@ def html_markup(primary_contact, organization, secondary_contacts)
 
 Oliver Bendorf (on behalf of DLF)</p>
 
-<p>Cc: #{format_cc_names(secondary_contacts)}</p>
+<p>#{format_cc_names(secondary_contacts)}</p>
 HTML
 end
 
