@@ -84,6 +84,8 @@ Thanks very much for your help! We're grateful for your time and attention. If y
 Warmly,
 
 Oliver Bendorf (on behalf of DLF)
+Program Associate, Digital Library Federation
+
 
 #{format_cc_names(secondary_contacts)}
 
@@ -106,9 +108,11 @@ def html_markup(primary_contact, organization, secondary_contacts)
 
 <p>Thanks very much for your help! We're grateful for your time and attention. If you have any questions about the membership renewal process, please let us know.</p>
 
-<p>Warmly,<br>
+<p>Warmly,</p>
 
-Oliver Bendorf (on behalf of DLF)</p>
+<p>Oliver Bendorf (on behalf of DLF)<br>
+Program Associate, Digital Library Federation
+</p>
 
 <p>#{format_cc_names(secondary_contacts)}</p>
 HTML
