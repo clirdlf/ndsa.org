@@ -12,6 +12,9 @@ Our [2016 conference](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) 
 
 *Digital Preservation 2016* ([#digipres16](https://twitter.com/search?q=%23digipres16&src=typd)) will help to chart future directions for the NDSA, and is expected to be a crucial venue for intellectual exchange, community-building, development of best practices, and national-level agenda-setting in the field.
 
+### Call for Proposals
+A CFP will be issued by late April. [Stay tuned](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) for more information!
+
 ### 2016 Program Committee
 - **Helen Tibbo**, UNC-Chapel Hill (chair)
 - **Nicky Agate**, Modern Language Association
@@ -27,9 +30,6 @@ Our [2016 conference](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) 
 - **Bethany Nowviskie**, Digital Library Federation
 - **Sibyl Schaefer**, UC-San Diego
 - **Frederick Zarndt**, Global Connexions
-
-### Call for Proposals
-A CFP will be issued by late April. [Stay tuned](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) for more information!
 
 ## Past Meetings
 
