@@ -3,6 +3,7 @@
 require 'google/api_client'
 require 'google_drive'
 require 'mail'
+require 'colorize'
 
 Mail.defaults do
     delivery_method :smtp, address: 'localhost', port: 1025
@@ -18,6 +19,7 @@ def parse_name(name)
 end
 
 def split_emails(names)
+    puts names
     emails = ""
     names.each do |name|
         emails += "#{name[:email]}," unless name[:email] == ""
@@ -35,10 +37,11 @@ def format_names_txt(names)
     txt
 end
 
-def format_names_html(names)
+def format_names_html(primary, names)
     html = ''
     if names.size > 0
         html += '<ul>'
+        html += "<li>#{primary}</li>"
         names.each do |name|
             html += '<li>'
             html += "#{name[:name]}: " unless name[:name] == ''
@@ -69,6 +72,7 @@ We are in the process of renewing memberships and updating contact information f
 
 Currently we have these contacts on record for #{organization}:
 
+#{primary_contact}
 #{format_names_txt secondary_contacts}
 
 Please simply reply to this email to let us know whether your information is up to date, and if you would like to add and/or remove any individuals from our records. Your response also affirms #{organization}'s continuing commitment to the NDSA Values Statement (http://ndsa.diglib.org/values/) and to participation as outlined in our Statement of Commitment (http://ndsa.diglib.org/get-involved/). No formal MoU is necessary for continued participation in the National Digital Stewardship Alliance.
@@ -94,7 +98,7 @@ def html_markup(primary_contact, organization, secondary_contacts)
 
 <p>Currently we have these contacts on record for #{organization}:</p>
 
-#{format_names_html secondary_contacts}
+#{format_names_html(primary_contact, secondary_contacts)}
 
 <p>Please simply <strong>reply to this email</strong> to let us know whether your information is up to date, and if you would like to add and/or remove any individuals from our records. Your response also affirms #{organization}'s continuing commitment to the <a href="http://ndsa.diglib.org/values/">NDSA Values Statement</a> and to participation as outlined in our <a href="http://ndsa.diglib.org/get-involved/">Statement of Commitment</a>. <strong>No formal MoU is necessary for continued participation in the National Digital Stewardship Alliance</strong>.</p>
 
@@ -123,11 +127,11 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
     contact1_name  = ws[row, 8]
     contact1_email = ws[row, 10]
 
+    contact2_name  = ws[row, 14]
     contact2_email = ws[row, 16]
-    contact2_name  = ws[row, 17]
 
+    contact3_name  = ws[row, 17]
     contact3_email = ws[row, 19]
-    contact3_name  = ws[row, 21]
 
     additional_contacts = [
         # contact1_email,
@@ -138,15 +142,25 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
     additional_contacts.uniq!
 
     names = []
-    if(additional_contacts.size > 0)
-        contact2 = { name: contact2_name, email: contact2_email }
-        contact3 = { name: contact3_name, email: contact3_email }
 
-        names << contact2 unless additional_contacts.include? contact2[:email]
-        names << contact3 unless additional_contacts.include? contact3[:email]
+    puts "Sending email to #{organization}".colorize(:blue)
+    if(additional_contacts.size > 0)
+        contact2 = { :name => contact2_name, :email => contact2_email,  role: 'secondary' }
+        puts "additional_contacts: #{additional_contacts.inspect.colorize(:yellow)}"
+        names << contact2 if additional_contacts.include?(contact2[:email])
+
+        contact3 = { name: contact3_name, email: contact3_email, role: 'Tertiary' }
+        names << contact3 if additional_contacts.include? contact3[:email]
+
+        puts "#{contact2_name}  | test: #{additional_contacts.include? contact2[:email]}"
+        puts "#{contact3_name} | test: #{additional_contacts.include? contact2[:email]}"
+        # puts "Names: #{contact2}, #{contact3}"
     end
 
-    puts "Sending email to #{organization}"
+
+
+
+
     # puts additional_contacts.size
     # puts parse_name contact1_name
     # puts "#{contact3_name} - #{contact3_email}" if additional_contacts.include?(contact3_email) && contact3_name == ''
