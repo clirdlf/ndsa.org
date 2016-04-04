@@ -58,7 +58,7 @@ def format_cc_names(names)
         cc_names += "#{name[:name]}" unless name[:name] == ""
         if(names.size > 0 && name[:name] != "")
             ## TODO remove last ,
-            cc_names += ","
+            cc_names += ", "
         end
     end
     cc_names
