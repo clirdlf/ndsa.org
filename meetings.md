@@ -13,7 +13,7 @@ Our [2016 conference](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) 
 *Digital Preservation 2016* ([#digipres16](https://twitter.com/search?q=%23digipres16&src=typd)) will help to chart future directions for the NDSA, and is expected to be a crucial venue for intellectual exchange, community-building, development of best practices, and national-level agenda-setting in the field.
 
 ### Call for Proposals
-A CFP will be issued by late April. [Stay tuned](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) for more information!
+A CFP will be issued by mid April. Stay tuned here, at [@NDSA2](https://twitter.com/ndsa2) on Twitter, and at the [DLF Forum website](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) for more information!
 
 ### 2016 Program Committee
 - **Helen Tibbo**, UNC-Chapel Hill (chair)
