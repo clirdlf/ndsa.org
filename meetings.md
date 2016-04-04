@@ -5,14 +5,31 @@ permalink: /meetings/
 ---
 <img alt="meetings" src='{{ "/images/icons/presentation.png" | prepend: site.baseurl }}'>
 
-## Digital Preservation 2016 
+## Digital Preservation 2016
 *Digital Preservation* is the major meeting and conference of the NDSA, open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike, and focusing on digital stewardship and preservation, data curation, and related issues.
 
 Our [2016 conference](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) will be the first organized in partnership with the [Digital Library Federation](https://diglib.org/). Mark your calendars for November 9-10, 2016, and we'll see you at the historic [Pfister Hotel](http://www.thepfisterhotel.com/) in Milwaukee, WI, just after the closing of the [2016 DLF Forum](https://www.diglib.org/forums/2016forum/).
 
 *Digital Preservation 2016* ([#digipres16](https://twitter.com/search?q=%23digipres16&src=typd)) will help to chart future directions for the NDSA, and is expected to be a crucial venue for intellectual exchange, community-building, development of best practices, and national-level agenda-setting in the field.
 
-A CFP will be issued by late April. [Stay tuned](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) for more information!
+### Call for Proposals
+A CFP will be issued by mid April. Stay tuned here, at [@NDSA2](https://twitter.com/ndsa2) on Twitter, and at the [DLF Forum website](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) for more information!
+
+### 2016 Program Committee
+- **Helen Tibbo**, UNC-Chapel Hill (chair)
+- **Nicky Agate**, Modern Language Association
+- **Mitch Brodsky**, New York Philharmonic
+- **Aaron Collie**, Michigan State University
+- **George Coulbourne**, Library of Congress
+- **Heidi Dowding**, Indiana University
+- **Bonnie Gordon**, Rockefeller Archives Center
+- **Carol Kussmann**, University of Minnesota
+- **Margaret Maes**, Legal Information Preservation Alliance
+- **Jenny Mullins**, Dartmouth College
+- **Miranda Nixon**, University of Pittsburgh
+- **Bethany Nowviskie**, Digital Library Federation
+- **Sibyl Schaefer**, UC-San Diego
+- **Frederick Zarndt**, Global Connexions
 
 ## Past Meetings
 
