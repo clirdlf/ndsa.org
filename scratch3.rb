@@ -132,6 +132,7 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
         subject "#{organization} NDSA Membership Renewal"
 
         text_part do
+            content_type 'text/plain; charset=UTF-8'
             body text_markup(contact1_name, organization, names)
         end
 
