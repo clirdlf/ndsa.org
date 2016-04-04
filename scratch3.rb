@@ -68,7 +68,7 @@ def text_markup(primary_contact, organization, secondary_contacts)
     markup = <<-TEXT
 Dear #{parse_name(primary_contact)},
 
-We are in the process of renewing memberships and updating contact information for organizational members of the National Digital Stewardship Alliance (NDSA), now proudly hosted by the Digital Library Federation. Soon, the NDSA Coordinating Committee will circulate an important letter about ongoing activities and plans for elections, awards, Digital Preservation 2016, and more—so we're asking for a minute of your time to help us make sure that letter reaches the right folks.
+We are in the process of renewing memberships and updating contact information for organizational members of the National Digital Stewardship Alliance (NDSA), now proudly hosted by the <a href="https://diglib.org">Digital Library Federation</a>. Soon, the NDSA Coordinating Committee will circulate an important letter about ongoing activities and plans for elections, awards, Digital Preservation 2016, and more—so we're asking for a minute of your time to help us make sure that letter reaches the right folks.
 
 Currently we have these contacts on record for #{organization}:
 
