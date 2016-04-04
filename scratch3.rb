@@ -20,7 +20,7 @@ end
 def split_emails(names)
     emails = ""
     names.each do |name|
-        emails += "#{name[:email]},"
+        emails += "#{name[:email]}," unless name[:email] == ""
     end
     emails
 end
@@ -29,7 +29,7 @@ def format_names_txt(names)
     txt = ''
     names.each do |name|
         txt += "#{name[:name]}: " unless name[:name] == ''
-        txt += (name[:email]).to_s unless name[:email] == ''
+        txt += (name[:email]) unless name[:email] == ''
     end
 
     txt
@@ -52,13 +52,12 @@ end
 def format_cc_names(names)
     cc_names = ""
     names.each do |name|
-        cc_names += "#{name[:name]}"
-        if(names.size > 0)
+        cc_names += "#{name[:name]}" unless name[:name] == ""
+        if(names.size > 0 && name[:name] != "")
             ## TODO remove last ,
             cc_names += ","
         end
     end
-    puts cc_names
     cc_names
 end
 
@@ -139,11 +138,13 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
     additional_contacts.uniq!
 
     names = []
-    contact2 = { name: contact2_name, email: contact2_email }
-    contact3 = { name: contact3_name, email: contact3_email }
+    if(additional_contacts.size > 0)
+        contact2 = { name: contact2_name, email: contact2_email }
+        contact3 = { name: contact3_name, email: contact3_email }
 
-    names << contact2 unless additional_contacts.include? contact2[:email]
-    names << contact3 unless additional_contacts.include? contact3[:email]
+        names << contact2 unless additional_contacts.include? contact2[:email]
+        names << contact3 unless additional_contacts.include? contact3[:email]
+    end
 
     puts "Sending email to #{organization}"
     # puts additional_contacts.size
