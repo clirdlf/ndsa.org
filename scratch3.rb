@@ -19,7 +19,7 @@ def parse_name(name)
 end
 
 def split_emails(names)
-    puts names
+    # puts names
     emails = ""
     names.each do |name|
         emails += "#{name[:email]}," unless name[:email] == ""
@@ -38,18 +38,17 @@ def format_names_txt(names)
 end
 
 def format_names_html(primary, names)
-    html = ''
+    html = '<ul>'
+    html += "<li>#{primary}</li>"
     if names.size > 0
-        html += '<ul>'
-        html += "<li>#{primary}</li>"
         names.each do |name|
             html += '<li>'
             html += "#{name[:name]}: " unless name[:name] == ''
             html += (name[:email]).to_s unless name[:email] == ''
             html += '</li>'
         end
-        html += '</ul>'
     end
+    html += '</ul>'
 end
 
 def format_cc_names(names)
@@ -147,14 +146,14 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
     puts "Sending email to #{organization}".colorize(:blue)
     if(additional_contacts.size > 0)
         contact2 = { :name => contact2_name, :email => contact2_email,  role: 'secondary' }
-        puts "additional_contacts: #{additional_contacts.inspect.colorize(:yellow)}"
+        # puts "additional_contacts: #{additional_contacts.inspect.colorize(:yellow)}"
         names << contact2 if additional_contacts.include?(contact2[:email])
 
         contact3 = { name: contact3_name, email: contact3_email, role: 'Tertiary' }
         names << contact3 if additional_contacts.include? contact3[:email]
 
-        puts "#{contact2_name}  | test: #{additional_contacts.include? contact2[:email]}"
-        puts "#{contact3_name} | test: #{additional_contacts.include? contact2[:email]}"
+        # puts "#{contact2_name}  | test: #{additional_contacts.include? contact2[:email]}"
+        # puts "#{contact3_name} | test: #{additional_contacts.include? contact2[:email]}"
         # puts "Names: #{contact2}, #{contact3}"
     end
 
