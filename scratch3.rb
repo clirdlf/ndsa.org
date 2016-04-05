@@ -19,7 +19,6 @@ def parse_name(name)
 end
 
 def split_emails(names)
-    # puts names
     emails = ""
     names.each do |name|
         emails += "#{name[:email]}," unless name[:email] == "" || name[:email] == "x"
@@ -59,7 +58,6 @@ def format_cc_names(names)
         cc_names += "#{name[:name]}" unless name[:name] == ""
 
         if(names.size > 0 && name[:name] != "")
-            ## TODO remove last ,
             cc_names += ", "
         end
     end
@@ -140,7 +138,6 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
     contact3_email = ws[row, 19]
 
     additional_contacts = [
-        # contact1_email,
         contact2_email,
         contact3_email
     ].reject(&:empty?).reject { |value| value == contact1_email }
@@ -152,33 +149,16 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
     puts "Sending email to #{organization}".colorize(:blue)
     if(additional_contacts.size > 0)
         contact2 = { :name => contact2_name, :email => contact2_email,  role: 'secondary' }
-        # puts "additional_contacts: #{additional_contacts.inspect.colorize(:yellow)}"
         names << contact2 if additional_contacts.include?(contact2[:email])
 
         contact3 = { name: contact3_name, email: contact3_email, role: 'Tertiary' }
         names << contact3 if additional_contacts.include? contact3[:email]
-
-        # puts "#{contact2_name}  | test: #{additional_contacts.include? contact2[:email]}"
-        # puts "#{contact3_name} | test: #{additional_contacts.include? contact2[:email]}"
-        # puts "Names: #{contact2}, #{contact3}"
     end
-
-
-
-
-
-    # puts additional_contacts.size
-    # puts parse_name contact1_name
-    # puts "#{contact3_name} - #{contact3_email}" if additional_contacts.include?(contact3_email) && contact3_name == ''
-    # puts "#{contact2_name} - #{contact2_email}" if (additional_contacts.include?(contact2_email) && contact2_name == "")
-    # puts "#{organization} | #{contact1_email}" if contact1_name.length == 0
-    # puts "#{contact1_email}: additional contacts: #{additional_contacts}"
 
     mail = Mail.new do
         from 'National Digital Stewardship Alliance <ndsa@diglib.org>'
         to contact1_email
         cc "#{split_emails names}"
-        #   to "#{contacts.uniq.each {|email| "#{email}," }}"
         subject "#{organization} NDSA Membership Renewal"
 
         text_part do
