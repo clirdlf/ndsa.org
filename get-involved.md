@@ -1,10 +1,10 @@
 ---
-title: Get Involved
+title: Join us!
 layout: page
 permalink: /get-involved/
 ---
 
-Ready to join the NDSA? Please submit a brief [membership application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform).
+Ready to join the NDSA? Please submit a brief **[membership application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform)**.
 
 
 ## Is the NDSA a good fit for my organization?
@@ -26,8 +26,6 @@ Members share in the advantages of the NDSA, including:
 - Participating in efforts to develop and implement [tools and infrastructure](/infrastructure/), services, [standards](/standards-and-practices/), and training;
 - Taking part in a national [outreach](outreach-working-group/) program to build public awareness;
 - Learning about digital preservation practices from a network of thought leaders.
-
-Download the [NDSA Membership Packet](http://digitalpreservation.gov/ndsa/documents/MembershipPacket201311.pdf) for detailed information on benefits.
 
 ## Commitment
 There are no fees or dues for membership in the NDSA. (NDSA is financially supported by the [Digital Library Federation](https://diglib.org/), which also provides communications infrastructure and staff time.) But the real longevity and value of the NDSA depends on members contributing their efforts to working groups and sharing their knowledge and expertise.
@@ -52,3 +50,6 @@ The NDSA welcomes applications from potential consortial members and membership 
 
 ## Commercial Members and Vendors
 Applications are welcome from all sectors. All members must share the [core values](/values/) of the NDSA and agree to maintain vendor neutrality.
+
+#Join the NDSA
+Ready to become an NDSA member? Please submit a brief [ application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform) on behalf of your organization.
