@@ -31,7 +31,7 @@ def format_names_txt(names)
     txt = ''
     names.each do |name|
         txt += "#{name[:name]}: " unless name[:name] == ''
-        txt += (name[:email]) unless name[:email] == '' || name[:email] == 'x'
+        txt += (name[:email])  unless name[:email] == '' || name[:email] == 'x'
         txt += "Email not available" if name[:email] == 'x'
     end
 
