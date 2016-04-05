@@ -148,11 +148,11 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
 
     puts "Sending email to #{organization}".colorize(:blue)
     if(additional_contacts.size > 0)
-        contact2 = { :name => contact2_name, :email => contact2_email,  role: 'secondary' }
+        contact2 = { :name => contact2_name, :email => contact2_email }
         names << contact2 if additional_contacts.include?(contact2[:email])
 
-        contact3 = { name: contact3_name, email: contact3_email, role: 'Tertiary' }
-        names << contact3 if additional_contacts.include? contact3[:email]
+        contact3 = { name: contact3_name, email: contact3_email }
+        names << contact3 if additional_contacts.include? contact3[:email] && contact2 != contact3
     end
 
     mail = Mail.new do
