@@ -16,7 +16,7 @@ The NDSA organizes a national network of collaborative partners to take stewards
 - Building relationships with stakeholder communities;
 - Preparing and sharing digital preservation information resources.
 
-If you're not an NDSA member, we urge you to [get involved](/get-involved/)! Our Coordinating Committee reviews applications from new members on a monthly basis. 
+**If you're not yet an NDSA member, we urge you to [get involved](/get-involved/)!** Our Coordinating Committee reviews applications from new members on a monthly basis. 
 
 ## Resources for Members
 - [A full list of NDSA Member Organizations](/members-list/)
