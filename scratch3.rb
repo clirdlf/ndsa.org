@@ -18,6 +18,15 @@ def parse_name(name)
     first_name
 end
 
+def email_hash(primary, names)
+    recipients = []
+    recipients << { email: primary }
+    names.each do |name|
+        recipients << { email: name[:email] }
+    end
+    recipients
+end
+
 def split_emails(names)
     emails = ""
     names.each do |name|
@@ -154,7 +163,7 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
         contact3 = { name: contact3_name, email: contact3_email }
         names << contact3 if additional_contacts.include? contact3[:email] && contact2 != contact3
     end
-
+    # puts email_hash(contact1_email, names)
     mail = Mail.new do
         from 'National Digital Stewardship Alliance <ndsa@diglib.org>'
         to contact1_email
@@ -172,5 +181,4 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
         end
     end
     mail.deliver
-    # break
 end
