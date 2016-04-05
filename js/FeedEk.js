@@ -37,7 +37,7 @@
                 }
 
                 // add link to site home
-                s += '<li><h1 class="summary"><a href="http://blogs.loc.gov/digitalpreservation/category/ndsa-2/">See More</a></div></li>';
+                s += '<li><h1 class="summary"><a href="https://www.diglib.org/topics/ndsa/">See More</a></div></li>';
 
                 $.each(data.query.results.feed, function (e, itm) {
                     s += '<li><div class="itemTitle"><a href="' + itm.entry.link.href + '" target="' + def.TitleLinkTarget + '" >' + itm.entry.title.content + '</a></div>';

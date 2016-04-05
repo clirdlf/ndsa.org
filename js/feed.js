@@ -1,6 +1,6 @@
 $(document).ready(function() {
   $('#blog').FeedEk({
-    // FeedUrl: 'https://www.diglib.org/topics/community/dlfcollaborations/ndsa/feed/',
+    // FeedUrl: 'https://www.diglib.org/topics/ndsa/feed/',
     FeedUrl: 'http://mix.chimpfeedr.com/7f8d0-NDSA', // mix the feed for LoC & diglib
     MaxCount: 5,
     ShowDesc: true,
