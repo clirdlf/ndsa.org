@@ -22,7 +22,7 @@ def split_emails(names)
     # puts names
     emails = ""
     names.each do |name|
-        emails += "#{name[:email]}," unless name[:email] == ""
+        emails += "#{name[:email]}," unless name[:email] == "" || name[:email] == "x"
     end
     emails
 end
@@ -31,7 +31,8 @@ def format_names_txt(names)
     txt = ''
     names.each do |name|
         txt += "#{name[:name]}: " unless name[:name] == ''
-        txt += (name[:email]) unless name[:email] == ''
+        txt += (name[:email]) unless name[:email] == '' || name[:email] == 'x'
+        txt += "Email not available" if name[:email] == 'x'
     end
 
     txt
@@ -44,7 +45,8 @@ def format_names_html(primary, names)
         names.each do |name|
             html += '<li>'
             html += "#{name[:name]}: " unless name[:name] == ''
-            html += (name[:email]).to_s unless name[:email] == ''
+            html += (name[:email]) unless name[:email] == '' || name[:email] == 'x'
+            html += "Email not available" if name[:email] == 'x'
             html += '</li>'
         end
     end
