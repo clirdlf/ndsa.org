@@ -27,7 +27,7 @@ A CFP will be issued by mid April. Stay tuned here, at [@NDSA2](https://twitter.
 - **Margaret Maes**, Legal Information Preservation Alliance
 - **Jenny Mullins**, Dartmouth College
 - **Miranda Nixon**, University of Pittsburgh
-- **Bethany Nowviskie**, Digital Library Federation
+- **Bethany Nowviskie**, Digital Library Federation (ex officio)
 - **Sibyl Schaefer**, UC-San Diego
 - **Frederick Zarndt**, Global Connexions
 
