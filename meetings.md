@@ -22,7 +22,7 @@ A CFP will be issued by mid April. Stay tuned here, at [@NDSA2](https://twitter.
 - **Aaron Collie**, Michigan State University
 - **George Coulbourne**, Library of Congress
 - **Heidi Dowding**, Indiana University
-- **Bonnie Gordon**, Rockefeller Archives Center
+- **Bonnie Gordon**, Rockefeller Archive Center
 - **Carol Kussmann**, University of Minnesota
 - **Margaret Maes**, Legal Information Preservation Alliance
 - **Jenny Mullins**, Dartmouth College
