@@ -82,6 +82,8 @@ Digital Curator of Journalism, Reynolds Journalism Institute; Founder, Dodging t
 
 As digital curator of journalism, Edward McCain leads the Journalism Digital News Archive (JDNA); a strategic change agenda addressing issues surrounding access and preservation of digital news collections. He works with faculty and staff at the Missouri School of Journalism, building a framework of linked programs and functions designed to support and enhance digital news archives. Prior to coming to the University, McCain assisted in the publications licensing and marketing department at the University of Arizona Center for Creative Photography in Tucson, Ariz., Before that he worked as a freelance photographer for more than 25 years creating award-winning editorial and advertising images for print and electronic media including Arizona Highways, The Los Angeles Times, National Geographic Traveler, Sports Illustrated, Sunset Magazine, The Washington Post and for various corporations. McCain is a member of the NDSA Content Working Group.
 
+Email address: mccaine@rjionline.org
+
 ## Carol Minton Morris
 Director of Marketing and Communications, DuraSpace
 
