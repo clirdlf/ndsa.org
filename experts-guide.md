@@ -77,6 +77,11 @@ Jane Mandelbaum is currently leading and guiding enterprise‐wide projects and 
 
 Email address: jman@LOC.GOV
 
+## Edward McCain
+Digital Curator of Journalism, Reynolds Journalism Institute; Founder, Dodging the Memory Hole / JDNA
+
+As digital curator of journalism, Edward McCain leads the Journalism Digital News Archive (JDNA); a strategic change agenda addressing issues surrounding access and preservation of digital news collections. He works with faculty and staff at the Missouri School of Journalism, building a framework of linked programs and functions designed to support and enhance digital news archives. Prior to coming to the University, McCain assisted in the publications licensing and marketing department at the University of Arizona Center for Creative Photography in Tucson, Ariz., Before that he worked as a freelance photographer for more than 25 years creating award-winning editorial and advertising images for print and electronic media including Arizona Highways, The Los Angeles Times, National Geographic Traveler, Sports Illustrated, Sunset Magazine, The Washington Post and for various corporations. McCain is a member of the NDSA Content Working Group.
+
 ## Carol Minton Morris
 Director of Marketing and Communications, DuraSpace
 
@@ -120,7 +125,7 @@ Email address: tibbo@EMAIL.UNC.EDU
 ## Kate Wittenberg
 Managing Director, Portico
 
-Before taking on the leadership of Portico, Kate Wittenberg was Project Director, Client and Partnership Development in Ithaka S+R, where she focused on building partnerships among scholars, publishers, libraries, technology providers, and scholarly societies with an interest in promoting the development and sustainability of digital scholarship and learning. Before joining Ithaka, she directed the Electronic Publishing Initiative at Columbia, a collaboration of the libraries, academic computing, and university press.. Kate serves on the NDSA Coordinating Committee.
+Before taking on the leadership of Portico, Kate Wittenberg was Project Director, Client and Partnership Development in Ithaka S+R, where she focused on building partnerships among scholars, publishers, libraries, technology providers, and scholarly societies with an interest in promoting the development and sustainability of digital scholarship and learning. Before joining Ithaka, she directed the Electronic Publishing Initiative at Columbia, a collaboration of the libraries, academic computing, and university press. Kate serves on the NDSA Coordinating Committee.
 
 Email address: Kate.Wittenberg@ITHAKA.ORG
 
