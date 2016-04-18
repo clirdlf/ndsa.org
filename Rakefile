@@ -83,9 +83,7 @@ def spreadsheet
 end
 
 def clean_website(link)
-  link = "http://#{link}" unless link[/^https?:\/\//] || link.length == 0
-
-  link
+  "http://#{link}" unless link[/^https?:\/\//] || link.length == 0
 end
 
 task default: 'convert:all'
