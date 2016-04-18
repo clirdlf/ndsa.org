@@ -5,12 +5,12 @@ permalink: /meetings/
 ---
 <img alt="meetings" src='{{ "/images/icons/presentation.png" | prepend: site.baseurl }}'>
 
-## Digital Preservation 2016
+## Digital Preservation 2016: "Building Communities of Practice"
 This year's revived NDSA conference will be the first organized in partnership with the [Digital Library Federation](https://diglib.org/). Stay tuned here, at [@NDSA2](https://twitter.com/ndsa2) and [#digipres16](https://twitter.com/search?q=%23digipres16&src=typd) on Twitter, and at the [DLF Forum website](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) for more information!
 
 Mark your calendars for November 9-10, 2016, and we'll see you at in Milwaukee, just after the closing of the [2016 DLF Forum](https://www.diglib.org/forums/2016forum/).
 
-### Call for Proposals: Digital Preservation 2016: "Building Communities of Practice"
+### Call for Proposals
 The National Digital Stewardship Alliance (NDSA) invites proposals for Digital Preservation 2016, to be held in Milwaukee, Wisconsin, 9-10 November 2016.
 
 *Digital Preservation* is the major meeting and conference of the NDSA—open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues. Our 2016 meeting will be the first held in partnership with our new host organization, the Digital Library Federation (DLF). Separate calls are being issued for the [DLF Liberal Arts Colleges Pre-Conference](https://www.diglib.org/forums/2016forum/dlf-liberal-arts-colleges-preconference/) (6 November) and [2016 DLF Forum](https://www.diglib.org/forums/2016forum/) (7-9 November)—all happening in the same location.
