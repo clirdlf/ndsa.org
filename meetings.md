@@ -39,7 +39,7 @@ We especially encourage proposals that speak to our conference theme, “Buildin
 
 All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified in July and guaranteed a registration slot at the conference.
 
-###US Presidential Election Notice
+### US Presidential Election Notice
 
 Attendees arriving early for the DLF Forum (November 7-9) will want to plan ahead for early/absentee voting in the 2016 US Presidential Election. Full, state-by-state nonpartisan ballot information and important voter deadlines are available here: [https://diglib.org/absentee/](https://diglib.org/absentee/).
 
