@@ -33,13 +33,13 @@ The conference will be held at the historic [Pfister Hotel](http://www.thepfiste
 
 We especially encourage proposals that speak to our conference theme, “Building Communities of Practice.” Submissions are invited in the following lengths and formats:
 
-Talks/Demos: Presentations and demonstrations are allocated 20 minutes each. Speakers should reserve time for interactive exchanges on next steps, possible NDSA community action, and discussion or debate.
+**Talks/Demos:** Presentations and demonstrations are allocated 20 minutes each. Speakers should reserve time for interactive exchanges on next steps, possible NDSA community action, and discussion or debate.
 
-Panels: Panel discussions with 4 or more speakers will be given a dedicated session. Organizers are especially encouraged to include as diverse an array of perspectives and voices as possible, and to reserve time for audience Q&A.  
+**Panels:** Panel discussions with 4 or more speakers will be given a dedicated session. Organizers are especially encouraged to include as diverse an array of perspectives and voices as possible, and to reserve time for audience Q&A.  
 
-Posters: Poster presenters will have the opportunity to interact with attendees one-on-one or in small groups, to exchange ideas and engage in conversation. (Guidelines for poster sizes will be provided on acceptance.)
+**Posters:** Poster presenters will have the opportunity to interact with attendees one-on-one or in small groups, to exchange ideas and engage in conversation. (Guidelines for poster sizes will be provided on acceptance.)
 
-Lunchtime Working Group Meetings: NDSA working and interest group chairs are invited to propose group meetings or targeted collaboration sessions. (Lunch provided.)
+**Lunchtime Working Group Meetings:** NDSA working and interest group chairs are invited to propose group meetings or targeted collaboration sessions. (Lunch provided.)
 
 All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified in July and guaranteed a registration slot at the conference.
 
