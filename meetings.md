@@ -54,7 +54,7 @@ Registration includes a continental breakfast, hot lunch, coffee breaks, and the
 Regular: $200
 Student rate: $150
 
-Conference registration will open in late Spring, but [https://www.diglib.org/forums/2016forum/hotel-travel/](room bookings are available) at Milwaukee's Pfister Hotel now. (We encourage early room reservations!) Information on registration for the DLF Forum and Liberal Arts Colleges Pre-Conference is [https://www.diglib.org/forums/2016forum/registration/](also available).
+Conference registration will open in late Spring, but [room bookings are available](https://www.diglib.org/forums/2016forum/hotel-travel/) at Milwaukee's Pfister Hotel now. (We encourage early room reservations!) Information on registration for the DLF Forum and Liberal Arts Colleges Pre-Conference is [https://www.diglib.org/forums/2016forum/registration/](also available).
 
 ### 2016 Program Committee
 - **Helen Tibbo**, UNC-Chapel Hill (chair)
