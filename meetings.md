@@ -6,18 +6,14 @@ permalink: /meetings/
 <img alt="meetings" src='{{ "/images/icons/presentation.png" | prepend: site.baseurl }}'>
 
 ## Digital Preservation 2016
-*Digital Preservation* is the major meeting and conference of the NDSA, open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike, and focusing on digital stewardship and preservation, data curation, and related issues.
+This year's revived NDSA conference will be the first organized in partnership with the [Digital Library Federation](https://diglib.org/). Stay tuned here, at [@NDSA2](https://twitter.com/ndsa2) and [#digipres16](https://twitter.com/search?q=%23digipres16&src=typd) on Twitter, and at the [DLF Forum website](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) for more information!
 
-Our [2016 conference](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) will be the first organized in partnership with the [Digital Library Federation](https://diglib.org/). Mark your calendars for November 9-10, 2016, and we'll see you at the historic [Pfister Hotel](http://www.thepfisterhotel.com/) in Milwaukee, WI, just after the closing of the [2016 DLF Forum](https://www.diglib.org/forums/2016forum/).
-
-*Digital Preservation 2016* ([#digipres16](https://twitter.com/search?q=%23digipres16&src=typd)) will help to chart future directions for the NDSA, and is expected to be a crucial venue for intellectual exchange, community-building, development of best practices, and national-level agenda-setting in the field.
-
-Stay tuned here, at [@NDSA2](https://twitter.com/ndsa2) on Twitter, and at the [DLF Forum website](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) for more information!
+Mark your calendars for November 9-10, 2016, and we'll see you at in Milwaukee, just after the closing of the [2016 DLF Forum](https://www.diglib.org/forums/2016forum/).
 
 ### Call for Proposals: Digital Preservation 2016: "Building Communities of Practice"
 The National Digital Stewardship Alliance (NDSA) invites proposals for Digital Preservation 2016, to be held in Milwaukee, Wisconsin, 9-10 November 2016.
 
-Digital Preservation is the major meeting and conference of the NDSA—open to members and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues. Our 2016 meeting will be the first held in partnership with our new host organization, the Digital Library Federation (DLF). Separate calls are being issued for the [DLF Liberal Arts Colleges Pre-Conference](https://www.diglib.org/forums/2016forum/dlf-liberal-arts-colleges-preconference/) (6 November) and [2016 DLF Forum](https://www.diglib.org/forums/2016forum/) (7-9 November)—all happening in the same location: https://diglib.org/DLFforum2016/
+*Digital Preservation* is the major meeting and conference of the NDSA—open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues. Our 2016 meeting will be the first held in partnership with our new host organization, the Digital Library Federation (DLF). Separate calls are being issued for the [DLF Liberal Arts Colleges Pre-Conference](https://www.diglib.org/forums/2016forum/dlf-liberal-arts-colleges-preconference/) (6 November) and [2016 DLF Forum](https://www.diglib.org/forums/2016forum/) (7-9 November)—all happening in the same location: https://diglib.org/DLFforum2016/
 
 Proposals are [due by May 15th](https://conftool.pro/dlf2016/) at 11:59pm Pacific Time.  
 
@@ -43,7 +39,7 @@ We especially encourage proposals that speak to our conference theme, “Buildin
 
 All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified in July and guaranteed a registration slot at the conference.
 
-**US Presidential Election Notice:**
+###US Presidential Election Notice
 
 Attendees arriving early for the DLF Forum (November 7-9) will want to plan ahead for early/absentee voting in the 2016 US Presidential Election. Full, state-by-state nonpartisan ballot information and important voter deadlines are available here: [https://diglib.org/absentee/](https://diglib.org/absentee/).
 
@@ -51,10 +47,10 @@ Attendees arriving early for the DLF Forum (November 7-9) will want to plan ahea
 
 Registration includes a continental breakfast, hot lunch, coffee breaks, and the NDSA reception.
 
-Regular: $200
-Student rate: $150
+- Regular: $200
+- Student rate: $150
 
-Conference registration will open in late Spring, but [https://www.diglib.org/forums/2016forum/hotel-travel/](room bookings are available) at Milwaukee's Pfister Hotel now. (We encourage early room reservations!) Information on registration for the DLF Forum and Liberal Arts Colleges Pre-Conference is [https://www.diglib.org/forums/2016forum/registration/](also available).
+Conference registration will open in late Spring, but [https://www.diglib.org/forums/2016forum/hotel-travel/](room bookings are available) at Milwaukee's historic [Pfister Hotel](http://www.thepfisterhotel.com/) now. (We encourage early room reservations!) Information on registration for the DLF Forum and Liberal Arts Colleges Pre-Conference is [https://www.diglib.org/forums/2016forum/registration/](also available).
 
 ### 2016 Program Committee
 - **Helen Tibbo**, UNC-Chapel Hill (chair)
