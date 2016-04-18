@@ -47,6 +47,15 @@ All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. P
 
 Attendees arriving early for the DLF Forum (November 7-9) will want to plan ahead for early/absentee voting in the 2016 US Presidential Election. Full, state-by-state nonpartisan ballot information and important voter deadlines are available here: [https://diglib.org/absentee/](https://diglib.org/absentee/).
 
+### Travel and registration
+
+Registration includes a continental breakfast, hot lunch, coffee breaks, and the NDSA reception.
+
+Regular: $200
+Student rate: $150
+
+Conference registration will open in late Spring, but [https://www.diglib.org/forums/2016forum/hotel-travel/](room bookings are available) at Milwaukee's Pfister Hotel now. (We encourage early room reservations!) Information on registration for the DLF Forum and Liberal Arts Colleges Pre-Conference is [https://www.diglib.org/forums/2016forum/registration/](also available).
+
 ### 2016 Program Committee
 - **Helen Tibbo**, UNC-Chapel Hill (chair)
 - **Nicky Agate**, Modern Language Association
