@@ -21,13 +21,13 @@ Digital Preservation is the major meeting and conference of the NDSA—open to m
 
 Proposals are [due by May 15th](https://conftool.pro/dlf2016/) at 11:59pm Pacific Time.  
 
-About the NDSA and Digital Preservation 2016:
+**About the NDSA and Digital Preservation 2016:**
 
 The National Digital Stewardship Alliance is a consortium of [more than 160 organizations](http://ndsa.diglib.org/members-list/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. Digital Preservation 2016 ([#digipres16](https://twitter.com/search?q=%23digipres16&src=typd)) will help to chart future directions for both the NDSA and digital stewardship, and is expected to be a crucial venue for intellectual exchange, community-building, development of best practices, and national-level agenda-setting in the field.
 
 The conference will be held at the historic [Pfister Hotel](http://www.thepfisterhotel.com/), just blocks from Lake Michigan, the [Milwaukee Art Museum](http://mam.org/), restaurants, and nightlife. The hotel has an incredible Victorian art collection, an artist-in-residence program, and a spa. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/forums/2016forum/code-of-conduct/). Childcare subsidies for DLF Forum attendees also participating in Digital Preservation 2016 may be extended upon request. Contact [ndsa@diglib.org](ndsa@diglib.org) for more information.
 
-Submissions:
+**Submissions:**
 
 250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected. Submit proposals online: [https://conftool.pro/dlf2016/](https://conftool.pro/dlf2016/). Deadline: May 15th, 2016 at 11:59pm PT.
 
@@ -43,7 +43,7 @@ Lunchtime Working Group Meetings: NDSA working and interest group chairs are inv
 
 All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified in July and guaranteed a registration slot at the conference.
 
-US Presidential Election Notice:
+**US Presidential Election Notice:**
 
 Attendees arriving early for the DLF Forum (November 7-9) will want to plan ahead for early/absentee voting in the 2016 US Presidential Election. Full, state-by-state nonpartisan ballot information and important voter deadlines are available here: [https://diglib.org/absentee/](https://diglib.org/absentee/).
 
