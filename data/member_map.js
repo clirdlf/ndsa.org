@@ -9,7 +9,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.lib.jmu.edu\">James Madison University Libraries and Educational Technologies</a></h2><p>Partner since <strong>February 2016</strong></p>"
+        "popupContent": "<h2><a href=\"\">James Madison University Libraries and Educational Technologies</a></h2><p>Partner since <strong>February 2016</strong></p>"
       },
       "id": 1
     },
@@ -45,7 +45,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://dpn.org\">Digital Preservation Network (DPN)</a></h2><p>Partner since <strong>March 2016</strong></p>"
+        "popupContent": "<h2><a href=\"\">Digital Preservation Network (DPN)</a></h2><p>Partner since <strong>March 2016</strong></p>"
       },
       "id": 4
     },
@@ -81,7 +81,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.purchase.edu/departments/library\">Purchase College Library</a></h2><p>Partner since <strong>April 2016</strong></p>"
+        "popupContent": "<h2><a href=\"\">Purchase College Library</a></h2><p>Partner since <strong>April 2016</strong></p>"
       },
       "id": 7
     },
@@ -93,7 +93,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.historydc.org/\">Historical Society of Washington, D.C.</a></h2><p>Partner since <strong>May 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Historical Society of Washington, D.C.</a></h2><p>Partner since <strong>May 2014</strong></p>"
       },
       "id": 8
     },
@@ -105,7 +105,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://search.library.cmu.edu/\">Carnegie Mellon University Libraries</a></h2><p>Partner since <strong>April 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Carnegie Mellon University Libraries</a></h2><p>Partner since <strong>April 2014</strong></p>"
       },
       "id": 9
     },
@@ -117,7 +117,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://vcgi.vermont.gov\">VT Center for Geographic Information</a></h2><p>Partner since <strong>May 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">VT Center for Geographic Information</a></h2><p>Partner since <strong>May 2014</strong></p>"
       },
       "id": 10
     },
@@ -129,7 +129,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.sos.ca.gov/archives/\">California State Archives</a></h2><p>Partner since <strong>February 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">California State Archives</a></h2><p>Partner since <strong>February 2012</strong></p>"
       },
       "id": 11
     },
@@ -141,7 +141,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://gvsu.edu/library/\">Grand Valley State University Libraries</a></h2><p>Partner since <strong>May 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Grand Valley State University Libraries</a></h2><p>Partner since <strong>May 2014</strong></p>"
       },
       "id": 12
     },
@@ -153,7 +153,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.kshs.org\">Kansas State Historical Society</a></h2><p>Partner since <strong>February 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Kansas State Historical Society</a></h2><p>Partner since <strong>February 2011</strong></p>"
       },
       "id": 13
     },
@@ -165,7 +165,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.lib.k-state.edu/\">Kansas State University Libraries</a></h2><p>Partner since <strong>May 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Kansas State University Libraries</a></h2><p>Partner since <strong>May 2014</strong></p>"
       },
       "id": 14
     },
@@ -177,7 +177,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://nsla.nevadaculture.org\">Nevada State Library and Archives</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Nevada State Library and Archives</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
       "id": 15
     },
@@ -189,7 +189,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://chnm.gmu.edu\">Roy Rosenzweig Center for History and New Media (RRCHNM), George Mason University</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Roy Rosenzweig Center for History and New Media (RRCHNM), George Mason University</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
       "id": 16
     },
@@ -201,7 +201,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.archivemediapartners.com/AMPed\">Archive Media Partners</a></h2><p>Partner since <strong>June 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Archive Media Partners</a></h2><p>Partner since <strong>June 2011</strong></p>"
       },
       "id": 17
     },
@@ -213,7 +213,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://research.stlouisfed.organdhttp://fraser.stlouisfed.org\">Federal Reserve Bank of St. Louis</a></h2><p>Partner since <strong>November 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Federal Reserve Bank of St. Louis</a></h2><p>Partner since <strong>November 2010</strong></p>"
       },
       "id": 18
     },
@@ -225,7 +225,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://libraries.idaho.gov/\">Idaho Commission for Libraries</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Idaho Commission for Libraries</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 19
     },
@@ -237,7 +237,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.evault.com/\">EVault, a Seagate Company</a></h2><p>Partner since <strong>December 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">EVault, a Seagate Company</a></h2><p>Partner since <strong>December 2013</strong></p>"
       },
       "id": 20
     },
@@ -249,7 +249,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.mass.gov/lib\">State Library of Massachusetts</a></h2><p>Partner since <strong>January 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">State Library of Massachusetts</a></h2><p>Partner since <strong>January 2012</strong></p>"
       },
       "id": 21
     },
@@ -261,7 +261,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.lib.az.us\">Arizona State Library, Archives and Public Records</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Arizona State Library, Archives and Public Records</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 22
     },
@@ -273,7 +273,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://npr.org\">NPR (National Public Radio)</a></h2><p>Partner since <strong>May 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">NPR (National Public Radio)</a></h2><p>Partner since <strong>May 2014</strong></p>"
       },
       "id": 23
     },
@@ -285,7 +285,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://history.idaho.gov/library_archives.html\">Idaho State Archives, A Division of the Idaho State Historical Society</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Idaho State Archives, A Division of the Idaho State Historical Society</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 24
     },
@@ -297,7 +297,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.adlerplanetarium.org\">Adler Planetarium</a></h2><p>Partner since <strong>November 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Adler Planetarium</a></h2><p>Partner since <strong>November 2012</strong></p>"
       },
       "id": 25
     },
@@ -309,7 +309,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.cdlib.org\">California Digital Library</a></h2><p>Partner since <strong>September 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">California Digital Library</a></h2><p>Partner since <strong>September 2010</strong></p>"
       },
       "id": 26
     },
@@ -321,7 +321,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://fclaweb.fcla.edu\">Florida Center for Library Automation</a></h2><p>Partner since <strong>June 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Florida Center for Library Automation</a></h2><p>Partner since <strong>June 2011</strong></p>"
       },
       "id": 27
     },
@@ -333,7 +333,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.forever.com\">Forever, Inc.</a></h2><p>Partner since <strong>April 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Forever, Inc.</a></h2><p>Partner since <strong>April 2014</strong></p>"
       },
       "id": 28
     },
@@ -345,7 +345,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ezphotoscanning.com\">i/oTrak, Inc. - E-Z Photo Scan</a></h2><p>Partner since <strong>August 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">i/oTrak, Inc. - E-Z Photo Scan</a></h2><p>Partner since <strong>August 2011</strong></p>"
       },
       "id": 29
     },
@@ -357,7 +357,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.libraries.iub.edu/\">Indiana University Libraries</a></h2><p>Partner since <strong>July 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Indiana University Libraries</a></h2><p>Partner since <strong>July 2011</strong></p>"
       },
       "id": 30
     },
@@ -369,7 +369,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://archive.mprnews.org/\">Minnesota Public Radio | American Public Media</a></h2><p>Partner since <strong>July 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Minnesota Public Radio | American Public Media</a></h2><p>Partner since <strong>July 2011</strong></p>"
       },
       "id": 31
     },
@@ -381,7 +381,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://itsd.mt.gov/default.mcpx\">Montana Dept. of Administration/State Info Technology Services Division</a></h2><p>Partner since <strong>July 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Montana Dept. of Administration/State Info Technology Services Division</a></h2><p>Partner since <strong>July 2011</strong></p>"
       },
       "id": 32
     },
@@ -393,7 +393,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.neh.gov\">National Endowment for the Humanities</a></h2><p>Partner since <strong>February 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">National Endowment for the Humanities</a></h2><p>Partner since <strong>February 2011</strong></p>"
       },
       "id": 33
     },
@@ -429,7 +429,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ntis.gov\">National Technical Information Service</a></h2><p>Partner since <strong>April 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">National Technical Information Service</a></h2><p>Partner since <strong>April 2011</strong></p>"
       },
       "id": 36
     },
@@ -441,7 +441,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.cgia.state.nc.us\">North Carolina Center for Geographic Information and Analysis</a></h2><p>Partner since <strong>January 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">North Carolina Center for Geographic Information and Analysis</a></h2><p>Partner since <strong>January 2012</strong></p>"
       },
       "id": 37
     },
@@ -453,7 +453,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.nmstatelibrary.org\">New Mexico State Library</a></h2><p>Partner since <strong>July 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">New Mexico State Library</a></h2><p>Partner since <strong>July 2011</strong></p>"
       },
       "id": 38
     },
@@ -465,7 +465,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://not offered\">North Carolina State University Libraries</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">North Carolina State University Libraries</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 39
     },
@@ -477,7 +477,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.osti.gov/\">Office of Scientific and Technical Information, Department of Energy</a></h2><p>Partner since <strong>April 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Office of Scientific and Technical Information, Department of Energy</a></h2><p>Partner since <strong>April 2011</strong></p>"
       },
       "id": 40
     },
@@ -501,7 +501,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.oregon.gov/osl\">Oregon State Library</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Oregon State Library</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
       "id": 42
     },
@@ -513,7 +513,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ripleys.com\">Ripley Entertainment Inc.</a></h2><p>Partner since <strong>December 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Ripley Entertainment Inc.</a></h2><p>Partner since <strong>December 2011</strong></p>"
       },
       "id": 43
     },
@@ -525,7 +525,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.theresearchvolunteer.org\">The Research Volunteer Corporation</a></h2><p>Partner since <strong>May 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">The Research Volunteer Corporation</a></h2><p>Partner since <strong>May 2011</strong></p>"
       },
       "id": 44
     },
@@ -537,7 +537,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.fws.govandhttp://digitalmedia.fws.gov\">U.S. Fish and Wildlife Service</a></h2><p>Partner since <strong>November 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">U.S. Fish and Wildlife Service</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
       "id": 45
     },
@@ -549,7 +549,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.utk.edu\">University of Tennessee</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of Tennessee</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 46
     },
@@ -561,7 +561,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://doa.wi.gov\">Wisconsin Department of Administration</a></h2><p>Partner since <strong>November 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Wisconsin Department of Administration</a></h2><p>Partner since <strong>November 2010</strong></p>"
       },
       "id": 47
     },
@@ -573,7 +573,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.wistatedocuments.org\">Wisconsin Dept. of Public Instruction</a></h2><p>Partner since <strong>October 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Wisconsin Dept. of Public Instruction</a></h2><p>Partner since <strong>October 2011</strong></p>"
       },
       "id": 48
     },
@@ -585,7 +585,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.wnet.org/\">WNET</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">WNET</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 49
     },
@@ -597,7 +597,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.sc.edu/\">University of South Carolina</a></h2><p>Partner since <strong>December 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of South Carolina</a></h2><p>Partner since <strong>December 2011</strong></p>"
       },
       "id": 50
     },
@@ -609,7 +609,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.princeton.edu\">Princeton University Library</a></h2><p>Partner since <strong>January 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Princeton University Library</a></h2><p>Partner since <strong>January 2014</strong></p>"
       },
       "id": 51
     },
@@ -621,7 +621,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.library.georgetown.edu\">Georgetown University Library</a></h2><p>Partner since <strong>July 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Georgetown University Library</a></h2><p>Partner since <strong>July 2014</strong></p>"
       },
       "id": 52
     },
@@ -633,7 +633,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.dartmouth.edu\">Dartmouth College Library</a></h2><p>Partner since <strong>September 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Dartmouth College Library</a></h2><p>Partner since <strong>September 2014</strong></p>"
       },
       "id": 53
     },
@@ -645,7 +645,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.georgeblood.com/\">George Blood Audiovisual LC</a></h2><p>Partner since <strong>September 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">George Blood Audiovisual LC</a></h2><p>Partner since <strong>September 2014</strong></p>"
       },
       "id": 54
     },
@@ -657,7 +657,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.tsl.texas.gov\">Texas State Library and Archives Commission</a></h2><p>Partner since <strong>July 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Texas State Library and Archives Commission</a></h2><p>Partner since <strong>July 2014</strong></p>"
       },
       "id": 55
     },
@@ -669,7 +669,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.yale.edu\">Yale University Library</a></h2><p>Partner since <strong>July 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Yale University Library</a></h2><p>Partner since <strong>July 2014</strong></p>"
       },
       "id": 56
     },
@@ -681,7 +681,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.instrumental.com\">Seagate Government Solutions</a></h2><p>Partner since <strong>July 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Seagate Government Solutions</a></h2><p>Partner since <strong>July 2014</strong></p>"
       },
       "id": 57
     },
@@ -693,7 +693,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://rockarch.org/\">Rockefeller Archive Center</a></h2><p>Partner since <strong>October 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Rockefeller Archive Center</a></h2><p>Partner since <strong>October 2014</strong></p>"
       },
       "id": 58
     },
@@ -705,7 +705,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http:// https://gallingerconsult.wordpress.com\">Gallinger Consulting</a></h2><p>Partner since <strong>October 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Gallinger Consulting</a></h2><p>Partner since <strong>October 2014</strong></p>"
       },
       "id": 59
     },
@@ -717,7 +717,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.library.vcu.edu/\">Virginia Commonwealth University Libraries</a></h2><p>Partner since <strong>October 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Virginia Commonwealth University Libraries</a></h2><p>Partner since <strong>October 2014</strong></p>"
       },
       "id": 60
     },
@@ -729,7 +729,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.llmc.com/\">LLMC-Digital (Law Library Microform Consortium)</a></h2><p>Partner since <strong>October 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">LLMC-Digital (Law Library Microform Consortium)</a></h2><p>Partner since <strong>October 2014</strong></p>"
       },
       "id": 61
     },
@@ -741,7 +741,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.sec.state.ma.us/arc/\">Massachusetts Archives</a></h2><p>Partner since <strong>November 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Massachusetts Archives</a></h2><p>Partner since <strong>November 2014</strong></p>"
       },
       "id": 62
     },
@@ -765,7 +765,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http:// https://arcc.sdcounty.ca.gov/pages/default.aspx\">San Diego County Recorder's Office</a></h2><p>Partner since <strong>March 2015</strong></p>"
+        "popupContent": "<h2><a href=\"\">San Diego County Recorder's Office</a></h2><p>Partner since <strong>March 2015</strong></p>"
       },
       "id": 64
     },
@@ -777,7 +777,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.marineband.marines.mil\">\"The President's Own\" United States Marine Band</a></h2><p>Partner since <strong>March 2015</strong></p>"
+        "popupContent": "<h2><a href=\"\">\"The President's Own\" United States Marine Band</a></h2><p>Partner since <strong>March 2015</strong></p>"
       },
       "id": 65
     },
@@ -789,7 +789,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.oscars.org/\">Academy of Motion Picture Arts and Sciences</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Academy of Motion Picture Arts and Sciences</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 66
     },
@@ -801,7 +801,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.archives.alabama.gov/\">Alabama Department of Archives and History</a></h2><p>Partner since <strong>May 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Alabama Department of Archives and History</a></h2><p>Partner since <strong>May 2014</strong></p>"
       },
       "id": 67
     },
@@ -825,7 +825,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.asmp.org\">American Society of Media Photographers</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">American Society of Media Photographers</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
       "id": 69
     },
@@ -837,7 +837,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.artstor.org\">ARTstor</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">ARTstor</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 70
     },
@@ -849,7 +849,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://lib.auburn.edu/\">Auburn University Libraries</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Auburn University Libraries</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
       "id": 71
     },
@@ -861,7 +861,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.archivenetwork.org\">Audiovisual Archive Network</a></h2><p>Partner since <strong>November 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Audiovisual Archive Network</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
       "id": 72
     },
@@ -873,7 +873,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.avpreserve.com\">AudioVisual Preservation Solutions</a></h2><p>Partner since <strong>July 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">AudioVisual Preservation Solutions</a></h2><p>Partner since <strong>July 2013</strong></p>"
       },
       "id": 73
     },
@@ -885,7 +885,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://n/a\">Bishoff Group, The</a></h2><p>Partner since <strong>October 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Bishoff Group, The</a></h2><p>Partner since <strong>October 2011</strong></p>"
       },
       "id": 74
     },
@@ -897,7 +897,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.vevasound.com\">VeVa Sound</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">VeVa Sound</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
       "id": 75
     },
@@ -909,7 +909,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.uiuc.edu\">Board of Trustees of the University of Illinois</a></h2><p>Partner since <strong>March 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Board of Trustees of the University of Illinois</a></h2><p>Partner since <strong>March 2014</strong></p>"
       },
       "id": 76
     },
@@ -921,7 +921,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://Http://www.bu.edu/library\">Boston University, Mugar Library</a></h2><p>Partner since <strong>August 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">Boston University, Mugar Library</a></h2><p>Partner since <strong>August 2013</strong></p>"
       },
       "id": 77
     },
@@ -933,7 +933,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.brown.edu\">Brown University Library</a></h2><p>Partner since <strong>November 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Brown University Library</a></h2><p>Partner since <strong>November 2012</strong></p>"
       },
       "id": 78
     },
@@ -945,7 +945,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.caltech.edu/\">California Institute of Technology</a></h2><p>Partner since <strong>August 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">California Institute of Technology</a></h2><p>Partner since <strong>August 2013</strong></p>"
       },
       "id": 79
     },
@@ -957,7 +957,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.library.ca.gov\">California State Library</a></h2><p>Partner since <strong>September 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">California State Library</a></h2><p>Partner since <strong>September 2010</strong></p>"
       },
       "id": 80
     },
@@ -969,7 +969,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://slis.cua.edu/\">Catholic University of America, School of Library & Information Science</a></h2><p>Partner since <strong>August 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Catholic University of America, School of Library & Information Science</a></h2><p>Partner since <strong>August 2011</strong></p>"
       },
       "id": 81
     },
@@ -981,7 +981,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://ccet.louisiana.edu\">Center for Cultural and Eco-Tourism-University of Louisiana</a></h2><p>Partner since <strong>January 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Center for Cultural and Eco-Tourism-University of Louisiana</a></h2><p>Partner since <strong>January 2012</strong></p>"
       },
       "id": 82
     },
@@ -993,7 +993,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ciesin.columbia.edu/\">Center for International Earth Science Information Network (CIESIN), Columbia University</a></h2><p>Partner since <strong>January 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Center for International Earth Science Information Network (CIESIN), Columbia University</a></h2><p>Partner since <strong>January 2011</strong></p>"
       },
       "id": 83
     },
@@ -1005,7 +1005,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.crl.edu\">Center for Research Libraries</a></h2><p>Partner since <strong>January 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Center for Research Libraries</a></h2><p>Partner since <strong>January 2011</strong></p>"
       },
       "id": 84
     },
@@ -1017,7 +1017,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http:// http://library.csu.edu/\">Chicago State University Library</a></h2><p>Partner since <strong>September 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">Chicago State University Library</a></h2><p>Partner since <strong>September 2013</strong></p>"
       },
       "id": 85
     },
@@ -1029,7 +1029,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.cni.org\">Coalition for Networked Information</a></h2><p>Partner since <strong>February 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">Coalition for Networked Information</a></h2><p>Partner since <strong>February 2013</strong></p>"
       },
       "id": 86
     },
@@ -1041,7 +1041,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.columbia.edu/cu/lweb/\">Columbia University Libraries / Information Services</a></h2><p>Partner since <strong>January 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Columbia University Libraries / Information Services</a></h2><p>Partner since <strong>January 2011</strong></p>"
       },
       "id": 87
     },
@@ -1053,7 +1053,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.library.cornell.edu\">Cornell University Library</a></h2><p>Partner since <strong>June 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Cornell University Library</a></h2><p>Partner since <strong>June 2011</strong></p>"
       },
       "id": 88
     },
@@ -1065,7 +1065,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.statearchivists.org\">Council of State Archivists</a></h2><p>Partner since <strong>August 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Council of State Archivists</a></h2><p>Partner since <strong>August 2011</strong></p>"
       },
       "id": 89
     },
@@ -1077,7 +1077,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.diglib.org\">Council on Library and Information Resources, including the Digital Library Federation</a></h2><p>Partner since <strong>April 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Council on Library and Information Resources, including the Digital Library Federation</a></h2><p>Partner since <strong>April 2011</strong></p>"
       },
       "id": 90
     },
@@ -1089,7 +1089,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.danceheritage.org\">Dance Heritage Coalition</a></h2><p>Partner since <strong>August 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">Dance Heritage Coalition</a></h2><p>Partner since <strong>August 2013</strong></p>"
       },
       "id": 91
     },
@@ -1101,7 +1101,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.icpsr.umich.edu/DATAPASS/\">Data Preservation Alliance for the Social Sciences (Data-PASS)</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Data Preservation Alliance for the Social Sciences (Data-PASS)</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 92
     },
@@ -1113,7 +1113,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://dp.la\">Digital Public Library of America (DPLA)</a></h2><p>Partner since <strong>May 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">Digital Public Library of America (DPLA)</a></h2><p>Partner since <strong>May 2013</strong></p>"
       },
       "id": 93
     },
@@ -1137,7 +1137,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.dlconsulting.com\">DL Consulting, Ltd.</a></h2><p>Partner since <strong>April 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">DL Consulting, Ltd.</a></h2><p>Partner since <strong>April 2013</strong></p>"
       },
       "id": 95
     },
@@ -1149,7 +1149,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.duke.edu/\">Duke University Libraries</a></h2><p>Partner since <strong>September 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Duke University Libraries</a></h2><p>Partner since <strong>September 2012</strong></p>"
       },
       "id": 96
     },
@@ -1161,7 +1161,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.duraspace.org\">DuraSpace</a></h2><p>Partner since <strong>February 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">DuraSpace</a></h2><p>Partner since <strong>February 2011</strong></p>"
       },
       "id": 97
     },
@@ -1173,7 +1173,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://educopia.org\">Educopia Institute</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Educopia Institute</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
       "id": 98
     },
@@ -1197,7 +1197,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.prattlibrary.org/\">Enoch Pratt Free Library</a></h2><p>Partner since <strong>December 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">Enoch Pratt Free Library</a></h2><p>Partner since <strong>December 2013</strong></p>"
       },
       "id": 100
     },
@@ -1209,7 +1209,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.exlibrisgroup.com/\">Ex Libris Group</a></h2><p>Partner since <strong>October 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Ex Libris Group</a></h2><p>Partner since <strong>October 2011</strong></p>"
       },
       "id": 101
     },
@@ -1221,7 +1221,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://www.fivecolleges.edu/\">Five Colleges, Inc.</a></h2><p>Partner since <strong>September 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Five Colleges, Inc.</a></h2><p>Partner since <strong>September 2012</strong></p>"
       },
       "id": 102
     },
@@ -1233,7 +1233,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.folger.edu\">Folger Shakespeare Library</a></h2><p>Partner since <strong>June 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">Folger Shakespeare Library</a></h2><p>Partner since <strong>June 2013</strong></p>"
       },
       "id": 103
     },
@@ -1245,7 +1245,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ll.georgetown.edu\">Georgetown University Law Library</a></h2><p>Partner since <strong>October 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Georgetown University Law Library</a></h2><p>Partner since <strong>October 2011</strong></p>"
       },
       "id": 104
     },
@@ -1257,7 +1257,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.gpo.gov\">Government Publishing Office</a></h2><p>Partner since <strong>December 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Government Publishing Office</a></h2><p>Partner since <strong>December 2010</strong></p>"
       },
       "id": 105
     },
@@ -1269,7 +1269,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.hagley.org\">Hagley Museum & Library</a></h2><p>Partner since <strong>August 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Hagley Museum & Library</a></h2><p>Partner since <strong>August 2011</strong></p>"
       },
       "id": 106
     },
@@ -1281,7 +1281,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.hampshire.edu/library/index_library.htm\">Hampshire College Library</a></h2><p>Partner since <strong>May 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Hampshire College Library</a></h2><p>Partner since <strong>May 2012</strong></p>"
       },
       "id": 107
     },
@@ -1293,7 +1293,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.harvard.edu\">Harvard University</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Harvard University</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 108
     },
@@ -1305,7 +1305,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://hawaii.gov/dags/archives\">Hawaii State Archives</a></h2><p>Partner since <strong>July 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Hawaii State Archives</a></h2><p>Partner since <strong>July 2011</strong></p>"
       },
       "id": 109
     },
@@ -1317,7 +1317,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.historyassociates.com\">History Associates</a></h2><p>Partner since <strong>March 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">History Associates</a></h2><p>Partner since <strong>March 2014</strong></p>"
       },
       "id": 110
     },
@@ -1329,7 +1329,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://HCLE.org\">History of Computing in Learning and Education</a></h2><p>Partner since <strong>October 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">History of Computing in Learning and Education</a></h2><p>Partner since <strong>October 2013</strong></p>"
       },
       "id": 111
     },
@@ -1341,7 +1341,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.in.gov/icpr\">Indiana Commmission on Public Records</a></h2><p>Partner since <strong>November 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Indiana Commmission on Public Records</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
       "id": 112
     },
@@ -1353,7 +1353,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.imls.gov\">Institute of Museum and Library Services</a></h2><p>Partner since <strong>May 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Institute of Museum and Library Services (Liaison to NDSA)</a></h2><p>Partner since <strong>May 2012</strong></p>"
       },
       "id": 113
     },
@@ -1365,7 +1365,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.archive.org\">Internet Archive</a></h2><p>Partner since <strong>September 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Internet Archive</a></h2><p>Partner since <strong>September 2010</strong></p>"
       },
       "id": 114
     },
@@ -1377,7 +1377,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.icpsr.org\">Inter-university Consortium for Political and Social Research</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Inter-university Consortium for Political and Social Research</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 115
     },
@@ -1389,7 +1389,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.jeffersoninst.org\">Jefferson Institute</a></h2><p>Partner since <strong>April 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Jefferson Institute</a></h2><p>Partner since <strong>April 2011</strong></p>"
       },
       "id": 116
     },
@@ -1401,7 +1401,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.library.jhu.edu/\">Johns Hopkins University, The Sheridan Libraries</a></h2><p>Partner since <strong>January 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Johns Hopkins University, The Sheridan Libraries</a></h2><p>Partner since <strong>January 2011</strong></p>"
       },
       "id": 117
     },
@@ -1413,7 +1413,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://jvc-media.com\">JVC Advanced Media USA, Inc</a></h2><p>Partner since <strong>March 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">JVC Advanced Media USA, Inc</a></h2><p>Partner since <strong>March 2012</strong></p>"
       },
       "id": 118
     },
@@ -1425,7 +1425,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://kdla.ky.gov/\">Kentucky Department for Libraries and Archives</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Kentucky Department for Libraries and Archives</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
       "id": 119
     },
@@ -1437,7 +1437,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.kmotifs.com\">Knowledge Motifs LLC</a></h2><p>Partner since <strong>November 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Knowledge Motifs LLC</a></h2><p>Partner since <strong>November 2012</strong></p>"
       },
       "id": 120
     },
@@ -1449,7 +1449,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.aallnet.org/committee/lipa/\">Legal Information Preservation Alliance</a></h2><p>Partner since <strong>February 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Legal Information Preservation Alliance</a></h2><p>Partner since <strong>February 2011</strong></p>"
       },
       "id": 121
     },
@@ -1461,7 +1461,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.librarycompany.org\">Library Company of Philadelphia</a></h2><p>Partner since <strong>November 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Library Company of Philadelphia</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
       "id": 122
     },
@@ -1473,7 +1473,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.lanl.gov\">Los Alamos National Laboratory Research Library</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Los Alamos National Laboratory Research Library</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
       "id": 123
     },
@@ -1497,7 +1497,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.MAM-A.Com\">MAM-A Inc.</a></h2><p>Partner since <strong>May 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">MAM-A Inc.</a></h2><p>Partner since <strong>May 2011</strong></p>"
       },
       "id": 125
     },
@@ -1509,7 +1509,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://md-diglib.org/\">Maryland Digital Library, Decker Library</a></h2><p>Partner since <strong>March 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Maryland Digital Library, Decker Library</a></h2><p>Partner since <strong>March 2014</strong></p>"
       },
       "id": 126
     },
@@ -1521,7 +1521,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://mdsa.net\">Maryland State Archives</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Maryland State Archives</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
       "id": 127
     },
@@ -1533,7 +1533,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://loriemerson.net/archeological-media-lab/\">Media Archaeology Lab</a></h2><p>Partner since <strong>September 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Media Archaeology Lab</a></h2><p>Partner since <strong>September 2012</strong></p>"
       },
       "id": 128
     },
@@ -1545,7 +1545,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://metro.org\">Metropolitan New York Library Council</a></h2><p>Partner since <strong>October 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Metropolitan New York Library Council</a></h2><p>Partner since <strong>October 2011</strong></p>"
       },
       "id": 129
     },
@@ -1557,7 +1557,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://archives.msu.edu\">Michigan State University Archives & Historical Collections</a></h2><p>Partner since <strong>November 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Michigan State University Archives & Historical Collections</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
       "id": 130
     },
@@ -1569,7 +1569,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.lib.msu.edu/\">Michigan State University Libraries</a></h2><p>Partner since <strong>August 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Michigan State University Libraries</a></h2><p>Partner since <strong>August 2011</strong></p>"
       },
       "id": 131
     },
@@ -1581,7 +1581,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.mnhs.org\">Minnesota Historical Society</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Minnesota Historical Society</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
       "id": 132
     },
@@ -1593,7 +1593,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://www.revisor.mn.gov\">Minnesota Office of the Revisor of Statutes</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Minnesota Office of the Revisor of Statutes</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
       "id": 133
     },
@@ -1605,7 +1605,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.mdah.state.ms.us\">Mississippi Department of Archives and History</a></h2><p>Partner since <strong>January 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Mississippi Department of Archives and History</a></h2><p>Partner since <strong>January 2012</strong></p>"
       },
       "id": 134
     },
@@ -1617,7 +1617,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http:// http://libraries.mit.edu/\">MIT Libraries</a></h2><p>Partner since <strong>November 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">MIT Libraries</a></h2><p>Partner since <strong>November 2012</strong></p>"
       },
       "id": 135
     },
@@ -1629,7 +1629,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.mullermedia.com\">Muller Media Conversions</a></h2><p>Partner since <strong>November 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Muller Media Conversions</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
       "id": 136
     },
@@ -1641,7 +1641,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.archives.gov\">National Archives and Records Administration</a></h2><p>Partner since <strong>November 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">National Archives and Records Administration</a></h2><p>Partner since <strong>November 2010</strong></p>"
       },
       "id": 137
     },
@@ -1653,7 +1653,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.ucar.edu/\">National Center for Atmospheric Research (NCAR) Library</a></h2><p>Partner since <strong>January 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">National Center for Atmospheric Research (NCAR) Library</a></h2><p>Partner since <strong>January 2013</strong></p>"
       },
       "id": 138
     },
@@ -1665,7 +1665,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ncsl.org\">National Conference of State Legislatures</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">National Conference of State Legislatures</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 139
     },
@@ -1677,7 +1677,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://nfb.ca\">National Film Board of Canada</a></h2><p>Partner since <strong>September 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">National Film Board of Canada</a></h2><p>Partner since <strong>September 2012</strong></p>"
       },
       "id": 140
     },
@@ -1689,7 +1689,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://npsfocus.nps.gov\">National Park Service</a></h2><p>Partner since <strong>November 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">National Park Service</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
       "id": 141
     },
@@ -1701,7 +1701,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ischool.pitt.edu\">NDSA Student Chapter at Pitt</a></h2><p>Partner since <strong>March 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">NDSA Student Chapter at Pitt</a></h2><p>Partner since <strong>March 2013</strong></p>"
       },
       "id": 142
     },
@@ -1713,7 +1713,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.nebraskahistory.org\">Nebraska State Historical Society</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Nebraska State Historical Society</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
       "id": 143
     },
@@ -1725,7 +1725,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.nhcgov.com/ROD/Pages/ROD.aspx\">New Hanover County Register of Deeds</a></h2><p>Partner since <strong>March 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">New Hanover County Register of Deeds</a></h2><p>Partner since <strong>March 2013</strong></p>"
       },
       "id": 144
     },
@@ -1737,7 +1737,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.nyarc.org\">New York Art Resources Consortium (NYARC)</a></h2><p>Partner since <strong>January 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">New York Art Resources Consortium (NYARC)</a></h2><p>Partner since <strong>January 2013</strong></p>"
       },
       "id": 145
     },
@@ -1749,7 +1749,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://archives.nyphil.org/\">New York Philharmonic</a></h2><p>Partner since <strong>November 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">New York Philharmonic</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
       "id": 146
     },
@@ -1761,7 +1761,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.nypl.org\">New York Public Library</a></h2><p>Partner since <strong>October 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">New York Public Library</a></h2><p>Partner since <strong>October 2011</strong></p>"
       },
       "id": 147
     },
@@ -1773,7 +1773,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.nyu.edu\">New York University</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">New York University</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
       "id": 148
     },
@@ -1785,7 +1785,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ncdcr.gov\">North Carolina Department of Cultural Resources</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">North Carolina Department of Cultural Resources</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 149
     },
@@ -1797,7 +1797,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://nedcc.org\">Northeast Document Conservation Center</a></h2><p>Partner since <strong>November 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Northeast Document Conservation Center</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
       "id": 150
     },
@@ -1809,7 +1809,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ulib.niu.edu/\">Northern Illinois University Library</a></h2><p>Partner since <strong>July 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">Northern Illinois University Library</a></h2><p>Partner since <strong>July 2013</strong></p>"
       },
       "id": 151
     },
@@ -1821,7 +1821,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.library.northwestern.edu\">Northwestern University</a></h2><p>Partner since <strong>August 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Northwestern University</a></h2><p>Partner since <strong>August 2012</strong></p>"
       },
       "id": 152
     },
@@ -1833,7 +1833,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.nuemeta.com\">NueMeta LLC</a></h2><p>Partner since <strong>April 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">NueMeta LLC</a></h2><p>Partner since <strong>April 2013</strong></p>"
       },
       "id": 153
     },
@@ -1845,7 +1845,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.oclc.org\">OCLC</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">OCLC</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 154
     },
@@ -1857,7 +1857,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.cs.odu.edu\">Old Dominion University, Department of Computer Science</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Old Dominion University, Department of Computer Science</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 155
     },
@@ -1869,7 +1869,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://popuparchive.org\">Pop Up Archive</a></h2><p>Partner since <strong>December 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Pop Up Archive</a></h2><p>Partner since <strong>December 2012</strong></p>"
       },
       "id": 156
     },
@@ -1881,7 +1881,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.portico.org\">Portico</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Portico</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 157
     },
@@ -1893,7 +1893,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.pratt.edu/sils\">Pratt Institute</a></h2><p>Partner since <strong>August 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Pratt Institute</a></h2><p>Partner since <strong>August 2012</strong></p>"
       },
       "id": 158
     },
@@ -1905,7 +1905,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://history.pcusa.org\">Presbyterian Historical Society</a></h2><p>Partner since <strong>February 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Presbyterian Historical Society</a></h2><p>Partner since <strong>February 2014</strong></p>"
       },
       "id": 159
     },
@@ -1917,7 +1917,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ptsem.edu\">Princeton Theological Seminary Library</a></h2><p>Partner since <strong>November 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Princeton Theological Seminary Library</a></h2><p>Partner since <strong>November 2012</strong></p>"
       },
       "id": 160
     },
@@ -1929,7 +1929,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.pria.us\">Property Records Industry Association (PRIA)</a></h2><p>Partner since <strong>April 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">Property Records Industry Association (PRIA)</a></h2><p>Partner since <strong>April 2013</strong></p>"
       },
       "id": 161
     },
@@ -1941,7 +1941,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.pbs.org\">Public Broadcasting Service</a></h2><p>Partner since <strong>November 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Public Broadcasting Service</a></h2><p>Partner since <strong>November 2010</strong></p>"
       },
       "id": 162
     },
@@ -1953,7 +1953,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.rhizome.org\">Rhizome</a></h2><p>Partner since <strong>September 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Rhizome</a></h2><p>Partner since <strong>September 2011</strong></p>"
       },
       "id": 163
     },
@@ -1965,7 +1965,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ropercenter.uconn.edu\">Roper Center for Public Opinion Research</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Roper Center for Public Opinion Research</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
       "id": 164
     },
@@ -1977,7 +1977,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.scola.org\">SCOLA</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">SCOLA</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
       "id": 165
     },
@@ -1989,7 +1989,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.si.edu\">Smithsonian Institution</a></h2><p>Partner since <strong>December 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Smithsonian Institution</a></h2><p>Partner since <strong>December 2010</strong></p>"
       },
       "id": 166
     },
@@ -2001,7 +2001,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://scdah.sc.gov\">South Carolina Department of Archives and History</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">South Carolina Department of Archives and History</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 167
     },
@@ -2013,7 +2013,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.stanford.edu\">Stanford University Libraries</a></h2><p>Partner since <strong>February 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Stanford University Libraries</a></h2><p>Partner since <strong>February 2011</strong></p>"
       },
       "id": 168
     },
@@ -2025,7 +2025,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://still-water.net/\">Still Water at the University of Maine</a></h2><p>Partner since <strong>July 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">Still Water at the University of Maine</a></h2><p>Partner since <strong>July 2013</strong></p>"
       },
       "id": 169
     },
@@ -2037,7 +2037,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.digital-preservation.com\">Tessella Inc</a></h2><p>Partner since <strong>June 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Preservica Inc.</a></h2><p>Partner since <strong>June 2011</strong></p>"
       },
       "id": 170
     },
@@ -2049,7 +2049,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.testroniclabs.com\">Testronic Labs</a></h2><p>Partner since <strong>May 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Testronic Labs</a></h2><p>Partner since <strong>May 2012</strong></p>"
       },
       "id": 171
     },
@@ -2061,7 +2061,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.library.ttu.edu/\">Texas Tech University Libraries</a></h2><p>Partner since <strong>January 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">Texas Tech University Libraries</a></h2><p>Partner since <strong>January 2013</strong></p>"
       },
       "id": 172
     },
@@ -2073,7 +2073,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.loc.gov/flicc\">The Federal Library and Information Network (FEDLINK)</a></h2><p>Partner since <strong>October 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">The Federal Library and Information Network (FEDLINK)</a></h2><p>Partner since <strong>October 2010</strong></p>"
       },
       "id": 173
     },
@@ -2085,7 +2085,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.lib.utexas.edu/\">The University of Texas at Austin</a></h2><p>Partner since <strong>June 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">The University of Texas at Austin</a></h2><p>Partner since <strong>June 2013</strong></p>"
       },
       "id": 174
     },
@@ -2097,7 +2097,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.thomsonreuters.com\">Thomson Reuters</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Thomson Reuters</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
       "id": 175
     },
@@ -2109,7 +2109,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.trumantechnologies.com\">Truman Technologies, LLC</a></h2><p>Partner since <strong>May 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Truman Technologies, LLC</a></h2><p>Partner since <strong>May 2012</strong></p>"
       },
       "id": 176
     },
@@ -2121,7 +2121,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ushmm.org\">United States Holocaust Memorial Museum</a></h2><p>Partner since <strong>March 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">United States Holocaust Memorial Museum</a></h2><p>Partner since <strong>March 2011</strong></p>"
       },
       "id": 177
     },
@@ -2133,7 +2133,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ualr.edu/cahc\">University of Arkansas at Little Rock Center for Arkansas History and Culture</a></h2><p>Partner since <strong>January 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of Arkansas at Little Rock Center for Arkansas History and Culture</a></h2><p>Partner since <strong>January 2014</strong></p>"
       },
       "id": 178
     },
@@ -2145,7 +2145,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://ucsd.edu\">University of California, San Diego</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of California, San Diego</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 179
     },
@@ -2157,7 +2157,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.lib.udel.edu\">University of Delaware Library</a></h2><p>Partner since <strong>February 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of Delaware Library</a></h2><p>Partner since <strong>February 2014</strong></p>"
       },
       "id": 180
     },
@@ -2169,7 +2169,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.uiowa.edu\">University of Iowa Libraries</a></h2><p>Partner since <strong>March 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of Iowa Libraries</a></h2><p>Partner since <strong>March 2010</strong></p>"
       },
       "id": 181
     },
@@ -2181,7 +2181,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.umd.edu\">University of Maryland</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of Maryland</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 182
     },
@@ -2193,7 +2193,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.library.umass.edu/\">University of Massachusetts Amherst Libraries</a></h2><p>Partner since <strong>November 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of Massachusetts Amherst Libraries</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
       "id": 183
     },
@@ -2205,7 +2205,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.umich.edu\">University of Michigan</a></h2><p>Partner since <strong>October 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of Michigan</a></h2><p>Partner since <strong>October 2010</strong></p>"
       },
       "id": 184
     },
@@ -2217,7 +2217,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.lib.umn.edu\">University of Minnesota Libraries</a></h2><p>Partner since <strong>August 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of Minnesota Libraries</a></h2><p>Partner since <strong>August 2011</strong></p>"
       },
       "id": 185
     },
@@ -2229,7 +2229,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://mulibraries.missouri.edu/\">University of Missouri Libraries</a></h2><p>Partner since <strong>August 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of Missouri Libraries</a></h2><p>Partner since <strong>August 2013</strong></p>"
       },
       "id": 186
     },
@@ -2241,7 +2241,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.unc.edu\">University of North Carolina at Chapel Hill</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of North Carolina at Chapel Hill</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
       "id": 187
     },
@@ -2253,7 +2253,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.library.unt.edu\">University of North Texas Libraries</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of North Texas Libraries</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
       "id": 188
     },
@@ -2265,7 +2265,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.usc.edu/libraries/\">University of Southern California</a></h2><p>Partner since <strong>February 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of Southern California</a></h2><p>Partner since <strong>February 2011</strong></p>"
       },
       "id": 189
     },
@@ -2277,7 +2277,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.lib.virginia.edu/\">University of Virginia</a></h2><p>Partner since <strong>January 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of Virginia</a></h2><p>Partner since <strong>January 2012</strong></p>"
       },
       "id": 190
     },
@@ -2289,7 +2289,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://gis.utah.gov\">Utah Automated Geographic Reference Center</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Utah Automated Geographic Reference Center</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 191
     },
@@ -2301,7 +2301,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://archives.utah.gov\">Utah Division of Archives and Records Service</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Utah Division of Archives and Records Service</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 192
     },
@@ -2313,7 +2313,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://vermontaccess.net/\">Vermont Access Network</a></h2><p>Partner since <strong>January 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Vermont Access Network</a></h2><p>Partner since <strong>January 2014</strong></p>"
       },
       "id": 193
     },
@@ -2325,7 +2325,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.vermont-archives.org\">Vermont State Archives and Records Administration</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Vermont State Archives and Records Administration</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
       "id": 194
     },
@@ -2337,7 +2337,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://scholar.lib.vt.edu/\">Virginia Tech</a></h2><p>Partner since <strong>June 2011</strong></p>"
+        "popupContent": "<h2><a href=\"\">Virginia Tech</a></h2><p>Partner since <strong>June 2011</strong></p>"
       },
       "id": 195
     },
@@ -2349,7 +2349,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.vtechgraphics.com\">Vtechgraphics LLC</a></h2><p>Partner since <strong>January 2014</strong></p>"
+        "popupContent": "<h2><a href=\"\">Vtechgraphics LLC</a></h2><p>Partner since <strong>January 2014</strong></p>"
       },
       "id": 196
     },
@@ -2361,7 +2361,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://zsr.wfu.edu/\">Wake Forest University/ Z. Smith Reynolds Library</a></h2><p>Partner since <strong>February 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Wake Forest University/ Z. Smith Reynolds Library</a></h2><p>Partner since <strong>February 2012</strong></p>"
       },
       "id": 197
     },
@@ -2373,7 +2373,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.historypin.com\">Historypin</a></h2><p>Partner since <strong>February 2012</strong></p>"
+        "popupContent": "<h2><a href=\"\">Historypin</a></h2><p>Partner since <strong>February 2012</strong></p>"
       },
       "id": 198
     },
@@ -2385,7 +2385,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://openvault.wgbh.org\">WGBH Educational Foundation</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">WGBH Educational Foundation</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
       "id": 199
     },
@@ -2397,7 +2397,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.wdolson.com\">William Dolson & Associates, LLC</a></h2><p>Partner since <strong>March 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">William Dolson & Associates, LLC</a></h2><p>Partner since <strong>March 2013</strong></p>"
       },
       "id": 200
     },
@@ -2409,7 +2409,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://archives.williams.edu\">Williams College</a></h2><p>Partner since <strong>June 2013</strong></p>"
+        "popupContent": "<h2><a href=\"\">Williams College</a></h2><p>Partner since <strong>June 2013</strong></p>"
       },
       "id": 201
     },
@@ -2421,7 +2421,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.wisconsinhistory.org\">Wisconsin Historical Society</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">Wisconsin Historical Society</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
       "id": 202
     },
@@ -2433,7 +2433,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.pitt.edu/\">University of Pittsburgh</a></h2><p>Partner since <strong>June 2015</strong></p>"
+        "popupContent": "<h2><a href=\"\">University of Pittsburgh</a></h2><p>Partner since <strong>June 2015</strong></p>"
       },
       "id": 203
     },
@@ -2445,7 +2445,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://miamimusicmuseum.org\">The Miami Music Museum, Inc.</a></h2><p>Partner since <strong>September 2015</strong></p>"
+        "popupContent": "<h2><a href=\"\">The Miami Music Museum, Inc.</a></h2><p>Partner since <strong>September 2015</strong></p>"
       },
       "id": 204
     },
@@ -2457,7 +2457,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.computerhistory.org\">Computer History Museum</a></h2><p>Partner since <strong>November 2015</strong></p>"
+        "popupContent": "<h2><a href=\"\">Computer History Museum</a></h2><p>Partner since <strong>November 2015</strong></p>"
       },
       "id": 205
     },
