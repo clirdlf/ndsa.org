@@ -3,7 +3,9 @@ title: Content Working Group
 layout: page
 permalink: /working-groups/content/
 ---
-**Content Working Group Co-Chairs**: Christie Moffatt, National Library of Medicine - moffattc at mail dot nlm dot nih dot gov; Abbey Potter, Library of Congress - abpo at loc dot gov.
+**Content Working Group Coordinators**: Christie Moffatt, National Library of Medicine - moffattc at mail dot nlm dot nih dot gov; Abbey Potter, Library of Congress - abpo at loc dot gov.
+
+Take me to the [Content Working Group Listserv](http://lists.clir.org/scripts/wa-CLIR.exe?A0=NDSA-CONTENT)! If you are already a member of this working group, you can always access the listserv (including its archives) at that link. To join this working group, please contact the coordinators.
 
 The Content Working Group is focusing on investigating guidelines for the selection of significant content, discovery of at-risk digital content or collections, and engaging all stakeholders in the process of acquiring the content, preserve it, and provide access to it. The Content Working Group's current scope of work involves "content teams" grouped in the following topical areas:
 
