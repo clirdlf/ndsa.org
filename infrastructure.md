@@ -5,6 +5,8 @@ permalink: /working-groups/infrastructure/
 ---
 **Infrastructure Working Group Co-Chairs**: Nick Krabbenhoeft - nick at codedculture dot org; Sibyl Schaefer, University of California, San Diego - sschaefer at ucsd dot edu
 
+*Take me to the [Infrastructure Working Group Listserv](http://lists.clir.org/scripts/wa-CLIR.exe?A0=NDSA-INFRASTRUCTURE)! If you are already a member of this working group, you can always access the listserv (including its archives) at that link. To join this working group, please contact the coordinators.*
+
 The Infrastructure Working Group works to identify and share emerging practices around the development and maintenance of tools and systems for the curation, preservation, storage, hosting, migration, and similar activities supporting the long term preservation of digital content.
 
 ## The NDSA Levels of Digital Preservation
