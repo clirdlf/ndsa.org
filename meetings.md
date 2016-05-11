@@ -10,6 +10,8 @@ This year's revived NDSA conference will be the first organized in partnership w
 
 Mark your calendars for November 9-10, 2016, and we'll see you at in Milwaukee, just after the closing of the [2016 DLF Forum](https://www.diglib.org/forums/2016forum/).
 
+**Keynote just announced!** The Digital Preservation 2016 keynote speaker will be **Bergis Jules**, University and Political Papers Archivist at the University of California, Riverside library, and will focus on the power and promise of diversity and inclusivity in digital preservation work. We will share a title and abstract in the coming months. Read the full announcement [here](https://www.diglib.org/archives/11840/).
+
 ### Call for Proposals
 The National Digital Stewardship Alliance (NDSA) invites proposals for Digital Preservation 2016, to be held in Milwaukee, Wisconsin, 9-10 November 2016.
 
