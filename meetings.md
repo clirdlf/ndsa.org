@@ -19,7 +19,7 @@ The National Digital Stewardship Alliance (NDSA) invites proposals for Digital P
 
 *Digital Preservation* is the major meeting and conference of the NDSA—open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues. Our 2016 meeting will be the first held in partnership with our new host organization, the Digital Library Federation (DLF). Separate calls are being issued for the [DLF Liberal Arts Colleges Pre-Conference](https://www.diglib.org/forums/2016forum/dlf-liberal-arts-colleges-preconference/) (6 November) and [2016 DLF Forum](https://www.diglib.org/forums/2016forum/) (7-9 November)—all happening in the same location.
 
-Proposals are [due by May 15th](https://conftool.pro/dlf2016/) at 11:59pm Pacific Time.  
+**EXTENDED DEADLINE!** Proposals are [due by May 23rd](https://conftool.pro/dlf2016/) at 11:59pm Pacific Time.  
 
 **About the NDSA and Digital Preservation 2016:**
 
