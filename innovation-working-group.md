@@ -9,7 +9,7 @@ permalink: /working-groups/innovation/
 
 By encouraging and sharing innovative methods of digital preservation practices and technologies, the Innovation Working group distributes, documents, and shares emerging concepts, while conducting and guiding research and development with engaged partners to explore new solutions and opportunities.
 
-This group administers the NDSA's Annual [Innovation Awards](/awards/).
+This group administers the NDSA's Annual [Innovation Awards](/awards/). Nominations are open until 8/1 for the 2016 NDSA Innovation Awards; [make a nomination](https://www.surveymonkey.com/r/ndsa2016innovationawards)!
 
 The innovation working group is currently engaged in two projects:
 
