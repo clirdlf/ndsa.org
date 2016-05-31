@@ -3,7 +3,7 @@ title: Content Working Group
 layout: page
 permalink: /working-groups/content/
 ---
-**Content Working Group Coordinators**: Christie Moffatt, National Library of Medicine - moffattc at mail dot nlm dot nih dot gov; Abbey Potter, Library of Congress - abpo at loc dot gov.
+**Content Working Group Co-Chairs:** Lauren Work, University of Virginia - lw2cd at eservices dot virginia dot edu; Maureen Harlow, Public Broadcasting Service - mmharlow at pbs dot org.
 
 *Take me to the [Content Working Group Listserv](http://lists.clir.org/scripts/wa-CLIR.exe?A0=NDSA-CONTENT)! If you are already a member of this working group, you can always access the listserv (including its archives) at that link. To join this working group, please contact the coordinators.*
 
