@@ -14,12 +14,9 @@ Mark your calendars for November 9-10, 2016, and we'll see you at in Milwaukee, 
 
 **Just announced!** The Digital Preservation 2016 keynote speaker will be **Bergis Jules**, University and Political Papers Archivist at the University of California, Riverside library, and will focus on the power and promise of diversity and inclusivity in digital preservation work. We will share a title and abstract in the coming months. Read the full announcement [here](https://www.diglib.org/archives/11840/).
 
-### Call for Proposals
-The National Digital Stewardship Alliance (NDSA) invites proposals for Digital Preservation 2016, to be held in Milwaukee, Wisconsin, 9-10 November 2016.
+### Call for Proposals - **CLOSED May 23, 2016.** Thank you for your contributions! All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified in July and guaranteed a registration slot at the conference.
 
 *Digital Preservation* is the major meeting and conference of the NDSA—open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues. Our 2016 meeting will be the first held in partnership with our new host organization, the Digital Library Federation (DLF). Separate calls are being issued for the [DLF Liberal Arts Colleges Pre-Conference](https://www.diglib.org/forums/2016forum/dlf-liberal-arts-colleges-preconference/) (6 November) and [2016 DLF Forum](https://www.diglib.org/forums/2016forum/) (7-9 November)—all happening in the same location.
-
-**EXTENDED DEADLINE!** Proposals are [due by May 23rd](https://conftool.pro/dlf2016/) at 11:59pm Pacific Time.  
 
 **About the NDSA and Digital Preservation 2016:**
 
@@ -29,7 +26,8 @@ The conference will be held at the historic [Pfister Hotel](http://www.thepfiste
 
 **Submissions:**
 
-250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected. Submit proposals online: [https://conftool.pro/dlf2016/](https://conftool.pro/dlf2016/). Deadline: May 15th, 2016 at 11:59pm PT.
+ **The CFP CLOSED May 23rd, 2016.**
+250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected. 
 
 We especially encourage proposals that speak to our conference theme, “Building Communities of Practice.” Submissions are invited in the following lengths and formats:
 
@@ -40,8 +38,6 @@ We especially encourage proposals that speak to our conference theme, “Buildin
 - **Posters:** Poster presenters will have the opportunity to interact with attendees one-on-one or in small groups, to exchange ideas and engage in conversation. (Guidelines for poster sizes will be provided on acceptance.)
 
 - **Lunchtime Working Group Meetings:** NDSA working and interest group chairs are invited to propose group meetings or targeted collaboration sessions. (Lunch provided.)
-
-All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified in July and guaranteed a registration slot at the conference.
 
 ### US Presidential Election Notice
 
