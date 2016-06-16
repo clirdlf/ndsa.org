@@ -51,5 +51,5 @@ The NDSA welcomes applications from potential consortial members and membership 
 ## Commercial Members and Vendors
 Applications are welcome from all sectors. All members must share the [core values](/values/) of the NDSA and agree to maintain vendor neutrality.
 
-##Join the NDSA
+## Join the NDSA
 **Ready to become an NDSA member?** Please submit a brief [ application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform) on behalf of your organization.
