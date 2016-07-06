@@ -13,12 +13,12 @@ The NDSA's institutional home as of January 1, 2016, is the [Digital Library Fed
 ### Who We Are
 The NDSA is a dynamic organization with more than 160 [member organizations](/members-list/), including universities, government and nonprofit organizations, commercial businesses, and professional associations. NDSA members have proven themselves in the field of digital stewardship.
 
-Activities of the NDSA are organized by 5 [working groups](/working-groups/), each with two co-chairs, and led by an elected [Coordinating Committee](/coordinating-committee/) with representation from the DLF.
+Activities of the NDSA are organized by 5 [working groups](/working-groups/), each with two co-chairs, and led by an elected [Coordinating Committee](/leadership/) with representation from the DLF.
 
 While membership in the NDSA is at the institutional level, individuals serving in leadership roles are highly experienced in the areas of digital stewardship and have made contributions to the field of digital preservation. A partial list of these individuals and their contact information is available through the [NDSA Experts Guide](/experts-guide/).
 
 ### How We Work
-NDSA members join by completing a membership application, agreeing to our Principles of Collaboration and Membership Agreement, found in the NDSA [Membership Packet](/documents/MembershipPacket201311.pdf), and by participating in [working groups](/working-groups/). There are no fees to join the NDSA but members do commit to work collaboratively and share expertise. An elected [Coordinating Committee](/coordinating-committee/) provides strategic direction for the NDSA.
+NDSA members join by completing a membership application, agreeing to our Principles of Collaboration and Membership Agreement, found in the NDSA [Membership Packet](/documents/MembershipPacket201311.pdf), and by participating in [working groups](/working-groups/). There are no fees to join the NDSA but members do commit to work collaboratively and share expertise. An elected [Coordinating Committee](/leadership/) provides strategic direction for the NDSA.
 
 ### What We Do
 The NDSA organizes a national network of collaborative partners to take stewardship action toward three primary objectives:

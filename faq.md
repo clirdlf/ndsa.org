@@ -41,7 +41,7 @@ If your organization has an active digital preservation program and wants to wor
 
 ### How can my organization check the status of our application?
 
-Our [Coordinating Committee](/coordinating-committee/) evaluates membership applications on a monthly basis. If it has been more than a month since you completed your application, please feel free to check in: <mailto:ndsa@diglib.org>
+Our [Coordinating Committee](/leadership/) evaluates membership applications on a monthly basis. If it has been more than a month since you completed your application, please feel free to check in: <mailto:ndsa@diglib.org>
 
 ### What commitment is expected if my organization joins the NDSA?
 
@@ -57,7 +57,7 @@ The NDSA does not provide funding for projects or building tools and infrastruct
 
 ### How does NDSA relate to the DLF? To CLIR?
 
-CLIR and the [Digital Library Federation](https://diglib.org/) believe strongly in NDSA's mission and [set of values](/values/). NDSA is financially supported by the DLF, which also provides communications infrastructure, staff time, and participation by the DLF director on NDSA's [Coordinating Committee](/coordinating-committee/). [CLIR](http://clir.org/) is the parent organization of the DLF, but DLF itself runs on independent membership fees. If you like what the Digital Library Federation is doing to support digital stewardship at no cost to NDSA members, please [join DLF](https://www.diglib.org/members/join/) and contribute!
+CLIR and the [Digital Library Federation](https://diglib.org/) believe strongly in NDSA's mission and [set of values](/values/). NDSA is financially supported by the DLF, which also provides communications infrastructure, staff time, and participation by the DLF director on NDSA's [Coordinating Committee](/leadership/). [CLIR](http://clir.org/) is the parent organization of the DLF, but DLF itself runs on independent membership fees. If you like what the Digital Library Federation is doing to support digital stewardship at no cost to NDSA members, please [join DLF](https://www.diglib.org/members/join/) and contribute!
 
 ## Participation
 
@@ -94,7 +94,7 @@ NDSA has several email lists for sharing information and coordinating activities
 
 ### How do members use the NDSA wiki?###
 
-NDSA maintains [public pages](https://wiki.diglib.org/NDSA:Main_Page) on the [DLF wiki](https://wiki.diglib.org/), to provide information about current activities and facilitate the work of the coordinating committee and working groups. Access it here: [NDSA wiki](https://wiki.diglib.org/NDSA:Main_Page). Editing privileges are reserved for NDSA members, who may request a username and password from <ndsa@diglib.org>. 
+NDSA maintains [public pages](https://wiki.diglib.org/NDSA:Main_Page) on the [DLF wiki](https://wiki.diglib.org/), to provide information about current activities and facilitate the work of the coordinating committee and working groups. Access it here: [NDSA wiki](https://wiki.diglib.org/NDSA:Main_Page). Editing privileges are reserved for NDSA members, who may request a username and password from <ndsa@diglib.org>.
 
 ### I just joined the NDSA. How can I get involved?###
 
