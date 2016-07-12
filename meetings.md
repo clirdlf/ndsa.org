@@ -37,6 +37,7 @@ We gratefully acknowledge the support of the following conference sponsors:
 - DLF, the [Digital Library Federation](https://www.diglib.org/)
 - DPN, the [Digital Preservation Network](http://dpn.org)
 
+If you or your organization would like to contribute to *Digital Preservation 2016,* please contact [Louisa Kwasigroch](mailto:lkwasigroch@clir.org).
 
 ### US Presidential Election Notice
 
