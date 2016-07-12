@@ -5,7 +5,7 @@ permalink: /working-groups/outreach/
 ---
 **Outreach Working Group Chair**: Carol Minton Morris, DuraSpace - cmmorris at fedora-commons dot org
 
-*Take me to the [Outreach Working Group Listserv](http://lists.clir.org/scripts/wa-CLIR.exe?A0=NDSA-OUTREACH)! If you are already a member of this working group, you can always access the listserv (including its archives) at that link. To join this working group, please contact the coordinator.*
+*Take me to the [Outreach Working Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-OUTREACH)! If you are already a member of this working group, you can always access the listserv (including its archives) at that link. To join this working group, please contact the coordinator.*
 
 The Outreach Working Group of the NDSA is focused on building relationships with stakeholder communities and preparing and sharing digital preservation information resources. These activities include: Identifying and assessing tools the NDSA community needs for communication; Identifying and promoting key digital preservation information resources; Defining opportunities for outreach within the NDSA and to the community beyond.
 

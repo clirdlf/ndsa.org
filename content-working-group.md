@@ -5,7 +5,7 @@ permalink: /working-groups/content/
 ---
 **Content Working Group Co-Chairs:** Lauren Work, University of Virginia - lw2cd at eservices dot virginia dot edu; Maureen Harlow, Public Broadcasting Service - mmharlow at pbs dot org.
 
-*Take me to the [Content Working Group Listserv](http://lists.clir.org/scripts/wa-CLIR.exe?A0=NDSA-CONTENT)! If you are already a member of this working group, you can always access the listserv (including its archives) at that link. To join this working group, please contact the coordinators.*
+*Take me to the [Content Working Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-CONTENT)! If you are already a member of this working group, you can always access the listserv (including its archives) at that link. To join this working group, please contact the coordinators.*
 
 The Content Working Group is focusing on investigating guidelines for the selection of significant content, discovery of at-risk digital content or collections, and engaging all stakeholders in the process of acquiring the content, preserve it, and provide access to it. The Content Working Group's current scope of work involves "content teams" grouped in the following topical areas:
 

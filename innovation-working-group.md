@@ -5,7 +5,7 @@ permalink: /working-groups/innovation/
 ---
 **Innovation Working Group Interim Coordinator**: Bethany Nowviskie, Digital Library Federation - bnowviskie at clir dot org
 
-*Take me to the [Innovation Working Group Listserv](http://lists.clir.org/scripts/wa-CLIR.exe?A0=NDSA-INNOVATION)! If you are already a member of this working group, you can always access the listserv (including its archives) at that link. To join this working group, please contact the coordinator.*
+*Take me to the [Innovation Working Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-INNOVATION)! If you are already a member of this working group, you can always access the listserv (including its archives) at that link. To join this working group, please contact the coordinator.*
 
 By encouraging and sharing innovative methods of digital preservation practices and technologies, the Innovation Working group distributes, documents, and shares emerging concepts, while conducting and guiding research and development with engaged partners to explore new solutions and opportunities.
 

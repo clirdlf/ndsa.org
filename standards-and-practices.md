@@ -6,7 +6,7 @@ permalink: /working-groups/standards-and-practices/
 
 **Standards and Practices Working Group Co-Chairs**: Meg Phillips, National Archives and Records Administration - meg.phillips at nara dot gov; Aaron Collie, Michigan State University Libraries - collie at mail dot lib dot msu dot edu
 
-*Take me to the [Standards and Practices Working Group Listserv](http://lists.clir.org/scripts/wa-CLIR.exe?A0=NDSA-STANDARDS)! If you are already a member of this working group, you can always access the listserv (including its archives) at that link. To join this working group, please contact the coordinators.*
+*Take me to the [Standards and Practices Working Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-STANDARDS)! If you are already a member of this working group, you can always access the listserv (including its archives) at that link. To join this working group, please contact the coordinators.*
 
 The Standards and Practices Working Group works to facilitate a broad understanding of the role and benefit of standards in digital preservation and how to use them effectively to ensure durable and usable collections.
 

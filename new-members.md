@@ -11,11 +11,11 @@ Then try...
 - Contact your [working group co-chairs](/working-groups/) to learn more about how to get involved in a specific group or activity.
 - Offer to help take meeting minutes (this is always truly appreciated!).
 - Help with small or large tasks to accomplish working group goals.
-- Chat with your fellow members via the listserv - ask questions, tell us about your projects, introduce yourself! You will be added to the listserv upon joining the NDSA, and can always access it [here](http://lists.clir.org/scripts/wa-CLIR.exe?A0=NDSA-ALL)
+- Chat with your fellow members via the listserv - ask questions, tell us about your projects, introduce yourself! You will be added to the listserv upon joining the NDSA, and can always access it [here](http://lists.clir.org/cgi-bin/wa?A0=NDSA-ALL)
 - Encourage your co-workers to get involved.
 
 ## Have an idea for a project or activity?
-- Email your idea to the working group listserv or the [NDSA-ALL listserv](http://lists.clir.org/scripts/wa-CLIR.exe?A0=NDSA-ALL).
+- Email your idea to the working group listserv or the [NDSA-ALL listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-ALL).
 - Contact your working group co-chairs.
 Action teams may also be formed outside of (or within) the working groups to perform specific tasks or accomplish goals. Start one up!
 
