@@ -31,6 +31,13 @@ The National Digital Stewardship Alliance is a consortium of [more than 160 orga
 
 Our revived conference will be held at the historic [Pfister Hotel](http://www.thepfisterhotel.com/), just blocks from Lake Michigan, the [Milwaukee Art Museum](http://mam.org/), restaurants, and nightlife. The hotel has an incredible Victorian art collection, an artist-in-residence program, and a spa. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/forums/2016forum/code-of-conduct/). Childcare subsidies for DLF Forum attendees also participating in Digital Preservation 2016 may be extended upon request. Contact [ndsa@diglib.org](ndsa@diglib.org) for more information or indicate your needs on registration.
 
+### Sponsors
+
+We gratefully acknowledge the support of the following conference sponsors:
+- DLF, the [Digital Library Federation](https://www.diglib.org/)
+- DPN, the [Digital Preservation Network](http://dpn.org)
+
+
 ### US Presidential Election Notice
 
 Attendees arriving early for the DLF Forum (November 7-9) will want to plan ahead for early/absentee voting in the 2016 US Presidential Election. Full, state-by-state nonpartisan ballot information and important voter deadlines are available here: [https://diglib.org/absentee/](https://diglib.org/absentee/).
