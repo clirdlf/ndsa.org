@@ -34,6 +34,7 @@ Our revived conference will be held at the historic [Pfister Hotel](http://www.t
 ### Sponsors
 
 We gratefully acknowledge the support of the following conference sponsors:
+
 - DLF, the [Digital Library Federation](https://www.diglib.org/)
 - DPN, the [Digital Preservation Network](http://dpn.org)
 
