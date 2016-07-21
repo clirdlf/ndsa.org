@@ -3,44 +3,45 @@ $(document).ready(function() {
     attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     maxZoom: 19
   }),
-    MapQuestOpen_OSM = L.tileLayer('http://otile{s}.mqcdn.com/tiles/1.0.0/{type}/{z}/{x}/{y}.{ext}', {
-      type: 'map',
-      ext: 'jpg',
-      attribution: 'Tiles Courtesy of <a href="http://www.mapquest.com/">MapQuest</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-      subdomains: '1234'
-    });
-
-    var map = L.map('map', {
-      center: [39.73, -104.99],
-      zoom: 4,
-      layers: [Thunderforest_SpinalMap, MapQuestOpen_OSM]
+  OpenStreetMap_Mapnik = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  }),
+  Thunderforest_Landscape = L.tileLayer('http://{s}.tile.thunderforest.com/landscape/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   });
 
-var baseMaps = {
-  "Spinal Map": Thunderforest_SpinalMap,
-  "Open Street Map": MapQuestOpen_OSM
-};
+  var map = L.map('map', {
+    center: [39.73, -104.99],
+    zoom: 4,
+    layers: [ Thunderforest_SpinalMap, Thunderforest_Landscape ]
+  });
 
-L.control.layers(baseMaps).addTo(map);
+  var baseMaps = {
+    "Spinal Map": Thunderforest_SpinalMap,
+    "Open Street Map": Thunderforest_Landscape
+  };
 
-function onEachFeature(feature, layer) {
-  var popupContent = '';
-  if (feature.properties && feature.properties.popupContent) {
-    popupContent += feature.properties.popupContent;
+  L.control.layers(baseMaps).addTo(map);
+
+  function onEachFeature(feature, layer) {
+    var popupContent = '';
+    if (feature.properties && feature.properties.popupContent) {
+      popupContent += feature.properties.popupContent;
+    }
+
+    layer.bindPopup(popupContent);
   }
 
-  layer.bindPopup(popupContent);
-}
-
-L.geoJson([members], {
-  style: function(feature) {
-    return feature.properties && feature.properties.style;
-  },
-  onEachFeature: onEachFeature,
-  pointToLayer: function(feature, latlng) {
-    return L.marker(latlng);
-  }
-}).addTo(map);
+  L.geoJson([members], {
+    style: function(feature) {
+      return feature.properties && feature.properties.style;
+    },
+    onEachFeature: onEachFeature,
+    pointToLayer: function(feature, latlng) {
+      return L.marker(latlng);
+    }
+  }).addTo(map);
 
 
 });
