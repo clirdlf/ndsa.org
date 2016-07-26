@@ -3,7 +3,7 @@ title: Innovation Working Group
 layout: page
 permalink: /working-groups/innovation/
 ---
-**Innovation Working Group Interim Coordinators**: Bethany Nowviskie, Digital Library Federation - bnowviskie at clir dot org and Sheila Morrissey, ITHAKA - sheila dot morrissey at ithaka dot org
+**Innovation Working Group Coordinators**: Sheila Morrissey, ITHAKA - sheila dot morrissey at ithaka dot org, Bethany Nowviskie, Digital Library Federation (interim) - bnowviskie at clir dot org
 
 *Take me to the [Innovation Working Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-INNOVATION)! If you are already a member of this working group, you can always access the listserv (including its archives) at that link. To join this working group, please contact the coordinator.*
 
