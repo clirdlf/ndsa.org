@@ -3,7 +3,7 @@ title: Innovation Working Group
 layout: page
 permalink: /working-groups/innovation/
 ---
-**Innovation Working Group Interim Coordinator**: Bethany Nowviskie, Digital Library Federation - <a href="mailto:bnowviskie(at)clir(dot)org">bnowviskie at clir dot org</a>
+**Innovation Working Group Coordinators**: Sheila Morrissey, ITHAKA - <a href="mailto:sheila(dot)morrissey(at)ithaka(dot)org">sheila dot morrissey at ithaka dot org</a>, Bethany Nowviskie, Digital Library Federation (interim) - <a href="mailto:bnowviskie(at)clir(dot)org">bnowviskie at clir dot org</a>
 
 *Take me to the [Innovation Working Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-INNOVATION)! If you are already a member of this working group, you can always access the listserv (including its archives) at that link. To join this working group, please contact the coordinator.*
 
@@ -15,3 +15,4 @@ The innovation working group is currently engaged in two projects:
 
 - Developing a series of digital preservation challenges to recognize and encourage important innovative work in digital preservation.
 - Hosting a series of dialogs with individuals with a range of viewpoints or organizations and specialties outside NDSA, to bring a creative mix of ideas and experience into the conversation with the digital preservation community.
+
