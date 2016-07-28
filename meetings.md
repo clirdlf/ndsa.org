@@ -42,13 +42,13 @@ We gratefully acknowledge the support of the following conference sponsors:
 <section id="sponsors">
 <div class="row">
   <div class="col-md-4">
-    <img class="img-responsive" alt="DLF" src="{{ '/images/sponsors/dlf.png' | prepend: site.baseurl }}" width="120" />
+    <img class="img-responsive center-block" alt="DLF" src="{{ '/images/sponsors/dlf.png' | prepend: site.baseurl }}" width="120" />
   </div>
   <div class="col-md-4">
-    <img class="img-responsive" alt="DPN" src="{{ '/images/sponsors/dpn.png' | prepend: site.baseurl }}" width="120" />
+    <img class="img-responsive center-block" alt="DPN" src="{{ '/images/sponsors/dpn.png' | prepend: site.baseurl }}" width="120" />
   </div>
   <div class="col-md-4">
-  <img class="img-responsive" alt="LIPA" src="{{ '/images/sponsors/lipa.png' | prepend: site.baseurl }}" width="120" />
+  <img class="img-responsive center-block" alt="LIPA" src="{{ '/images/sponsors/lipa.png' | prepend: site.baseurl }}" width="120" />
   </div>
   </div>
 </section>
