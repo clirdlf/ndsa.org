@@ -39,7 +39,7 @@ We gratefully acknowledge the support of the following conference sponsors:
 - DPN, the [Digital Preservation Network](http://dpn.org)
 - LIPA, the [Legal Information Preservation Alliance](http://lipalliance.org/)
 
-<div class=“col-md-4 col-sm-6”></div><img class="img-responsive" style="float: center; margin: 0px 30px 15px 15px;" alt="DLF" src="/images/sponsors/dlf.png" width="120" /> </div><div class=“col-md-4 col-sm-6”><img class="img-responsive" style="float: center; margin: 0px 30px 15px 15px;" alt="DPN" src="/images/sponsors/dpn.png" width="120" /> </div><div class=“col-md-4 col-sm-6”><img class="img-responsive" style="float: center; margin: 0px 30px 15px 15px;" alt="LIPA" src="/images/sponsors/lipa.png" width="120" /></div>
+<div class=“col-md-4 col-sm-6”><img class="img-responsive" style="float: center; margin: 0px 30px 15px 15px;" alt="DLF" src="/images/sponsors/dlf.png" width="120" /> </div><div class=“col-md-4 col-sm-6”><img class="img-responsive" style="float: center; margin: 0px 30px 15px 15px;" alt="DPN" src="/images/sponsors/dpn.png" width="120" /> </div><div class=“col-md-4 col-sm-6”><img class="img-responsive" style="float: center; margin: 0px 30px 15px 15px;" alt="LIPA" src="/images/sponsors/lipa.png" width="120" /></div>
 
 If you or your organization would like to contribute to *Digital Preservation 2016,* please contact [Louisa Kwasigroch](mailto:lkwasigroch@clir.org).
 
