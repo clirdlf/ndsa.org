@@ -12,7 +12,7 @@ This year's conference will be the first organized in partnership with our new h
 
 ### Keynote
 
-Our Digital Preservation 2016 keynote speaker will be **Bergis Jules**, University and Political Papers Archivist <img class="img-responsive" alt="Bergis Jules" style="float: right; margin: 0px 0px 15px 15px;" src="{{ "/images/Jules.jpg" | prepend: site.baseurl }}" width="80" height="80">at the University of California, Riverside library, and will focus on the power and promise of diversity and inclusivity in digital preservation work. We will share a title and abstract in the coming months. Read the full announcement [here](https://www.diglib.org/archives/11840/).
+Our Digital Preservation 2016 keynote speaker will be **Bergis Jules**, University and Political Papers Archivist <img class="img-responsive" alt="Bergis Jules" style="float: right; margin: 0px 0px 15px 15px;" src="{{ "/images/Jules.jpg" | prepend: site.baseurl }}" width="100" height="100">at the University of California, Riverside library, and will focus on the power and promise of diversity and inclusivity in digital preservation work. We will share a title and abstract in the coming months. Read the full announcement [here](https://www.diglib.org/archives/11840/).
 
 
 ### Travel and registration
