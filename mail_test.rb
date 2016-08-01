@@ -2,11 +2,28 @@
 
 require 'colorize'
 require 'dotenv'
-require 'google/api_client'
+#require 'google/api_client'
 require 'google_drive'
-require 'mailjet'
+#require 'mailjet'
+require 'mail'
 
 Dotenv.load
+
+Mail.defaults do
+  delivery_method :smtp, address: "localhost", port: 1025
+end
+
+#Mail.defaults do
+  #delivery_method :smtp,
+    #address:  "smtp.office365.com",
+    #port:      "587",
+    #authentication: :login,
+    #user_name: ENV['SMTP_USERNAME'],
+    #password:  ENV['SMTP_PASSWORD'],
+    #domain:   'clir.org',
+    #enable_starttls_auto: true
+#end
+
 
 # Configuration
 # Mailjet.configure do |config|
@@ -84,54 +101,59 @@ def text_markup(primary_contact, organization, secondary_contacts)
     markup = <<-TEXT
 Dear #{parse_name(primary_contact)},
 
-We are in the process of renewing memberships and updating contact information for organizational members of the National Digital Stewardship Alliance (NDSA), now proudly hosted by the Digital Library Federation. Soon, the NDSA Coordinating Committee will circulate an important letter about ongoing activities and plans for elections, awards, Digital Preservation 2016, and more—so we're asking for a minute of your time to help us make sure that letter reaches the right folks.
+This summer the National Digital Stewardship Alliance turns its attention to leadership renewal. We gratefully thank our outgoing working group chairs and Coordinating Committee members for their service across the transition period to our new home at the Digital Library Federation.
 
-Currently we have these contacts on record for #{organization}:
+Members of the NDSA Coordinating Committee serve staggered three year terms and five members will have completed their terms, retiring as of the Fall meeting. We thank Jonathan Crabtree, Meg Phillips, John Spencer, Helen Tibbo, and Kate Wittenberg for their many contributions.
 
-#{primary_contact}
-#{format_names_txt secondary_contacts}
+Following a public call for nominations, we are presenting a slate of five candidates to join the Coordinating Committee, and ask that you affirm and endorse them by vote.
 
-Please simply reply to this email to let us know whether your information is up to date, and if you would like to add and/or remove any individuals from our records. Your response also affirms #{organization}'s continuing commitment to the NDSA Values Statement (http://ndsa.diglib.org/values/) and to participation as outlined in our Statement of Commitment (http://ndsa.diglib.org/get-involved/). No formal MoU is necessary for continued participation in the National Digital Stewardship Alliance.
+* Bradley Daigle, Partnerships/Content Lead, APTrust
+* Carol Kussman, Digital Preservation Analyst, U of Minnesota Libraries
+* Mary Molinaro, Chief Operating Officer &amp; Services Manager, DPN
+* Gabby Redwine, Digital Archivist at Yale
+* Helen Tibbo, Alumni Distinguished Professor, SLIS, UNC-Chapel Hill
 
-In an effort to increase engagement across and within NDSA member organizations, we will also soon be listing each institution's primary program representative by name on the NDSA members' list: http://ndsa.diglib.org/members-list/. If you would like to opt out of this listing, please let us know.
+Your organization can cast its vote at https://www.surveymonkey.com/r/BQQQ6RJ between August 1 and August 15. Vote for any or all candidates you would like to see as CC members. Candidate statements can be found at https://www.diglib.org/?p=12333.
 
-Thanks very much for your help! We're grateful for your time and attention. If you have any questions about the membership renewal process, please let us know.
+As a reminder, only one ballot may be cast per member organization. NDSA's recorded program representative or a designated proxy of each member organization is asked to submit your organization's vote.
 
-Warmly,
+Thank you for your participation,
 
-Oliver Bendorf (on behalf of DLF)
-Program Associate, Digital Library Federation
-
+The NDSA Coordinating Committee
 
 #{format_cc_names(secondary_contacts)}
 
     TEXT
+    markup
 end
 
 def html_markup(primary_contact, organization, secondary_contacts)
     markup = <<-HTML
 <p>Dear #{parse_name(primary_contact)},</p>
 
-<p>We are in the process of renewing memberships and updating contact information for organizational members of the National Digital Stewardship Alliance (NDSA), now proudly hosted by the <a href="https://diglib.org">Digital Library Federation</a>. Soon, the NDSA Coordinating Committee will circulate an important letter about ongoing activities and plans for elections, awards, Digital Preservation 2016, and more—so we're asking for a minute of your time to help us make sure that letter reaches the right folks.</p>
+<p>This summer the National Digital Stewardship Alliance turns its attention to leadership renewal. We gratefully thank our outgoing working group chairs and Coordinating Committee members for their service across the transition period to our new home at the Digital Library Federation.</p>
 
-<p>Currently we have these contacts on record for #{organization}:</p>
+<p>Members of the NDSA Coordinating Committee serve staggered three year terms and five members will have completed their terms, retiring as of the Fall meeting. We thank Jonathan Crabtree, Meg Phillips, John Spencer, Helen Tibbo, and Kate Wittenberg for their many contributions.</p>
 
-#{format_names_html(primary_contact, secondary_contacts)}
+<p>Following a public call for nominations, we are presenting a slate of five candidates to join the Coordinating Committee, and ask that you affirm and endorse them by vote.</p>
 
-<p>Please simply <strong>reply to this email</strong> to let us know whether your information is up to date, and if you would like to add and/or remove any individuals from our records. Your response also affirms #{organization}'s continuing commitment to the <a href="http://ndsa.diglib.org/values/">NDSA Values Statement</a> and to participation as outlined in our <a href="http://ndsa.diglib.org/get-involved/">Statement of Commitment</a>. <strong>No formal MoU is necessary for continued participation in the National Digital Stewardship Alliance</strong>.</p>
+<ul>
+<li>Bradley Daigle, Partnerships/Content Lead, APTrust</li>
+<li>Carol Kussman, Digital Preservation Analyst, U of Minnesota Libraries</li>
+<li>Mary Molinaro, Chief Operating Officer &amp; Services Manager, DPN</li>
+<li>Gabby Redwine, Digital Archivist at Yale</li>
+<li>Helen Tibbo, Alumni Distinguished Professor, SLIS, UNC-Chapel Hill</li>
+</ul>
 
-<p>In an effort to increase engagement across and within NDSA member organizations, we will also soon be listing each institution's primary program representative by name on the <a href="http://ndsa.diglib.org/members-list/">NDSA members' list</a>. <strong>If you would like to opt out of this listing, please let us know</strong>.</p>
+<p>Your organization can cast its vote at <a href="https://www.surveymonkey.com/r/BQQQ6RJ">https://www.surveymonkey.com/r/BQQQ6RJ</a> between August 1 and August 15. Vote for any or all candidates you would like to see as CC members. Candidate statements can be found at <a href="https://www.diglib.org/?p=12333">https://www.diglib.org/?p=12333</a>.</p>
 
-<p>Thanks very much for your help! We're grateful for your time and attention. If you have any questions about the membership renewal process, please let us know.</p>
+<p>As a reminder, only one ballot may be cast per member organization. NDSA’s recorded program representative or a designated proxy of each member organization is asked to submit your organization's vote.</p>
 
-<p>Warmly,</p>
+<p>Thank you for your participation,</p>
 
-<p>Oliver Bendorf (on behalf of DLF)<br>
-Program Associate, Digital Library Federation
-</p>
-
-<p>#{format_cc_names(secondary_contacts)}</p>
+The NDSA Coordinating Committee<p>#{format_cc_names(secondary_contacts)}</p>
 HTML
+markup
 end
 
 # Authorize
@@ -142,8 +164,9 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
 
 (2..ws.num_rows).each do |row|
     active = ws[row, 30]
+    election = ws[row, 35]
 
-    next unless active == 'TRUE'
+    next unless active == 'TRUE' && election != 'TRUE'
     organization   = ws[row, 2]
 
     contact1_name  = ws[row, 8]
@@ -170,32 +193,47 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
         names << contact2 if additional_contacts.include?(contact2[:email])
 
         contact3 = { name: contact3_name, email: contact3_email }
-        names << contact3 if additional_contacts.include? contact3[:email] && contact2 != contact3
+
+        if(additional_contacts.include? contact3[:email])
+          names << contact3 unless contact3 === contact2
+        end
     end
 
-    mail = Mailjet::Send.create(
-        from_email: "ndsa@diglib.org",
-        from_name:  "National Digital Stewardship Alliance",
-        subject:    "#{organization} NDSA Membership Renewal",
-        text_part:  text_markup(contact1_name, organization, names),
-        html_part:  html_markup(contact1_name, organization, names),
-        recipients: email_hash(contact1_email, names)
-        # recipients: [{:email => 'wgraham@clir.org'}, {:email => 'obendorf@clir.org'}]
-    )
+    puts "#{contact1_name} #{contact1_email} | #{additional_contacts}".green
 
-    puts mail.attributes['Sent']
+    mail = Mail.new do
+      from 'ndsa-elections@diglib.org'
+      to contact1_email
+      cc additional_contacts
+      subject "2016 NDSA Coordinating Committee Election"
 
-    break
+      text_part do
+        body text_markup(contact1_name, organization, names)
+      end
+
+      html_part do
+        content_type 'text/html; charset=UTF-8'
+        body html_markup(contact1_name, organization, names)
+      end
+    end
+
+
+    mail.deliver!
+
+    #mail = Mailjet::Send.create(
+        #from_email: "ndsa@diglib.org",
+        #from_name:  "National Digital Stewardship Alliance",
+        #subject:    "#{organization} NDSA Membership Renewal",
+        #text_part:  text_markup(contact1_name, organization, names),
+        #html_part:  html_markup(contact1_name, organization, names),
+        #recipients: email_hash(contact1_email, names)
+        ## recipients: [{:email => 'wgraham@clir.org'}, {:email => 'obendorf@clir.org'}]
+    #)
+
+    #puts mail.attributes['Sent'] # mailjet api only
+
+    #break
 end
 
 
-# mail = Mailjet::Send.create(
-#   from_email: "ndsa@diglib.org",
-#   from_name:  "National Digital Stewardship Alliance",
-#   subject:    " NDSA Membership Renewal",
-#   text_part: text_markup,
-#   html_part: html_markup,
-#   recipients: [{ :email => 'wgraham@clir.org'}]
-# )
-#
-# puts mail.attributes['Sent']
+
