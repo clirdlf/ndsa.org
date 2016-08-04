@@ -17,7 +17,7 @@ Our Digital Preservation 2016 keynote speaker will be **Bergis Jules**, Universi
 
 ### Travel and registration
 
-[Registration](https://www.conftool.pro/dlf2016/) includes a continental breakfast, hot lunch, coffee breaks, and the NDSA reception.
+[Registration](https://www.conftool.pro/dlf2016/) includes a continental breakfast, hot lunch, coffee breaks, and the NDSA reception. The conference will run from Wednesday mid-afternoon through Thursday evening, November 9-10. 
 
 - Regular: $200
 - Student rate: $150
