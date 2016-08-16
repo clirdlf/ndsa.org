@@ -6,9 +6,8 @@ permalink: /meetings/
 <img alt="meetings" src='{{ "/images/icons/presentation.png" | prepend: site.baseurl }}'>
 
 ## Digital Preservation 2016: "Building Communities of Practice"
-Mark your calendars for November 9-10, 2016!
 
-**We are very pleased to announce [the full program](https://www.conftool.pro/dlf2016/index.php?page=browseSessions&presentations=show&form_tracks=2) for Digital Preservation 2016!**
+Mark your calendars for November 9-10, 2016! **We are very pleased to announce [the full program](https://www.conftool.pro/dlf2016/index.php?page=browseSessions&presentations=show&form_tracks=2) for Digital Preservation 2016!**
 
 ([Browse the programs](https://www.conftool.pro/dlf2016/sessions.php) for the 2016 DLF Forum and Liberal Arts Colleges Pre-Conference here as well.)
 
