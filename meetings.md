@@ -7,7 +7,7 @@ permalink: /meetings/
 
 ## Digital Preservation 2016: "Building Communities of Practice"
 
-### Program and Registration 
+### Program and Information  
 Mark your calendars for November 9-10, 2016! **We are very pleased to announce [the full program](https://www.conftool.pro/dlf2016/index.php?page=browseSessions&presentations=show&form_tracks=2) for NDSA's Digital Preservation 2016!**
 
 ([Browse the programs](https://www.conftool.pro/dlf2016/sessions.php) for the 2016 DLF Forum and Liberal Arts Colleges Pre-Conference here as well.)
@@ -27,7 +27,7 @@ We'll close with a final plenary talk by **Allison Druin**, Special Advisor for 
 Learn more [here](https://www.diglib.org/forums/2016forum/keynotes/).
 
 
-### Travel and registration
+### Travel and Registration
 
 [Registration](https://www.conftool.pro/dlf2016/) includes a continental breakfast, hot lunch, coffee breaks, and the NDSA reception. The conference will run from Wednesday mid-afternoon through Thursday evening, November 9-10.
 
@@ -37,7 +37,7 @@ Learn more [here](https://www.diglib.org/forums/2016forum/keynotes/).
 Conference registration and [room bookings are available](https://www.diglib.org/forums/2016forum/hotel-travel/) at Milwaukee's historic [Pfister Hotel](http://www.thepfisterhotel.com/) are open now. (We encourage early registration and room reservations!) Information on registration for the 2016 DLF Forum and Liberal Arts Colleges Pre-Conference is [also available](https://www.diglib.org/forums/2016forum/registration/).
 
 
-### More Info
+### More About the Conference
 
 The National Digital Stewardship Alliance is a consortium of [more than 160 organizations](http://ndsa.diglib.org/members-list/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. Digital Preservation 2016 ([#digipres16](https://twitter.com/search?q=%23digipres16&src=typd)) will help to chart future directions for both the NDSA and digital stewardship, and is expected to be a crucial venue for intellectual exchange, community-building, development of best practices, and national-level agenda-setting in the field.
 
@@ -93,7 +93,7 @@ ___
 
 Thank you for your contributions! All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified later this summer and guaranteed a registration slot at the conference. From June 8 - 20, proposals were open to [community voting](http://voting.diglib.org/) to help inform selection decisions.
 
- **The CFP CLOSED May 23rd, 2016.**
+ **The CFP CLOSED May 23rd, 2016.** [Browse the conference program here.](https://www.conftool.pro/dlf2016/sessions.php)
 
 250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected.
 
