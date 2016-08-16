@@ -6,9 +6,13 @@ permalink: /meetings/
 <img alt="meetings" src='{{ "/images/icons/presentation.png" | prepend: site.baseurl }}'>
 
 ## Digital Preservation 2016: "Building Communities of Practice"
-Mark your calendars for November 9-10, 2016! [Registration](https://www.conftool.pro/dlf2016/) is open now, and we hope to see you in Milwaukee, just after the closing of the [2016 DLF Forum](https://www.diglib.org/forums/2016forum/)!
+Mark your calendars for November 9-10, 2016!
 
-This year's conference will be the first organized in partnership with our new host organization, the [Digital Library Federation](https://diglib.org/) (DLF). *Digital Preservation* is the major meeting of the NDSA—open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues.  Stay tuned here, at [@NDSA2](https://twitter.com/ndsa2) and [#digipres16](https://twitter.com/search?q=%23digipres16&src=typd) on Twitter, and at the [DLF Forum website](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) for more information!
+[Registration](https://www.conftool.pro/dlf2016/) is open now, and we hope to see you in Milwaukee, just after the closing of the [2016 DLF Forum](https://www.diglib.org/forums/2016forum/)!
+
+This year's conference will be the first organized in partnership with our new host organization, the [Digital Library Federation](https://diglib.org/) (DLF). *Digital Preservation* is the major meeting of the NDSA—open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues.  
+
+Stay tuned here, at [@NDSA2](https://twitter.com/ndsa2) and [#digipres16](https://twitter.com/search?q=%23digipres16&src=typd) on Twitter, and at the [DLF Forum website](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) for more information and a full conference program!
 
 ### Keynote and Plenary
 
@@ -79,12 +83,14 @@ Attendees arriving early for the DLF Forum (November 7-9) will want to plan ahea
 - **Sibyl Schaefer**, UC-San Diego
 - **Frederick Zarndt**, Global Connexions
 
+___
 
 ### Call for Proposals - **CLOSED May 23, 2016.**
 
 Thank you for your contributions! All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified later this summer and guaranteed a registration slot at the conference. From June 8 - 20, proposals were open to [community voting](http://voting.diglib.org/) to help inform selection decisions.
 
  **The CFP CLOSED May 23rd, 2016.**
+
 250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected.
 
 We especially encourage proposals that speak to our conference theme, “Building Communities of Practice.” Submissions are invited in the following lengths and formats:
