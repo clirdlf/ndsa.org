@@ -10,14 +10,18 @@ Mark your calendars for November 9-10, 2016! [Registration](https://www.conftool
 
 This year's conference will be the first organized in partnership with our new host organization, the [Digital Library Federation](https://diglib.org/) (DLF). *Digital Preservation* is the major meeting of the NDSA—open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues.  Stay tuned here, at [@NDSA2](https://twitter.com/ndsa2) and [#digipres16](https://twitter.com/search?q=%23digipres16&src=typd) on Twitter, and at the [DLF Forum website](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) for more information!
 
-### Keynote
+### Keynote and Plenary
 
-Our Digital Preservation 2016 keynote speaker will be **Bergis Jules**, University and Political Papers Archivist <img class="img-responsive" alt="Bergis Jules" style="float: right; margin: 0px 0px 15px 15px;" src="{{ "/images/Jules.jpg" | prepend: site.baseurl }}" width="100" height="100">at the University of California, Riverside library, and will focus on the power and promise of diversity and inclusivity in digital preservation work. We will share a title and abstract in the coming months. Read the full announcement [here](https://www.diglib.org/archives/11840/).
+Our Digital Preservation 2016 keynote speaker will be **Bergis Jules**, University and Political Papers Archivist at the University of California, Riverside library, and will focus on the power and promise of diversity and inclusivity in digital preservation work. We will share a title and abstract in the coming months. Read the full announcement [here](https://www.diglib.org/archives/11840/).
+
+We'll close with a final plenary talk by **Allison Druin**, Special Advisor for National Digital Strategy at the NPS, who will take up the conference theme, “building communities of practice,” in the context of “communities of innovation” and her work with America’s National Park Service.
+
+Learn more [here](https://www.diglib.org/forums/2016forum/keynotes/).
 
 
 ### Travel and registration
 
-[Registration](https://www.conftool.pro/dlf2016/) includes a continental breakfast, hot lunch, coffee breaks, and the NDSA reception. The conference will run from Wednesday mid-afternoon through Thursday evening, November 9-10. 
+[Registration](https://www.conftool.pro/dlf2016/) includes a continental breakfast, hot lunch, coffee breaks, and the NDSA reception. The conference will run from Wednesday mid-afternoon through Thursday evening, November 9-10.
 
 - Regular: $200
 - Student rate: $150
