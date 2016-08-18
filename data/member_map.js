@@ -1833,7 +1833,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">North Carolina Department of Cultural Resources</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"\">North Carolina Department of Natural and Cultural Resources</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
       "id": 153
     },
