@@ -8,15 +8,15 @@ javascript:
   - /js/scroll.js
 ---
 
-Below is the current NDSA Calendar. It lists upcoming working group calls, NDSA conferences, and meetings where NDSA presentations will happen, including NDSA Regional Meetings.
+Below is the current NDSA Calendar. It lists upcoming Interest Group and Working Group calls, NDSA conferences, and meetings where NDSA presentations will happen, including NDSA Regional Meetings.
 
 If you're an NDSA member and have questions about the calendar or would like to add a meeting or call to it, please contact <ndsa@diglib.org>. See also the [DLF Community Calendar](https://www.diglib.org/opportunities/calendar/), with more national and international events relevant to NDSA's mission.
 
-- [Working Group Calls](#ndsa-working-group-calls)
+- [Interest Group Calls](#ndsa-working-group-calls)
 - [Past Presentations at Conferences and Meetings](#past-presentations-at-conferences-and-meetings)
 - [NDSA Regional Meetings](#ndsa-regional-meetings)
 
-## NDSA Working Group Calls
+## NDSA Interest Group Calls
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-tiem" src="https://calendar.google.com/calendar/embed?title=NDSA%20Calendar&amp;showTitle=0&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ndsa.cal%40gmail.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" frameborder="0" scrolling="no"></iframe>
@@ -28,7 +28,7 @@ If you're an NDSA member and have questions about the calendar or would like to 
   <thead>
     <tr>
       <th>Date</th>
-      <th>Working Group Calls</th>
+      <th>Interest Group Calls</th>
       <th>Time (Eastern)</th>
     </tr>
   </thead>
@@ -36,7 +36,7 @@ If you're an NDSA member and have questions about the calendar or would like to 
     <tr>
       <td>Wednesday, Mar. 4, 2015
       </td>
-      <td>Content Working Group Monthly Call</td>
+      <td>Content Interest Group Monthly Call</td>
       <td>11:00 AM – 12:00 PM </td>
     </tr>
     <tr>
@@ -48,25 +48,25 @@ If you're an NDSA member and have questions about the calendar or would like to 
     <tr>
       <td>Friday, Feb. 20, 2015
       </td>
-      <td>Geospatial CWG Working Group Monthly Call</td>
+      <td>Geospatial CWG Interest Group Monthly Call</td>
 
       <td>11:00 AM – 12:00 PM </td>
     </tr>
     <tr>
       <td>Monday, Mar. 16, 2015</td>
-      <td>Standards &amp; Practices Working Group Monthly Call</td>
+      <td>Standards &amp; Practices Interest Group Monthly Call</td>
 
       <td>1:00 PM – 2:00 PM</td>
     </tr>
     <tr>
       <td>Tuesday, Mar. 24, 2015</td>
-      <td>Infrastructure Working Group Monthly Call</td>
+      <td>Infrastructure Interest Group Monthly Call</td>
 
       <td>2:00 PM – 3:00 PM </td>
     </tr>
     <tr>
       <td>Wednesday, Apr. 1, 2015</td>
-      <td>Content Working Group Monthly Call</td>
+      <td>Content Interest Group Monthly Call</td>
 
       <td>11:00 AM – 12:00 PM</td>
     </tr>
@@ -77,7 +77,7 @@ If you're an NDSA member and have questions about the calendar or would like to 
     </tr>
     <tr>
       <td>Monday, Apr. 14, 2015 </td>
-      <td>Innovation Working Group Bi-monthly Call</td>
+      <td>Innovation Interest Group Bi-monthly Call</td>
 
       <td>2:00 PM – 3:00 PM </td>
     </tr>
@@ -85,22 +85,22 @@ If you're an NDSA member and have questions about the calendar or would like to 
 
     <tr>
       <td>Friday, Apr. 17, 2015 </td>
-      <td>Geospatial CWG Working Group Monthly Call</td>
+      <td>Geospatial CWG Interest Group Monthly Call</td>
       <td>11:00 AM – 12:00 PM</td>
     </tr>
     <tr>
       <td>Monday, Apr. 20, 2015</td>
-      <td>Standards &amp; Practices Working Group Monthly Call</td>
+      <td>Standards &amp; Practices Interest Group Monthly Call</td>
       <td>1:00 PM – 2:00 PM</td>
     </tr>
     <tr>
       <td>Tuesday, Apr. 28, 2015</td>
-      <td>Infrastructure Working Group Monthly Call</td>
+      <td>Infrastructure Interest Group Monthly Call</td>
       <td>2:00 PM – 3:00 PM </td>
     </tr>
     <tr>
       <td>Wednesday, May 6, 2015</td>
-      <td>Content Working Group Monthly Call</td>
+      <td>Content Interest Group Monthly Call</td>
       <td>11:00 AM – 12:00 PM</td>
     </tr>
     <tr>
@@ -110,17 +110,17 @@ If you're an NDSA member and have questions about the calendar or would like to 
     </tr>
     <tr>
       <td>Friday, May 15, 2014 </td>
-      <td>Geospatial CWG Working Group Monthly Call</td>
+      <td>Geospatial CWG Interest Group Monthly Call</td>
       <td>11:00 AM – 12:00 PM</td>
     </tr>
     <tr>
       <td>Monday, May 18, 2014 </td>
-      <td>Standards &amp; Practices Working Group Monthly Call</td>
+      <td>Standards &amp; Practices Interest Group Monthly Call</td>
       <td>1:00 PM – 2:00 PM</td>
     </tr>
     <tr>
       <td>Tuesday, May 26, 2014</td>
-      <td>Infrastructure Working Group Monthly Call</td>
+      <td>Infrastructure Interest Group Monthly Call</td>
       <td>2:00 PM – 3:00 PM </td>
     </tr>
   </tbody>
@@ -208,7 +208,6 @@ If you're an NDSA member and have questions about the calendar or would like to 
         <td>Poster Presentation</td>
       </tr>
 
-    </tbody>
   </table>
 
   <h2 id="regional-meetings">Regional Meetings</h2>
