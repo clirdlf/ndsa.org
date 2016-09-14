@@ -20,4 +20,4 @@ The National Digital Stewardship Alliance and all of its members are bound as a 
 
 ## Organization
 
-The work of the NDSA is organized by 5 working groups and lead by an elected Coordinating Committee. The [Digital Library Federation](https://diglib.org/) acts as the secretariat of NDSA and provides leadership and program support. NDSA questions? Send an email to <ndsa@diglib.org>. DLF questions? <info@diglib.org>.
+The work of the NDSA is organized by Interest Groups and lead by an elected Coordinating Committee. The [Digital Library Federation](https://diglib.org/) acts as the secretariat of NDSA and provides leadership and program support. NDSA questions? Send an email to <ndsa@diglib.org>. DLF questions? <info@diglib.org>.

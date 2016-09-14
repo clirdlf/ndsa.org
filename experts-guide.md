@@ -18,14 +18,14 @@ Email address: escience@MIT.EDU
 ## Jefferson Bailey
 Program Manager, Internet Archive
 
-Jefferson Bailey manages programs for the the library, archive, and museum communities. He was formerly the Strategic Initiatives Manager at METRO, NYC, and a Fellow in Digital Preservation at the Library of Congress, a manager of digital projects at Brooklyn Public Library and Frick Art Reference Library, and has done archival work at NARA, NASA, and The New York Times. He is on the Curriculum Committee of the National Digital Stewardship Residency program, co‐chair of the NDSA Innovation Working Group, and is a visiting lecturer in University of Pittsburgh's Library & Information Science program.
+Jefferson Bailey manages programs for the the library, archive, and museum communities. He was formerly the Strategic Initiatives Manager at METRO, NYC, and a Fellow in Digital Preservation at the Library of Congress, a manager of digital projects at Brooklyn Public Library and Frick Art Reference Library, and has done archival work at NARA, NASA, and The New York Times. He is on the Curriculum Committee of the National Digital Stewardship Residency program, co‐chair of the NDSA Innovation Interest Group, and is a visiting lecturer in University of Pittsburgh's Library & Information Science program.
 
 Email address: jefferson@archive.org
 
 ## Karen Cariani
 Director of Media Library and Archives, WGBH
 
-Karen Cariani has worked at WGBH since 1984 in television production and archival‐related roles. She has 20‐plus years of production and project management experience, has worked on numerous award‐winning historical documentaries, and has been project director for many critical projects. She worked with the WNET, PBS, NYU and WGBH Preserving Public Television partnership as part of the Library of Congress National Digital Information Infrastructure Preservation Project. She served two terms (2001‐2005) on the Board of Directors of Association of Moving Image Archivists (AMIA). She also serves on Digital Commonwealth executive committee. Recent projects include managing the American Archive Inventory project for CPB, and project director of PBCore development and Boston Local TV News Digital Library project. Cariani is the co‐chair of the NDSA Infrastructure Working Group.
+Karen Cariani has worked at WGBH since 1984 in television production and archival‐related roles. She has 20‐plus years of production and project management experience, has worked on numerous award‐winning historical documentaries, and has been project director for many critical projects. She worked with the WNET, PBS, NYU and WGBH Preserving Public Television partnership as part of the Library of Congress National Digital Information Infrastructure Preservation Project. She served two terms (2001‐2005) on the Board of Directors of Association of Moving Image Archivists (AMIA). She also serves on Digital Commonwealth executive committee. Recent projects include managing the American Archive Inventory project for CPB, and project director of PBCore development and Boston Local TV News Digital Library project. Cariani is the co‐chair of the NDSA Infrastructure Interest Group.
 
 Email address: karen_cariani@WGBH.ORG
 
@@ -46,55 +46,55 @@ Email address: jonathan_crabtree@UNC.EDU
 ## Andrea Goethals
 Digital Preservation and Repository Services Manager, Harvard Library
 
-Andrea Goethals is responsible for providing leadership in the development and operation of Harvard's digital preservation program and for the management and oversight of the Digital Repository Service (DRS), the university's large‐scale digital preservation repository. She is currently involved in the rolling out of the next‐generation DRS, planning for new digital preservation services at the university, and heading an IMLS-funded project to test the National Digital Stewardship Residency program in the Boston area. She participates in the International Internet Preservation Consortium’s Preservation Working Group and is the co‐chair of the NDSA Standards and Practices Working Group.
+Andrea Goethals is responsible for providing leadership in the development and operation of Harvard's digital preservation program and for the management and oversight of the Digital Repository Service (DRS), the university's large‐scale digital preservation repository. She is currently involved in the rolling out of the next‐generation DRS, planning for new digital preservation services at the university, and heading an IMLS-funded project to test the National Digital Stewardship Residency program in the Boston area. She participates in the International Internet Preservation Consortium’s Preservation Working Group and is the co‐chair of the NDSA Standards and Practices Interest Group.
 
 Email address: andrea_goethals@HARVARD.EDU
 
 ## Abbie Grotke
 Lead Information Technology Specialist, National Digital Information Infrastructure & Preservation Program, Library of Congress
 
-Abbie Grotke is the Web Archiving Team Lead at the Library of Congress and a member of the NDIIPP team. She came to the Library in 1997 to work on American Memory digitization projects. Since 2002 she has been involved in web archiving and the digital preservation program at the Library of Congress. Grotke currently serves on the Steering Committee of the International Internet Preservation Consortium and is the co‐chair of the NDSA Content Working Group.
+Abbie Grotke is the Web Archiving Team Lead at the Library of Congress and a member of the NDIIPP team. She came to the Library in 1997 to work on American Memory digitization projects. Since 2002 she has been involved in web archiving and the digital preservation program at the Library of Congress. Grotke currently serves on the Steering Committee of the International Internet Preservation Consortium and is the co‐chair of the NDSA Content Interest Group.
 
 Email address: abgr@LOC.GOV
 
 ## Cathy Hartman
 Associate Dean of Libraries, University of North Texas
 
-Cathy Hartman’s preservation efforts began in 1997 by establishing the CyberCemetery to preserve the Websites of U.S. government agencies and commissions and creating partnerships at Federal and State levels to archive electronic government information. She founded the Portal to Texas History to enable collaborations with more than 200 libraries and museums to digitize and preserve their collections for Web access. She is a member of the International Internet Preservation Consortium Steering Committee and co‐chairs the NDSA Content Working Group.
+Cathy Hartman’s preservation efforts began in 1997 by establishing the CyberCemetery to preserve the Websites of U.S. government agencies and commissions and creating partnerships at Federal and State levels to archive electronic government information. She founded the Portal to Texas History to enable collaborations with more than 200 libraries and museums to digitize and preserve their collections for Web access. She is a member of the International Internet Preservation Consortium Steering Committee and co‐chairs the NDSA Content Interest Group.
 
 Email address: Cathy.Hartman@UNT.EDU
 
 ## Butch Lazorchak
 Digital Archivist, National Digital Information Infrastructure and Preservation Program, Library of Congress
 
-Butch Lazorchak is a digital archivist in the National Digital Information Infrastructure and Preservation Program at the Library of Congress. He sits on the NDIIPP Communications Team, working to expand awareness of digital preservation issues and opportunities through a variety of channels, including regular postings for The Signal blog. He is the co‐chair of the NDSA Outreach Working Group.
+Butch Lazorchak is a digital archivist in the National Digital Information Infrastructure and Preservation Program at the Library of Congress. He sits on the NDIIPP Communications Team, working to expand awareness of digital preservation issues and opportunities through a variety of channels, including regular postings for The Signal blog. He is the co‐chair of the NDSA Outreach Interest Group.
 Email address: wlaz@LOC.GOV
 
 ## Jane Mandelbaum
 Manager of Special Projects, Office of the Director for Information Technology Services, Library of Congress
 
-Jane Mandelbaum is currently leading and guiding enterprise‐wide projects and architecture initiatives for large‐scale, high‐performance digital storage and archiving. She previously served as IT implementation and operations manager for a number of large IT systems at LC and led a team to establish and operate the Library's end‐user computing environment. Mandelbaum is the co‐chair of the NDSA Innovation Working Group.
+Jane Mandelbaum is currently leading and guiding enterprise‐wide projects and architecture initiatives for large‐scale, high‐performance digital storage and archiving. She previously served as IT implementation and operations manager for a number of large IT systems at LC and led a team to establish and operate the Library's end‐user computing environment. Mandelbaum is the co‐chair of the NDSA Innovation Interest Group.
 
 Email address: jman@LOC.GOV
 
 ## Edward McCain
 Digital Curator of Journalism, Reynolds Journalism Institute; Founder, Dodging the Memory Hole / JDNA
 
-As digital curator of journalism, Edward McCain leads the Journalism Digital News Archive (JDNA); a strategic change agenda addressing issues surrounding access and preservation of digital news collections. He works with faculty and staff at the Missouri School of Journalism, building a framework of linked programs and functions designed to support and enhance digital news archives. Prior to coming to the University, McCain assisted in the publications licensing and marketing department at the University of Arizona Center for Creative Photography in Tucson, Ariz., Before that he worked as a freelance photographer for more than 25 years creating award-winning editorial and advertising images for print and electronic media including Arizona Highways, The Los Angeles Times, National Geographic Traveler, Sports Illustrated, Sunset Magazine, The Washington Post and for various corporations. McCain is a member of the NDSA Content Working Group.
+As digital curator of journalism, Edward McCain leads the Journalism Digital News Archive (JDNA); a strategic change agenda addressing issues surrounding access and preservation of digital news collections. He works with faculty and staff at the Missouri School of Journalism, building a framework of linked programs and functions designed to support and enhance digital news archives. Prior to coming to the University, McCain assisted in the publications licensing and marketing department at the University of Arizona Center for Creative Photography in Tucson, Ariz., Before that he worked as a freelance photographer for more than 25 years creating award-winning editorial and advertising images for print and electronic media including Arizona Highways, The Los Angeles Times, National Geographic Traveler, Sports Illustrated, Sunset Magazine, The Washington Post and for various corporations. McCain is a member of the NDSA Content Interest Group.
 
 Email address: mccaine@rjionline.org
 
 ## Carol Minton Morris
 Director of Marketing and Communications, DuraSpace
 
-Minton Morris (Terrizzi) joined the National Science Digital Library (NSDL) team at Cornell University in 2000 and served as Communications Director from 2000‐‐2009. She was the Communications Director for the Fedora Commons organization from 2007‐‐2009. As Director of Marketing and Communications for the DuraSpace organization since 2009 she leads strategic editorial content and materials planning, development and distribution focused on sustaining open source projects (DSpace, Fedora) and marketing services (DuraCloud, DSpaceDirect). She is deputy co‐‐chair of the annual International Open Repositories Conference and serves as co‐‐chair of the NDSA Outreach Working Group.
+Minton Morris (Terrizzi) joined the National Science Digital Library (NSDL) team at Cornell University in 2000 and served as Communications Director from 2000‐‐2009. She was the Communications Director for the Fedora Commons organization from 2007‐‐2009. As Director of Marketing and Communications for the DuraSpace organization since 2009 she leads strategic editorial content and materials planning, development and distribution focused on sustaining open source projects (DSpace, Fedora) and marketing services (DuraCloud, DSpaceDirect). She is deputy co‐‐chair of the annual International Open Repositories Conference and serves as co‐‐chair of the NDSA Outreach Interest Group.
 
 Email address: cmmorris@DURASPACE.ORG
 
 ## Trevor Owens
 Senior Program Officer, IMLS
 
-While at the Library of Congress, Trevor Owens worked on the open source Viewshare cultural heritage collection visualization tool, as a member of the communications team, and on convening relevant stakeholders about preservation issues. Before joining the Library of Congress he worked for the Center for History and New Media and before that managed outreach for the Games, Learning, and Society Conference. Owens is the co‐chair of the NDSA Infrastructure Working Group.
+While at the Library of Congress, Trevor Owens worked on the open source Viewshare cultural heritage collection visualization tool, as a member of the communications team, and on convening relevant stakeholders about preservation issues. Before joining the Library of Congress he worked for the Center for History and New Media and before that managed outreach for the Games, Learning, and Society Conference. Owens is the co‐chair of the NDSA Infrastructure Interest Group.
 
 Email address: trow@LOC.GOV
 
@@ -134,6 +134,6 @@ Email address: Kate.Wittenberg@ITHAKA.ORG
 ## Kate Zwaard
 Supervisory Information Technology Specialist, Repository Development Center, Library of Congress
 
-Kate Zwaard manages software development projects in the Repository Development Center, which creates applications to support the digital content lifecycle. Prior to joining LC, she was the Lead Program Planner for digital preservation at the United States Government Printing Office, where she helped conceptualize and develop the Federal Digital System. She has served on the PREMIS editorial committee. Zwaard co‐chairs the NDSA Standards and Practices Working Group.
+Kate Zwaard manages software development projects in the Repository Development Center, which creates applications to support the digital content lifecycle. Prior to joining LC, she was the Lead Program Planner for digital preservation at the United States Government Printing Office, where she helped conceptualize and develop the Federal Digital System. She has served on the PREMIS editorial committee. Zwaard co‐chairs the NDSA Standards and Practices Interest Group.
 
 Email address: kzwa@LOC.GOV

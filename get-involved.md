@@ -16,7 +16,7 @@ NDSA organizations have proven themselves in the field of digital stewardship. A
 - Members will have demonstrated an active commitment to digital preservation;
 - Members will share the stated values of the Alliance;
 - Members will agree to maintain vendor neutrality;
-- Members will agree to participate in one or more working groups, NDSA surveys, dissemination activities, and related efforts, as described in the "Commitment" section below.
+- Members will agree to participate in one or more Interest Groups, NDSA surveys, dissemination activities, and related efforts, as described in the "Commitment" section below.
 
 ## Benefits of Membership
 Members share in the advantages of the NDSA, including:
@@ -28,11 +28,11 @@ Members share in the advantages of the NDSA, including:
 - Learning about digital preservation practices from a network of thought leaders.
 
 ## Commitment
-There are no fees or dues for membership in the NDSA. (NDSA is financially supported by the [Digital Library Federation](https://diglib.org/), which also provides communications infrastructure and staff time.) But the real longevity and value of the NDSA depends on members contributing their efforts to working groups and sharing their knowledge and expertise.
+There are no fees or dues for membership in the NDSA. (NDSA is financially supported by the [Digital Library Federation](https://diglib.org/), which also provides communications infrastructure and staff time.) But the real longevity and value of the NDSA depends on members contributing their efforts to Interest Groups and sharing their knowledge and expertise.
 
 In particular, NDSA members agree to:
 
-- Serve on one or more [working groups](/working-groups/), including Content, Infrastructure, Innovation, Outreach, and Standards and Practices;
+- Serve on one or more [Interest Groups](/working-groups/), including Content, Infrastructure, Innovation, Outreach, and Standards and Practices;
 - Participate in the core surveys NDSA conducts of its membership;
 - Review proposed NDSA reports and guidance;
 - Assist with dissemination of NDSA news as requested.

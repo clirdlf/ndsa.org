@@ -1,15 +1,15 @@
 ---
-title: Outreach Working Group
+title: Outreach Interest Group
 layout: page
 permalink: /working-groups/outreach/
 ---
-**Outreach Working Group Chair**: Carol Minton Morris, DuraSpace - cmmorris at fedora-commons dot org
+**The Outreach Interest Group is currently on hiatus.**
 
-*Take me to the [Outreach Working Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-OUTREACH)! If you are already a member of this working group, you can always access the listserv (including its archives) at that link. To join this working group, please contact the coordinator.*
+*Take me to the [Outreach Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-OUTREACH)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, please contact the coordinator.*
 
-The Outreach Working Group of the NDSA is focused on building relationships with stakeholder communities and preparing and sharing digital preservation information resources. These activities include: Identifying and assessing tools the NDSA community needs for communication; Identifying and promoting key digital preservation information resources; Defining opportunities for outreach within the NDSA and to the community beyond.
+The Outreach Interest Group of the NDSA is focused on building relationships with stakeholder communities and preparing and sharing digital preservation information resources. These activities include: Identifying and assessing tools the NDSA community needs for communication; Identifying and promoting key digital preservation information resources; Defining opportunities for outreach within the NDSA and to the community beyond.
 
-The scope of work of the Outreach Working Group activities falls under three broad categories:
+The scope of work of the Outreach Interest Group activities falls under three broad categories:
 
 - Public Awareness
 - Partner Recruitment
