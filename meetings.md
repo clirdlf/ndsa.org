@@ -12,7 +12,7 @@ Mark your calendars for November 9-10, 2016! **We are very pleased to announce [
 
 ([Browse the programs](https://www.conftool.pro/dlf2016/sessions.php) for the 2016 DLF Forum and Liberal Arts Colleges Pre-Conference here as well.)
 
-**[Registration](https://www.conftool.pro/dlf2016/)** is open now, and we hope to see you in Milwaukee, just after the closing of the [2016 DLF Forum](https://www.diglib.org/forums/2016forum/)!
+We hope to see you in Milwaukee, just after the closing of the [2016 DLF Forum](https://www.diglib.org/forums/2016forum/)!
 
 This year's conference will be the first organized in partnership with our new host organization, the [Digital Library Federation](https://diglib.org/) (DLF). *Digital Preservation* is the major meeting of the NDSA—open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues.  
 
