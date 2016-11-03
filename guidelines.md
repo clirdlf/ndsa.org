@@ -33,10 +33,11 @@ If a participant engages in harassing behavior, event organizers and Coordinatin
 
 We expect participants to follow the anti-harassment policy at all meeting venues, meeting-related social events, community gatherings, and online communication channel.
 
-## Acknowledgments:
+## Acknowledgments
 
 
 This document is modeled on the following sources:
+
 - [Scratch](https://scratch.mit.edu/community_guidelines/)
 - [DHSI](http://www.dhsi.org/events.php#ethics+inclusion)
 - [Apache](http://www.apache.org/foundation/policies/conduct.html)
