@@ -37,8 +37,8 @@ We expect participants to follow the anti-harassment policy at all meeting venue
 
 
 This document is modeled on the following sources:
-- https://scratch.mit.edu/community_guidelines/
-- http://www.dhsi.org/events.php#ethics+inclusion
-- http://www.apache.org/foundation/policies/conduct.html
-- https://www.diglib.org/about/code-of-conduct/
-- https://wiki.duraspace.org/display/hydra/Anti-Harassment+Policy
+- [Scratch](https://scratch.mit.edu/community_guidelines/)
+- [DHSI](http://www.dhsi.org/events.php#ethics+inclusion)
+- [Apache](http://www.apache.org/foundation/policies/conduct.html)
+- [DLF](https://www.diglib.org/about/code-of-conduct/)
+- [Hydra](https://wiki.duraspace.org/display/hydra/Anti-Harassment+Policy)
