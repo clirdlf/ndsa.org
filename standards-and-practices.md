@@ -12,12 +12,12 @@ The Standards and Practices Interest Group works to facilitate a broad understan
 
 In addition, the Interest Group seeks to identify, promote and widely disseminate practices found to be effective for selecting, organizing, describing, managing, preserving and serving digital content, in collaboration with other individuals and organizations where appropriate.
 
-Working Groups frequently emerge from the Standards and Practices Interest Group. Current activities include:
+Smaller working groups frequently emerge from the Standards and Practices Interest Group. Current activities include:
 
 - Conducting a survey to identify biggest challenges related to preserving video and creating action plans to address the survey results
 - Initiating an Email Preservation Interest Group to discuss issues, projects and workflows to preserve email
 - Hosting a Digital/Software-Based Art discussion with leading experts in the field
-- Continuing a project to improve Wikipedia’s coverage of digital preservation in general, but particularly in these areas:
+- Continuing a project to improve Wikipedia’s [coverage of digital preservation](http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Digital_Preservation) in general, but particularly in these areas:
   - Digital preservation terms, concepts, theories, strategies and history
   - Standards, best practices and common methods for:
     - Packaging, transferring or modeling digital content

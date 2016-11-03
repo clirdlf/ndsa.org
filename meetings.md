@@ -1,5 +1,5 @@
 ---
-title: Meetings
+title: Digital Preservation Conferences
 layout: page
 permalink: /meetings/
 ---

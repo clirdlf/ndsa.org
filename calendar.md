@@ -22,112 +22,7 @@ If you're an NDSA member and have questions about the calendar or would like to 
   <iframe class="embed-responsive-tiem" src="https://calendar.google.com/calendar/embed?title=NDSA%20Calendar&amp;showTitle=0&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ndsa.cal%40gmail.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" frameborder="0" scrolling="no"></iframe>
 </div>
 
-
-<!--
-<table class="table" summary="NDSA Meeting Calendar">
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th>Interest Group Calls</th>
-      <th>Time (Eastern)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Wednesday, Mar. 4, 2015
-      </td>
-      <td>Content Interest Group Monthly Call</td>
-      <td>11:00 AM – 12:00 PM </td>
-    </tr>
-    <tr>
-      <td>Thursday, Mar. 12, 2015 </td>
-      <td>NDSA Leadership Regular Monthly Meeting
-      </td>
-      <td>1:00 PM – 2:00 PM</td>
-    </tr>
-    <tr>
-      <td>Friday, Feb. 20, 2015
-      </td>
-      <td>Geospatial CWG Interest Group Monthly Call</td>
-
-      <td>11:00 AM – 12:00 PM </td>
-    </tr>
-    <tr>
-      <td>Monday, Mar. 16, 2015</td>
-      <td>Standards &amp; Practices Interest Group Monthly Call</td>
-
-      <td>1:00 PM – 2:00 PM</td>
-    </tr>
-    <tr>
-      <td>Tuesday, Mar. 24, 2015</td>
-      <td>Infrastructure Interest Group Monthly Call</td>
-
-      <td>2:00 PM – 3:00 PM </td>
-    </tr>
-    <tr>
-      <td>Wednesday, Apr. 1, 2015</td>
-      <td>Content Interest Group Monthly Call</td>
-
-      <td>11:00 AM – 12:00 PM</td>
-    </tr>
-    <tr>
-      <td>Thursday, Apr. 9, 2015 </td>
-      <td>NDSA Leadership Regular Monthly Meeting</td>
-      <td>1:00 PM – 2:00 PM</td>
-    </tr>
-    <tr>
-      <td>Monday, Apr. 14, 2015 </td>
-      <td>Innovation Interest Group Bi-monthly Call</td>
-
-      <td>2:00 PM – 3:00 PM </td>
-    </tr>
-
-
-    <tr>
-      <td>Friday, Apr. 17, 2015 </td>
-      <td>Geospatial CWG Interest Group Monthly Call</td>
-      <td>11:00 AM – 12:00 PM</td>
-    </tr>
-    <tr>
-      <td>Monday, Apr. 20, 2015</td>
-      <td>Standards &amp; Practices Interest Group Monthly Call</td>
-      <td>1:00 PM – 2:00 PM</td>
-    </tr>
-    <tr>
-      <td>Tuesday, Apr. 28, 2015</td>
-      <td>Infrastructure Interest Group Monthly Call</td>
-      <td>2:00 PM – 3:00 PM </td>
-    </tr>
-    <tr>
-      <td>Wednesday, May 6, 2015</td>
-      <td>Content Interest Group Monthly Call</td>
-      <td>11:00 AM – 12:00 PM</td>
-    </tr>
-    <tr>
-      <td>Thursday, May 14, 2014 </td>
-      <td>NDSA Leadership Regular Monthly Meeting</td>
-      <td>1:00 PM – 2:00 PM</td>
-    </tr>
-    <tr>
-      <td>Friday, May 15, 2014 </td>
-      <td>Geospatial CWG Interest Group Monthly Call</td>
-      <td>11:00 AM – 12:00 PM</td>
-    </tr>
-    <tr>
-      <td>Monday, May 18, 2014 </td>
-      <td>Standards &amp; Practices Interest Group Monthly Call</td>
-      <td>1:00 PM – 2:00 PM</td>
-    </tr>
-    <tr>
-      <td>Tuesday, May 26, 2014</td>
-      <td>Infrastructure Interest Group Monthly Call</td>
-      <td>2:00 PM – 3:00 PM </td>
-    </tr>
-  </tbody>
-</table>
--->
-
-## Past Presentations at Conferences and Meetings
+## Recent Presentations at Conferences and Meetings
 
   <table class="table" summary="NDSA Meeting Archive">
     <thead>
@@ -139,16 +34,28 @@ If you're an NDSA member and have questions about the calendar or would like to 
       </tr>
     </thead>
     <tbody>
+    <tr>
+      <td>Oct. 3-6, 2016</td>
+      <td><a href="http://ipres2016.org/">iPRES 2016</a></td>
+      <td>Bern, Switzerland</td>
+      <td>Annual Meeting</td>
+    </tr>
+    <tr>
+      <td>Nov. 15, 2015</td>
+      <td><a href="http://cni.org/">CNI 2015</a></td>
+      <td>Washington, DC</td>
+      <td>Annual Fall Meeting</td>
+    </tr>
+    <tr>
+      <td>Nov. 2-6, 2015</td>
+      <td><a href="http://ipres2015.org/">iPRES 2015</a></td>
+      <td>Chapel Hill, NC</td>
+      <td>Annual Meeting</td>
+    </tr>
       <tr>
         <td>Apr. 27-28, 2014</td>
         <td><a href="http://netpreserve.org/general-assembly/2015/overview">IIPC General Assembly</a></td>
         <td>Palo Alto, CA</td>
-        <td>Annual Meeting</td>
-      </tr>
-      <tr>
-        <td>Nov. 2-6, 2015</td>
-        <td><a href="http://ipres2015.org/">iPRES 2015</a></td>
-        <td>Chapel Hill, NC</td>
         <td>Annual Meeting</td>
       </tr>
       <tr>
@@ -207,10 +114,10 @@ If you're an NDSA member and have questions about the calendar or would like to 
         <td>Toronto, CA</td>
         <td>Poster Presentation</td>
       </tr>
-
+</tbody>
   </table>
 
-  <h2 id="regional-meetings">Regional Meetings</h2>
+  <h2 id="regional-meetings">NDSA Regional Meetings</h2>
 
   <table class="table" summary="Regional NDSA Meetings">
     <thead>
@@ -220,6 +127,7 @@ If you're an NDSA member and have questions about the calendar or would like to 
         <th>Location</th>
       </tr>
     </thead>
+        <tbody>
     <tr>
       <td>May 10, 2013</td>
       <td>

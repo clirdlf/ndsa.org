@@ -7,6 +7,8 @@ permalink: /working-groups/content/
 
 *Take me to the [Content Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-CONTENT)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, please contact the coordinators.*
 
+**See below for information on the Web Archiving Survey working group.**
+
 The Content Interest Group is focusing on investigating guidelines for the selection of significant content, discovery of at-risk digital content or collections, and engaging all stakeholders in the process of acquiring the content, preserve it, and provide access to it. The Content Interest Group's current scope of work involves "content teams" grouped in the following topical areas:
 
 - Government
@@ -37,10 +39,12 @@ Completed [Case Studies](/activities/case-studies/):
 Additionally, Content Interest Group Members have been engaged in:
 
 - A blog preservation plugin to easily enable content creators to opt-in to preservation.
-- Bi-annual surveying of organizations in the United States who are actively involved in or planning to archive content from the web.  A report of the 2011 survey results is also [available](/documents/ndsa_web_archiving_survey_report_2012.pdf) (PDF, 442 KB) along with the [2011 survey questions](/documents/USWebArchivingSurvey.pdf) (PDF, 272 KB).
+- Bi-annual surveying of organizations in the United States who are actively involved in or planning to archive content from the web.  
 
-### 2013 Web Archiving Survey
+### Web Archiving Survey
 During Fall 2013, the Content Interest Group invited U.S. organizations engaged in web archiving or in the process of planning a web archive to take the 2013 NDSA Web Archiving Survey. A list of the survey questions is available here (PDF, 196 KB) and a report on the results is available [here](/documents/ndsa_web_archiving_survey_2013.pdf) (PDF, 1010 KB).
+
+A report of the 2011 survey results is also [available](/documents/ndsa_web_archiving_survey_report_2012.pdf) (PDF, 442 KB) along with the [2011 survey questions](/documents/USWebArchivingSurvey.pdf) (PDF, 272 KB) -- and working group members are currently engaged in a 2016 iteration of the survey, with progress to be reported at *Digital Preservation 2016*.
 
 ### Recently Published Report: "Geospatial Data Stewardship: Key Online Resources"
  A [report](/documents/NDSA_AppraisalSelection_report_final102413.pdf) (PDF, 550 KB) of the Geospatial Content Team that lists online resources highlighting key concepts and practices supporting the preservation and stewardship of digital geospatial data and information. The resources offer a starting point to methods, tools and approaches across the information lifecycle to assist in understanding current best practices in the stewardship of geospatial data. These resources will be regularly updated online at the "[Geospatial Data Stewardship: Key Online Resources](/working-groups/content/geospatial-data-stewardship/)" web page.
