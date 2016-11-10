@@ -6,13 +6,25 @@ permalink: /awards/
 
 Our annual Innovation Awards were established by the National Digital Stewardship Alliance (NDSA) to recognize and encourage innovation in the field of digital preservation stewardship. These awards highlight and commend creative individuals, projects, organizations, and future stewards demonstrating originality and excellence in their contributions to the field of digital preservation.
 
-The program is administered by an NDSA Working Group, traditionally drawn from members of the [Innovation Interest Group](http://ndsa.org/working-groups/innovation/). 
+The program is administered by an NDSA Working Group, traditionally drawn from members of the [Innovation Interest Group](http://ndsa.org/working-groups/innovation/).
 
-**WINNERS OF THE 2016 NDSA INNOVATION AWARDS WILL BE ANNOUNCED ON NOVEMBER 9TH AT [DIGITAL PRESERVATION 2016](https://www.diglib.org/forums/2016forum/ndsa-digipres16/)!**
+## 2016 NDSA Innovation Award Winners
+
+Our latest awardees were [announced](https://www.diglib.org/archives/12878/) at *Digital Preservation 2016* in Milwaukee on November 9, 2016.
+
+**Future Steward: Samantha Abrams, StoryCorps.**  Samantha is recognized for her work with the Madison Public Library and its Personal Archiving Lab as well as her initiative to create innovative projects and classes.
+
+**Individual: Jarrett Drake, Princeton University.** Jarrett is recognized for his work at Princeton and in the community to challenge and re-examine the practices of archiving and documenting history, particularly relating to preserving the underrepresented voices in history.
+
+**Individual: Dave Rice, CUNY Television.** Dave is recognized for his work in advocating widely for standards and collaboration across countries and organizations as well as his work with nonprofit organizations such as Democracy Now and WITNESS.
+
+**Organization: Mid-Michigan Digital Practitioners.** The MMDP is recognized for its highly original and successful organizational model in fostering innovation sharing and knowledge exchange.
+
+**Project: Tribal Stewardship Cohort Program.** The project is recognized for its work in providing long-term educational opportunities in digital heritage management and preservation as well as its dedication to culturally responsive and ethically-minded practices.
 
 ## 2015 NDSA Innovation Award Winners
 
-The nomination period was open from May 12 - June 30, 2015. Our latest awardees were [announced](http://blogs.loc.gov/digitalpreservation/2015/10/announcing-the-2015-innovation-award-winners/) on October 15, 2015.
+Our 2015 awardees were [announced](http://blogs.loc.gov/digitalpreservation/2015/10/announcing-the-2015-innovation-award-winners/) on October 15, 2015.
 
 **Future Steward: Lauren Work, VCU Libraries.** Lauren is recognized for her work on several projects with the aim of giving VCU Libraries' collections greater exposure and connecting the Library with the Richmond community. In her short time at VCU, she’s created collaborations and working relationships inside and outside of the library to expose hidden collections in order to further digital preservation.
 
