@@ -15,6 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ndsa.diglib.org/" # the base hostname & protocol for your site
 twitter_username: clirdlf
 github_username:  clirdlf
+paginate: 5
 
 google-tracking-id: UA-9461551-2
 
@@ -28,3 +29,4 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-paginate

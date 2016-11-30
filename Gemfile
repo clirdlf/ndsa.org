@@ -2,6 +2,8 @@ source "https://rubygems.org"
 
 gem "jekyll"
 
+gem "jekyll-import"
+gem "jekyll-paginate"
 gem "jekyll-sitemap"
 gem "jekyll-feed"
 
