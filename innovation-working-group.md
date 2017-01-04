@@ -3,7 +3,7 @@ title: Innovation Interest Group
 layout: page
 permalink: /working-groups/innovation/
 ---
-**Innovation Interest Group Coordinators**: Sheila Morrissey, ITHAKA - <a href="mailto:sheila(dot)morrissey(at)ithaka(dot)org">sheila dot morrissey at ithaka dot org</a>, Bethany Nowviskie, Digital Library Federation (interim) - <a href="mailto:bnowviskie(at)clir(dot)org">bnowviskie at clir dot org</a>
+**Innovation Interest Group Coordinator**: Sheila Morrissey, ITHAKA - <a href="mailto:sheila(dot)morrissey(at)ithaka(dot)org">sheila dot morrissey at ithaka dot org</a>
 
 *Take me to the [Innovation Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-INNOVATION)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, please contact the coordinator.*
 
