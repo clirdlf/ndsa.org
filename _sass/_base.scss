@@ -4,6 +4,21 @@ $btn-color:       #00866c; // not 0ccfa8
 
 .blue { color: $ndsa-logo-color; }
 
+.alignleft {
+	float: left;
+	margin: 5px 20px 20px 0;
+}
+
+.aligncenter {
+	display: block;
+	margin: 5px auto 5px auto;
+}
+
+.alignright {
+		float: right;
+		margin: 5px 20px 20px 0;
+}
+
 .scroll-to-top {
 	position: fixed;
 	background-image: url('http://ndsa.diglib.org/images/scroll-to-top.png');
