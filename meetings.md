@@ -8,26 +8,26 @@ permalink: /meetings/
 ## Digital Preservation 2016: "Building Communities of Practice"
 
 ### Program and Information  
-Mark your calendars for November 9-10, 2016! **We are very pleased to announce [the full program](https://www.conftool.pro/dlf2016/index.php?page=browseSessions&presentations=show&form_tracks=2) for NDSA's Digital Preservation 2016!**
+Digital Preservation 2016 was held in Milwaukee, Wisconsin, from November 9-10, 2016, just after the closing of the [2016 DLF Forum](https://www.diglib.org/forums/2016forum/). **[The full program](https://www.conftool.pro/dlf2016/index.php?page=browseSessions&presentations=show&form_tracks=2) is available to browse.**
 
 ([Browse the programs](https://www.conftool.pro/dlf2016/sessions.php) for the 2016 DLF Forum and Liberal Arts Colleges Pre-Conference here as well.)
 
-We hope to see you in Milwaukee, just after the closing of the [2016 DLF Forum](https://www.diglib.org/forums/2016forum/)!
+The 2016 conference was the first organized in partnership with our new host organization, the [Digital Library Federation](https://diglib.org/) (DLF). *Digital Preservation* is the major meeting of the NDSA—open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues.  
 
-This year's conference will be the first organized in partnership with our new host organization, the [Digital Library Federation](https://diglib.org/) (DLF). *Digital Preservation* is the major meeting of the NDSA—open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues.  
-
-Stay tuned here, at [@NDSA2](https://twitter.com/ndsa2) and [#digipres16](https://twitter.com/search?q=%23digipres16&src=typd) on Twitter, and at the [DLF Forum website](https://www.diglib.org/forums/2016forum/ndsa-digipres16/) for more information!
+You can find information and news about the event at [@NDSA2](https://twitter.com/ndsa2) and [#digipres16](https://twitter.com/search?q=%23digipres16&src=typd) on Twitter, and at the [DLF Forum website](https://www.diglib.org/forums/2016forum/ndsa-digipres16/).
 
 ### Keynote and Plenary
 
-Our Digital Preservation 2016 keynote speaker will be **Bergis Jules**, University and Political Papers Archivist at the University of California, Riverside library, and will focus on the power and promise of diversity and inclusivity in digital preservation work. We will share a title and abstract in the coming months. Read the full announcement [here](https://www.diglib.org/archives/11840/).
+Our Digital Preservation 2016 keynote speaker was **Bergis Jules**, University and Political Papers Archivist at the University of California, Riverside library, and his talk focused on the power and promise of diversity and inclusivity in digital preservation work. Read the full announcement [here](https://www.diglib.org/archives/11840/).
 
-We'll close with a final plenary talk by **Allison Druin**, Special Advisor for National Digital Strategy at the NPS, who will take up the conference theme, “building communities of practice,” in the context of “communities of innovation” and her work with America’s National Park Service.
+We closed with a final plenary talk by **Allison Druin**, Special Advisor for National Digital Strategy at the NPS, who took up the conference theme, “building communities of practice,” in the context of “communities of innovation” and her work with America’s National Park Service.
 
 Learn more [here](https://www.diglib.org/forums/2016forum/keynotes/).
 
+The recordings of the keynote and final plenary presentations are available [here](https://www.diglib.org/forums/2016forum/livestream-schedule/).
 
-### Travel and Registration
+
+### Travel and Registration - **CLOSED October 17, 2016.**
 
 [Registration](https://www.conftool.pro/dlf2016/) includes a continental breakfast, hot lunch, coffee breaks, and the NDSA reception. The conference will run from Wednesday mid-afternoon through Thursday evening, November 9-10.
 
