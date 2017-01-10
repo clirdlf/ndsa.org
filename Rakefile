@@ -38,7 +38,8 @@ namespace :import do
 
         header = {
           'layout' => 'post',
-          'title' => item.title
+          'title' => item.title,
+          'date' => item.date.strftime('%Y-%m-%d %T %z')
         }
 
         FileUtils.mkdir_p("_posts")
