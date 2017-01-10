@@ -18,6 +18,16 @@ cd ~/projects/ndsa.org && git checkout gh-pages && bundle install
 
 Every time you save a change, Jekyll will rebuild the website.
 
+## Blog Posts
+
+Blog posts are written and served from https://diglib.org/. There is a `rake` task to import these and convert them to the Jekyll format.
+
+```
+$ rake import:rss
+```
+
+This will load the full content of the posts from the RSS feed and generate the appropriate files. Any changes (typos, links, etc.) need to be made at https://diglib.org. 
+
 ## Membership Data
 
 There are `Rake` tasks that will retrieve data from the Google Spreadsheet where the application data is saved. By default, you only need to run `rake` in the project directory.
