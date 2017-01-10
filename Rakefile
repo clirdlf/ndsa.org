@@ -154,10 +154,10 @@ namespace :convert do
     login # login and fetch worksheet
     table_data = [] # array to hold data hashes
     header = <<-YAML
-    ---
-    layout: null
-    permalink: /data/members.json
-    ---
+---
+layout: null
+permalink: /data/members.json
+---
     YAML
     (2..@ws.num_rows).each do |row|
       active = @ws[row, 30] # row with active switch
