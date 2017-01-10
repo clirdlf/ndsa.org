@@ -13,7 +13,47 @@ require 'date'
 require 'erb'
 require 'json'
 
+# for importing RSS feed
+require 'rss'
+require 'rss/2.0'
+require 'open-uri'
+require 'fileutils'
+require 'safe_yaml'
+
+@feed_url = 'https://www.diglib.org/topics/ndsa/feed/'
+
 Dotenv.load
+
+namespace :import do
+  desc "Import NDSA feed"
+  task :rss do
+    open(@feed_url) do |rss|
+      feed = RSS::Parser.parse(rss)
+      feed.items.each do |item|
+        formatted_date = item.date.strftime('%Y-%m-%d')
+        post_name = item.title.split(%r{ |!|/|:|&|-|$|,}).map do |i|
+          i.downcase if i != ''
+        end.compact.join('-')
+        name = "#{formatted_date}-#{post_name}"
+
+        header = {
+          'layout' => 'post',
+          'title' => item.title
+        }
+
+        FileUtils.mkdir_p("_posts")
+
+        File.open("_posts/#{name}.html", "w") do |f|
+          puts "Importing #{name}".green
+          f.puts header.to_yaml
+          f.puts "---\n\n"
+          f.puts item.content_encoded
+        end
+      end
+
+    end
+  end
+end
 
 # Geocoder.configure(
 #   lookup: :opencagedata,
@@ -114,10 +154,10 @@ namespace :convert do
     login # login and fetch worksheet
     table_data = [] # array to hold data hashes
     header = <<-YAML
----
-layout: null
-permalink: /data/members.json
----
+    ---
+    layout: null
+    permalink: /data/members.json
+    ---
     YAML
     (2..@ws.num_rows).each do |row|
       active = @ws[row, 30] # row with active switch
