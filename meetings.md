@@ -22,9 +22,7 @@ Our Digital Preservation 2016 keynote speaker was **Bergis Jules**, University a
 
 We closed with a final plenary talk by **Allison Druin**, Special Advisor for National Digital Strategy at the NPS, who took up the conference theme, “building communities of practice,” in the context of “communities of innovation” and her work with America’s National Park Service.
 
-Learn more [here](https://www.diglib.org/forums/2016forum/keynotes/).
-
-The recordings of the keynote and final plenary presentations are available [here](https://www.diglib.org/forums/2016forum/livestream-schedule/).
+Learn more [here](https://www.diglib.org/forums/2016forum/keynotes/). The recordings of the keynote and final plenary presentations are available [here](https://www.diglib.org/forums/2016forum/livestream-schedule/).
 
 
 ### Travel and Registration - **CLOSED October 17, 2016.**
