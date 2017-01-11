@@ -19,9 +19,10 @@ javascript:
 
 ### Participation
 
-- [Which Interest Groups are right for my organization?](#which-working-groups-are-right-for-my-organization)
-- [How do we join a specific Interest Group?](#how-do-we-join-a-specific-working-group)
-- [Can individuals switch to a different Interest Group?](#can-individuals-switch-to-a-different-working-group)
+- [What is the difference between an Interest Group and a Working Group?](#what-is-the-difference-between-an-interest-group-and-a-working-group)
+- [Which groups are right for my organization?](#which-groups-are-right-for-my-organization)
+- [How do we join a specific Interest Group or Working Group?](#how-do-we-join-a-specific-interest-group-or-working-group)
+- [Can I switch to a different group?](#can-i-switch-to-a-different-group)
 - [Can member organizations participate in more than one Interest Group?](#can-member-organizations-participate-in-more-than-one-working-group)
 
 ### Member Communication
@@ -45,7 +46,7 @@ Our [Coordinating Committee](/leadership/) evaluates membership applications on 
 
 ### What commitment is expected if my organization joins the NDSA?
 
-Members are expected to engage actively in digital stewardship and share lessons learned and practical knowledge about ensuring long-term access to digital materials. Interest Groups are the primary mechanism through which the NDSA accomplishes its [goals](/). Participation in Interest Group conference calls and projects can take anywhere from two to seven hours a month. There are no fees associated with joining the NDSA.
+Members are expected to engage actively in digital stewardship and share lessons learned and practical knowledge about ensuring long-term access to digital materials. [Interest Groups and Working Groups](/working-groups) are the primary mechanism through which the NDSA accomplishes its [goals](/values). Participation in Interest Group and Working Group conference calls and projects can take anywhere from two to seven hours a month. There are no fees associated with joining the NDSA.
 
 ### What are the benefits of joining the NDSA?
 
@@ -61,36 +62,35 @@ CLIR and the [Digital Library Federation](https://diglib.org/) believe strongly 
 
 ## Participation
 
-### Which Interest Groups are right for my organization?
+### What is the difference between an Interest Group and a Working Group?
+The NDSA has established Interest Groups focusing on broad areas of digital preservation, out of which smaller Working Groups often emerge. All NDSA member organizations commit to providing participants for one or more groups. NDSA participants may form Interest Groups (IGs) and Working Groups (WGs) at will, in order to discuss mutual interests, and advance joint projects.
 
-The answer depends on what exactly your organizational goals and needs are. It is generally best to try to match the right people in your organization with the right NDSA Interest Group. For example, developers and IT staff and administrators are a great fit for the [Infrastructure Interest Group](/working-groups/infrastructure/) and individuals in marketing or communications are a great fit for the [Outreach](/working-groups/outreach/). Think about what your organization's strengths are and work from there. In general, the more directly the Interest Group's mission suits the individuals who participate from your organization, the more you, the NDSA, and the Interest Group benefit.
+### Which groups are right for my organization?
 
-### How do we join a specific Interest Group?###
+The answer depends on what exactly your organizational goals and needs are. It is generally best to try to match the right people in your organization with the right NDSA group. For example, developers and IT staff and administrators are a great fit for the [Infrastructure Interest Group](/working-groups/infrastructure/). Think about what your organization's strengths are and work from there. In general, the more directly the group's mission suits the individuals who participate from your organization, the more you, the NDSA, and the group benefit.
 
-When organizations join the NDSA, they indicate which groups they would like to join, and which individuals will participate in each of those groups. Once a organization's application is approved, those people are added to the relevant listservs and can begin collaborating. Individuals at member organizations can also join other NDSA Interest Groups at any point. To join a particular group, contact <ndsa@diglib.org>, let us know what member organization you represent, and make your request.
+### How do we join a specific Interest Group or Working Group?###
 
-### Can I switch to a different Interest Group?###
+When organizations join the NDSA, they indicate which Interest Groups they would like to join, and which individuals will participate in each of those groups. Once a organization's application is approved, those people are added to the relevant listservs and can begin collaborating. Individuals at member organizations can also join other NDSA Interest Groups and Working Groups at any point. To join a particular group, contact <ndsa@diglib.org> or the [group's chair](/working-groups/) to let us know what member organization you represent and make your request.
 
-Yes, people associated with NDSA member organizations can change Interest Groups at any point. Contact a [Interest Group Co-Chair](/working-groups/) if you have questions about making a switch.
+### Can I switch to a different group?###
 
-### Can member organizations participate in more than one Interest Group?###
+Yes, people associated with NDSA member organizations can change Interest Groups and Working Groups at any point. Contact the [group's chair or co-chair](/working-groups/) if you have questions about making a switch.
 
-Definitely! We encourage participation on multiple Interest Groups. In most cases, it is best to have different people from a member organization participate in different Interest Groups. Ideally, the Interest Group will be a direct and natural fit for the nature of each individual's role within your organization.
+### Can member organizations participate in more than one Interest Group or Working Group?###
+
+Definitely! We encourage participation on multiple Interest Groups and Working Groups. In most cases, it is best to have different people from a member organization participate in different groups. Ideally, the Interest Group or Working Group will be a direct and natural fit for the nature of each individual's role within your organization.
 
 ## Member Communication
 
 ### How do members access NDSA listservs?###
 
-NDSA has several email lists for sharing information and coordinating activities. The lists are private to members, so only subscribers may post messages and access the archives. To subscribe to one or more of the lists below, send a request to <ndsa@diglib.org>.
+NDSA has several email lists for sharing information and coordinating activities. The lists are private to members, so only subscribers may post messages and access the archives. To subscribe to one or more of the lists below, simply sign up or send a request to your Interest Group Co-Chairs.
 
-**COMING SOON:** links to new, DLF-hosted lists
-
-- NDSA-all, for general announcements
-- for Content Interest Group members
-- for Infrastructure Interest Group members
-- for Innovation Interest Group members
-- for Outreach Interest Group members
-- for Standards Interest Group members
+- [NDSA-all](https://lists.clir.org/cgi-bin/wa?A0=NDSA-ALL), for general announcements
+- [Content Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-CONTENT)
+- [Infrastructure Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-INFRASTRUCTURE)
+- [Standards and Practices Interest Group Listserv](http://ndsa.org/working-groups/standards-and-practices/)
 
 ### How do members use the NDSA wiki?###
 
@@ -100,8 +100,8 @@ NDSA maintains [public pages](https://wiki.diglib.org/NDSA:Main_Page) on the [DL
 
 We are thrilled that you've joined! There are many ways to get involved. Check out the [New Member Orientation and Resources](/new-members/) page for information and tips about where to start.
 
-### Who are the NDSA Interest Group Co-Chairs?###
+### Who are the NDSA Interest Group and Working Group Co-Chairs?###
 
-Each Interest Group is led by one or more volunteers. You'll find their names and contact information on the [Interest Group](/working-groups/) page.
+Each group is led by one or more volunteers. You'll find their names and contact information on the [NDSA Groups](/working-groups/) page.
 
 <div class="scroll-to-top">&nbsp;</div>
