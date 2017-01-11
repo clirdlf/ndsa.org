@@ -15,7 +15,7 @@ The Innovation Interest Group has a more than six-year history of activity under
 - SWAT sites (in NY) for the long tail of digital media
 - Short papers on web archiving and disaster planning
 
-During the summer of 2016, members of the Innovation Interest Group began a review of the Interest Group’s six-year history, and a reflection on whether or not there was a vision for the continuing activity of this group, and, more importantly, if there people whose interests aligned with that vision, and would undertake the work of the group as currently defined.
+During the summer of 2016, members of the Innovation Interest Group began a review of the Interest Group’s six-year history and reflected on whether there was a vision for the continuing activity of this group, and, more importantly, if there were people whose interests aligned with that vision, and would undertake the work of the group.
 
 It was decided to present the question of whether to continue or to sunset the Innovation Interest Group at the [NDSA Digital Preservation 2016](/events) conference in Milwaukee in November, to all interested NDSA participants.  Attendees were asked their motivation for attending the interest group meeting, what they wished to accomplish, and if they thought the Innovation Interest Group, rather than some other interest or working group, was the best medium for accomplishing those interests.
 
