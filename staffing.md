@@ -3,7 +3,7 @@ title: Staffing Survey Working Group
 layout: page
 permalink: /working-groups/staffing/
 ---
-Initiated within the [Standards and Practices Interest Group] (http://ndsa.org/working-groups/standards-and-practices/) the Staffing Survey Working Group was established in November 2016 as a collaboration of interested NDSA members.  
+Initiated within the [Standards and Practices Interest Group](http://ndsa.org/working-groups/standards-and-practices/) the Staffing Survey Working Group was established in November 2016 as a collaboration of interested NDSA members.  
 
 The Staffing Survey Working Group is working to re-release a survey about staffing practices as a follow up to the NDSA 2012 Staffing Survey.  As was the case after the 2012 survey, a report will be published with the results.  The goal is to better understand current staffing levels and staffing needs around the area of digital preservation.  This work will also provide a set of data to compare with the 2012 survey results.   
 
@@ -17,5 +17,5 @@ Please contact working group chair Carol Kussmann of the University of Minnesota
 
 
 ## 2012 Survey Information
-* [2012 Report and Survey Results] (http://ndsa.org/documents/NDSA-Staffing-Survey-Report-Final122013.pdf)
-* [Blog Post] (http://blogs.loc.gov/thesignal/2013/12/just-released-staffing-for-effective-digital-preservation-an-ndsa-report/) with background information
+* [2012 Report and Survey Results](http://ndsa.org/documents/NDSA-Staffing-Survey-Report-Final122013.pdf)
+* [Blog Post](http://blogs.loc.gov/thesignal/2013/12/just-released-staffing-for-effective-digital-preservation-an-ndsa-report/) with background information
