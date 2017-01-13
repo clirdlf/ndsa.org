@@ -33,9 +33,9 @@ Content edits can be easily made on the browser-based GitHub editor.
 - Click the pencil icon or type "e" to edit the file
 - Make the edits, add a short description, and commit the changes to the
   gh-pages branch
-- For information on formatting, please review the [Markdown
-  Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-- GitHub keyboard shortcuts can be found
+
+For information on formatting, please review the [Markdown
+  Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). GitHub keyboard shortcuts can be found
 [here](https://help.github.com/articles/using-keyboard-shortcuts/). 
 
 ## Blog Posts
