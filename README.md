@@ -31,7 +31,7 @@ Content edits can be easily made on the browser-based GitHub editor.
   Practices Interest Group is
 [standards-and-practices.md](https://github.com/clirdlf/ndsa.org/blob/gh-pages/standards-and-practices.md))
 - Click the pencil icon or type "e" to edit the file
-- Make the edits, add a short description, and commit the changes to the
+- Make the edits, add a [short description](http://chris.beams.io/posts/git-commit/), and commit the changes to the
   gh-pages branch
 
 For information on formatting, please review the [Markdown
