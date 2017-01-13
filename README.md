@@ -29,13 +29,13 @@ GitHub repository.
 Content edits can be easily made on the browser-based GitHub editor.
 - Find the relevant page (for example, the page for the Standards and
   Practices Interest Group is
-[standards-and-practices.md](https://github.com/clirdlf/ndsa.org/blob/gh-pages/standards-and-practices.md)
+[standards-and-practices.md](https://github.com/clirdlf/ndsa.org/blob/gh-pages/standards-and-practices.md))
 - Click the pencil icon or type "e" to edit the file
 - Make the edits, add a short description, and commit the changes to the
   gh-pages branch
 - For information on formatting, please review the [Markdown
   Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-More GitHub keyboard shortcuts can be found
+- GitHub keyboard shortcuts can be found
 [here](https://help.github.com/articles/using-keyboard-shortcuts/). 
 
 ## Blog Posts
