@@ -29,7 +29,7 @@ $btn-color:       #00866c; // not 0ccfa8
 	right: 15px;
 	width: 55px;
 	padding-right: 1em;
-	display:none;
+	// display:none;
 	z-index: 999;
 }
 
@@ -102,7 +102,7 @@ $btn-color:       #00866c; // not 0ccfa8
 @media(max-width: 767px){
 	.dropdown-menu > li > a:hover {
 		background-color: transparent;
-		colord: #fff;
+		color: #fff;
 	}
 }
 
