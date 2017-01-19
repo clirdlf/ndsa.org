@@ -1,5 +1,5 @@
 {
-  "name": "ndsa.org site",
+  "name": "ndsa.org",
   "version": "1.0.0",
   "description": "automation for NDSA site",
   "main": "gulp.js",
