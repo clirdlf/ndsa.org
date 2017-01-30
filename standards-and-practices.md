@@ -28,7 +28,7 @@ Smaller working groups frequently emerge from the Standards and Practices Intere
   - Certifying the trustworthiness of preservation repositories
   - Related large-scale initiatives
 
-[Who’s Minding the (Data) Store? Results of the NDSA Digital Preservation Staffing Survey](/documents/NDSA-staff-survey-poster-ipres2012.pdf) (PDF). Poster from [iPres2012](https://ipres.ischool.utoronto.ca/).
+[Who’s Minding the (Data) Store? Results of the NDSA Digital Preservation Staffing Survey](/documents/NDSA-staff-survey-poster-ipres2012.pdf) (PDF). Poster from [iPres2012](http://dci.ischool.utoronto.ca/ipres-2012-ninth-annual-conference-october-1-5-2012-ischool-university-of-toronto-canada/).
 
 ### Report: "The Benefits and Risks of the PDF/A-3 File Format for Archival Institutions"
 
