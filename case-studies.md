@@ -13,7 +13,7 @@ The following case studies are available in PDF format:
 - [Newspaper E-Prints](/documents/NDSA_CaseStudy_NewspaperEPrints.pdf)
 
 ## About the Case Studies
-The [Content Interest Group](/content-working-group/) is investigating guidelines for the selection of significant content, discovery of at-risk digital content or collections, and engaging all stakeholders in the process of acquiring the content, preserving it, and providing access to it. Its current scope of work involves "content teams" grouped in the following topical areas:
+The [Content Interest Group](/working-groups/content/) is investigating guidelines for the selection of significant content, discovery of at-risk digital content or collections, and engaging all stakeholders in the process of acquiring the content, preserving it, and providing access to it. Its current scope of work involves "content teams" grouped in the following topical areas:
 
 - Government
 - Geospatial

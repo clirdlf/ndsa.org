@@ -12,7 +12,7 @@ Below is the current NDSA Calendar. It lists upcoming Interest Group and Working
 
 If you're an NDSA member and have questions about the calendar or would like to add a meeting or call to it, please contact <ndsa@diglib.org>. See also the [DLF Community Calendar](https://www.diglib.org/opportunities/calendar/), with more national and international events relevant to NDSA's mission.
 
-- [Interest Group Calls](#ndsa-working-group-calls)
+- [Interest Group Calls](#ndsa-interest-group-calls)
 - [Past Presentations at Conferences and Meetings](#past-presentations-at-conferences-and-meetings)
 - [NDSA Regional Meetings](#ndsa-regional-meetings)
 
@@ -22,7 +22,7 @@ If you're an NDSA member and have questions about the calendar or would like to 
   <iframe class="embed-responsive-tiem" src="https://calendar.google.com/calendar/embed?title=NDSA%20Calendar&amp;showTitle=0&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ndsa.cal%40gmail.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" frameborder="0" scrolling="no"></iframe>
 </div>
 
-## Recent Presentations at Conferences and Meetings
+## Past Presentations at Conferences and Meetings
 
   <table class="table" summary="NDSA Meeting Archive">
     <thead>
@@ -36,7 +36,7 @@ If you're an NDSA member and have questions about the calendar or would like to 
     <tbody>
     <tr>
       <td>Oct. 3-6, 2016</td>
-      <td><a href="http://ipres2016.org/">iPRES 2016</a></td>
+      <td><a href="http://ipres2016.ch/">iPRES 2016</a></td>
       <td>Bern, Switzerland</td>
       <td>Annual Meeting</td>
     </tr>
@@ -117,7 +117,7 @@ If you're an NDSA member and have questions about the calendar or would like to 
 </tbody>
   </table>
 
-  <h2 id="regional-meetings">NDSA Regional Meetings</h2>
+## NDSA Regional Meetings
 
   <table class="table" summary="Regional NDSA Meetings">
     <thead>

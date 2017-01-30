@@ -23,8 +23,8 @@ Members share in the advantages of the NDSA, including:
 
 - Shaping the [National Agenda](/national-agenda/) for digital preservation in the United States;
 - Partnering with major organizations, including premier cultural heritage institutions and nonprofit organizations;
-- Participating in efforts to develop and implement [tools and infrastructure](/infrastructure/), services, [standards](/standards-and-practices/), and training;
-- Taking part in a national [outreach](outreach-working-group/) program to build public awareness;
+- Participating in efforts to develop and implement [tools and infrastructure](/working-groups/infrastructure/), services, [standards](/working-groups/standards-and-practices/), and training;
+- Taking part in national outreach build public awareness;
 - Learning about digital preservation practices from a network of thought leaders.
 
 ## Commitment
