@@ -8,15 +8,12 @@ javascript:
   - /js/scroll.js
 ---
 
-Below is the current NDSA Calendar. It lists upcoming Interest Group and Working Group calls, NDSA conferences, and meetings where NDSA presentations will happen, including NDSA Regional Meetings.
+Below is the current NDSA Calendar. It lists upcoming Interest Group and Working Group calls, NDSA publications, NDSA conferences, and meetings where NDSA presentations will happen, including NDSA Regional Meetings.
 
 If you're an NDSA member and have questions about the calendar or would like to add a meeting or call to it, please contact <ndsa@diglib.org>. See also the [DLF Community Calendar](https://www.diglib.org/opportunities/calendar/), with more national and international events relevant to NDSA's mission.
 
-- [Interest Group Calls](#ndsa-interest-group-calls)
 - [Past Presentations at Conferences and Meetings](#past-presentations-at-conferences-and-meetings)
 - [NDSA Regional Meetings](#ndsa-regional-meetings)
-
-## NDSA Interest Group Calls
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-tiem" src="https://calendar.google.com/calendar/embed?title=NDSA%20Calendar&amp;showTitle=0&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ndsa.cal%40gmail.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" frameborder="0" scrolling="no"></iframe>
