@@ -31,7 +31,7 @@ namespace :import do
       feed = RSS::Parser.parse(rss)
       feed.items.each do |item|
         formatted_date = item.date.strftime('%Y-%m-%d')
-        post_name = item.title.split(%r{ |!|/|:|&|-|$|,}).map do |i|
+        post_name = item.title.split(%r{ |!|/|:|&|-|$|,|“|”}).map do |i|
           i.downcase if i != ''
         end.compact.join('-')
         name = "#{formatted_date}-#{post_name}"
