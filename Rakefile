@@ -24,6 +24,30 @@ require 'safe_yaml'
 
 Dotenv.load
 
+def round_down(number)
+  return (number / 10) * 10
+end
+
+desc 'Set number of people'
+task :count do
+  file = File.read('data/members.json')
+  orgs = JSON.parse(file)
+  size = orgs.size
+  rounded = round_down(size)
+
+  config = '_config.yml'
+
+  yml_file = File.read(config)
+  yml = YAML.load(yml_file, :safe => true)
+  yml['org_count'] = rounded
+
+  File.open(config, 'w') do |f|
+    f.write yml.to_yaml
+  end
+
+  puts "Updated organization count to #{rounded}.".green
+end
+
 namespace :import do
   desc "Import NDSA feed"
   task :rss do
@@ -154,12 +178,12 @@ namespace :convert do
   task table_data: :dotenv do
     login # login and fetch worksheet
     table_data = [] # array to hold data hashes
-    header = <<-YAML
----
-layout: null
-permalink: /data/members.json
----
-    YAML
+#     header = <<-YAML
+# ---
+# layout: null
+# permalink: /data/members.json
+# ---
+#     YAML
     (2..@ws.num_rows).each do |row|
       active = @ws[row, 30] # row with active switch
 

@@ -1,34 +1,31 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: National Digital Stewardship Alliance - Digital Library Federation
 email: ndsa@diglib.org
-description: > # The National Digital Stewardship Alliance works to establish,
- maintain, and advance the capacity to preserve our nation's digital resources
- for the benefit of present and future generations.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ndsa.diglib.org/" # the base hostname & protocol for your site
+description: 'maintain, and advance the capacity to preserve our nation''s digital
+  resources for the benefit of present and future generations.
+
+'
+baseurl: ''
+url: http://ndsa.diglib.org/
 twitter_username: clirdlf
-github_username:  clirdlf
-
+github_username: clirdlf
 google-tracking-id: UA-9461551-2
-
-# paginate_path: "/blog/page:num/"
 paginate: 5
-
-exclude: ['.gitignore', '.env', '.git', 'node_modules', 'temp', 'vendor', 'gulpfile.js', 'package.json', 'README.md']
+org_count: 210
+exclude:
+- ".gitignore"
+- ".env"
+- ".git"
+- node_modules
+- temp
+- vendor
+- gulpfile.js
+- package.json
+- README.md
 sass:
   style: compressed
-
-# Build settings
 markdown: kramdown
-
 gems:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-paginate
