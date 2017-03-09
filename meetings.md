@@ -3,7 +3,7 @@ title: Digital Preservation Conferences
 layout: page
 permalink: /meetings/
 ---
-<img alt="meetings" src='{{ "/images/icons/presentation.png" | prepend: site.baseurl }}'>
+<img alt="meetings" width="480" height="270" src='{{ "/images/NDSA-DigitalPreservation-SiteBanner.png" | prepend: site.baseurl }}'>
 
 ## Digital Preservation 2017
 
