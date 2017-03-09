@@ -7,7 +7,7 @@ permalink: /meetings/
 
 ## Digital Preservation 2017
 
-Digital Preservation is the NDSA’s major meeting and conference—open to members and non-members alike—focusing on digital stewardship and preservation, data curation, and related issues. This year, it will be held in Pittsburgh, Pennsylvania, October 25-26, 2017.
+Digital Preservation is the NDSA’s major meeting and conference—open to members and non-members alike—focusing on digital stewardship and preservation, data curation, and related issues. This year, it will be held in Pittsburgh, Pennsylvania, October 25-26, 2017, immediately following the [DLF Forum](https://www.diglib.org/forums/2017forum/).
 
 ### Call for Planning Committee Volunteers
 
