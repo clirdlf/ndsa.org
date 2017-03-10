@@ -1737,7 +1737,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">National Center for Atmospheric Research (NCAR) Library</a></h2><p>Partner since <strong>January 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://library.ucar.edu\">National Center for Atmospheric Research (NCAR) Library</a></h2><p>Partner since <strong>January 2013</strong></p>"
       },
       "id": 145
     },
