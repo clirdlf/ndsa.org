@@ -1,25 +1,36 @@
 $(document).ready(function() {
-  var Thunderforest_SpinalMap = L.tileLayer('https://{s}.tile.thunderforest.com/spinal-map/{z}/{x}/{y}.png?apikey=ed8a8c98442949588501489e7f836831g', {
+  var Thunderforest_SpinalMap = L.tileLayer('https://{s}.tile.thunderforest.com/spinal-map/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-    maxZoom: 19
+    maxZoom: 22,
+    api_key: 'ed8a8c98442949588501489e7f836831g'
   }),
-  OpenStreetMap_Mapnik = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  Stamen_Terrain = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
+  	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+  	subdomains: 'abcd',
+  	minZoom: 0,
+  	maxZoom: 18,
+  	ext: 'png'
   }),
-  Thunderforest_Landscape = L.tileLayer('https://{s}.tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey=ed8a8c98442949588501489e7f836831g', {
-    attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  CartoDB_Positron = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+  	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+  	subdomains: 'abcd',
+  	maxZoom: 19
+  }),
+  Thunderforest_Landscape = L.tileLayer('https://{s}.tile.thunderforest.com/landscape/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    maxZoom: 22,
+    api_key: 'ed8a8c98442949588501489e7f836831g'
   });
 
   var map = L.map('map', {
     center: [39.73, -104.99],
     zoom: 4,
-    layers: [ Thunderforest_SpinalMap, Thunderforest_Landscape ]
+    layers: [ CartoDB_Positron, Stamen_Terrain ]
   });
 
   var baseMaps = {
-    "Spinal Map": Thunderforest_SpinalMap,
-    "Open Street Map": Thunderforest_Landscape
+    "Positron": CartoDB_Positron,
+    "Terrain": Stamen_Terrain,
   };
 
   L.control.layers(baseMaps).addTo(map);
