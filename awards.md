@@ -10,17 +10,17 @@ The program is administered by an NDSA Working Group, which includes members dra
 
 ## 2016 NDSA Innovation Award Winners
 
-Our latest awardees were [announced](https://www.diglib.org/archives/12878/) at *Digital Preservation 2016* in Milwaukee on November 9, 2016.
+Our latest awardees were [announced](https://www.diglib.org/archives/12878/) at *Digital Preservation 2016* in Milwaukee on November 9, 2016. We're pleased to present our interviews with the awardees linked below:
 
-**Future Steward: Samantha Abrams, StoryCorps.**  Samantha is recognized for her work with the Madison Public Library and its Personal Archiving Lab as well as her initiative to create innovative projects and classes.
+[**Future Steward: Samantha Abrams, StoryCorps.**](http://ndsa.diglib.org//2017/02/01/ndsa-future-steward-on-community-web-archiving-an-interview-with-samantha-abrams.html)  Samantha is recognized for her work with the Madison Public Library and its Personal Archiving Lab as well as her initiative to create innovative projects and classes.
 
-**Individual: Jarrett Drake, Princeton University.** Jarrett is recognized for his work at Princeton and in the community to challenge and re-examine the practices of archiving and documenting history, particularly relating to preserving the underrepresented voices in history.
+[**Individual: Jarrett Drake, Princeton University.**](http://ndsa.diglib.org//2017/02/15/archives-have-never-been-neutral-an-ndsa-interview-with-jarrett-drake.html) Jarrett is recognized for his work at Princeton and in the community to challenge and re-examine the practices of archiving and documenting history, particularly relating to preserving the underrepresented voices in history.
 
-**Individual: Dave Rice, CUNY Television.** Dave is recognized for his work in advocating widely for standards and collaboration across countries and organizations as well as his work with nonprofit organizations such as Democracy Now and WITNESS.
+[**Individual: Dave Rice, CUNY Television.**](http://ndsa.diglib.org//2017/02/22/collaboration-openness-and-preservation-an-ndsa-interview-with-dave-rice.html) Dave is recognized for his work in advocating widely for standards and collaboration across countries and organizations as well as his work with nonprofit organizations such as Democracy Now and WITNESS.
 
-**Organization: Mid-Michigan Digital Practitioners.** The MMDP is recognized for its highly original and successful organizational model in fostering innovation sharing and knowledge exchange.
+[**Organization: Mid-Michigan Digital Practitioners.**](http://ndsa.diglib.org//2017/02/08/innovation-sharing-and-knowledge-exchange-in-mid-michigan-an-ndsa-interview-with-mmdp.html) The MMDP is recognized for its highly original and successful organizational model in fostering innovation sharing and knowledge exchange.
 
-**Project: Tribal Stewardship Cohort Program.** The project is recognized for its work in providing long-term educational opportunities in digital heritage management and preservation as well as its dedication to culturally responsive and ethically-minded practices.
+[**Project: Tribal Stewardship Cohort Program.**](http://ndsa.diglib.org//2017/03/15/digital-preservation-ethical-care-and-the-tribal-stewardship-cohort-program-an-ndsa-interview-with-kimberly-christen.html) The project is recognized for its work in providing long-term educational opportunities in digital heritage management and preservation as well as its dedication to culturally responsive and ethically-minded practices.
 
 ## 2015 NDSA Innovation Award Winners
 
