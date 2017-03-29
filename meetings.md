@@ -7,13 +7,13 @@ permalink: /meetings/
 
 ## Digital Preservation 2017: "Preservation is Political"
 
-### Call for Proposals, _deadline May 7_
+### Call for Proposals, _deadline May 9_
 
 The National Digital Stewardship Alliance (NDSA) invites proposals for _**Digital Preservation 2017: “Preservation is Political,”**_ to be held in Pittsburgh, Pennsylvania, **October 25-26, 2017**.
 
 Digital Preservation is the major meeting and conference of the NDSA—open to members and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues. Our 2017 meeting is held in partnership with our host organization, the Digital Library Federation (DLF). Separate calls are being issued for the [DLF Liberal Arts Colleges Pre-Conference](https://www.diglib.org/forums/2017forum/dlflac/) (22 October) and [2017 DLF Forum](https://www.diglib.org/forums/2017forum/call-for-proposals/) (23-24 October)—all happening in the same location.
 
-Proposals are [**due by May 7th**](https://conftool.pro/dlf2017/) at 11:59pm Pacific Time.  
+Proposals are [**due by May 9th**](https://conftool.pro/dlf2017/) at 11:59pm Pacific Time.  
 
 #### About the NDSA and Digital Preservation 2017
 
@@ -25,7 +25,7 @@ The conference will be held at the  [Westin Convention Center](http://www.westin
 
 250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected. Submit proposals online: [https://conftool.pro/dlf2017/](https://conftool.pro/dlf2017/).
 
-**Deadline: May 7th, 2017 at 11:59pm PT.**
+**Deadline: May 9th, 2017 at 11:59pm PT.**
 
 We especially encourage proposals that speak to our conference theme, “**Preservation is Political**.” This core theme emerged from a discussion of strategic topics, our practice, our mission and the challenges.
 
