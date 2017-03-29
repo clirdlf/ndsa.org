@@ -23,7 +23,7 @@ The conference will be held at the  [Westin Convention Center](http://www.westin
 
 #### Submissions
 
-250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected. Submit proposals online: https://conftool.pro/dlf2017/.
+250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected. Submit proposals online: [https://conftool.pro/dlf2017/](https://conftool.pro/dlf2017/).
 
 **Deadline: May 7th, 2017 at 11:59pm PT.**
 
