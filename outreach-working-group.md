@@ -15,7 +15,7 @@ The scope of work of the Outreach Interest Group activities fell under three bro
 
 These were instantiated through several specific campaigns and Action Teams. These included:
 
-- [Digital Preservation in a Box](http://dpoutreach.net/)
+- [Digital Preservation in a Box](https://wiki.diglib.org/NDSA:Digital_Preservation_in_a_Box)
 - Organizational Outreach
 - Preparing a Toolkit of Outreach Resources
 - Maintaining the [Outreach Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-OUTREACH)
