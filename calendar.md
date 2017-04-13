@@ -32,6 +32,12 @@ If you're an NDSA member and have questions about the calendar or would like to 
     </thead>
     <tbody>
     <tr>
+      <td>Apr. 17, 2017</td>
+      <td><a href="http://endangereddataweek.org/events/2017-04-17-edw-at-ndsa-standards-practices-open-call/">Endangered Data Week</a></td>
+      <td>Virtual/Online Event</td>
+      <td>EDW at NDSA: Standards & Practices Open Call</td>
+    </tr>
+    <tr>
       <td>Oct. 3-6, 2016</td>
       <td><a href="http://ipres2016.ch/">iPRES 2016</a></td>
       <td>Bern, Switzerland</td>
