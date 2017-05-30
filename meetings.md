@@ -16,14 +16,16 @@ Digital Preservation is the major meeting and conference of the NDSA—open to m
 
 The National Digital Stewardship Alliance is a consortium of [more than 160 organizations](http://ndsa.org/members-list/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. _Digital Preservation 2017_ ([#digipres17](https://twitter.com/search?q=%23digipres17&src=typd)) will help to chart future directions for both the NDSA and digital stewardship, and is expected to be a crucial venue for intellectual exchange, community-building, development of best practices, and national-level agenda-setting in the field.
 
-The conference will be held at the  [Westin Convention Center](http://www.westinpittsburgh.com/) “where downtown buzz meets restorative sleep”, just blocks from historic [Market Square](http://marketsquarepgh.com/), [The Andy Warhol Museum](http://www.warhol.org/), boutiques, restaurants, and nightlife. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/about/code-of-conduct/).
+The conference will be held at the [Westin Convention Center](http://www.westinpittsburgh.com/) “where downtown buzz meets restorative sleep”, just blocks from historic [Market Square](http://marketsquarepgh.com/), [The Andy Warhol Museum](http://www.warhol.org/), boutiques, restaurants, and nightlife. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/about/code-of-conduct/).
 
 
-### Registration
+### Registration and Lodging
 
 The 2017 CFP is now closed. All conference submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified in July and guaranteed a registration slot at the conference.
 
-[REGISTRATION](https://www.conftool.pro/dlf2017/) opens June 2nd. $200 registration fees include continental breakfast, hot lunch, coffee breaks, and a reception). A limited number of student-rate tickets will also be available, at $150 each.
+Conference registration opens June 2nd. $200 registration fees include continental breakfast, hot lunch, coffee breaks, and a reception. A limited number of student-rate tickets will also be available, at $150 each. [Click here to register for the conference.](https://www.conftool.pro/dlf2017/)
+
+Hotel rooms will be available from October 21 – October 26 at our group rate of $189 for standard guestrooms. [Click here to book online.](https://www.starwoodmeeting.com/Book/dlf2017)
 
 
 ### Planning Committee Members
