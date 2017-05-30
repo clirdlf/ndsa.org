@@ -7,35 +7,24 @@ permalink: /meetings/
 
 ## Digital Preservation 2017: "Preservation is Political"
 
-### Call for Proposals, _extended deadline May 22_
+The National Digital Stewardship Alliance (NDSA) will hold its annual conference, _**Digital Preservation 2017: “Preservation is Political,”**_ in Pittsburgh, Pennsylvania, **October 25-26, 2017**.
 
-The National Digital Stewardship Alliance (NDSA) invites proposals for _**Digital Preservation 2017: “Preservation is Political,”**_ to be held in Pittsburgh, Pennsylvania, **October 25-26, 2017**.
+Digital Preservation is the major meeting and conference of the NDSA—open to members and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues. Our 2017 meeting is once again held in partnership with our host organization, the Digital Library Federation (DLF). DLF's October 22nd [pre-conference](https://www.diglib.org/forums/2017forum/dlflac/) event (bringing together HBCUs and liberal arts colleges) and the [2017 DLF Forum](https://www.diglib.org/forums/2017forum/) (23-24 October) are all happening in the same location.
 
-Digital Preservation is the major meeting and conference of the NDSA—open to members and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues. Our 2017 meeting is held in partnership with our host organization, the Digital Library Federation (DLF). Separate calls are being issued for the [DLF Liberal Arts Colleges Pre-Conference](https://www.diglib.org/forums/2017forum/dlflac/) (22 October) and [2017 DLF Forum](https://www.diglib.org/forums/2017forum/call-for-proposals/) (23-24 October)—all happening in the same location.
 
-Proposals are [**due by May 9th**](https://conftool.pro/dlf2017/) at 11:59pm Pacific Time.  
-
-#### About the NDSA and Digital Preservation 2017
+### About the NDSA and Digital Preservation 2017
 
 The National Digital Stewardship Alliance is a consortium of [more than 160 organizations](http://ndsa.org/members-list/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. _Digital Preservation 2017_ ([#digipres17](https://twitter.com/search?q=%23digipres17&src=typd)) will help to chart future directions for both the NDSA and digital stewardship, and is expected to be a crucial venue for intellectual exchange, community-building, development of best practices, and national-level agenda-setting in the field.
 
 The conference will be held at the  [Westin Convention Center](http://www.westinpittsburgh.com/) “where downtown buzz meets restorative sleep”, just blocks from historic [Market Square](http://marketsquarepgh.com/), [The Andy Warhol Museum](http://www.warhol.org/), boutiques, restaurants, and nightlife. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/about/code-of-conduct/).
 
-#### Submissions
 
-250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected. Submit proposals online: [https://conftool.pro/dlf2017/](https://conftool.pro/dlf2017/).
+### Registration
 
-**Deadline: May 22nd, 2017 at 11:59pm PT.**
+The 2017 CFP is now closed. All conference submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified in July and guaranteed a registration slot at the conference.
 
-We especially encourage proposals that speak to our conference theme, “**Preservation is Political**.” This core theme emerged from a discussion of strategic topics, our practice, our mission and the challenges.
+[REGISTRATION](https://www.conftool.pro/dlf2017/) opens June 2nd. $200 registration fees include continental breakfast, hot lunch, coffee breaks, and a reception). A limited number of student-rate tickets will also be available, at $150 each.
 
-Submissions are invited in the following lengths and formats:
-- **Talks/Demos**: Presentations and demonstrations are allocated 30 minutes each. Speakers should reserve time for interactive exchanges on next steps, possible NDSA community action, and discussion or debate.
-- **Panels**: Panel discussions with 4 or more speakers will be given a dedicated session. Organizers are especially encouraged to include as diverse an array of perspectives and voices as possible, and to reserve time for audience Q&A.  
-- **Minute Madness**: Share your ideas in 60 seconds or less as part of the opening plenary of the conference. Presenters will have the option to display posters during the reception that follows. (Guidelines for poster sizes will be provided on acceptance.)
-- **Lunchtime Working Group Meetings**: NDSA working and interest group chairs are invited to propose group meetings or targeted collaboration sessions. (Lunch provided.)
-
-All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified in July and guaranteed a registration slot at the conference.
 
 ### Planning Committee Members
 
