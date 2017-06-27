@@ -11,7 +11,7 @@ NDSA was launched as a membership organization in July 2010 as an initiative of 
 The NDSA's institutional home as of January 1, 2016, is the [Digital Library Federation (DLF)](https://www.diglib.org), at the [Council on Library and Information Resources (CLIR)](http://www.clir.org/). Selection of DLF followed a nationwide search and evaluation of cultural heritage, membership, and technical service organizations, in consultation with NDSA Interest Groups, their members, and external advisors.
 
 ### Who We Are
-The NDSA is a dynamic organization with more than 160 [member organizations](/members-list/), including universities, government and nonprofit organizations, commercial businesses, and professional associations. NDSA members have proven themselves in the field of digital stewardship.
+The NDSA is a dynamic organization with more than 210 [member organizations](/members-list/), including universities, government and nonprofit organizations, commercial businesses, and professional associations. NDSA members have proven themselves in the field of digital stewardship.
 
 Activities of the NDSA are organized by 5 [Interest Groups](/working-groups/), each with two co-chairs, and led by an elected [Coordinating Committee](/leadership/) with representation from the DLF.
 
