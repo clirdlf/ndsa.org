@@ -33,6 +33,18 @@ If you're an NDSA member and have questions about the calendar or would like to 
     <tbody>
     <tr>
       <td>Apr. 17, 2017</td>
+      <td><a href="https://bpexchange.wordpress.com/welcome/2017-conference/">Best Practices Exchange</a></td>
+      <td>Boston, MA</td>
+      <td>Presentation</td>
+    </tr>
+    <tr>
+      <td>Oct. 3-6, 2016</td>
+      <td><a href="http://ipres2016.ch/">iPRES 2016</a></td>
+      <td>Bern, Switzerland</td>
+      <td>Annual Meeting</td>
+    </tr>
+    <tr>
+      <td>Apr. 17, 2017</td>
       <td><a href="http://endangereddataweek.org/events/2017-04-17-edw-at-ndsa-standards-practices-open-call/">Endangered Data Week</a></td>
       <td>Virtual/Online Event</td>
       <td>EDW at NDSA: Standards & Practices Open Call</td>
