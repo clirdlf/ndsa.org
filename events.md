@@ -1,7 +1,7 @@
 ---
 title: Regular Meetings and Events
 layout: page
-permalink: /activities/
+permalink: /events/
 ---
 NDSA members meet virtually throughout the year as part of their commitment to participation in [Interest Groups and Working Groups](/working-groups/).
 
