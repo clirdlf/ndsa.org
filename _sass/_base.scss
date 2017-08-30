@@ -421,3 +421,21 @@ footer {
     }
   }
 }
+
+#working_groups {
+
+	.former {
+		p {
+			color: #c0c0c0;
+		}
+
+		h2 a {
+
+			color: lighten($base-color, 20%);
+		}
+	}
+
+	img {
+		margin-top: 25px;
+	}
+}
