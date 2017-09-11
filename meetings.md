@@ -27,7 +27,7 @@ Conference registration opens June 2nd. $200 registration fees include continent
 
 Update: as of early September, the Westin is completely sold out. It may still be worth checking, in case a cancellation has opened up a room, but we also recommend browsing the hotels at [Visit Pittsburgh](https://www.visitpittsburgh.com) for further options.
 
-_Hotel rooms will be available from October 21 – October 26 at our group rate of $189 for standard guestrooms. [Click here to book online.](https://www.starwoodmeeting.com/Book/dlf2017)_
+~~Hotel rooms will be available from October 21 – October 26 at our group rate of $189 for standard guestrooms. [Click here to book online.](https://www.starwoodmeeting.com/Book/dlf2017)~~
 
 ### Keynote Speaker: Eira Tansey
 
@@ -41,7 +41,7 @@ She currently serves as the vice-chair of the Society of American Archivists Rec
 
 ### Program
 
-We're thrilled to share our [_Digital Preservation 2017_: "Preservation is Political" program](https://dlfforum2017.sched.com/). 
+We're thrilled to share our [_Digital Preservation 2017_: "Preservation is Political" program](https://dlfforum2017.sched.com/).
 
 ### Planning Committee Members
 
