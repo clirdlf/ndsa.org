@@ -7,7 +7,7 @@ permalink: /meetings/
 
 ## Digital Preservation 2017: "Preservation is Political"
 
-The National Digital Stewardship Alliance (NDSA) will hold its annual conference, _**Digital Preservation 2017: “Preservation is Political,”**_ (https://forum2017.diglib.org/ndsas-digital-preservation/) in Pittsburgh, Pennsylvania, **October 25-26, 2017**.
+The National Digital Stewardship Alliance (NDSA) will hold its annual conference, [_**Digital Preservation 2017: “Preservation is Political,”**_](https://forum2017.diglib.org/ndsas-digital-preservation/) in Pittsburgh, Pennsylvania, **October 25-26, 2017**.
 
 Digital Preservation is the major meeting and conference of the NDSA—open to members and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues. Our 2017 meeting is once again held in partnership with our host organization, the Digital Library Federation (DLF). DLF's October 22nd [pre-conference](https://www.diglib.org/forums/2017forum/dlflac/) event (bringing together HBCUs and liberal arts colleges) and the [2017 DLF Forum](https://www.diglib.org/forums/2017forum/) (23-24 October) are all happening in the same location.
 
