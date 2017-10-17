@@ -7,7 +7,7 @@ permalink: /meetings/
 
 ## Digital Preservation 2017: "Preservation is Political"
 
-The National Digital Stewardship Alliance (NDSA) will hold its annual conference, _**Digital Preservation 2017: “Preservation is Political,”**_ in Pittsburgh, Pennsylvania, **October 25-26, 2017**.
+The National Digital Stewardship Alliance (NDSA) will hold its annual conference, [_**Digital Preservation 2017: “Preservation is Political,”**_](https://forum2017.diglib.org/ndsas-digital-preservation/) in Pittsburgh, Pennsylvania, **October 25-26, 2017**.
 
 Digital Preservation is the major meeting and conference of the NDSA—open to members and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues. Our 2017 meeting is once again held in partnership with our host organization, the Digital Library Federation (DLF). DLF's October 22nd [pre-conference](https://www.diglib.org/forums/2017forum/dlflac/) event (bringing together HBCUs and liberal arts colleges) and the [2017 DLF Forum](https://www.diglib.org/forums/2017forum/) (23-24 October) are all happening in the same location.
 
@@ -25,7 +25,9 @@ The 2017 CFP is now closed. All conference submissions will be peer-reviewed by 
 
 Conference registration opens June 2nd. $200 registration fees include continental breakfast, hot lunch, coffee breaks, and a reception. A limited number of student-rate tickets will also be available, at $150 each. [Click here to register for the conference.](https://www.conftool.pro/dlf2017/)
 
-Hotel rooms will be available from October 21 – October 26 at our group rate of $189 for standard guestrooms. [Click here to book online.](https://www.starwoodmeeting.com/Book/dlf2017)
+Update: as of early September, the Westin is completely sold out. It may still be worth checking, in case a cancellation has opened up a room, but we also recommend browsing the hotels at [Visit Pittsburgh](https://www.visitpittsburgh.com) for further options.
+
+~~Hotel rooms will be available from October 21 – October 26 at our group rate of $189 for standard guestrooms. [Click here to book online.](https://www.starwoodmeeting.com/Book/dlf2017)~~
 
 ### Keynote Speaker: Eira Tansey
 
@@ -36,6 +38,10 @@ Tansey is the Digital Archivist/Records Manager at the University of Cincinnati,
 Tansey’s research and writing focuses on the intersection of archives, the environment, and climate change. Her 2015 article “[Archival adaptation to climate change](Archival adaptation to climate change)” called for a broad response from the American archivist community to consider the impact of climate change on the profession and documentary cultural heritage. Her current work focuses on the relationship between records, land ownership, and environmental policy. She is also working with colleagues from Penn State University to map American archives’ exposure to climate change, and is collaborating on a [Society of American Archivists Foundation grant](http://www2.archivists.org/news/2017/saa-foundation-awards-two-strategic-growth-grants) to develop a comprehensive open  database of archival repository location data to aid future spatial analysis.
 
 She currently serves as the vice-chair of the Society of American Archivists Records Management Section, as co-chair of the Midwest Archives Conference 2018 meeting program committee, and is resident caretaker for ProjectARCC (Archivists Responding to Climate Change). Tansey is a member of the 2017 Archives Leadership Institute cohort.
+
+### Program
+
+We're thrilled to share our [_Digital Preservation 2017_: "Preservation is Political" program](https://dlfforum2017.sched.com/).
 
 ### Planning Committee Members
 
