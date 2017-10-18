@@ -9,6 +9,9 @@ The Staffing Survey Working Group is working to re-release a survey about staffi
 
 
 ## Meeting Summaries
+* October 2017: Published [2017 Staffing Survey Report] (http://osf.io.3rcqk) 
+* June - September 2017: Writing report.
+* April - May 2017: Analyzing survey results.  
 * March 2017: Survey sent out.  Accepting responses until April 10, 2017.
 * Feburary 21, 2017: Finalized questions that were remaining.  Documented lists to send to and identified who would send email.  
 * February 7, 2017: Initial review of survey questions from 2012.  Began to identify groups to send survey to. 
