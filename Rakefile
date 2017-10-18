@@ -147,7 +147,12 @@ end
 
 namespace :convert do
   desc 'Run all conversions (for map and membership list)'
-  task :all => [:table_data, :map]
+  task :all => [:table_data, :map, :checksums]
+
+  desc 'Create checksums for the documents directory'
+  task :checksums do
+    `cd documents && find . -type f -print0 | xargs -0 md5sum >> checksums.md5`
+  end
 
 
   desc 'Create dataset for data table'
