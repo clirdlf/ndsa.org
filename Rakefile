@@ -127,7 +127,7 @@ def clean_website(link)
   "http://#{link}" unless link[/^https?:\/\//] || link.length == 0
 end
 
-task default: 'convert:all'
+task default: %w(convert:all import:rss)
 
 namespace :test do
   desc 'Validate HTML output'
