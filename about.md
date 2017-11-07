@@ -13,7 +13,7 @@ The NDSA's institutional home as of January 1, 2016, is the [Digital Library Fed
 ### Who We Are
 The NDSA is a dynamic organization with more than 220 [member organizations](/members-list/), including universities, government and nonprofit organizations, commercial businesses, and professional associations. NDSA members have proven themselves in the field of digital stewardship.
 
-Activities of the NDSA are organized by 5 [Interest Groups](/working-groups/), each with two co-chairs, and led by an elected [Coordinating Committee](/leadership/) with representation from the DLF.
+Activities of the NDSA are organized by 3 [Interest Groups](/working-groups/), each with two co-chairs, and led by an elected [Coordinating Committee](/leadership/) with representation from the DLF.
 
 While membership in the NDSA is at the institutional level, individuals serving in leadership roles are highly experienced in the areas of digital stewardship and have made contributions to the field of digital preservation. A partial list of these individuals and their contact information is available through the [NDSA Experts Guide](/experts-guide/).
 
