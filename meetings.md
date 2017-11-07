@@ -6,7 +6,7 @@ permalink: /meetings/
 
 ### Digital Preservation 2018: October 17-18
 
-The National Digital Stewardship Alliance (NDSA) will hold its annual conference, **Digital Preservation 2018** Las Vegas, Nevada, **October 17-18, 2018**. A call for Planning Committee members will go out in late 2017.
+The National Digital Stewardship Alliance (NDSA) will hold its annual conference, **Digital Preservation 2018** in Las Vegas, Nevada, **October 17-18, 2018**. A call for Planning Committee members will go out in late 2017.
 
 ### About the NDSA and Digital Preservation 2018
 
