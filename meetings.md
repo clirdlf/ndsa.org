@@ -12,7 +12,7 @@ The National Digital Stewardship Alliance (NDSA) will hold its annual conference
 
 The National Digital Stewardship Alliance is a consortium of [more than 220 organizations](http://ndsa.org/members-list/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. _Digital Preservation 2018_ ([#digipres18](https://twitter.com/search?q=%23digipres18&src=typd)) will help to chart future directions for both the NDSA and digital stewardship, and is expected to be a crucial venue for intellectual exchange, community-building, development of best practices, and national-level agenda-setting in the field.
 
-The conference will be held at the [M Resport](http://www.themresort.com/), Las Vegas, NV. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/about/code-of-conduct/).
+The conference will be held at the [M Resort](http://www.themresort.com/), Las Vegas, NV. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/about/code-of-conduct/).
 
 ### Past Meetings
 
