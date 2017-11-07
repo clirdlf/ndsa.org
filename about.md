@@ -18,7 +18,7 @@ Activities of the NDSA are organized by 3 [Interest Groups](/working-groups/), e
 While membership in the NDSA is at the institutional level, individuals serving in leadership roles are highly experienced in the areas of digital stewardship and have made contributions to the field of digital preservation. A partial list of these individuals and their contact information is available through the [NDSA Experts Guide](/experts-guide/).
 
 ### How We Work
-NDSA members join by completing a membership application, agreeing to our Principles of Collaboration and Membership Agreement, found in the NDSA [Membership Packet](/documents/MembershipPacket201311.pdf), and by participating in [Interest Groups](/working-groups/). There are no fees to join the NDSA but members do commit to work collaboratively and share expertise. An elected [Coordinating Committee](/leadership/) provides strategic direction for the NDSA.
+NDSA members join by completing a [membership application](https://docs.google.com/forms/d/e/1FAIpQLScAtyX61Rmnp0uxB7daaqnKEVSbgip2C7nO92C9Ybzox7LpEw/viewform), agreeing to our Principles of Collaboration and Membership Agreement, found in the NDSA [Membership Packet](/documents/MembershipPacket201311.pdf), and by participating in [Interest Groups](/working-groups/). There are no fees to join the NDSA but members do commit to work collaboratively and share expertise. An elected [Coordinating Committee](/leadership/) provides strategic direction for the NDSA.
 
 ### What We Do
 The NDSA organizes a national network of collaborative partners to take stewardship action toward three primary objectives:
