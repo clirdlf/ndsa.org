@@ -28,7 +28,8 @@ sass:
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
