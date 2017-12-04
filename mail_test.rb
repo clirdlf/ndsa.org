@@ -101,21 +101,23 @@ def text_markup(primary_contact, organization, secondary_contacts)
     markup = <<-TEXT
 Dear #{parse_name(primary_contact)},
 
-This summer the National Digital Stewardship Alliance turns its attention to leadership renewal. We gratefully thank our outgoing working group chairs and Coordinating Committee members for their service across the transition period to our new home at the Digital Library Federation.
+This winter, the National Digital Stewardship Alliance turns its attention to leadership renewal. Members of the NDSA Coordinating Committee serve staggered three year terms. We gratefully thank our outgoing Coordinating Committee member, Jim Corridan, for his service and many contributions. And we are pleased to welcome a new co-chair for our Infrastructure Working Group, Nathan Tillman.
 
-Members of the NDSA Coordinating Committee serve staggered three year terms and five members will have completed their terms, retiring as of the Fall meeting. We thank Jonathan Crabtree, Meg Phillips, John Spencer, Helen Tibbo, and Kate Wittenberg for their many contributions.
+Following a public call for nominations, we are presenting a slate of nine candidates running to join the Coordinating Committee, and ask that you affirm and endorse them by vote.
 
-Following a public call for nominations, we are presenting a slate of five candidates to join the Coordinating Committee, and ask that you affirm and endorse them by vote.
+* Karen Cariani, Senior Director, WGBH Media Library and Archives
+* Corey Davis, Digital Preservation Coordinator, Council of Prairie and Pacific University Libraries (COPPUL)
+* Kate Dohe, Digital Programs and Initiatives Manager, University of Maryland Libraries
+* Jay Haque, Director of Development Operations and Enterprise Computing, The New York Public Library
+* Martha Alvarado Parker, Digital Services Librarian, University of Arkansas
+* Nicole Scalessa, IT Manager and Digital Humanities Coordinator, The Library Company of Philadelphia
+* Sibyl Schaefer, Chronopolis Program Manager and Digital Preservation Analyst for Research Data Curation, University of California, San Diego
+* Matt Veach, State Archivist, Kansas Historical Society
+* James Watson, Appraisal and Outreach Archivist, Maryland State Archives
 
-* Bradley Daigle, Partnerships/Content Lead, APTrust
-* Carol Kussman, Digital Preservation Analyst, U of Minnesota Libraries
-* Mary Molinaro, Chief Operating Officer &amp; Services Manager, DPN
-* Gabby Redwine, Digital Archivist at Yale
-* Helen Tibbo, Alumni Distinguished Professor, SLIS, UNC-Chapel Hill
+Your organization can cast its vote at https://goo.gl/forms/5XgT3YlMSoWFUmJh1 between December 6 and December 20. Vote for the candidate you would like to see as CC member. Candidate statements can be found at XXXXX.
 
-Your organization can cast its vote at https://www.surveymonkey.com/r/BQQQ6RJ between August 1 and August 15. Vote for any or all candidates you would like to see as CC members. Candidate statements can be found at https://www.diglib.org/?p=12333.
-
-As a reminder, only one ballot may be cast per member organization. NDSA's recorded program representative or a designated proxy of each member organization is asked to submit your organization's vote.
+As a reminder, only one ballot may be cast per member organization. NDSA's recorded program representative or a designated proxy of each member organization is asked to submit your organization's vote. Please write to ndsa@diglib.org to update any outdated contact information.
 
 Thank you for your participation,
 
@@ -131,23 +133,25 @@ def html_markup(primary_contact, organization, secondary_contacts)
     markup = <<-HTML
 <p>Dear #{parse_name(primary_contact)},</p>
 
-<p>This summer the National Digital Stewardship Alliance turns its attention to leadership renewal. We gratefully thank our outgoing working group chairs and Coordinating Committee members for their service across the transition period to our new home at the Digital Library Federation.</p>
+<p>This winter, the National Digital Stewardship Alliance turns its attention to leadership renewal. Members of the NDSA Coordinating Committee serve staggered three year terms. We gratefully thank our outgoing Coordinating Committee member, Jim Corridan, for his service and many contributions. And we are pleased to welcome a new co-chair for our Infrastructure Working Group, Nathan Tillman.</p>
 
-<p>Members of the NDSA Coordinating Committee serve staggered three year terms and five members will have completed their terms, retiring as of the Fall meeting. We thank Jonathan Crabtree, Meg Phillips, John Spencer, Helen Tibbo, and Kate Wittenberg for their many contributions.</p>
-
-<p>Following a public call for nominations, we are presenting a slate of five candidates to join the Coordinating Committee, and ask that you affirm and endorse them by vote.</p>
+<p>Following a public call for nominations, we are presenting a slate of nine candidates running to join the Coordinating Committee, and ask that you affirm and endorse them by vote.</p>
 
 <ul>
-<li>Bradley Daigle, Partnerships/Content Lead, APTrust</li>
-<li>Carol Kussman, Digital Preservation Analyst, U of Minnesota Libraries</li>
-<li>Mary Molinaro, Chief Operating Officer &amp; Services Manager, DPN</li>
-<li>Gabby Redwine, Digital Archivist at Yale</li>
-<li>Helen Tibbo, Alumni Distinguished Professor, SLIS, UNC-Chapel Hill</li>
+<li>Karen Cariani, Senior Director, WGBH Media Library and Archives</li>
+<li>Corey Davis, Digital Preservation Coordinator, Council of Prairie and Pacific University Libraries (COPPUL)</li>
+<li>Kate Dohe, Digital Programs and Initiatives Manager, University of Maryland Libraries</li>
+<li>Jay Haque, Director of Development Operations and Enterprise Computing, The New York Public Library</li>
+<li>Martha Alvarado Parker, Digital Services Librarian, University of Arkansas</li>
+<li>Nicole Scalessa, IT Manager and Digital Humanities Coordinator, The Library Company of Philadelphia</li>
+<li>Sibyl Schaefer, Chronopolis Program Manager and Digital Preservation Analyst for Research Data Curation, University of California, San Diego</li>
+<li>Matt Veach, State Archivist, Kansas Historical Society</li>
+<li>James Watson, Appraisal and Outreach Archivist, Maryland State Archives</li>
 </ul>
 
-<p>Your organization can cast its vote at <a href="https://www.surveymonkey.com/r/BQQQ6RJ">https://www.surveymonkey.com/r/BQQQ6RJ</a> between August 1 and August 15. Vote for any or all candidates you would like to see as CC members. Candidate statements can be found at <a href="https://www.diglib.org/?p=12333">https://www.diglib.org/?p=12333</a>.</p>
+<p>Your organization can cast its vote at <a href="https://goo.gl/forms/5XgT3YlMSoWFUmJh1">https://goo.gl/forms/5XgT3YlMSoWFUmJh1</a> between December 6 and December 20. Vote for the candidate you would like to see as CC member. Candidate statements can be found at XXXXX.</p>
 
-<p>As a reminder, only one ballot may be cast per member organization. NDSA’s recorded program representative or a designated proxy of each member organization is asked to submit your organization's vote.</p>
+<p>As a reminder, only one ballot may be cast per member organization. NDSA's recorded program representative or a designated proxy of each member organization is asked to submit your organization's vote. Please write to ndsa@diglib.org to update any outdated contact information.</p>
 
 <p>Thank you for your participation,</p>
 
@@ -234,6 +238,3 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
 
     #break
 end
-
-
-
