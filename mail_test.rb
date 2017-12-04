@@ -103,7 +103,7 @@ Dear #{parse_name(primary_contact)},
 
 This winter, the National Digital Stewardship Alliance turns its attention to leadership renewal. Members of the NDSA Coordinating Committee serve staggered three year terms. We gratefully thank our outgoing Coordinating Committee member, Jim Corridan, for his service and many contributions. And we are pleased to welcome a new co-chair for our Infrastructure Working Group, Nathan Tillman.
 
-Following a public call for nominations, we are presenting a slate of nine candidates running to join the Coordinating Committee, and ask that you affirm and endorse them by vote.
+Following a public call for nominations, we are presenting a slate of nine candidates running to join the Coordinating Committee, and ask that you affirm and endorse two nominees by vote.
 
 * Karen Cariani, Senior Director, WGBH Media Library and Archives
 * Corey Davis, Digital Preservation Coordinator, Council of Prairie and Pacific University Libraries (COPPUL)
@@ -115,7 +115,7 @@ Following a public call for nominations, we are presenting a slate of nine candi
 * Matt Veach, State Archivist, Kansas Historical Society
 * James Watson, Appraisal and Outreach Archivist, Maryland State Archives
 
-Your organization can cast its vote at https://goo.gl/forms/5XgT3YlMSoWFUmJh1 between December 6 and December 20. Vote for the candidate you would like to see as CC member. Candidate statements can be found at XXXXX.
+Your organization can cast its vote at https://goo.gl/forms/5XgT3YlMSoWFUmJh1 between December 6 and December 20. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at XXXXX.
 
 As a reminder, only one ballot may be cast per member organization. NDSA's recorded program representative or a designated proxy of each member organization is asked to submit your organization's vote. Please write to ndsa@diglib.org to update any outdated contact information.
 
@@ -135,7 +135,7 @@ def html_markup(primary_contact, organization, secondary_contacts)
 
 <p>This winter, the National Digital Stewardship Alliance turns its attention to leadership renewal. Members of the NDSA Coordinating Committee serve staggered three year terms. We gratefully thank our outgoing Coordinating Committee member, Jim Corridan, for his service and many contributions. And we are pleased to welcome a new co-chair for our Infrastructure Working Group, Nathan Tillman.</p>
 
-<p>Following a public call for nominations, we are presenting a slate of nine candidates running to join the Coordinating Committee, and ask that you affirm and endorse them by vote.</p>
+<p>Following a public call for nominations, we are presenting a slate of nine candidates running to join the Coordinating Committee, and ask that you affirm and endorse two nominees by vote.</p>
 
 <ul>
 <li>Karen Cariani, Senior Director, WGBH Media Library and Archives</li>
@@ -149,7 +149,7 @@ def html_markup(primary_contact, organization, secondary_contacts)
 <li>James Watson, Appraisal and Outreach Archivist, Maryland State Archives</li>
 </ul>
 
-<p>Your organization can cast its vote at <a href="https://goo.gl/forms/5XgT3YlMSoWFUmJh1">https://goo.gl/forms/5XgT3YlMSoWFUmJh1</a> between December 6 and December 20. Vote for the candidate you would like to see as CC member. Candidate statements can be found at XXXXX.</p>
+<p>Your organization can cast its vote at <a href="https://goo.gl/forms/5XgT3YlMSoWFUmJh1">https://goo.gl/forms/5XgT3YlMSoWFUmJh1</a> between December 6 and December 20. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at XXXXX.</p>
 
 <p>As a reminder, only one ballot may be cast per member organization. NDSA's recorded program representative or a designated proxy of each member organization is asked to submit your organization's vote. Please write to ndsa@diglib.org to update any outdated contact information.</p>
 
