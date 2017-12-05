@@ -2,7 +2,6 @@
 
 require 'colorize'
 require 'dotenv'
-#require 'google/api_client'
 require 'google_drive'
 #require 'mailjet'
 require 'mail'
@@ -221,7 +220,6 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
         body html_markup(contact1_name, organization, names)
       end
     end
-
 
     mail.deliver!
 
