@@ -101,7 +101,7 @@ def text_markup(primary_contact, organization, secondary_contacts)
     markup = <<-TEXT
 Dear #{parse_name(primary_contact)},
 
-This winter, the National Digital Stewardship Alliance turns its attention to leadership renewal. Members of the NDSA Coordinating Committee serve staggered three year terms. We gratefully thank our outgoing Coordinating Committee member, Jim Corridan, for his service and many contributions. And we are pleased to welcome a new co-chair for our Infrastructure Working Group, Nathan Tillman.
+This winter, the National Digital Stewardship Alliance turns its attention to leadership renewal. Members of the NDSA Coordinating Committee serve staggered three year terms. We gratefully thank our outgoing Coordinating Committee member, Jim Corridan, for his service and many contributions. And we are pleased to welcome a new co-chair for our Infrastructure Working Group, Nathan Tallman.
 
 Following a public call for nominations, we are presenting a slate of nine candidates running to join the Coordinating Committee, and ask that you affirm and endorse two nominees by vote.
 
@@ -133,7 +133,7 @@ def html_markup(primary_contact, organization, secondary_contacts)
     markup = <<-HTML
 <p>Dear #{parse_name(primary_contact)},</p>
 
-<p>This winter, the National Digital Stewardship Alliance turns its attention to leadership renewal. Members of the NDSA Coordinating Committee serve staggered three year terms. We gratefully thank our outgoing Coordinating Committee member, Jim Corridan, for his service and many contributions. And we are pleased to welcome a new co-chair for our Infrastructure Working Group, Nathan Tillman.</p>
+<p>This winter, the National Digital Stewardship Alliance turns its attention to leadership renewal. Members of the NDSA Coordinating Committee serve staggered three year terms. We gratefully thank our outgoing Coordinating Committee member, Jim Corridan, for his service and many contributions. And we are pleased to welcome a new co-chair for our Infrastructure Working Group, Nathan Tallman.</p>
 
 <p>Following a public call for nominations, we are presenting a slate of nine candidates running to join the Coordinating Committee, and ask that you affirm and endorse two nominees by vote.</p>
 
@@ -209,9 +209,10 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
       from 'ndsa-elections@diglib.org'
       to contact1_email
       cc additional_contacts
-      subject "2016 NDSA Coordinating Committee Election"
+      subject "2017 NDSA Coordinating Committee Election"
 
       text_part do
+        content_type 'text/plain; charset=UTF-8'
         body text_markup(contact1_name, organization, names)
       end
 
