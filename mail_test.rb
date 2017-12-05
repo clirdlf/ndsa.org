@@ -112,7 +112,7 @@ Following a public call for nominations, we are presenting a slate of nine candi
 * Martha Alvarado Parker, Digital Services Librarian, University of Arkansas
 * Nicole Scalessa, IT Manager and Digital Humanities Coordinator, The Library Company of Philadelphia
 * Sibyl Schaefer, Chronopolis Program Manager and Digital Preservation Analyst for Research Data Curation, University of California, San Diego
-* Matt Veach, State Archivist, Kansas Historical Society
+* Matt Veatch, State Archivist, Kansas Historical Society
 * James Watson, Appraisal and Outreach Archivist, Maryland State Archives
 
 Your organization can cast its vote at https://www.surveymonkey.com/r/R5RJBFF between December 6 and December 20. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at XXXXX.
@@ -145,7 +145,7 @@ def html_markup(primary_contact, organization, secondary_contacts)
 <li>Martha Alvarado Parker, Digital Services Librarian, University of Arkansas</li>
 <li>Nicole Scalessa, IT Manager and Digital Humanities Coordinator, The Library Company of Philadelphia</li>
 <li>Sibyl Schaefer, Chronopolis Program Manager and Digital Preservation Analyst for Research Data Curation, University of California, San Diego</li>
-<li>Matt Veach, State Archivist, Kansas Historical Society</li>
+<li>Matt Veatch, State Archivist, Kansas Historical Society</li>
 <li>James Watson, Appraisal and Outreach Archivist, Maryland State Archives</li>
 </ul>
 
