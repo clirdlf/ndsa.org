@@ -28,7 +28,7 @@ Members share in the advantages of the NDSA, including:
 - Learning about digital preservation practices from a network of thought leaders.
 
 ## Commitment and Groups
-There are no fees or dues for membership in the NDSA. (NDSA is financially supported by the [Digital Library Federation](https://diglib.org/), which also provides communications infrastructure and staff time.) But the real longevity and value of the NDSA depends on members contributing their efforts to Interest Groups and sharing their knowledge and expertise.
+There are no fees or dues for membership in the NDSA. (NDSA is financially supported by the [Digital Library Federation](https://www.diglib.org/), which also provides communications infrastructure and staff time.) But the real longevity and value of the NDSA depends on members contributing their efforts to Interest Groups and sharing their knowledge and expertise.
 
 In particular, NDSA members agree to:
 
@@ -41,7 +41,7 @@ Members may further contribute by:
 
 - Collecting, providing and/or curating digital content in accordance with NDSA recommendations;
 - Providing services in storage, infrastructure, tools, software or hardware, or policy development;
-- Volunteering or presenting at NDSA's Digital Preservation meeting and at the annual [DLF Forum](https://diglib.org/forums);
+- Volunteering or presenting at NDSA's Digital Preservation meeting and at the annual [DLF Forum](https://www.diglib.org/forums);
 - Delivering presentations and posters at disciplinary conferences and workshops on behalf of the NDSA;
 - Contributing to guest blog posts and reports.
 

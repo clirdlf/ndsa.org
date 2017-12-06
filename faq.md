@@ -54,11 +54,11 @@ Members have direct contact with experts in digital stewardship and an opportuni
 
 ### Does the NDSA provide funding?
 
-The NDSA does not provide funding for projects or building tools and infrastructure, although some of our member organizations do. Look for [relevant funding opportunities](https://www.diglib.org/opportunities/) in data curation and digitization from NDSA's host organization, [CLIR](http://clir.org/)+[DLF](https://diglib.org/).
+The NDSA does not provide funding for projects or building tools and infrastructure, although some of our member organizations do. Look for [relevant funding opportunities](https://www.diglib.org/opportunities/) in data curation and digitization from NDSA's host organization, [CLIR](http://clir.org/)+[DLF](https://www.diglib.org/).
 
 ### How does NDSA relate to the DLF? To CLIR?
 
-CLIR and the [Digital Library Federation](https://diglib.org/) believe strongly in NDSA's mission and [set of values](/values/). NDSA is financially supported by the DLF, which also provides communications infrastructure, staff time, and participation by the DLF director on NDSA's [Coordinating Committee](/leadership/). [CLIR](http://clir.org/) is the parent organization of the DLF, but DLF itself runs on independent membership fees. If you like what the Digital Library Federation is doing to support digital stewardship at no cost to NDSA members, please [join DLF](https://www.diglib.org/members/join/) and contribute!
+CLIR and the [Digital Library Federation](https://www.diglib.org/) believe strongly in NDSA's mission and [set of values](/values/). NDSA is financially supported by the DLF, which also provides communications infrastructure, staff time, and participation by the DLF director on NDSA's [Coordinating Committee](/leadership/). [CLIR](http://clir.org/) is the parent organization of the DLF, but DLF itself runs on independent membership fees. If you like what the Digital Library Federation is doing to support digital stewardship at no cost to NDSA members, please [join DLF](https://www.diglib.org/members/join/) and contribute!
 
 ## Participation
 

@@ -14,7 +14,7 @@ The National Digital Stewardship Alliance and all of its members are bound as a 
 
 ## Current Organization
 
-The work of the NDSA is organized by Interest Groups and lead by an elected Coordinating Committee. The [Digital Library Federation](https://diglib.org/) acts as the secretariat of NDSA and provides leadership and program support. NDSA questions? Send an email to <ndsa@diglib.org>. DLF questions? <info@diglib.org>.
+The work of the NDSA is organized by Interest Groups and lead by an elected Coordinating Committee. The [Digital Library Federation](https://www.diglib.org/) acts as the secretariat of NDSA and provides leadership and program support. NDSA questions? Send an email to <ndsa@diglib.org>. DLF questions? <info@diglib.org>.
 
 ## History
 
@@ -22,4 +22,4 @@ The National Digital Stewardship Alliance was launched in July 2010 by the [Nati
 
 In creating NDIIPP, Congress charged the Library of Congress with building the capacity for public and private organizations across the United States to save digital content of current and future value to the nation. The NDSA’s initial members were drawn from NDIIPP's partnership network.
 
-The organization's 2016 move to the [Digital Library Federation](https://diglib.org/) at [CLIR](http://clir.org/) was an opportunity to re-affirm NDSA's values, partner with a new host that shares them, and begin expanding activities and connections in new spheres.
+The organization's 2016 move to the [Digital Library Federation](https://www.diglib.org/) at [CLIR](http://clir.org/) was an opportunity to re-affirm NDSA's values, partner with a new host that shares them, and begin expanding activities and connections in new spheres.

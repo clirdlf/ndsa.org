@@ -40,13 +40,13 @@ For information on formatting, please review the [Markdown
 
 ## Blog Posts
 
-Blog posts are written and served from https://diglib.org/. There is a `rake` task to import these and convert them to the Jekyll format.
+Blog posts are written and served from https://www.diglib.org/. There is a `rake` task to import these and convert them to the Jekyll format.
 
 ```
 $ rake import:rss
 ```
 
-This will load the full content of the posts from the RSS feed and generate the appropriate files. Any changes (typos, links, etc.) need to be made at https://diglib.org. 
+This will load the full content of the posts from the RSS feed and generate the appropriate files. Any changes (typos, links, etc.) need to be made at https://www.diglib.org. 
 
 ## Membership Data
 

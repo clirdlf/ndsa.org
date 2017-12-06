@@ -12,7 +12,7 @@ Digital Preservation 2016 was held in Milwaukee, Wisconsin, from November 9-10, 
 
 ([Browse the programs](https://www.conftool.pro/dlf2016/sessions.php) for the 2016 DLF Forum and Liberal Arts Colleges Pre-Conference here as well.)
 
-The 2016 conference was the first organized in partnership with our new host organization, the [Digital Library Federation](https://diglib.org/) (DLF). *Digital Preservation* is the major meeting of the NDSA—open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues.  
+The 2016 conference was the first organized in partnership with our new host organization, the [Digital Library Federation](https://www.diglib.org/) (DLF). *Digital Preservation* is the major meeting of the NDSA—open to [NDSA members](http://ndsa.diglib.org/members-list/) and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues.  
 
 You can find information and news about the event at [@NDSA2](https://twitter.com/ndsa2) and [#digipres16](https://twitter.com/search?q=%23digipres16&src=typd) on Twitter, and at the [DLF Forum website](https://www.diglib.org/forums/2016forum/ndsa-digipres16/).
 
@@ -67,7 +67,7 @@ If you or your organization would like to contribute to *Digital Preservation 20
 
 ### US Presidential Election Notice
 
-Attendees arriving early for the DLF Forum (November 7-9) will want to plan ahead for early/absentee voting in the 2016 US Presidential Election. Full, state-by-state nonpartisan ballot information and important voter deadlines are available here: [https://diglib.org/absentee/](https://diglib.org/absentee/).
+Attendees arriving early for the DLF Forum (November 7-9) will want to plan ahead for early/absentee voting in the 2016 US Presidential Election. Full, state-by-state nonpartisan ballot information and important voter deadlines are available here: [https://www.diglib.org/absentee/](https://www.diglib.org/absentee/).
 
 ### 2016 Program Committee
 - **Helen Tibbo**, UNC-Chapel Hill (chair)
