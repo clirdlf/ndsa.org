@@ -20,7 +20,7 @@ require 'open-uri'
 require 'fileutils'
 require 'safe_yaml'
 
-@feed_url = 'https://www.diglib.org/topics/ndsa/feed/'
+@feed_url = 'https://www.diglib.org/category/ndsa/feed/'
 
 Dotenv.load
 
