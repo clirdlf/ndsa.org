@@ -22,4 +22,4 @@ The National Digital Stewardship Alliance was launched in July 2010 by the [Nati
 
 In creating NDIIPP, Congress charged the Library of Congress with building the capacity for public and private organizations across the United States to save digital content of current and future value to the nation. The NDSA’s initial members were drawn from NDIIPP's partnership network.
 
-The organization's 2016 move to the [Digital Library Federation](https://www.diglib.org/) at [CLIR](http://clir.org/) was an opportunity to re-affirm NDSA's values, partner with a new host that shares them, and begin expanding activities and connections in new spheres.
+The organization's 2016 move to the [Digital Library Federation](https://www.diglib.org/) at [CLIR](https://www.clir.org/) was an opportunity to re-affirm NDSA's values, partner with a new host that shares them, and begin expanding activities and connections in new spheres.

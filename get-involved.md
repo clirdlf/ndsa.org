@@ -41,7 +41,7 @@ Members may further contribute by:
 
 - Collecting, providing and/or curating digital content in accordance with NDSA recommendations;
 - Providing services in storage, infrastructure, tools, software or hardware, or policy development;
-- Volunteering or presenting at NDSA's Digital Preservation meeting and at the annual [DLF Forum](https://www.diglib.org/forums);
+- Volunteering or presenting at NDSA's Digital Preservation meeting and at the annual [DLF Forum](https://www.diglib.org/dlf-events/past/);
 - Delivering presentations and posters at disciplinary conferences and workshops on behalf of the NDSA;
 - Contributing to guest blog posts and reports.
 
