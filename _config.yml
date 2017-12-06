@@ -12,7 +12,7 @@ description: > # The National Digital Stewardship Alliance works to establish,
  maintain, and advance the capacity to preserve our nation's digital resources
  for the benefit of present and future generations.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ndsa.diglib.org/" # the base hostname & protocol for your site
+url: "http://ndsa.org/" # the base hostname & protocol for your site
 twitter_username: clirdlf
 github_username:  clirdlf
 
