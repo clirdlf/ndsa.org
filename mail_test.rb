@@ -114,7 +114,7 @@ Following a public call for nominations, we are presenting a slate of nine candi
 * Matt Veatch, State Archivist, Kansas Historical Society
 * James Watson, Appraisal and Outreach Archivist, Maryland State Archives
 
-Your organization can cast its vote at https://www.surveymonkey.com/r/R5RJBFF between December 6 and December 20. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at XXXXX.
+Your organization can cast its vote at https://www.surveymonkey.com/r/R5RJBFF between December 6 and December 20. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at http://ndsa.org/2017/12/06/2017-ndsa-coordinating-committee-candidates.html.
 
 As a reminder, only one ballot may be cast per member organization. NDSA's recorded program representative or a designated proxy of each member organization is asked to submit your organization's vote. Please write to ndsa@diglib.org to update any outdated contact information.
 
@@ -148,7 +148,7 @@ def html_markup(primary_contact, organization, secondary_contacts)
 <li>James Watson, Appraisal and Outreach Archivist, Maryland State Archives</li>
 </ul>
 
-<p>Your organization can cast its vote at <a href="https://www.surveymonkey.com/r/R5RJBFF">https://www.surveymonkey.com/r/R5RJBFF</a> between December 6 and December 20. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at XXXXX.</p>
+<p>Your organization can cast its vote at <a href="https://www.surveymonkey.com/r/R5RJBFF">https://www.surveymonkey.com/r/R5RJBFF</a> between December 6 and December 20. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at <a href="http://ndsa.org/2017/12/06/2017-ndsa-coordinating-committee-candidates.html">http://ndsa.org/2017/12/06/2017-ndsa-coordinating-committee-candidates.html</a>.</p>
 
 <p>As a reminder, only one ballot may be cast per member organization. NDSA's recorded program representative or a designated proxy of each member organization is asked to submit your organization's vote. Please write to ndsa@diglib.org to update any outdated contact information.</p>
 
