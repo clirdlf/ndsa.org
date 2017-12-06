@@ -12,16 +12,16 @@ Mail.defaults do
   delivery_method :smtp, address: "localhost", port: 1025
 end
 
-#Mail.defaults do
-  #delivery_method :smtp,
-    #address:  "smtp.office365.com",
-    #port:      "587",
-    #authentication: :login,
-    #user_name: ENV['SMTP_USERNAME'],
-    #password:  ENV['SMTP_PASSWORD'],
-    #domain:   'clir.org',
-    #enable_starttls_auto: true
-#end
+# Mail.defaults do
+#   delivery_method :smtp,
+#     address:  "smtp.office365.com",
+#     port:      "587",
+#     authentication: :login,
+#     user_name: ENV['SMTP_USERNAME'],
+#     password:  ENV['SMTP_PASSWORD'],
+#     domain:   'clir.org',
+#     enable_starttls_auto: true
+# end
 
 
 # Configuration
@@ -208,6 +208,8 @@ ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').
       from 'ndsa-elections@diglib.org'
       to contact1_email
       cc additional_contacts
+      bcc ENV['SMTP_USERNAME']
+
       subject "2017 NDSA Coordinating Committee Election"
 
       text_part do
