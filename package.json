@@ -31,6 +31,6 @@
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-sass": "^2.3.2",
-    "node-sass": "^3.10.1"
+    "node-sass": "^3.13.1"
   }
 }
