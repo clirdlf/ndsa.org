@@ -3,7 +3,9 @@ title: Content Interest Group
 layout: page
 permalink: /working-groups/content/
 ---
-**Content Interest Group Co-Chairs:** Lauren Work, University of Virginia - lw2cd at eservices dot virginia dot edu; Maureen Harlow, Public Broadcasting Service - mmharlow at pbs dot org.
+**Content Interest Group Co-Chairs:** Lauren Work - lw2cd at eservices dot virginia dot edu; Matt Schultz - schultzm at gvsu dot edu.
+
+**New Member Liaison:** Paige Walker - walkerpb at bc dot edu
 
 *Take me to the [Content Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-CONTENT)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, please contact the coordinators.*
 

@@ -3,7 +3,7 @@ title: Infrastructure Interest Group
 layout: page
 permalink: /working-groups/infrastructure/
 ---
-**Infrastructure Interest Group Co-Chairs**: Nathan Tallman - ntt7 at psu dot edu; Sibyl Schaefer, University of California, San Diego - sschaefer at ucsd dot edu
+**Infrastructure Interest Group Co-Chairs**: Nathan Tallman - ntt7 at psu dot edu; Corey Davis - corey at coppul dot ca
 
 *Take me to the [Infrastructure Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-INFRASTRUCTURE)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, please contact the coordinators.*
 
