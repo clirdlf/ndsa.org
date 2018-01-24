@@ -3,6 +3,15 @@ var browserSync = require('browser-sync');
 var sass        = require('gulp-sass');
 var prefix      = require('gulp-autoprefixer');
 var cp          = require('child_process');
+var sourcemaps  = require('gulp-sourcemaps');
+var include     = require('gulp-include')
+
+// @see https://gist.github.com/LoyEgor/e9dba0725b3ddbb8d1a68c91ca5452b5
+var imagemin         = require('gulp-imagemin');
+var imageminPngquant = require('imagemin-pngquant');
+var imageminZopfli   = require('imagemin-zopfli');
+var imageminMozjpeg  = require('imagemin-mozjpeg'); //need to run 'brew install libpng'
+var imageminGiflossy = require('imagemin-giflossy');
 
 var jekyll   = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
 var messages = {
@@ -31,9 +40,53 @@ gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
 gulp.task('browser-sync', ['sass', 'jekyll-build'], function() {
     browserSync({
         server: {
-            baseDir: '_site'
+            baseDir: '_site',
+            injectChanges: true
         }
     });
+});
+
+/**
+ * Minify image assets
+ */
+gulp.task('imagemin', function(){
+  return gulp.src(['images/**/*.{gif,png,jpg,JPG}'])
+        .pipe(imagemin([
+            //png
+            imageminPngquant({
+                speed: 1,
+                quality: 98 //lossy settings
+            }),
+            imageminZopfli({
+                more: true
+            }),
+            //gif
+            // imagemin.gifsicle({
+            //     interlaced: true,
+            //     optimizationLevel: 3
+            // }),
+            //gif very light lossy, use only one of gifsicle or Giflossy
+            imageminGiflossy({
+                optimizationLevel: 3,
+                optimize: 3, //keep-empty: Preserve empty transparent frames
+                lossy: 2
+            }),
+            //svg
+            imagemin.svgo({
+                plugins: [{
+                    removeViewBox: false
+                }]
+            }),
+            //jpg lossless
+            imagemin.jpegtran({
+                progressive: true
+            }),
+            //jpg very light lossy, use vs jpegtran
+            imageminMozjpeg({
+                quality: 90
+            })
+        ]))
+        .pipe(gulp.dest('images'));
 });
 
 /**
@@ -59,6 +112,7 @@ gulp.task('sass', function () {
 gulp.task('watch', function () {
     gulp.watch('_sass/*.scss', ['sass']);
     gulp.watch(['*.html', '**/*.md', 'tests/*.js', '_includes/**/*.html', '_layouts/*.html', 'js/*.js', '_posts/*', '_institutes/*'], ['jekyll-rebuild']);
+    // gulp.watch('assets/**/*.{gif,png,jpg}', ['imagemin']);
 });
 
 /**

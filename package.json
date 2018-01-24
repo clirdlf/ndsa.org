@@ -27,10 +27,20 @@
     "wow": "^0.0.6"
   },
   "devDependencies": {
-    "browser-sync": "^2.14.3",
+    "browser-sync": "^2.18.13",
+    "dotenv": "^4.0.0",
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-include": "^2.3.1",
     "gulp-sass": "^2.3.2",
-    "node-sass": "^3.13.1"
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "imagemin-giflossy": "^5.1.10",
+    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-pngquant": "^5.0.1",
+    "imagemin-zopfli": "^5.1.0",
+    "node-sass": "^3.13.1",
+    "pump": "^1.0.1"
   }
 }
