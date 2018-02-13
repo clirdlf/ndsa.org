@@ -7,9 +7,9 @@ permalink: /national-agenda/
 - [Executive Summary](/documents/2015NationalAgendaExecSummary.pdf)
 - [Full 2015 National Agenda](/documents/2015NationalAgenda.pdf)
 
-### 2016 Update
+### 2017-18 Update
 
-A new NDSA working group is being formed to revise and update the *National Agenda.* Please contact [Coordinating Committee](/leadership/) chair Micah Altman to express interest or give feedback.
+A new NDSA working group is being formed to revise and update the *National Agenda.* Please contact working group chair Micah Altman to express interest or give feedback.
 
 
 ### About the National Agenda
