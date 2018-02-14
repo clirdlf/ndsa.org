@@ -4,8 +4,6 @@ layout: page
 permalink: /guidelines/
 ---
 
-*This is a preliminary document, prepared by the NDSA Coordinating Committee. We welcome your feedback!*
-
 ## NDSA Community Guidelines
 
 We need everyone’s help to keep NDSA a friendly and creative community where people with different backgrounds and interests feel welcome.
@@ -26,7 +24,7 @@ NDSA is dedicated to providing a harassment-free community experience for everyo
 Harassment includes: offensive verbal comments related to sex, gender, ethnicity, nationality, socioeconomic status, sexual orientation, disability, physical appearance, body size, age, race, religion; sexual or discriminatory images in public spaces; deliberate intimidation; stalking; harassing photography or recording; sustained disruption of talks, online discussions, or other events; inappropriate physical contact; and unwelcome sexual attention.
 
 
-Participants in NDSA communication channels violating the anti-harassment policy may be sanctioned or expelled at the discretion of the organizers of the meeting (if the channel is an in-person event) or the NDSA Coordinating Committee (if the channel is online). If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact meeting organizers or members of the NDSA Coordinating Committee immediately.
+Participants in NDSA communication channels violating the anti-harassment policy may be sanctioned or expelled at the discretion of the organizers of the meeting (if the channel is an in-person event) or the NDSA Coordinating Committee (if the channel is online). If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact meeting organizers or members of the NDSA Coordinating Committee immediately at [ndsa@diglib.org](mailto:ndsa@diglib.org). **However, if you or others are in imminent danger, please first phone emergency services at 911.**
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 If a participant engages in harassing behavior, event organizers and Coordinating Committee representatives (or their designees) may take any action they deem appropriate, including warning the offender, expulsion from the meeting or other community channels, or contacting a higher authority such as a representative from the offender's institution.
