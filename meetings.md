@@ -14,6 +14,24 @@ The National Digital Stewardship Alliance is a consortium of [more than 220 orga
 
 The conference will be held at the [M Resort](http://www.themresort.com/), Las Vegas, NV. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/about/code-of-conduct/).
 
+### #DigiPres18 Planning Committee Members
+
+- Aaron Collie, Federal Reserve Bank of St. Louis (Chair) <br />
+- Monique Lassere, University of Arizona Libraries <br />
+- Richard Higgins, Indiana University Libraries <br />
+- Marco Seiferle-Valencia, Michigan State University Libraries <br />
+- Amy Rudersdorf, AVP <br />
+- Sibyl Schaefer, University of California-San Diego <br />
+- Chad Garrett, University of Arkansas at Little Rock Center for Arkansas History and Culture <br />
+- Alex Kinnaman, Virginia Tech <br />
+- John Class, Wayne State University <br />
+- Maria Esteva, Texas Advanced Computing Center, UT Austin <br />
+- Daniel Noonan, The Ohio State University <br />
+- Graham Hukill, Wayne State University <br />
+- Marina Georgieva, University of Nevada – Las Vegas <br />
+- Miriam Meislik, University of Pittsburgh <br />
+- Sarah Jones, University of Nevada – Las Vegas  <br />
+
 ### Past Meetings
 
 An archive of past *Digital Preservation* meetings (which from 2011-2014 was a combined NDIIPP-NDSA conference for the digital preservation community) can be found on the [Digital Preservation Meetings page](http://www.digitalpreservation.gov/meetings/) at the Library of Congress.
