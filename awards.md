@@ -10,7 +10,7 @@ The program is administered by an NDSA Working Group, which includes members dra
 
 ## 2017 NDSA Innovation Award Winners
 
-Our latest awardees were [announced](http://ndsa.org/2017/10/25/announcing-the-2017-ndsa-award-winners.html) at *Digital Preservation 2017* in Pittsburgh on October 25, 2017. 
+Our latest awardees were [announced](http://ndsa.org/2017/10/25/announcing-the-2017-ndsa-award-winners.html) at *Digital Preservation 2017* in Pittsburgh on October 25, 2017.
 
 **Future Steward: Elizabeth England.** Elizabeth is recognized for her work as a National Digital Stewardship Residency (NDSR) resident at JHU’s Sheridan Libraries, which has significantly streamlined and advanced the JHU archives’ born-digital processing workflow and has motivated the Libraries to pursue grant funding to develop technology that will allow the community to appraise digital visual content in a more sophisticated way using computer vision techniques such as perceptual hashing.
 
@@ -30,15 +30,15 @@ Our latest awardees were [announced](http://ndsa.org/2017/10/25/announcing-the-2
 
 Our latest awardees were [announced](https://www.diglib.org/archives/12878/) at *Digital Preservation 2016* in Milwaukee on November 9, 2016. We're pleased to present our interviews with the awardees linked below:
 
-[**Future Steward: Samantha Abrams, StoryCorps.**](http://ndsa.diglib.org//2017/02/01/ndsa-future-steward-on-community-web-archiving-an-interview-with-samantha-abrams.html)  Samantha is recognized for her work with the Madison Public Library and its Personal Archiving Lab as well as her initiative to create innovative projects and classes.
+[**Future Steward: Samantha Abrams, StoryCorps.**](http://ndsa.org//2017/02/01/ndsa-future-steward-on-community-web-archiving-an-interview-with-samantha-abrams.html)  Samantha is recognized for her work with the Madison Public Library and its Personal Archiving Lab as well as her initiative to create innovative projects and classes.
 
-[**Individual: Jarrett Drake, Princeton University.**](http://ndsa.diglib.org//2017/02/15/archives-have-never-been-neutral-an-ndsa-interview-with-jarrett-drake.html) Jarrett is recognized for his work at Princeton and in the community to challenge and re-examine the practices of archiving and documenting history, particularly relating to preserving the underrepresented voices in history.
+[**Individual: Jarrett Drake, Princeton University.**](http://ndsa.org//2017/02/15/archives-have-never-been-neutral-an-ndsa-interview-with-jarrett-drake.html) Jarrett is recognized for his work at Princeton and in the community to challenge and re-examine the practices of archiving and documenting history, particularly relating to preserving the underrepresented voices in history.
 
-[**Individual: Dave Rice, CUNY Television.**](http://ndsa.diglib.org//2017/02/22/collaboration-openness-and-preservation-an-ndsa-interview-with-dave-rice.html) Dave is recognized for his work in advocating widely for standards and collaboration across countries and organizations as well as his work with nonprofit organizations such as Democracy Now and WITNESS.
+[**Individual: Dave Rice, CUNY Television.**](http://ndsa.org//2017/02/22/collaboration-openness-and-preservation-an-ndsa-interview-with-dave-rice.html) Dave is recognized for his work in advocating widely for standards and collaboration across countries and organizations as well as his work with nonprofit organizations such as Democracy Now and WITNESS.
 
-[**Organization: Mid-Michigan Digital Practitioners.**](http://ndsa.diglib.org//2017/02/08/innovation-sharing-and-knowledge-exchange-in-mid-michigan-an-ndsa-interview-with-mmdp.html) The MMDP is recognized for its highly original and successful organizational model in fostering innovation sharing and knowledge exchange.
+[**Organization: Mid-Michigan Digital Practitioners.**](http://ndsa.org//2017/02/08/innovation-sharing-and-knowledge-exchange-in-mid-michigan-an-ndsa-interview-with-mmdp.html) The MMDP is recognized for its highly original and successful organizational model in fostering innovation sharing and knowledge exchange.
 
-[**Project: Tribal Stewardship Cohort Program.**](http://ndsa.diglib.org//2017/03/15/digital-preservation-ethical-care-and-the-tribal-stewardship-cohort-program-an-ndsa-interview-with-kimberly-christen.html) The project is recognized for its work in providing long-term educational opportunities in digital heritage management and preservation as well as its dedication to culturally responsive and ethically-minded practices.
+[**Project: Tribal Stewardship Cohort Program.**](http://ndsa.org//2017/03/15/digital-preservation-ethical-care-and-the-tribal-stewardship-cohort-program-an-ndsa-interview-with-kimberly-christen.html) The project is recognized for its work in providing long-term educational opportunities in digital heritage management and preservation as well as its dedication to culturally responsive and ethically-minded practices.
 
 ## 2015 NDSA Innovation Award Winners
 
