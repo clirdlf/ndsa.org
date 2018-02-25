@@ -6,5 +6,5 @@ _site
 node_modules
 npm-debug.log
 config.json
-
+vendor
 pa11y.html

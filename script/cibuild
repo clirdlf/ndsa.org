@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
+#
+# Usage:
+#
+# script/cibuild
+
 set -e # halt script on error
 
 bundle exec jekyll build
-bundle exec htmlproofer --assume-extension --check_opengraph --only-4xx --disable_external ./_site
+bundle exec htmlproofer --empty-alt-ignore --assume-extension --check_opengraph --only-4xx --disable_external ./_site
