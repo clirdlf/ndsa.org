@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/clirdlf/ndsa.org.svg?branch=gh-pages)](https://travis-ci.org/clirdlf/ndsa.org)
+
 # Getting Started
 1. Clone the repo to your projects directory (`mkdir -p ~/projects && git clone git@github.com:clirdlf/ndsa.org.git`). If you have a new computer, you may need to [set up your keys](https://help.github.com/articles/generating-ssh-keys/).
 2. Make sure you're on the `gh-pages` branch (`cd ~/projects/ndsa.org && git checkout gh-pages`).
@@ -36,7 +38,7 @@ Content edits can be easily made on the browser-based GitHub editor.
 
 For information on formatting, please review the [Markdown
   Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). GitHub keyboard shortcuts can be found
-[here](https://help.github.com/articles/using-keyboard-shortcuts/). 
+[here](https://help.github.com/articles/using-keyboard-shortcuts/).
 
 ## Blog Posts
 
@@ -46,7 +48,7 @@ Blog posts are written and served from https://www.diglib.org/. There is a `rake
 $ rake import:rss
 ```
 
-This will load the full content of the posts from the RSS feed and generate the appropriate files. Any changes (typos, links, etc.) need to be made at https://www.diglib.org. 
+This will load the full content of the posts from the RSS feed and generate the appropriate files. Any changes (typos, links, etc.) need to be made at https://www.diglib.org.
 
 ## Membership Data
 
