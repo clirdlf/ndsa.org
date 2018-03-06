@@ -1,5 +1,5 @@
 ---
-title: Digital Preservation 2018: October 17-18
+title: Digital Preservation Conferences
 layout: page
 permalink: /meetings/
 ---
