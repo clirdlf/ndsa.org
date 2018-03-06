@@ -1,16 +1,12 @@
 ---
-title: Digital Preservation Conferences
+title: Digital Preservation 2018: October 17-18
 layout: page
 permalink: /meetings/
 ---
 
-### Digital Preservation 2018: October 17-18
-
-The National Digital Stewardship Alliance (NDSA) will hold its annual conference, **Digital Preservation**, in Las Vegas, Nevada, **October 17-18, 2018**. This year's theme is **In/visible Work**.
-
 ### Call for Proposals: Digital Preservation 2018: In/visible Work
 
-The National Digital Stewardship Alliance (NDSA) invites proposals for **[Digital Preservation 2018: “In/visible Work”](http://ndsa.org/meetings/)** to be held in Henderson, NV, October 17-18, 2018.
+The National Digital Stewardship Alliance (NDSA) invites proposals for **Digital Preservation 2018: “In/visible Work”** to be held in Henderson, NV, October 17-18, 2018.
 
 Digital Preservation is the major meeting and conference of the NDSA—open to members and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues. Our 2018 meeting is held in partnership with our host organization, the Digital Library Federation (DLF). Separate calls are being issued for **[Learn@DLF](https://forum2018.diglib.org/learndlf/)** (October 14) and **[2018 DLF Forum](https://forum2018.diglib.org/)** (October 15-17)—all happening in the same location.
 
