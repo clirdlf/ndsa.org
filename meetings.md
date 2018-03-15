@@ -6,7 +6,7 @@ permalink: /meetings/
 
 ### Call for Proposals: Digital Preservation 2018: In/visible Work
 
-<img alt="meetings" width="480" height="270" src='{{ "/images/NDSA-DigitalPreservation-2018_FacebookHeader_Final.png" | prepend: site.baseurl }}'>
+<img alt="meetings" width="710" height="270" src='{{ "/images/NDSA-DigitalPreservation-2018_FacebookHeader_Final.png" | prepend: site.baseurl }}'>
 
 The National Digital Stewardship Alliance (NDSA) invites proposals for **Digital Preservation 2018: “In/visible Work”** to be held in Henderson, NV, October 17-18, 2018.
 
