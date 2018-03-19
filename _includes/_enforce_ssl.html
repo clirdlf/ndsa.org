@@ -1,0 +1,13 @@
+<script language="javascript">
+  // Enforce SSL
+  // see http://code.dblock.org/2018/03/07/enabling-ssl-on-github-pages.html
+  (function (root) {
+    "use strict";
+    var h = root ? root.location.hostname : "",
+    p = root ? root.location.protocol : "";
+    if ("http:" === p && !(/^(localhost|127.0.0.1)/).test(h)) {
+      root.location.protocol = "https:";
+    }
+  }
+  ("undefined" !== typeof window ? window : this));
+</script>
