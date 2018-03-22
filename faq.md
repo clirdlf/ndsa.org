@@ -38,7 +38,7 @@ javascript:
 
 ### Should my organization join the NDSA?
 
-If your organization has an active digital preservation program and wants to work with other experts in the field, then yes, your organization should join the NDSA. Consortia, non profits, commercial entities and international organizations are all welcome to [apply for membership](/get-involved/) or join as an Affiliate. At this time, individuals are not eligible to join the NDSA. Please see the [membership packet](/documents/MembershipPacket201103.pdf) for more information about our values and principles.
+If your organization has an active digital preservation program and wants to work with other experts in the field, then yes, your organization should join the NDSA. Consortia, non profits, commercial entities and international organizations are all welcome to [apply for membership](/get-involved/) or join as an Affiliate. At this time, individuals are not eligible to join the NDSA. Please see the [membership packet](/documents/Member_Packet_2018.pdf) for more information about our values and principles.
 
 ### How can my organization check the status of our application?
 
