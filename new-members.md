@@ -3,7 +3,7 @@ title: New Members
 layout: page
 permalink: /new-members/
 ---
-Welcome! Start by reviewing this website and the [Membership Packet](/documents/MembershipPacket201311.pdf).
+Welcome! Start by reviewing this website and the [Membership Packet](/documents/Member_Packet_2018.pdf).
 
 Then try...
 
