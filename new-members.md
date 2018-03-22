@@ -3,14 +3,14 @@ title: New Members
 layout: page
 permalink: /new-members/
 ---
-Welcome! Start by reviewing this website and the [NDSA Wiki](https://wiki.diglib.org/NDSA:Main_Page).
+Welcome! Start by reviewing this website and the [Membership Packet](/documents/MembershipPacket201311.pdf).
 
 Then try...
 
 ## Five Easy Ways to Get Involved
-- Contact your [Interest Group co-chairs](/working-groups/) to learn more about how to get involved in a specific group or activity.
+- Contact your [Interest Group or Working Group co-chairs](/working-groups/) to learn more about how to get involved in a specific group or activity.
 - Offer to help take meeting minutes (this is always truly appreciated!).
-- Help with small or large tasks to accomplish Interest Group goals.
+- Help with small or large tasks to accomplish Interest Group or Working Group goals.
 - Chat with your fellow members via the listserv - ask questions, tell us about your projects, introduce yourself! You will be added to the listserv upon joining the NDSA, and can always access it [here](http://lists.clir.org/cgi-bin/wa?A0=NDSA-ALL)
 - Encourage your co-workers to get involved.
 
