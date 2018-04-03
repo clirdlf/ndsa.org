@@ -46,6 +46,10 @@ The National Digital Stewardship Alliance is a consortium of more than 220 organ
 
 The conference will be held at the beautiful [M Resort](http://www.themresort.com/), just outside of Las Vegas, NV. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/forums/2016forum/code-of-conduct/). 
 
+### Sponsorship Opportunities
+
+Is your organization interested in becoming a sponsor of #digipres18 or the DLF Forum? Take a look at our  [sponsorship opportunities](https://forum2018.diglib.org/sponsorship-opportunities/) and please [get in touch](mailto:lkwasigroch@clir.org) if you would like more information.
+
 ### #DigiPres18 Planning Committee Members
 
 - Aaron Collie, Federal Reserve Bank of St. Louis (Chair)
