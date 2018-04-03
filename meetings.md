@@ -12,14 +12,14 @@ The National Digital Stewardship Alliance (NDSA) invites proposals for **Digital
 
 Digital Preservation is the major meeting and conference of the NDSA—open to members and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues. Our 2018 meeting is held in partnership with our host organization, the Digital Library Federation (DLF). Separate calls are being issued for **[Learn@DLF](https://forum2018.diglib.org/learndlf/)** (October 14) and **[2018 DLF Forum](https://forum2018.diglib.org/)** (October 15-17)—all happening in the same location.
 
-**[Proposals are due by May 7 at 11:59pm Pacific Time.](https://www.conftool.pro/dlf2018/)** 
+**[Proposals are due by May 7 at 11:59pm Pacific Time.](https://www.conftool.pro/dlf2018/)**
 
 **Submissions:**
-250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected. Submit proposals online: [https://conftool.pro/dlf2018/](https://conftool.pro/dlf2018/). 
+250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected. Submit proposals online: [https://conftool.pro/dlf2018/](https://conftool.pro/dlf2018/).
 
 **Deadline:** May 7th, 2018 at 11:59pm PT.
 
-We especially encourage proposals that speak to our conference theme, **“In/visible Work.”** 
+We especially encourage proposals that speak to our conference theme, **“In/visible Work.”**
 
 Digital preservation efforts are supported by deep and complex infrastructures of people, organizations, software, technology, and standards. When these components align, preservation and access of digital materials may appear to be an effortless and seamless process — however, much of the work to collect, acquire, build, maintain, describe, and preserve digital collections is hidden from primary stakeholders and end users alike. This year, DigiPres 2018 invites presentations and workshops around the theme of “In/visible Work,” which seek to highlight the many layers and labors of digital preservation. Along with other digital preservation topics, the program committee is particularly interested in presentations that address:
 - Labor & workforce development;
@@ -44,11 +44,11 @@ All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. P
 
 The National Digital Stewardship Alliance is a consortium of more than 220 organizations committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. Digital Preservation 2018 ([#digipres18](https://twitter.com/search?q=%23digipres18&src=typd)) will help to chart future directions for both the NDSA and digital stewardship, and is expected to be a crucial venue for intellectual exchange, community-building, development of best practices, and national-level agenda-setting in the field.
 
-The conference will be held at the beautiful [M Resort](http://www.themresort.com/), just outside of Las Vegas, NV. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/forums/2016forum/code-of-conduct/). 
+The conference will be held at the beautiful [M Resort](http://www.themresort.com/), just outside of Las Vegas, NV. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/forums/2016forum/code-of-conduct/).
 
 ### Sponsorship Opportunities
 
-Is your organization interested in becoming a sponsor of #digipres18 or the DLF Forum? Take a look at our  [sponsorship opportunities](https://forum2018.diglib.org/sponsorship-opportunities/) and please [get in touch](mailto:lkwasigroch@clir.org) if you would like more information.
+Is your organization interested in becoming a sponsor of #digipres18 or the DLF Forum? Take a look at our  [sponsorship opportunities](https://forum2018.diglib.org/sponsorship-opportunities/) and please contact [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
 
 ### #DigiPres18 Planning Committee Members
 
