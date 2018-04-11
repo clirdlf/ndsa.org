@@ -10,7 +10,7 @@ This is an overview of NDSA reports, survey outcomes, and articles. See our [ove
 - [NDSA Wiki](https://wiki.diglib.org/NDSA:Main_Page)
 
 ### Publications
-- [NDSA's OSF](https://osf.io/4d567/): A repository for all NDSA publications
+- [NDSA OSF](https://osf.io/4d567/): A repository for all NDSA publications
 - [National Agenda](/national-agenda/)
 - [Levels of Preservation](/activities/levels-of-digital-preservation/)
 - [Selected Reports and Articles](/publications/)
