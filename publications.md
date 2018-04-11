@@ -3,7 +3,7 @@ title: Publications
 layout: page
 permalink: /publications/
 ---
-This is a non-exclusive list of recent NDSA reports, survey outcomes, and articles. See our [overview of activities](/activities/) for more, and don't miss the latest NDSA [National Agenda for Digital Stewardship](/national-agenda/).
+This is a non-exclusive list of recent NDSA reports, survey outcomes, and articles. See our [overview of meetings and events](/meetings-and-events/) for more, and don't miss the latest NDSA [National Agenda for Digital Stewardship](/national-agenda/).
 
 ## Selected Reports
 

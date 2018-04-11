@@ -24,7 +24,7 @@ The NDSA organizes a national network of collaborative partners to take stewards
 - [NDSA Experts Guide](/experts-guide/)
 - [NDSA Wiki](https://wiki.diglib.org/NDSA:Main_Page)
 - [New Member Orientation Information](/new-members/)
-- [Working Group](/working-groups) Projects and [Activities](/activities/)
+- [Working Group](/working-groups) Projects and [Events](/meetings-and-events/)
 - [Frequently Asked Questions](/faq/) about membership, participation and communications.
 
 ## Questions?
