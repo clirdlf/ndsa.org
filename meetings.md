@@ -35,10 +35,14 @@ Submissions are invited in the following lengths and formats:
 
 - **Talks/Demos:** Presentations and demonstrations are allocated 30 minutes each. Speakers should reserve time for interactive exchanges on next steps, possible NDSA community action, and discussion or debate.
 - **Panels:** Panel discussions with 4 or more speakers will be given a dedicated session. "Manels"/all-male panels will not be accepted into the conference and proposals involving a diversity of speakers will be looked on favorably by the committee
-- **Minute Madness:** Share your ideas in 60 seconds or less as part of the opening plenary of the conference. Presenters will have the option to display posters during the reception that follows. (Guidelines for poster sizes will be provided on acceptance.)
+- **Workshops:** Hands-on training sessions on specific tools, techniques, workflows, or concepts. All workshop organizers are asked to provide details on technology needs and learning outcomes for participants. Workshops are allotted 90 minutes.
+- **Minute Madness/Posters:** Share your ideas in 60 seconds or less as part of the opening plenary of the conference. Presenters will have the option to display posters during the reception that follows. (Guidelines for poster sizes will be provided on acceptance.)
 - **Lunchtime Working Group Meetings:** NDSA working and interest group chairs are invited to propose group meetings or targeted collaboration sessions. (Lunch provided.)
 
 All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified in June and guaranteed a registration slot at the conference.
+
+### Digital Preservation Mentorship Program
+Stay tuned for more information about a lightweight conference mentorship program! When registration opens, attendees will be able to sign up to be mentors, mentees, or both.
 
 ### About the NDSA and Digital Preservation 2018:
 
