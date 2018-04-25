@@ -7,6 +7,10 @@ This is a non-exclusive list of recent NDSA reports, survey outcomes, and articl
 
 ## Selected Reports
 
+#### 2017 Fixity Survey Report
+
+A [report](/documents/Report_2017NDSAFixitySurvery.pdf) (PDF, 977 KB) written by the [Fixity Working Group](/fixity) that addresses the “… clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements” raised in the 2015 NDSA National Agenda.
+
 #### "Checking Your Digital Content: What is Fixity, and When Should I be Checking It?
 A [report](/documents/NDSA-Fixity-Guidance-Report-final100214.pdf) (PDF, 150 KB) written by a joint action team of the [Infrastructure](/working-groups/infrastructure/) and [Standards and Practices](/working-groups/standards-and-practices/) Working Groups that addresses the need for guidance on fixity and audit and repair strategies as a core goal of digital preservation. This document aims to help stewards answer these questions in a way that makes sense for their organization based on their needs and resources.
 
