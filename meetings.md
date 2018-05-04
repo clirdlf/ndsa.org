@@ -64,20 +64,22 @@ Is your organization interested in becoming a sponsor of #digipres18 or the DLF 
 ### #DigiPres18 Planning Committee Members
 
 - Aaron Collie, Federal Reserve Bank of St. Louis (Chair)
-- Monique Lassere, University of Arizona Libraries
-- Richard Higgins, Indiana University Libraries
-- Marco Seiferle-Valencia, Michigan State University Libraries
-- Amy Rudersdorf, AVP
-- Sibyl Schaefer, University of California-San Diego
-- Chad Garrett, University of Arkansas at Little Rock Center for Arkansas History and Culture
-- Alex Kinnaman, Virginia Tech
 - John Class, Wayne State University
 - Maria Esteva, Texas Advanced Computing Center, UT Austin
-- Daniel Noonan, The Ohio State University
-- Graham Hukill, Wayne State University
+- Chad Garrett, University of Arkansas at Little Rock Center for Arkansas History and Culture
 - Marina Georgieva, University of Nevada – Las Vegas
-- Miriam Meislik, University of Pittsburgh
+- Richard Higgins, Indiana University Libraries
+- Graham Hukill, Wayne State University
 - Sarah Jones, University of Nevada – Las Vegas
+- Alex Kinnaman, Virginia Tech
+- Carol Kussmann, University of Minnesota Libraries
+- Monique Lassere, University of Arizona Libraries
+- Miriam Meislik, University of Pittsburgh
+- Daniel Noonan, The Ohio State University
+- Krista Oldham, Haverford College
+- Amy Rudersdorf, AVP
+- Sibyl Schaefer, University of California-San Diego
+- Marco Seiferle-Valencia, Michigan State University Libraries
 
 ### Past Meetings
 
