@@ -17,7 +17,7 @@ This is an overview of NDSA reports, survey outcomes, and articles. See our [ove
 
 ### Resources and tools
 - [Experts Guide](/experts-guide): A list of individuals from member organizations available to speak to the news media about a variety of digital stewardship topics, and who are recognized for their contributions to the NDSA community.
-- [Case Studies](/activities/case-studies): The [Content Interest Group](working-groups/content/) has created case studies to engage members of the community in the preservation of content and to encourate the cultivation of relationships that could enambe preservation.
+- [Case Studies](/activities/case-studies): The [Content Interest Group](/working-groups/content/) has created case studies to engage members of the community in the preservation of content and to encourate the cultivation of relationships that could enambe preservation.
 - [Digital Preservation in a Box](https://wiki.diglib.org/NDSA:Digital_Preservation_in_a_Box): A toolkit to support outreach activities that introduce the basic concepts of preserving digital information.
 - [Glossary](http://ndsa.org/glossary/): A definition of terms of special value to the NDSA and its extended digital stewardship community.
 
