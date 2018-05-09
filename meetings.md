@@ -58,6 +58,35 @@ Is your organization interested in becoming a sponsor of #digipres18 or the DLF 
 - Sibyl Schaefer, University of California-San Diego
 - Marco Seiferle-Valencia, Michigan State University Libraries
 
+### Call for Proposals - CLOSED May 7, 2018
+Thank you for your contributions! All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified in June and guaranteed a registration slot at the conference.
+
+**The CFP closed on May 7. Browse below to see the details on which all of this year's submissions are based.**
+
+The National Digital Stewardship Alliance (NDSA) invites proposals for **Digital Preservation 2018: “In/visible Work”** to be held in Henderson, NV, October 17-18, 2018.
+
+250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected. Submit proposals online: [https://conftool.pro/dlf2018/](https://conftool.pro/dlf2018/).
+
+We especially encourage proposals that speak to our conference theme, **“In/visible Work.”**
+
+Digital preservation efforts are supported by deep and complex infrastructures of people, organizations, software, technology, and standards. When these components align, preservation and access of digital materials may appear to be an effortless and seamless process — however, much of the work to collect, acquire, build, maintain, describe, and preserve digital collections is hidden from primary stakeholders and end users alike. This year, DigiPres 2018 invites presentations and workshops around the theme of “In/visible Work,” which seek to highlight the many layers and labors of digital preservation. Along with other digital preservation topics, the program committee is particularly interested in presentations that address:
+- Labor & workforce development;
+- Underrepresented people, collections and communities;
+- Maintenance and the work of digital maintainers;
+- Tech-debt, “degralesence,” and retroactive labor;
+- Financial sustainability, environmental resources, and social costs of technologies;
+- Storage commitments, contracts and costs;
+- Models and strategies for post-custodial digital preservation; or
+- Transparency, openness, and identity.
+
+Submissions are invited in the following lengths and formats:
+
+- **Talks/Demos:** Presentations and demonstrations are allocated 30 minutes each. Speakers should reserve time for interactive exchanges on next steps, possible NDSA community action, and discussion or debate.
+- **Panels:** Panel discussions with 4 or more speakers will be given a dedicated session. "Manels"/all-male panels will not be accepted into the conference and proposals involving a diversity of speakers will be looked on favorably by the committee
+- **Workshops:** Hands-on training sessions on specific tools, techniques, workflows, or concepts. All workshop organizers are asked to provide details on technology needs and learning outcomes for participants. Workshops are allotted 90 minutes.
+- **Minute Madness/Posters:** Share your ideas in 60 seconds or less as part of the opening plenary of the conference. Presenters will have the option to display posters during the reception that follows. (Guidelines for poster sizes will be provided on acceptance.)
+- **Lunchtime Working Group Meetings:** NDSA working and interest group chairs are invited to propose group meetings or targeted collaboration sessions. (Lunch provided.)
+
 ### Past Meetings
 
 An archive of past *Digital Preservation* meetings (which from 2011-2014 was a combined NDIIPP-NDSA conference for the digital preservation community) can be found on the [Digital Preservation Meetings page](http://www.digitalpreservation.gov/meetings/) at the Library of Congress.
