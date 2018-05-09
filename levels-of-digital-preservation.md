@@ -22,3 +22,7 @@ Comments and suggestions for improvement can be sent to:
 - Meg Phillips - meg dot phillips at nara dot gov
 
 NDSA questions? Send an email to ndsa@diglib.org.
+
+### 2018 Update
+
+A new NDSA Levels of Preservation Working Group has formed. Its primary task will be to provide the methodology by which the important NDSA Levels of Preservation document can be adapted more readily—taking in the broadest possible feedback in the process. More information about the newly formed group is [here](http://ndsa.org/working-groups/lop/).
