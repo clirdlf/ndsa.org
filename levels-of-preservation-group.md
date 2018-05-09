@@ -26,17 +26,17 @@ Please contact Bradley Daigle at bradley [at] virginia [dot] edu if you are inte
 We are currently parsing the responses that we have received from the initial call and creating a project plan. We will be creating a communications channel as well as a follow up survey that will seek to group respondents along their interest lines. Please stay tuned.
 
 ### Levels Reboot Team
-Karen Cariani - karen_cariani [at] WGBH [dot] ORG
-Aaron Collie - Aaron.Collie [at] STLS.FRB [dot] ORG
-Bradley Daigle - bradley [at] virginia [dot] edu
-Corey Davis - corey [at] COPPUL [dot] CA
-Amy Kirchoff - Amy.Kirchhoff [at] ithaka [dot] org
-Carol Kussmann - kussmann [at] umn [dot] edu
-Mary Molinaro - mary [at] DPN [dot] ORG
-Bethany Nowviskie - bnowviskie [at] CLIR [dot] ORG
-Sibyl Schaefer - sschaefer [at] ucsd [dot]edu
-Nathan Tallman - ntt7 [at] psu [dot] edu
-Helen Tibbo - tibbo [at] ILS.UNC [dot] EDU
-Lauren Work - lw2cd [at] virginia [dot] edu
+- Karen Cariani - karen_cariani [at] WGBH [dot] ORG
+- Aaron Collie - Aaron.Collie [at] STLS.FRB [dot] ORG
+- Bradley Daigle - bradley [at] virginia [dot] edu
+- Corey Davis - corey [at] COPPUL [dot] CA
+- Amy Kirchoff - Amy.Kirchhoff [at] ithaka [dot] org
+- Carol Kussmann - kussmann [at] umn [dot] edu
+- Mary Molinaro - mary [at] DPN [dot] ORG
+- Bethany Nowviskie - bnowviskie [at] CLIR [dot] ORG
+- Sibyl Schaefer - sschaefer [at] ucsd [dot]edu
+- Nathan Tallman - ntt7 [at] psu [dot] edu
+- Helen Tibbo - tibbo [at] ILS.UNC [dot] EDU
+- Lauren Work - lw2cd [at] virginia [dot] edu
 
 For information about the NDSA Coordinating Committee and Interest Group Co-chairs, please visit the [Leadership page](http://ndsa.org/leadership/).
