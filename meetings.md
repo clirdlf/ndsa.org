@@ -16,6 +16,11 @@ The conference will be held at the beautiful [M Resort](http://www.themresort.co
 
 The CFPs for Digital Preservation 2018 are closed, but **community voting is open**! Please click [here](https://www.diglib.org/community-voting-for-the-dlf-forum-learndlf-and-digital-preservation-2018/) for all the information you need about how to cast your votes for your favorite proposals, now through May 22.
 
+### Register
+Registration is open! Be among the first to secure a ticket and start planning for yet another memorable event. Please click [here](https://www.conftool.pro/dlf2018/) to register.
+
+All 2018 DLF Forum affiliated events (including Digital Preservation 2018) cancellations and requests for refunds must be made in writing. Please email your request to forum@diglib.org. A full refund minus a $25 service fee is available until September 21. No refunds will be available starting October 1.  
+
 ### Keynote: Snowden Becker
 [Snowden Becker](https://snowdenbecker.com/) will open Digital Preservation 2018 with a talk entitled “**To See Ourselves as Others See Us: On Archives, Visibility, and Value**.”
 
