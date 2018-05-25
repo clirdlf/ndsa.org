@@ -19,6 +19,8 @@ The CFPs for Digital Preservation 2018 are closed, but **community voting is ope
 ### Register
 Registration is open! Be among the first to secure a ticket and start planning for yet another memorable event. Please click [here](https://www.conftool.pro/dlf2018/) to register.
 
+The registration rate is $200, which includes continental breakfast, hot lunch, coffee breaks, and a reception. A limited number of reduced rate tickets ($150) will be available to help ease costs for attendees who are not funded by an institution and are paying completely out-of-pocket. Please register at this rate on the honor system if you receive **no outside/institutional support**. 
+
 All 2018 DLF Forum affiliated events (including Digital Preservation 2018) cancellations and requests for refunds must be made in writing. Please email your request to forum@diglib.org. A full refund minus a $25 service fee is available until September 21. No refunds will be available starting October 1.  
 
 ### Keynote: Snowden Becker
@@ -29,7 +31,7 @@ Becker manages the graduate degree program in audiovisual archiving and preserva
 Snowden Becker’s research interests focus on how audiovisual materials are integrated into, accessed, and preserved as part of our larger cultural heritage. Her forthcoming dissertation, Keeping the Pieces: Evidence management and archival practice in law enforcement, addresses the property room as a type of archive, and examines how audiovisual recordings and file-based media are managed alongside material evidence in law enforcement organizations. That work has led into additional research projects related to the creation, management, and preservation of audiovisual evidence, including an [IMLS-funded National Forum](https://www.imls.gov/grants/awarded/re-43-16-0053-16) on data management needs arising from large-scale video recording programs such as police body-worn cameras.
 
 ### Digital Preservation Mentorship Program
-This year the Digital Preservation 2018 planning committee is piloting a NDSA mentorship program, based on the successful DLF Forum Mentors. This program is intended to be lightweight and seeks to establish mentoring relationships among our community members, centered around face-to-face interaction at #digipres18. 
+This year the Digital Preservation 2018 planning committee is piloting a NDSA mentorship program, based on the successful DLF Forum Mentors. This program is intended to be lightweight and seeks to establish mentoring relationships among our community members, centered around face-to-face interaction at #digipres18.
 
 As part of the Digital Preservation 2018 registration process, registrants will have the opportunity to sign up as either a mentor or mentee. The NDSA program committee will facilitate the matching, based on expertise and mentee requests. Mentors agree to:
 - Exchange emails and/or set up a phone/video chat to get to know each other before the conference
