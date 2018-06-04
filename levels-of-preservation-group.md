@@ -593,7 +593,7 @@ th, td {
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;"><a href="https://drive.google.com/drive/folders/1-vi93P6Eqr2yFDADQfHSh74owhY3NPyP?usp=sharing">Google Drive</a></span></p>
+<p><span style="font-weight: 400;"><a href="https://drive.google.com/drive/folders/1On9obsyTKKSUXbqHVUesq6WigGE8GMON">Google Drive</a></span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">All appropriate project documentation (meeting agendas and minutes, project plans, etc.) will be made accessible</span></p>
