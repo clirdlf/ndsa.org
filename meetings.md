@@ -14,12 +14,10 @@ The National Digital Stewardship Alliance is a consortium of more than 220 organ
 
 The conference will be held at the beautiful [M Resort](http://www.themresort.com/), just outside of Las Vegas, NV. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/forums/2016forum/code-of-conduct/).
 
-The CFPs for Digital Preservation 2018 are closed, but **community voting is open**! Please click [here](https://www.diglib.org/community-voting-for-the-dlf-forum-learndlf-and-digital-preservation-2018/) for all the information you need about how to cast your votes for your favorite proposals, now through May 22.
-
 ### Register
 Registration is open! Be among the first to secure a ticket and start planning for yet another memorable event. Please click [here](https://www.conftool.pro/dlf2018/) to register.
 
-The registration rate is $200, which includes continental breakfast, hot lunch, coffee breaks, and a reception. A limited number of reduced rate tickets ($150) will be available to help ease costs for attendees who are not funded by an institution and are paying completely out-of-pocket. Please register at this rate on the honor system if you receive **no outside/institutional support**. 
+The registration rate is $200, which includes continental breakfast, hot lunch, coffee breaks, and a reception. A limited number of reduced rate tickets ($150) will be available to help ease costs for attendees who are not funded by an institution and are paying completely out-of-pocket. Please register at this rate on the honor system if you receive **no outside/institutional support**.
 
 All 2018 DLF Forum affiliated events (including Digital Preservation 2018) cancellations and requests for refunds must be made in writing. Please email your request to forum@diglib.org. A full refund minus a $25 service fee is available until September 21. No refunds will be available starting October 1.  
 
