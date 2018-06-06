@@ -117,7 +117,7 @@ th, td {
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">April-May 2018</span></p>
+<p><span style="font-weight: 400;">April-June 2018</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">Complete project plan, get feedback, finalize</span></p>
@@ -135,7 +135,7 @@ th, td {
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">May 2018</span></p>
+<p><span style="font-weight: 400;">June 2018</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">Send follow-up survey asking for active members and reviewers for Working Groups</span></p>
