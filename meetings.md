@@ -19,7 +19,11 @@ Registration is open! Be among the first to secure a ticket and start planning f
 
 The registration rate is $200, which includes continental breakfast, hot lunch, coffee breaks, and a reception. A limited number of reduced rate tickets ($150) will be available to help ease costs for attendees who are not funded by an institution and are paying completely out-of-pocket. Please register at this rate on the honor system if you receive **no outside/institutional support**.
 
-All 2018 DLF Forum affiliated events (including Digital Preservation 2018) cancellations and requests for refunds must be made in writing. Please email your request to forum@diglib.org. A full refund minus a $25 service fee is available until September 21. No refunds will be available starting October 1.  
+All 2018 DLF Forum affiliated events (including Digital Preservation 2018) cancellations and requests for refunds must be made in writing. Please email your request to forum@diglib.org. A full refund minus a $25 service fee is available until September 21. No refunds will be available starting October 1.
+
+### Reservations
+
+Guests can make reservations online at the M Resort as part of our conference room block by using this [reservations web link](https://reservations.travelclick.com/99803?groupID=2002914#/guestsandrooms). Alternatively, a reservation can be made calling the M Resort’s toll-free reservations line at (877) 673-7678 and mentioning the group code SDLF18. The base room rate is $170 per room per night during the DLF Forum and affiliated events (before taxes and incidentals). 
 
 ### Keynote: Snowden Becker
 [Snowden Becker](https://snowdenbecker.com/) will open Digital Preservation 2018 with a talk entitled “**To See Ourselves as Others See Us: On Archives, Visibility, and Value**.”
