@@ -51,8 +51,8 @@ Is your organization interested in becoming a sponsor of #digipres18 or the DLF 
 
 Thank you to the 2018 #DigiPres18 sponsors!
 
-<img alt=“DPN” width=“261” height=“163” src='{{ “/images/DPN logo.jpeg" | prepend: site.baseurl }}'>
-<img alt=“LIPA” width=“234” height=“185” src='{{ “/images/LIPA.jpg" | prepend: site.baseurl }}'>
+![DPN-Logo](http://ndsa.org/images/DPN-logo.jpeg)
+![LIPA-logo](http://ndsa.org/images/LIPA.jpg)
 
 ### #DigiPres18 Planning Committee Members
 
