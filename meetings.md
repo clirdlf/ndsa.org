@@ -23,7 +23,7 @@ All 2018 DLF Forum affiliated events (including Digital Preservation 2018) cance
 
 ### Reservations
 
-Guests can make reservations online at the M Resort as part of our conference room block by using this [reservations web link](https://reservations.travelclick.com/99803?groupID=2002914#/guestsandrooms). Alternatively, a reservation can be made calling the M Resort’s toll-free reservations line at (877) 673-7678 and mentioning the group code SDLF18. The base room rate is $170 per room per night during the DLF Forum and affiliated events (before taxes and incidentals). 
+Guests can make reservations online at the M Resort as part of our conference room block by using this [reservations web link](https://reservations.travelclick.com/99803?groupID=2002914#/guestsandrooms). Alternatively, a reservation can be made calling the M Resort’s toll-free reservations line at (877) 673-7678 and mentioning the group code SDLF18. The base room rate is $170 per room per night during the DLF Forum and affiliated events (before taxes and incidentals).
 
 ### Keynote: Snowden Becker
 [Snowden Becker](https://snowdenbecker.com/) will open Digital Preservation 2018 with a talk entitled “**To See Ourselves as Others See Us: On Archives, Visibility, and Value**.”
@@ -42,6 +42,14 @@ As part of the Digital Preservation 2018 registration process, registrants will 
 - Maintain confidentiality and exhibit professionalism in all interactions (including by adhering to DLF’s Code of Conduct)
 
 In addition, mentors will have access to a private discussion forum that can be used to get and give advice, explore mentorship philosophy, and provide feedback that will help shape the pilot program.
+
+### Sponsors
+
+We thank the [Digital Preservation Network](https://www.dpn.org/) and the [Legal Information Preservation Alliance](https://lipalliance.org/) for their support!
+
+<img alt="DPN" width="261" height="185" src='{{ "/images/DPN-logo.jpeg" | prepend: site.baseurl }}'>
+
+<img alt="LIPA" width="234" height="185" src='{{ "/images/LIPA.jpg" | prepend: site.baseurl }}'>
 
 ### Sponsorship Opportunities
 
