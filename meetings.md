@@ -44,7 +44,6 @@ As part of the Digital Preservation 2018 registration process, registrants will 
 In addition, mentors will have access to a private discussion forum that can be used to get and give advice, explore mentorship philosophy, and provide feedback that will help shape the pilot program.
 
 ### Sponsors
-
 We thank the [Digital Preservation Network](https://www.dpn.org/) and the [Legal Information Preservation Alliance](https://lipalliance.org/) for their support!
 
 <img alt="DPN" width="261" height="185" src='{{ "/images/DPN-logo.jpeg" | prepend: site.baseurl }}'>
