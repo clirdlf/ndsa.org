@@ -47,6 +47,13 @@ In addition, mentors will have access to a private discussion forum that can be 
 
 Is your organization interested in becoming a sponsor of #digipres18 or the DLF Forum? Take a look at our  [sponsorship opportunities](https://forum2018.diglib.org/sponsorship-opportunities/) and please contact [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
 
+### Sponsors
+
+Thank you to the 2018 #DigiPres18 sponsors!
+
+<img alt=“DPN” src='{{ “/images/DPN logo.jpeg" | prepend: site.baseurl }}'>
+<img alt=“LIPA” src='{{ “/images/LIPA.jpg" | prepend: site.baseurl }}'>
+
 ### #DigiPres18 Planning Committee Members
 
 - Aaron Collie, Federal Reserve Bank of St. Louis (Chair)
