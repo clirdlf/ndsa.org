@@ -714,7 +714,7 @@ Please contact Bradley Daigle at bradley [at] virginia [dot] edu if you are inte
 - Amy Kirchoff, Archive Service Product Manager, ITHAKA
 - Carol Kussmann, Digital Preservation Analyst for the University of Minnesota Libraries
 - Mary Molinaro, Executive Director, Digital Preservation Network (DPN)
-- Bethany Nowviskie, Executive Director, Digital Library Federation (DLF)
+- Bethany Nowviskie, Executive Director, Digital Library Federation (DLF - *ex officio*)
 - Sibyl Schaefer, Chronopolis Program Manager and Digital Preservation Analyst for the University of California, San Diego
 - Nathan Tallman, Digital Preservation Librarian, Penn State University Libraries
 - Helen Tibbo, Alumni Distinguished Professor, School of Information and Library Science, University of North Carolina
