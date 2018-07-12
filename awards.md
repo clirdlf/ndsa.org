@@ -8,6 +8,15 @@ Our annual Innovation Awards were established by the National Digital Stewardshi
 
 The program is administered by an NDSA Working Group, which includes members drawn from the former [Innovation Interest Group](http://ndsa.org/working-groups/innovation/).
 
+## 2018 NDSA Innovation Awards: Nominations Open & Join Our Working Group! 
+The NDSA is looking for participants in the 2018 NDSA Innovation Awards Working Group. Working group members encourage nominations during the nominations period and get together on a conference call early in September to talk about and get consensus on the award selections. 
+
+Past experience has shown this to be a wonderful opportunity to see the wide range of innovative people and projects in the NDSA community. 
+
+If you’re interested in participating in the working group, or have any questions about the awards or the awards process, please reply to the list or to Sheila Morrissey at sheila dot morrissey at ithaka dot org.
+
+A reminder also to be sure to post your [nominations for the 2018 NDSA Innovation Awards](https://ndsa.org//2018/06/14/nominations-open-for-ndsa-2018-innovation-awards.html) by August 31.
+
 ## 2017 NDSA Innovation Award Winners
 
 Our latest awardees were [announced](http://ndsa.org/2017/10/25/announcing-the-2017-ndsa-award-winners.html) at *Digital Preservation 2017* in Pittsburgh on October 25, 2017.
