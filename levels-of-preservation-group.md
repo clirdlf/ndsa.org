@@ -125,7 +125,9 @@ th, td {
 <td>
 <p><span style="font-weight: 400;">Levels Reboot Team</span></p>
 </td>
-<td>&nbsp;</td>
+<td>
+<p><span style="font-weight: 400;">Done</span></p>
+</td>    
 </tr>
 <tr>
 <td colspan="3">
@@ -143,7 +145,9 @@ th, td {
 <td>
 <p><span style="font-weight: 400;">Levels Reboot Team</span></p>
 </td>
-<td>&nbsp;</td>
+<td>
+<p><span style="font-weight: 400;">Done</span></p>
+</td>
 </tr>
 <tr>
 <td>
@@ -155,7 +159,9 @@ th, td {
 <td>
 <p><span style="font-weight: 400;">Levels Reboot Team</span></p>
 </td>
-<td>&nbsp;</td>
+<td>
+<p><span style="font-weight: 400;">Done</span></p>
+</td>
 </tr>
 <tr>
 <td>
@@ -179,7 +185,9 @@ th, td {
 <td>
 <p><span style="font-weight: 400;">Working Group leads</span></p>
 </td>
-<td>&nbsp;</td>
+<td>
+<p><span style="font-weight: 400;">In Process (August)</span></p>
+</td>
 </tr>
 <tr>
 <td>
