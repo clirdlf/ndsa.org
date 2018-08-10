@@ -25,7 +25,7 @@
     "wow": "^0.0.6"
   },
   "devDependencies": {
-    "browser-sync": "^2.24.4",
+    "browser-sync": "^2.24.6",
     "dotenv": "^5.0.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^5.0.0",
@@ -33,12 +33,12 @@
     "gulp-include": "^2.3.1",
     "gulp-sass": "^4.0.1",
     "gulp-sourcemaps": "^2.6.4",
-    "gulp-uglify": "^3.0.0",
+    "gulp-uglify": "^3.0.1",
     "imagemin-giflossy": "^5.1.10",
     "imagemin-mozjpeg": "^7.0.0",
     "imagemin-pngquant": "^5.1.0",
     "imagemin-zopfli": "^5.1.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.9.3",
     "pump": "^3.0.0"
   }
 }
