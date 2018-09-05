@@ -24,9 +24,13 @@ All 2018 DLF Forum affiliated events (including Digital Preservation 2018) cance
 ### Program
 The planning committee is excited to share the [program for Digital Preservation 2018](https://dlfforum2018.sched.com/)! To view the conference's offerings, please scroll down to Wednesday and Thursday. 
 
+Presenters are encouraged to upload their presentations ahead of the conference to our [online repository](https://osf.io/view/ndsa2018/).
+
 ### Reservations
 
 Guests can make reservations online at the M Resort as part of our conference room block by using this [reservations web link](https://reservations.travelclick.com/99803?groupID=2002914#/guestsandrooms). Alternatively, a reservation can be made calling the M Resort’s toll-free reservations line at (877) 673-7678 and mentioning the group code SDLF18. The base room rate is $170 per room per night during the DLF Forum and affiliated events (before taxes and incidentals).
+
+**Please Note: The M Resort is currently sold out except for a very limited number of rooms on October 17. However, rooms do open up periodically, so it’s worth calling the M to check.**
 
 ### Keynote: Snowden Becker
 [Snowden Becker](https://snowdenbecker.com/) will open Digital Preservation 2018 with a talk entitled “**To See Ourselves as Others See Us: On Archives, Visibility, and Value**.”
