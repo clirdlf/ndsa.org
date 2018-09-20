@@ -276,7 +276,7 @@ th, td {
 <p><span style="font-weight: 400;">Winter-</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Spring 2018-19</span></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">[Insert deliverables from Working Group work plans here] - These dates will be refined once the groups are formed.  These are currently in progress.  Each working group has its own plans and deliverables.</span></p>
+<p><span style="font-weight: 400;">These are currently in progress.  Each working group has its own plans and deliverables. [Insert deliverables from Working Group work plans here if possible.] - These dates will be refined once the groups are formed.  </span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">Working Group leads, with oversight from Levels Reboot Team</span></p>
@@ -640,7 +640,7 @@ th, td {
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;"><a href="http://ndsa.org/working-groups/lop/">Website </a></span></p>
+<p><span style="font-weight: 400;"><a href="https://ndsa.org/working-groups/levels-of-preservation/">Website </a></span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">The site will serve as the primary public face of the project for all stakeholders and audiences, as well as the general public</span></p>
