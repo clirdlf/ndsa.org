@@ -35,7 +35,7 @@ This project will engage key stakeholders and other communities to:
   - 103 Cool Change: The NDSA Levels of Preservation Reboot: Update, Discussion, and Future Steps. A workshop by: Bradley Daigle, Helen Tibbo, Corey Davis, Karen Cariani, Carol Kussmann, Sibyl Schaefer and Mary Molinaro -- Pechet Room 2. [Link](https://osf.io/u5w3q/wiki/home/)
 * DigiPres 2018 (Las Vegas, NV) 18 October: 8:30-10:00 AM PST
   - NDSA Levels of Preservation Reboot: The NDSA Levels of Preservation is a guide to assess digital preservation efforts against best practices. This session will present, what the levels currently are, how they have been used, the work to update the document, and an open discussion with the audience for feedback and suggestions for improvement. [Link](https://dlfforum2018.sched.com/event/FVBv/r1d-ndsa-levels-of-preservation-reboot)
-* Future Planned Sessions tdb
+* Future Planned Sessions tbd
 
 ### Levels of Preservation Subgroups and Charges
 
