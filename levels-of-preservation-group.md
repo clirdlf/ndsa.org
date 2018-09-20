@@ -54,7 +54,7 @@ This project will engage key stakeholders and other communities to:
 
 ##### **Documentation Subgroup** (Lead: Mary Molinaro)
 * About: Explore the ways in which the LoP may be transparently and publicly updated, commented on, distributed, critiqued, used, and integrated widely across many groups/sectors - nationally and internationally.
-* [Charge] (https://docs.google.com/document/d/1D3-e_xDfYwwDYneyUiRzPBxDc_0-CXSrbW7T-KIElOk/edit?usp=sharing)
+* <a href="https://docs.google.com/document/d/1D3-e_xDfYwwDYneyUiRzPBxDc_0-CXSrbW7T-KIElOk/edit?usp=sharing">Charge</a> 
 * Tasks and Goals Include:
   * Review and document what others have already done to get the word out about the LoP previously
   * Develop a strategy for sharing information about the LoP and the changes that were made (and why)
@@ -69,6 +69,9 @@ This project will engage key stakeholders and other communities to:
 
 ##### **Levels of Preservation Updating Subgroup** (Lead: Karen Cariani)
 * About: Update and add to the current themes included in the LoP (storage, fixity, migration, security, metadata, file formats, etc.).
+* <a href="https://docs.google.com/document/d/1jS-MmCYKHAH8Hy2Z2pBClU0DkvzEr313I1etiXCW4Qw/edit?usp=sharing">Charge</a> 
+* If you have questions please contact Karen Cariani (karen_cariani@wgbh.org)
+
 
 ##### **Teaching, Outreach, and Advocacy Subgroup** (Lead: Helen Tibbo)
 * About: Explore the use and adaption of the LoP as a teaching tool for understanding digital preservation concepts and pragmatic use and to advocate for preservation resources.
