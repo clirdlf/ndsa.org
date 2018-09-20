@@ -41,7 +41,7 @@ This project will engage key stakeholders and other communities to:
 
 ##### **Curatorial Layer Subgroup** (Lead: Bradley Daigle)
 * About: Explore the creation of a non-technical preservation decision layer that will allow curators and collections stewards to make initial preservation decisions that map to the LoP.
-* Charge: Coming soon
+* <a href="https://docs.google.com/document/d/1-aFpi9GzK1ni_wBOeFLYtJ8x8vmQWPzM4Kw5hAPynuc/edit?usp=sharing">Charge</a>
 * [Curatorial Group Folder](https://drive.google.com/drive/folders/1RPoqF98JwcQHJKCAMxfkXzFDAE0-faih)
 * [Curatorial Email List](https://groups.google.com/forum/#!members/ndsa-curatorial) (availble to current members)
 * [Audio Recordings of Curatorial Meetings](https://www.dropbox.com/sh/w9438qwz1n7clhu/AADJTYx6wEmEbzX9UIAof_Dya?dl=0)
