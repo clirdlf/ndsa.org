@@ -43,13 +43,14 @@ This project will engage key stakeholders and other communities to:
 * About: Explore the creation of a non-technical preservation decision layer that will allow curators and collections stewards to make initial preservation decisions that map to the LoP.
 * Charge: Coming soon
 * [Curatorial Group Folder](https://drive.google.com/drive/folders/1RPoqF98JwcQHJKCAMxfkXzFDAE0-faih)
-* [Curatorial Email List](https://groups.google.com/forum/#!members/ndsa-curatorial)
+* [Curatorial Email List](https://groups.google.com/forum/#!members/ndsa-curatorial) (availble to current members)
 * [Audio Recordings of Curatorial Meetings](https://www.dropbox.com/sh/w9438qwz1n7clhu/AADJTYx6wEmEbzX9UIAof_Dya?dl=0)
+* If you have questions or would like to join the group please contact Bradley Daigle (bradley@virginia.edu).
 
 ##### **Assessment Subgroup** (Lead: Carol Kussmann)
 * This group will explore the past and current use and adaptation of the LoP framework for institutional benchmarking and assessment of digital preservation readiness or as a method to review progress towards institutional preservation goals.
 * The groups initial [charge](https://docs.google.com/document/d/1UUK5fTv1zzlAhfFiERC91SZlVK7JPgslKgDRglU7Oy4/edit?usp=sharing) is provided for you to review but is subject to change as we work through logistics and review past projects and determine the best course of action moving forward.   
-* If you have questions please contact the co-chairs Carol Kussmann (kussmann@umn.edu) and Amy Rudersdorf (amy@weareavp.com).
+* If you have questions or would like to join the group please contact the co-chairs Carol Kussmann (kussmann@umn.edu) and Amy Rudersdorf (amy@weareavp.com).
 
 ##### **Documentation Subgroup** (Lead: Mary Molinaro)
 * About: Explore the ways in which the LoP may be transparently and publicly updated, commented on, distributed, critiqued, used, and integrated widely across many groups/sectors - nationally and internationally.
