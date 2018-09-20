@@ -54,7 +54,7 @@ This project will engage key stakeholders and other communities to:
 ##### **Documentation Subgroup** (Lead: Mary Molinaro)
 * About: Explore the ways in which the LoP may be transparently and publicly updated, commented on, distributed, critiqued, used, and integrated widely across many groups/sectors - nationally and internationally.
 
-#### **Implementation Subgroup** (Lead: Corey Davis)  
+##### **Implementation Subgroup** (Lead: Corey Davis)  
   - About: Explore the use and adaption of the LoP framework to implement or improve digital preservation infrastructure, administration, and maintenance.
   - [Charge](https://docs.google.com/document/d/1D3-e_xDfYwwDYneyUiRzPBxDc_0-CXSrbW7T-KIElOk/edit?usp=sharing)
   - [Member list](https://docs.google.com/spreadsheets/d/1oq057ba8aScyFWt_Q8kbmTLyrsxWus3GI07owN53Nn4/edit?usp=sharing)
