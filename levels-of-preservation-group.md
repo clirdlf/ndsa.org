@@ -54,7 +54,7 @@ This project will engage key stakeholders and other communities to:
 
 ##### **Documentation Subgroup** (Lead: Mary Molinaro)
 * About: Explore the ways in which the LoP may be transparently and publicly updated, commented on, distributed, critiqued, used, and integrated widely across many groups/sectors - nationally and internationally.
-* [Charge] (https://docs.google.com/document/d/1rdsTdICnGGDCNs5e1XuMiq4P_Hccj9NZkpu4Jz9Plng/edit?usp=sharing)
+* [Charge] (https://docs.google.com/document/d/1D3-e_xDfYwwDYneyUiRzPBxDc_0-CXSrbW7T-KIElOk/edit?usp=sharing)
 * Tasks and Goals Include:
   * Review and document what others have already done to get the word out about the LoP previously
   * Develop a strategy for sharing information about the LoP and the changes that were made (and why)
@@ -219,7 +219,9 @@ th, td {
 <td>
 <p><span style="font-weight: 400;">Levels Reboot Team</span></p>
 </td>
-<td>&nbsp;</td>
+<td>
+<p><span style="font-weight: 400;">Done</span></p>
+</td>
 </tr>
 <tr>
 <td>
@@ -245,7 +247,9 @@ th, td {
 <td>
 <p><span style="font-weight: 400;">Working Group leads</span></p>
 </td>
-<td>&nbsp;</td>
+<td>
+<p><span style="font-weight: 400;">Done.  Subject to change as needed.</span></p>
+</td>
 </tr>
 <tr>
 <td>
@@ -257,7 +261,9 @@ th, td {
 <td>
 <p><span style="font-weight: 400;">Levels Reboot Team</span></p>
 </td>
-<td>&nbsp;</td>
+<td>
+<p><span style="font-weight: 400;">Done</span></p>
+</td>
 </tr>
 <tr>
 <td colspan="3">
@@ -270,12 +276,14 @@ th, td {
 <p><span style="font-weight: 400;">Winter-</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Spring 2018-19</span></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">[Insert deliverables from Working Group work plans here] - These dates will be refined once the groups are formed</span></p>
+<p><span style="font-weight: 400;">[Insert deliverables from Working Group work plans here] - These dates will be refined once the groups are formed.  These are currently in progress.  Each working group has its own plans and deliverables.</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">Working Group leads, with oversight from Levels Reboot Team</span></p>
 </td>
-<td>&nbsp;</td>
+<td>
+<p><span style="font-weight: 400;">Ongoing.  September 2018-</span></p>
+</td>
 </tr>
 <tr>
 <td colspan="3">
