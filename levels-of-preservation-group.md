@@ -45,7 +45,7 @@ This project will engage key stakeholders and other communities to:
 * [Curatorial Group Folder](https://drive.google.com/drive/folders/1RPoqF98JwcQHJKCAMxfkXzFDAE0-faih)
 * [Curatorial Email List](https://groups.google.com/forum/#!members/ndsa-curatorial) (availble to current members)
 * [Audio Recordings of Curatorial Meetings](https://www.dropbox.com/sh/w9438qwz1n7clhu/AADJTYx6wEmEbzX9UIAof_Dya?dl=0)
-* If you have questions or would like to join the group please contact Bradley Daigle (bradley@virginia.edu).
+* If you have questions or would like to join the group please contact Bradley Daigle at bradley [at] virginia [dot] edu.
 
 ##### **Assessment Subgroup** (Lead: Carol Kussmann)
 * This group will explore the past and current use and adaptation of the LoP framework for institutional benchmarking and assessment of digital preservation readiness or as a method to review progress towards institutional preservation goals.
