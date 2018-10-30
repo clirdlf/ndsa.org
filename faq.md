@@ -73,7 +73,7 @@ The answer depends on what exactly your organizational goals and needs are. It i
 
 When organizations join the NDSA, they indicate which Interest Groups they would like to join, and which individuals will participate in each of those groups. Once a organization's application is approved, those people are added to the relevant listservs and can begin collaborating. Individuals at member organizations can also join other NDSA Interest Groups and Working Groups at any point. To join a particular group, contact <ndsa@diglib.org> or the [group's chair](/working-groups/) to let us know what member organization you represent and make your request.
 
-### Can I switch to a different group?###
+### Can I switch to a different group?
 
 Yes, people associated with NDSA member organizations can change Interest Groups and Working Groups at any point. Contact the [group's chair or co-chair](/working-groups/) if you have questions about making a switch.
 
@@ -83,7 +83,7 @@ Definitely! We encourage participation on multiple Interest Groups and Working G
 
 ## Member Communication
 
-### How do members access NDSA listservs?###
+### How do members access NDSA listservs?
 
 NDSA has several email lists for sharing information and coordinating activities. The lists are private to members, so only subscribers may post messages and access the archives. To subscribe to one or more of the lists below, simply sign up or send a request to your Interest Group Co-Chairs.
 
@@ -92,15 +92,15 @@ NDSA has several email lists for sharing information and coordinating activities
 - [Infrastructure Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-INFRASTRUCTURE)
 - [Standards and Practices Interest Group Listserv](http://ndsa.org/working-groups/standards-and-practices/)
 
-### How do members use the NDSA wiki?###
+### How do members use the NDSA wiki?
 
 NDSA maintains [public pages](https://wiki.diglib.org/NDSA:Main_Page) on the [DLF wiki](https://wiki.diglib.org/), to provide information about current activities and facilitate the work of the coordinating committee and Interest Groups. Access it here: [NDSA wiki](https://wiki.diglib.org/NDSA:Main_Page). Editing privileges are reserved for NDSA members, who may request a username and password from <ndsa@diglib.org>.
 
-### I just joined the NDSA. How can I get involved?###
+### I just joined the NDSA. How can I get involved?
 
 We are thrilled that you've joined! There are many ways to get involved. Check out the [New Member Orientation and Resources](/new-members/) page for information and tips about where to start.
 
-### Who are the NDSA Interest Group and Working Group Co-Chairs?###
+### Who are the NDSA Interest Group and Working Group Co-Chairs?
 
 Each group is led by one or more volunteers. You'll find their names and contact information on the [NDSA Groups](/working-groups/) page.
 
