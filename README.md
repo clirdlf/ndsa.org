@@ -98,3 +98,41 @@ There is a `Rake` task that will generate the appropriate report:
 ```
 $ rake test:accessibility
 ```
+
+# Elections
+
+There is a script to send out emails for elections (`election_mailer.rb`). This has all the code needed to send emails to the contacts, based on the the Google Spreadsheet of members.
+
+## Setup
+
+In the `election_mailer.rb` file, edit the contents of **both** the text and HTML markup (`text_markup` and `html_markup` methods).
+
+## Testing
+
+The top of the file has different delivery methods defined. This line points at a local testing mail server to test everything out *before* this goes out to the community.
+
+### Mail Server
+
+```ruby
+Mail.defaults do
+  delivery_method :smtp, address: "localhost", port: 1025
+end
+```
+
+This configuration uses [mailcatcher](https://mailcatcher.me/) to view all the emails to work on any issues that may pop up.
+
+It is really (**REALLY**) important that the other mail configurations are commented out (the lines should start with `#`).
+
+In order to run these tests, you will need the `mailcatcher` mail server running on your machine. In the terminal and type:
+
+```
+mailcatcher
+```
+
+You will see some output, but the web interface is at [http://127.0.0.1:1080/](http://127.0.0.1:1080/) (the web interface is also where you stop the server).
+
+### Running the Script
+
+In the terminal (in the `~/projects/ndsa.org/` directory), run `ruby election_mailer.rb`. Open your browser to [http://127.0.0.1:1080/](http://127.0.0.1:1080/) and watch the emails come in.
+
+If there are issues, you can address them at this point.

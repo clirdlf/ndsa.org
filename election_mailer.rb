@@ -163,7 +163,7 @@ end
 session = GoogleDrive.saved_session('config.json')
 
 # get the spreadsheet
-ws = session.spreadsheet_by_key('1J2wFfkKxxRbDJLUdH5k-ILm12zLuJpgWoRh21dJ2O84').worksheets[0]
+ws = session.spreadsheet_by_key(ENV['SPREADSHEET_KEY']).worksheets[0]
 
 (2..ws.num_rows).each do |row|
     active = ws[row, 30]

@@ -18,5 +18,5 @@ gem 'ra11y'
 
 gem 'chronic' # parsing date times
 gem 'mail' # for generating email
-gem 'mailjet'
+# gem 'mailjet'
 gem 'mailcatcher' # really just for development
