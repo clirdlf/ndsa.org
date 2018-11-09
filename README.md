@@ -121,7 +121,7 @@ end
 
 This configuration uses [mailcatcher](https://mailcatcher.me/) to view all the emails to work on any issues that may pop up.
 
-It is really (**REALLY**) important that the other mail configurations are commented out (the lines should start with `#`).
+It is really (**REALLY**) important that the other mail configurations are commented out (the lines should start with `#` and Mail.defaults do).
 
 In order to run these tests, you will need the `mailcatcher` mail server running on your machine. In the terminal and type:
 
@@ -131,8 +131,32 @@ mailcatcher
 
 You will see some output, but the web interface is at [http://127.0.0.1:1080/](http://127.0.0.1:1080/) (the web interface is also where you stop the server).
 
-### Running the Script
+### Running the Script for Elections
+
+Swap mail configurations by putting # over every line of
+  Mail.defaults do
+    deliver_method :smpt, address: "localhost", port: 1025
+  end
+
+AND
+
+Undoing the `#` in the other mail configurations in
+
+  Mail.defaults do
+    delivery_method :smtp,
+    address:  "smtp.office365.com",
+    port:      "587",
+    authentication: :login,
+    user_name: ENV['SMTP_USERNAME'],
+    password:  ENV['SMTP_PASSWORD'],
+    domain:   'clir.org',
+    enable_starttls_auto: true
+    end
+
+Save the file. Do NOT push this change.
 
 In the terminal (in the `~/projects/ndsa.org/` directory), run `ruby election_mailer.rb`. Open your browser to [http://127.0.0.1:1080/](http://127.0.0.1:1080/) and watch the emails come in.
 
 If there are issues, you can address them at this point.
+
+Undo the changes by swapping mail configurations back to original and save.
