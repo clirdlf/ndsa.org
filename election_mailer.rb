@@ -100,21 +100,16 @@ def text_markup(primary_contact, organization, secondary_contacts)
     markup = <<-TEXT
 Dear #{parse_name(primary_contact)},
 
-This winter, the National Digital Stewardship Alliance turns its attention to leadership renewal. Members of the NDSA Coordinating Committee serve staggered three year terms. We gratefully thank our outgoing Coordinating Committee member, Jim Corridan, for his service and many contributions. And we are pleased to welcome a new co-chair for our Infrastructure Working Group, Nathan Tallman.
+This winter, the National Digital Stewardship Alliance turns its attention to leadership renewal. Members of the NDSA Coordinating Committee serve staggered three year terms. We gratefully thank our outgoing Coordinating Committee members, Micah Altman and Robin Ruggaber, for their service and many contributions. 
 
-Following a public call for nominations, we are presenting a slate of nine candidates running to join the Coordinating Committee, and ask that you affirm and endorse two nominees by vote.
+Following a public call for nominations, we are presenting a slate of four candidates running to join the Coordinating Committee, and ask that you affirm and endorse two nominees by vote.
 
-* Karen Cariani, Senior Director, WGBH Media Library and Archives
-* Corey Davis, Digital Preservation Coordinator, Council of Prairie and Pacific University Libraries (COPPUL)
-* Kate Dohe, Digital Programs and Initiatives Manager, University of Maryland Libraries
-* Jay Haque, Director of Development Operations and Enterprise Computing, The New York Public Library
-* Martha Alvarado Parker, Digital Services Librarian, University of Arkansas
-* Nicole Scalessa, IT Manager and Digital Humanities Coordinator, The Library Company of Philadelphia
-* Sibyl Schaefer, Chronopolis Program Manager and Digital Preservation Analyst for Research Data Curation, University of California, San Diego
-* Matt Veatch, State Archivist, Kansas Historical Society
-* James Watson, Appraisal and Outreach Archivist, Maryland State Archives
+* Stephen Abrams, Head of Digital Preservation, Harvard Library
+* Salwa Ismail, Department Head for Library Information Technology, Georgetown University
+* Linda Tadic, Founder and CEO, Digital Bedrock
+* Paige Walker, Digital Collections & Preservation Librarian, Boston College
 
-Your organization can cast its vote at https://www.surveymonkey.com/r/R5RJBFF between December 6 and December 20. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at http://ndsa.org/2017/12/06/2017-ndsa-coordinating-committee-candidates.html.
+Your organization can cast its vote at https://www.surveymonkey.com/r/2018NDSACC between November 26 and December 17. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at https://wp.me/p9zhD6-58t.
 
 As a reminder, only one ballot may be cast per member organization. NDSA's recorded program representative or a designated proxy of each member organization is asked to submit your organization's vote. Please write to ndsa@diglib.org to update any outdated contact information.
 
@@ -132,23 +127,18 @@ def html_markup(primary_contact, organization, secondary_contacts)
     markup = <<-HTML
 <p>Dear #{parse_name(primary_contact)},</p>
 
-<p>This winter, the National Digital Stewardship Alliance turns its attention to leadership renewal. Members of the NDSA Coordinating Committee serve staggered three year terms. We gratefully thank our outgoing Coordinating Committee member, Jim Corridan, for his service and many contributions. And we are pleased to welcome a new co-chair for our Infrastructure Working Group, Nathan Tallman.</p>
+<p>This winter, the National Digital Stewardship Alliance turns its attention to leadership renewal. Members of the NDSA Coordinating Committee serve staggered three year terms. We gratefully thank our outgoing Coordinating Committee members, Micah Altman and Robin Ruggaber, for their service and many contributions.</p>
 
-<p>Following a public call for nominations, we are presenting a slate of nine candidates running to join the Coordinating Committee, and ask that you affirm and endorse two nominees by vote.</p>
+<p>Following a public call for nominations, we are presenting a slate of four candidates running to join the Coordinating Committee, and ask that you affirm and endorse two nominees by vote.</p>
 
 <ul>
-<li>Karen Cariani, Senior Director, WGBH Media Library and Archives</li>
-<li>Corey Davis, Digital Preservation Coordinator, Council of Prairie and Pacific University Libraries (COPPUL)</li>
-<li>Kate Dohe, Digital Programs and Initiatives Manager, University of Maryland Libraries</li>
-<li>Jay Haque, Director of Development Operations and Enterprise Computing, The New York Public Library</li>
-<li>Martha Alvarado Parker, Digital Services Librarian, University of Arkansas</li>
-<li>Nicole Scalessa, IT Manager and Digital Humanities Coordinator, The Library Company of Philadelphia</li>
-<li>Sibyl Schaefer, Chronopolis Program Manager and Digital Preservation Analyst for Research Data Curation, University of California, San Diego</li>
-<li>Matt Veatch, State Archivist, Kansas Historical Society</li>
-<li>James Watson, Appraisal and Outreach Archivist, Maryland State Archives</li>
+<li>Stephen Abrams, Head of Digital Preservation, Harvard Library</li>
+<li>Salwa Ismail, Department Head for Library Information Technology, Georgetown University</li>
+<li>Linda Tadic, Founder and CEO, Digital Bedrock</li>
+<li>Paige Walker, Digital Collections & Preservation Librarian, Boston College</li>
 </ul>
 
-<p>Your organization can cast its vote at <a href="https://www.surveymonkey.com/r/R5RJBFF">https://www.surveymonkey.com/r/R5RJBFF</a> between December 6 and December 20. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at <a href="http://ndsa.org/2017/12/06/2017-ndsa-coordinating-committee-candidates.html">http://ndsa.org/2017/12/06/2017-ndsa-coordinating-committee-candidates.html</a>.</p>
+<p>Your organization can cast its vote at <a href="https://www.surveymonkey.com/r/2018NDSACC">https://www.surveymonkey.com/r/2018NDSACC</a> between November 26 and December 17. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at <a href="https://wp.me/p9zhD6-58t">https://wp.me/p9zhD6-58t</a>.</p>
 
 <p>As a reminder, only one ballot may be cast per member organization. NDSA's recorded program representative or a designated proxy of each member organization is asked to submit your organization's vote. Please write to ndsa@diglib.org to update any outdated contact information.</p>
 
