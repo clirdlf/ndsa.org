@@ -109,7 +109,7 @@ Following a public call for nominations, we are presenting a slate of four candi
 * Linda Tadic, Founder and CEO, Digital Bedrock
 * Paige Walker, Digital Collections & Preservation Librarian, Boston College
 
-Your organization can cast its vote at https://www.surveymonkey.com/r/2018NDSACC between November 26 and December 17. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at https://wp.me/p9zhD6-58t.
+Your organization can cast its vote at https://www.surveymonkey.com/r/2018NDSACC between November 26 and December 17. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at https://ndsa.org//2018/11/26/2018-ndsa-coordinating-committee-candidates.html.
 
 As a reminder, only one ballot may be cast per member organization. NDSA's recorded program representative or a designated proxy of each member organization is asked to submit your organization's vote. Please write to ndsa@diglib.org to update any outdated contact information.
 
@@ -138,7 +138,7 @@ def html_markup(primary_contact, organization, secondary_contacts)
 <li>Paige Walker, Digital Collections & Preservation Librarian, Boston College</li>
 </ul>
 
-<p>Your organization can cast its vote at <a href="https://www.surveymonkey.com/r/2018NDSACC">https://www.surveymonkey.com/r/2018NDSACC</a> between November 26 and December 17. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at <a href="https://wp.me/p9zhD6-58t">https://wp.me/p9zhD6-58t</a>.</p>
+<p>Your organization can cast its vote at <a href="https://www.surveymonkey.com/r/2018NDSACC">https://www.surveymonkey.com/r/2018NDSACC</a> between November 26 and December 17. Vote for the two candidates you would like to see as CC members. Candidate statements can be found at <a href="https://ndsa.org//2018/11/26/2018-ndsa-coordinating-committee-candidates.html">https://ndsa.org//2018/11/26/2018-ndsa-coordinating-committee-candidates.html</a>.</p>
 
 <p>As a reminder, only one ballot may be cast per member organization. NDSA's recorded program representative or a designated proxy of each member organization is asked to submit your organization's vote. Please write to ndsa@diglib.org to update any outdated contact information.</p>
 
