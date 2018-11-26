@@ -105,7 +105,7 @@ This winter, the National Digital Stewardship Alliance turns its attention to le
 Following a public call for nominations, we are presenting a slate of four candidates running to join the Coordinating Committee, and ask that you affirm and endorse two nominees by vote.
 
 * Stephen Abrams, Head of Digital Preservation, Harvard Library
-* Salwa Ismail, Department Head for Library Information Technology, Georgetown University
+* Salwa Ismail, Department Head for Library Information Technology, Georgetown University Library
 * Linda Tadic, Founder and CEO, Digital Bedrock
 * Paige Walker, Digital Collections & Preservation Librarian, Boston College
 
@@ -133,7 +133,7 @@ def html_markup(primary_contact, organization, secondary_contacts)
 
 <ul>
 <li>Stephen Abrams, Head of Digital Preservation, Harvard Library</li>
-<li>Salwa Ismail, Department Head for Library Information Technology, Georgetown University</li>
+<li>Salwa Ismail, Department Head for Library Information Technology, Georgetown University Library</li>
 <li>Linda Tadic, Founder and CEO, Digital Bedrock</li>
 <li>Paige Walker, Digital Collections & Preservation Librarian, Boston College</li>
 </ul>
