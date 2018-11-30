@@ -9,7 +9,7 @@ require 'mail'
 Dotenv.load
 
 Mail.defaults do
-  delivery_method :smtp, address: "localhost", port: 1025
+   delivery_method :smtp, address: "localhost", port: 1025
 end
 
 # Mail.defaults do
@@ -144,7 +144,8 @@ def html_markup(primary_contact, organization, secondary_contacts)
 
 <p>Thank you for your participation,</p>
 
-The NDSA Coordinating Committee<p>#{format_cc_names(secondary_contacts)}</p>
+<p>The NDSA Coordinating Committee</p>
+<p>#{format_cc_names(secondary_contacts)}</p>
 HTML
 markup
 end
