@@ -6,7 +6,7 @@ permalink: /meetings/
 
 ### Digital Preservation 2019
 
-<img alt="meetings" width="710" height="353" src='{{ "//images/DLF-Forum-2019_high-res.png" | prepend: site.baseurl }}'>
+<img alt="meetings" width="710" height="353" src='{{ "/images/DLF-Forum-2019_high-res.png" | prepend: site.baseurl }}'>
 
 ### About the NDSA and Digital Preservation 2019:
 
