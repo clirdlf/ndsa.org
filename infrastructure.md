@@ -12,18 +12,20 @@ The Infrastructure Interest Group works to identify and share emerging practices
 ## Meetings
   * The Infrastructure Interest Group meets the third Monday of each month at three pm. 
   * You can join us online at [https://clirdlf.zoom.us/j/745482656](https://clirdlf.zoom.us/j/745482656) or via phone at US: +1 646 876 9923 or +1 669 900 6833 or +1 408 740 3766. Meeting ID: 745 482 656. [International numbers available](https://zoom.us/u/cPpLHpqKX).
-  * Agendas and notes for/from meetings held in 2018 are available at [https://goo.gl/9qLXdq](https://goo.gl/9qLXdq). Our scheduled topics for 2018 are noted below.
-
-| Month         | Topic                                                |
-|-------------- |------------------------------------------------------|
-| February 19   | Planning for 2018                                    |
-| March 18      | LOCKSS                                               |
-| April 16      | Collaborative Storage Infrastructure                 |
-| May 21        | Local Infrastructure at Different Sized Institutions |
-| June 18       | NDSA Levels of Preservation Reboot                   |
-| July 16       | Cloud Storage Infrastructure                         |
-| August 20     | Preservation Storage Criteria                        |
-| September 17  | System/Information security                          |
-| October TBD   | Planning for 2019 (Working lunch at DigiPres 2018)   |
-| November 19   | Emulation                                            |
-| December 17   | Costing Storage and Migration                        |
+  * Agendas and notes for/from meetings held in 2019 are available at [https://bit.ly/2FyZzt6](https://bit.ly/2FyZzt6). Our scheduled topics for 2019 are noted below.
+  * Meetings are generally recorded and posted to our YouTube Playlist at [https://bit.ly/2QRIMmO](https://bit.ly/2QRIMmO).
+  
+| **Date**      	|   	| **Topic**                                  	|
+|---------------	|---	|--------------------------------------------	|
+| 2019-01-28    	|   	| Open agenda                                	|
+| 2019-02-18    	|   	| Effective Collaboration with Local IT      	|
+| 2019-03-18    	|   	| PASIG 2019                                 	|
+| 2019-04-15    	|   	| Open agenda                                	|
+| 2019-05-20    	|   	| Environmental Impact of Infrastructure     	|
+| 2019-06-17    	|   	| Software Toolkit Show-and-Tell             	|
+| 2019-07-15    	|   	| Open agenda                                	|
+| 2019-08-19    	|   	| Collaborative International Infrastructure 	|
+| 2019-09-16    	|   	| Case Studies in Cloud Infrastructure       	|
+| 2019-10 (TBA) 	|   	| Working lunch at DigiPres in Tampa         	|
+| 2019-11-18    	|   	| Advocating for Resources                   	|
+| 2019-12-16    	|   	| Economies of Scale                         	|
