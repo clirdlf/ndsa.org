@@ -11,13 +11,11 @@ In [2011](http://www.dlib.org/dlib/may13/altman/05altman.html) and in [2013](htt
 The 2019 Storage Survey Working Group was convened in late 2018 to gather new data on preservation storage practices. The goal of the 2019 survey is not only to collect updated information in order to compare to the [2011](https://hdl.handle.net/1902.1/19768) and [2013](https://doi.org/10.7910/DVN/8NYC97) surveys, but to gather information on how new technologies or standards have impacted preservation storage. 
 
 ## Estimated Timeline and Deliverables
-| **Dates**        | **Deliverables**                                             |
-| ---------------- | ------------------------------------------------------------ |
-| 1st Quarter 2019 | Draft survey questions                                       |
-| 2nd Quarter 2019 | Conduct survey                                               |
-| 3rd Quarter 2019 | Analyze survey results; write up analysis                    |
-| October 2019     | Present preliminary findings at [Digital Preservation 2019](https://ndsa.org/meetings/) |
-| 4th Quarter 2019 | Report on survey results posted on [NDSA OSF](https://osf.io/4d567/) |
+<figure><table>
+<thead>
+<tr><th><strong>Dates</strong></th><th><strong>Deliverables</strong></th></tr></thead>
+<tbody><tr><td>1st Quarter 2019</td><td>Draft survey questions</td></tr><tr><td>2nd Quarter 2019</td><td>Conduct survey</td></tr><tr><td>3rd Quarter 2019</td><td>Analyze survey results; write up analysis</td></tr><tr><td>October 2019</td><td>Present preliminary findings at <a href='https://ndsa.org/meetings/'>Digital Preservation 2019</a></td></tr><tr><td>4th Quarter 2019</td><td>Report on survey results posted on <a href='https://osf.io/4d567/'>NDSA OSF</a></td></tr></tbody>
+</table></figure>
 
 ## Get Involved
 Please contact the working group chair, Laura Alagna (laura [dot] alagna [at] northwestern [dot] edu), if you are interested in participating.
