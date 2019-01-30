@@ -41,25 +41,13 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.7284952, 42.2343507]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Digital Preservation Network (DPN)</a></h2><p>Partner since <strong>March 2016</strong></p>"
-      },
-      "id": 4
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
         "coordinates": [-118.48, 34]
       },
       "type": "Feature",
       "properties": {
         "popupContent": "<h2><a href=\"http://www.digitalbedrock.com\">Digital Bedrock</a></h2><p>Partner since <strong>March 2016</strong></p>"
       },
-      "id": 5
+      "id": 4
     },
     
     {
@@ -71,7 +59,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://www.gatesarchive.com \">Gates Archive</a></h2><p>Partner since <strong>April 2016</strong></p>"
       },
-      "id": 6
+      "id": 5
     },
     
     {
@@ -83,7 +71,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Purchase College Library</a></h2><p>Partner since <strong>April 2016</strong></p>"
       },
-      "id": 7
+      "id": 6
     },
     
     {
@@ -95,7 +83,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://www.vcfed.org\">Vintage Computer Federation</a></h2><p>Partner since <strong>April 2016</strong></p>"
       },
-      "id": 8
+      "id": 7
     },
     
     {
@@ -107,7 +95,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://www.ohiolink.edu\">OhioLINK</a></h2><p>Partner since <strong>April 2016</strong></p>"
       },
-      "id": 9
+      "id": 8
     },
     
     {
@@ -119,7 +107,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Houston Libraries</a></h2><p>Partner since <strong>May 2016</strong></p>"
       },
-      "id": 10
+      "id": 9
     },
     
     {
@@ -131,7 +119,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://aptrust.org\">Academic Preservation Trust (APTrust)</a></h2><p>Partner since <strong>June 2016</strong></p>"
       },
-      "id": 11
+      "id": 10
     },
     
     {
@@ -143,7 +131,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://www.komodocloud.com\">Komodo Cloud</a></h2><p>Partner since <strong>August 2016</strong></p>"
       },
-      "id": 12
+      "id": 11
     },
     
     {
@@ -155,7 +143,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://www.library.arizona.edu\">The University of Arizona Libraries</a></h2><p>Partner since <strong>January 2017</strong></p>"
       },
-      "id": 13
+      "id": 12
     },
     
     {
@@ -167,7 +155,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://www.heinzhistorycenter.org\">Heinz History Center</a></h2><p>Partner since <strong>March 2017</strong></p>"
       },
-      "id": 14
+      "id": 13
     },
     
     {
@@ -179,7 +167,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Code Ocean</a></h2><p>Partner since <strong>March 2017</strong></p>"
       },
-      "id": 15
+      "id": 14
     },
     
     {
@@ -191,7 +179,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Center for Digital Scholarship and Curation</a></h2><p>Partner since <strong>April 2017</strong></p>"
       },
-      "id": 16
+      "id": 15
     },
     
     {
@@ -203,7 +191,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Grand Valley State University Libraries</a></h2><p>Partner since <strong>May 2017</strong></p>"
       },
-      "id": 17
+      "id": 16
     },
     
     {
@@ -215,7 +203,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://www.coppul.ca/\">Council of Prairie and Pacific University Libraries (COPPUL)</a></h2><p>Partner since <strong>May 2017</strong></p>"
       },
-      "id": 18
+      "id": 17
     },
     
     {
@@ -227,7 +215,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://www.bc.edu\">Boston College</a></h2><p>Partner since <strong>June 2017</strong></p>"
       },
-      "id": 19
+      "id": 18
     },
     
     {
@@ -239,7 +227,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://Drexel.edu/library\">Drexel University Libraries</a></h2><p>Partner since <strong>June 2017</strong></p>"
       },
-      "id": 20
+      "id": 19
     },
     
     {
@@ -251,7 +239,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://mediaburn.org\">Media Burn Archive</a></h2><p>Partner since <strong>July 2017</strong></p>"
       },
-      "id": 21
+      "id": 20
     },
     
     {
@@ -263,7 +251,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Wayne State University Student Chapter</a></h2><p>Partner since <strong>July 2017</strong></p>"
       },
-      "id": 22
+      "id": 21
     },
     
     {
@@ -275,7 +263,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Pennsylvania State University Libraries</a></h2><p>Partner since <strong>July 2017</strong></p>"
       },
-      "id": 23
+      "id": 22
     },
     
     {
@@ -287,7 +275,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">The Ohio State University Libraries</a></h2><p>Partner since <strong>August 2017</strong></p>"
       },
-      "id": 24
+      "id": 23
     },
     
     {
@@ -299,7 +287,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://www.whitehousehistory.org\">White House Historical Association</a></h2><p>Partner since <strong>September 2017</strong></p>"
       },
-      "id": 25
+      "id": 24
     },
     
     {
@@ -311,7 +299,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Hesburgh Libraries at the University of Notre Dame</a></h2><p>Partner since <strong>September 2017</strong></p>"
       },
-      "id": 26
+      "id": 25
     },
     
     {
@@ -323,7 +311,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Texas Digital Library</a></h2><p>Partner since <strong>October 2017</strong></p>"
       },
-      "id": 27
+      "id": 26
     },
     
     {
@@ -335,7 +323,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://www.mosthistory.org\">The Museum of South Texas History</a></h2><p>Partner since <strong>November 2017</strong></p>"
       },
-      "id": 28
+      "id": 27
     },
     
     {
@@ -347,7 +335,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Haverford College</a></h2><p>Partner since <strong>January 2018</strong></p>"
       },
-      "id": 29
+      "id": 28
     },
     
     {
@@ -359,7 +347,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Digital Preservation Coalition</a></h2><p>Partner since <strong>February 2018</strong></p>"
       },
-      "id": 30
+      "id": 29
     },
     
     {
@@ -371,7 +359,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://www.wrlc.org\">Washington Research Library Consortium</a></h2><p>Partner since <strong>February 2018</strong></p>"
       },
-      "id": 31
+      "id": 30
     },
     
     {
@@ -383,7 +371,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Texas A&M University Libraries</a></h2><p>Partner since <strong>February 2018</strong></p>"
       },
-      "id": 32
+      "id": 31
     },
     
     {
@@ -395,7 +383,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Bowling Green State University Libraries</a></h2><p>Partner since <strong>March 2018</strong></p>"
       },
-      "id": 33
+      "id": 32
     },
     
     {
@@ -407,7 +395,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Isabella Stewart Gardner Museum</a></h2><p>Partner since <strong>May 2018</strong></p>"
       },
-      "id": 34
+      "id": 33
     },
     
     {
@@ -419,7 +407,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Kentucky Libraries</a></h2><p>Partner since <strong>July 2018</strong></p>"
       },
-      "id": 35
+      "id": 34
     },
     
     {
@@ -431,7 +419,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Nebraska-Lincoln</a></h2><p>Partner since <strong>July 2018</strong></p>"
       },
-      "id": 36
+      "id": 35
     },
     
     {
@@ -443,7 +431,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://www.libs.uga.edu\">University of Georgia Libraries</a></h2><p>Partner since <strong>July 2018</strong></p>"
       },
-      "id": 37
+      "id": 36
     },
     
     {
@@ -455,7 +443,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">J. Willard Marriott Library, University of Utah</a></h2><p>Partner since <strong>August 2018</strong></p>"
       },
-      "id": 38
+      "id": 37
     },
     
     {
@@ -467,7 +455,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://library.unr.edu\">University of Nevada, Reno</a></h2><p>Partner since <strong>September 2018</strong></p>"
       },
-      "id": 39
+      "id": 38
     },
     
     {
@@ -479,7 +467,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Tufts University Digital Collections and Archives</a></h2><p>Partner since <strong>November 2018</strong></p>"
       },
-      "id": 40
+      "id": 39
     },
     
     {
@@ -491,7 +479,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Historical Society of Washington, D.C.</a></h2><p>Partner since <strong>May 2014</strong></p>"
       },
-      "id": 41
+      "id": 40
     },
     
     {
@@ -503,7 +491,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Carnegie Mellon University Libraries</a></h2><p>Partner since <strong>April 2014</strong></p>"
       },
-      "id": 42
+      "id": 41
     },
     
     {
@@ -515,7 +503,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">VT Center for Geographic Information</a></h2><p>Partner since <strong>May 2014</strong></p>"
       },
-      "id": 43
+      "id": 42
     },
     
     {
@@ -527,7 +515,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">California State Archives</a></h2><p>Partner since <strong>February 2012</strong></p>"
       },
-      "id": 44
+      "id": 43
     },
     
     {
@@ -539,7 +527,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Grand Valley State University Libraries</a></h2><p>Partner since <strong>May 2014</strong></p>"
       },
-      "id": 45
+      "id": 44
     },
     
     {
@@ -551,7 +539,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Kansas State Historical Society</a></h2><p>Partner since <strong>February 2011</strong></p>"
       },
-      "id": 46
+      "id": 45
     },
     
     {
@@ -563,7 +551,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Kansas State University Libraries</a></h2><p>Partner since <strong>May 2014</strong></p>"
       },
-      "id": 47
+      "id": 46
     },
     
     {
@@ -575,7 +563,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Nevada State Library and Archives</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
-      "id": 48
+      "id": 47
     },
     
     {
@@ -587,7 +575,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Roy Rosenzweig Center for History and New Media (RRCHNM), George Mason University</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
-      "id": 49
+      "id": 48
     },
     
     {
@@ -599,7 +587,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Archive Media Partners</a></h2><p>Partner since <strong>June 2011</strong></p>"
       },
-      "id": 50
+      "id": 49
     },
     
     {
@@ -611,7 +599,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Federal Reserve Bank of St. Louis</a></h2><p>Partner since <strong>November 2010</strong></p>"
       },
-      "id": 51
+      "id": 50
     },
     
     {
@@ -623,7 +611,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Idaho Commission for Libraries</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 52
+      "id": 51
     },
     
     {
@@ -635,7 +623,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">EVault, a Seagate Company</a></h2><p>Partner since <strong>December 2013</strong></p>"
       },
-      "id": 53
+      "id": 52
     },
     
     {
@@ -647,7 +635,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">State Library of Massachusetts</a></h2><p>Partner since <strong>January 2012</strong></p>"
       },
-      "id": 54
+      "id": 53
     },
     
     {
@@ -659,7 +647,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Arizona State Library, Archives and Public Records</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 55
+      "id": 54
     },
     
     {
@@ -671,7 +659,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">NPR (National Public Radio)</a></h2><p>Partner since <strong>May 2014</strong></p>"
       },
-      "id": 56
+      "id": 55
     },
     
     {
@@ -683,7 +671,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Idaho State Archives, A Division of the Idaho State Historical Society</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 57
+      "id": 56
     },
     
     {
@@ -695,7 +683,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Adler Planetarium</a></h2><p>Partner since <strong>November 2012</strong></p>"
       },
-      "id": 58
+      "id": 57
     },
     
     {
@@ -707,7 +695,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">California Digital Library</a></h2><p>Partner since <strong>September 2010</strong></p>"
       },
-      "id": 59
+      "id": 58
     },
     
     {
@@ -719,7 +707,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Florida Center for Library Automation</a></h2><p>Partner since <strong>June 2011</strong></p>"
       },
-      "id": 60
+      "id": 59
     },
     
     {
@@ -731,7 +719,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Forever, Inc.</a></h2><p>Partner since <strong>April 2014</strong></p>"
       },
-      "id": 61
+      "id": 60
     },
     
     {
@@ -743,7 +731,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">i/oTrak, Inc. - E-Z Photo Scan</a></h2><p>Partner since <strong>August 2011</strong></p>"
       },
-      "id": 62
+      "id": 61
     },
     
     {
@@ -755,7 +743,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Indiana University Libraries</a></h2><p>Partner since <strong>July 2011</strong></p>"
       },
-      "id": 63
+      "id": 62
     },
     
     {
@@ -767,7 +755,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Minnesota Public Radio | American Public Media</a></h2><p>Partner since <strong>July 2011</strong></p>"
       },
-      "id": 64
+      "id": 63
     },
     
     {
@@ -779,7 +767,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Montana Dept. of Administration/State Info Technology Services Division</a></h2><p>Partner since <strong>July 2011</strong></p>"
       },
-      "id": 65
+      "id": 64
     },
     
     {
@@ -791,7 +779,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">National Endowment for the Humanities</a></h2><p>Partner since <strong>February 2011</strong></p>"
       },
-      "id": 66
+      "id": 65
     },
     
     {
@@ -803,7 +791,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">National Library of Medicine (NLM)</a></h2><p>Partner since <strong>December 2010</strong></p>"
       },
-      "id": 67
+      "id": 66
     },
     
     {
@@ -815,7 +803,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">National Press Photographers Association (NPPA)</a></h2><p>Partner since <strong>November 2012</strong></p>"
       },
-      "id": 68
+      "id": 67
     },
     
     {
@@ -827,7 +815,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">National Technical Information Service</a></h2><p>Partner since <strong>April 2011</strong></p>"
       },
-      "id": 69
+      "id": 68
     },
     
     {
@@ -839,7 +827,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">North Carolina Center for Geographic Information and Analysis</a></h2><p>Partner since <strong>January 2012</strong></p>"
       },
-      "id": 70
+      "id": 69
     },
     
     {
@@ -851,7 +839,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">New Mexico State Library</a></h2><p>Partner since <strong>July 2011</strong></p>"
       },
-      "id": 71
+      "id": 70
     },
     
     {
@@ -863,7 +851,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">North Carolina State University Libraries</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 72
+      "id": 71
     },
     
     {
@@ -875,7 +863,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Office of Scientific and Technical Information, Department of Energy</a></h2><p>Partner since <strong>April 2011</strong></p>"
       },
-      "id": 73
+      "id": 72
     },
     
     {
@@ -887,7 +875,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Oklahoma Department of Libraries</a></h2><p>Partner since <strong>March 2011</strong></p>"
       },
-      "id": 74
+      "id": 73
     },
     
     {
@@ -899,7 +887,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Oregon State Library</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
-      "id": 75
+      "id": 74
     },
     
     {
@@ -911,7 +899,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Ripley Entertainment Inc.</a></h2><p>Partner since <strong>December 2011</strong></p>"
       },
-      "id": 76
+      "id": 75
     },
     
     {
@@ -923,7 +911,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">The Research Volunteer Corporation</a></h2><p>Partner since <strong>May 2011</strong></p>"
       },
-      "id": 77
+      "id": 76
     },
     
     {
@@ -935,7 +923,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">U.S. Fish and Wildlife Service</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
-      "id": 78
+      "id": 77
     },
     
     {
@@ -947,7 +935,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Tennessee</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 79
+      "id": 78
     },
     
     {
@@ -959,7 +947,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Wisconsin Department of Administration</a></h2><p>Partner since <strong>November 2010</strong></p>"
       },
-      "id": 80
+      "id": 79
     },
     
     {
@@ -971,7 +959,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Wisconsin Dept. of Public Instruction</a></h2><p>Partner since <strong>October 2011</strong></p>"
       },
-      "id": 81
+      "id": 80
     },
     
     {
@@ -983,7 +971,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">WNET</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 82
+      "id": 81
     },
     
     {
@@ -995,7 +983,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of South Carolina</a></h2><p>Partner since <strong>December 2011</strong></p>"
       },
-      "id": 83
+      "id": 82
     },
     
     {
@@ -1007,7 +995,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Princeton University Library</a></h2><p>Partner since <strong>January 2014</strong></p>"
       },
-      "id": 84
+      "id": 83
     },
     
     {
@@ -1019,7 +1007,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Georgetown University Library</a></h2><p>Partner since <strong>July 2014</strong></p>"
       },
-      "id": 85
+      "id": 84
     },
     
     {
@@ -1031,7 +1019,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Dartmouth College Library</a></h2><p>Partner since <strong>September 2014</strong></p>"
       },
-      "id": 86
+      "id": 85
     },
     
     {
@@ -1043,7 +1031,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">George Blood Audiovisual LC</a></h2><p>Partner since <strong>September 2014</strong></p>"
       },
-      "id": 87
+      "id": 86
     },
     
     {
@@ -1055,7 +1043,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Texas State Library and Archives Commission</a></h2><p>Partner since <strong>July 2014</strong></p>"
       },
-      "id": 88
+      "id": 87
     },
     
     {
@@ -1067,7 +1055,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Yale University Library</a></h2><p>Partner since <strong>July 2014</strong></p>"
       },
-      "id": 89
+      "id": 88
     },
     
     {
@@ -1079,7 +1067,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Seagate Government Solutions</a></h2><p>Partner since <strong>July 2014</strong></p>"
       },
-      "id": 90
+      "id": 89
     },
     
     {
@@ -1091,7 +1079,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Rockefeller Archive Center</a></h2><p>Partner since <strong>October 2014</strong></p>"
       },
-      "id": 91
+      "id": 90
     },
     
     {
@@ -1103,7 +1091,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Gallinger Consulting</a></h2><p>Partner since <strong>October 2014</strong></p>"
       },
-      "id": 92
+      "id": 91
     },
     
     {
@@ -1115,7 +1103,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Virginia Commonwealth University Libraries</a></h2><p>Partner since <strong>October 2014</strong></p>"
       },
-      "id": 93
+      "id": 92
     },
     
     {
@@ -1127,7 +1115,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">LLMC-Digital (Law Library Microform Consortium)</a></h2><p>Partner since <strong>October 2014</strong></p>"
       },
-      "id": 94
+      "id": 93
     },
     
     {
@@ -1139,7 +1127,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Massachusetts Archives</a></h2><p>Partner since <strong>November 2014</strong></p>"
       },
-      "id": 95
+      "id": 94
     },
     
     {
@@ -1151,7 +1139,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">MediaFox LLC</a></h2><p>Partner since <strong>February 2015</strong></p>"
       },
-      "id": 96
+      "id": 95
     },
     
     {
@@ -1163,7 +1151,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">San Diego County Recorder's Office</a></h2><p>Partner since <strong>March 2015</strong></p>"
       },
-      "id": 97
+      "id": 96
     },
     
     {
@@ -1175,7 +1163,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">\"The President's Own\" United States Marine Band</a></h2><p>Partner since <strong>March 2015</strong></p>"
       },
-      "id": 98
+      "id": 97
     },
     
     {
@@ -1187,7 +1175,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Academy of Motion Picture Arts and Sciences</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 99
+      "id": 98
     },
     
     {
@@ -1199,7 +1187,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Alabama Department of Archives and History</a></h2><p>Partner since <strong>May 2014</strong></p>"
       },
-      "id": 100
+      "id": 99
     },
     
     {
@@ -1211,7 +1199,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Albany Institute of History & Art</a></h2><p>Partner since <strong>July 2011</strong></p>"
       },
-      "id": 101
+      "id": 100
     },
     
     {
@@ -1223,7 +1211,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">American Society of Media Photographers</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
-      "id": 102
+      "id": 101
     },
     
     {
@@ -1235,7 +1223,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">ARTstor</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 103
+      "id": 102
     },
     
     {
@@ -1247,7 +1235,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Auburn University Libraries</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
-      "id": 104
+      "id": 103
     },
     
     {
@@ -1259,7 +1247,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Audiovisual Archive Network</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
-      "id": 105
+      "id": 104
     },
     
     {
@@ -1271,7 +1259,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">AudioVisual Preservation Solutions</a></h2><p>Partner since <strong>July 2013</strong></p>"
       },
-      "id": 106
+      "id": 105
     },
     
     {
@@ -1283,7 +1271,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Bishoff Group, The</a></h2><p>Partner since <strong>October 2011</strong></p>"
       },
-      "id": 107
+      "id": 106
     },
     
     {
@@ -1295,7 +1283,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">VeVa Sound</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
-      "id": 108
+      "id": 107
     },
     
     {
@@ -1307,7 +1295,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Board of Trustees of the University of Illinois</a></h2><p>Partner since <strong>March 2014</strong></p>"
       },
-      "id": 109
+      "id": 108
     },
     
     {
@@ -1319,7 +1307,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Boston University, Mugar Library</a></h2><p>Partner since <strong>August 2013</strong></p>"
       },
-      "id": 110
+      "id": 109
     },
     
     {
@@ -1331,7 +1319,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Brown University Library</a></h2><p>Partner since <strong>November 2012</strong></p>"
       },
-      "id": 111
+      "id": 110
     },
     
     {
@@ -1343,7 +1331,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">California Institute of Technology</a></h2><p>Partner since <strong>August 2013</strong></p>"
       },
-      "id": 112
+      "id": 111
     },
     
     {
@@ -1355,7 +1343,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">California State Library</a></h2><p>Partner since <strong>September 2010</strong></p>"
       },
-      "id": 113
+      "id": 112
     },
     
     {
@@ -1367,7 +1355,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Catholic University of America, School of Library & Information Science</a></h2><p>Partner since <strong>August 2011</strong></p>"
       },
-      "id": 114
+      "id": 113
     },
     
     {
@@ -1379,7 +1367,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Center for Cultural and Eco-Tourism-University of Louisiana</a></h2><p>Partner since <strong>January 2012</strong></p>"
       },
-      "id": 115
+      "id": 114
     },
     
     {
@@ -1391,7 +1379,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Center for International Earth Science Information Network (CIESIN), Columbia University</a></h2><p>Partner since <strong>January 2011</strong></p>"
       },
-      "id": 116
+      "id": 115
     },
     
     {
@@ -1403,7 +1391,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Center for Research Libraries</a></h2><p>Partner since <strong>January 2011</strong></p>"
       },
-      "id": 117
+      "id": 116
     },
     
     {
@@ -1415,7 +1403,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Chicago State University Library</a></h2><p>Partner since <strong>September 2013</strong></p>"
       },
-      "id": 118
+      "id": 117
     },
     
     {
@@ -1427,7 +1415,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Coalition for Networked Information</a></h2><p>Partner since <strong>February 2013</strong></p>"
       },
-      "id": 119
+      "id": 118
     },
     
     {
@@ -1439,7 +1427,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Columbia University Libraries / Information Services</a></h2><p>Partner since <strong>January 2011</strong></p>"
       },
-      "id": 120
+      "id": 119
     },
     
     {
@@ -1451,7 +1439,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Cornell University Library</a></h2><p>Partner since <strong>June 2011</strong></p>"
       },
-      "id": 121
+      "id": 120
     },
     
     {
@@ -1463,7 +1451,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Council of State Archivists</a></h2><p>Partner since <strong>August 2011</strong></p>"
       },
-      "id": 122
+      "id": 121
     },
     
     {
@@ -1475,7 +1463,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Council on Library and Information Resources, including the Digital Library Federation</a></h2><p>Partner since <strong>April 2011</strong></p>"
       },
-      "id": 123
+      "id": 122
     },
     
     {
@@ -1487,7 +1475,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Dance Heritage Coalition</a></h2><p>Partner since <strong>August 2013</strong></p>"
       },
-      "id": 124
+      "id": 123
     },
     
     {
@@ -1499,7 +1487,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Data Preservation Alliance for the Social Sciences (Data-PASS)</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 125
+      "id": 124
     },
     
     {
@@ -1511,7 +1499,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Digital Public Library of America (DPLA)</a></h2><p>Partner since <strong>May 2013</strong></p>"
       },
-      "id": 126
+      "id": 125
     },
     
     {
@@ -1523,7 +1511,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Division of Libraries and Information Services, Florida Department of State</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 127
+      "id": 126
     },
     
     {
@@ -1535,7 +1523,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">DL Consulting, Ltd.</a></h2><p>Partner since <strong>April 2013</strong></p>"
       },
-      "id": 128
+      "id": 127
     },
     
     {
@@ -1547,7 +1535,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Duke University Libraries</a></h2><p>Partner since <strong>September 2012</strong></p>"
       },
-      "id": 129
+      "id": 128
     },
     
     {
@@ -1559,7 +1547,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">DuraSpace</a></h2><p>Partner since <strong>February 2011</strong></p>"
       },
-      "id": 130
+      "id": 129
     },
     
     {
@@ -1571,7 +1559,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Educopia Institute</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
-      "id": 131
+      "id": 130
     },
     
     {
@@ -1583,7 +1571,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Emory University Library</a></h2><p>Partner since <strong>September 2011</strong></p>"
       },
-      "id": 132
+      "id": 131
     },
     
     {
@@ -1595,7 +1583,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Enoch Pratt Free Library</a></h2><p>Partner since <strong>December 2013</strong></p>"
       },
-      "id": 133
+      "id": 132
     },
     
     {
@@ -1607,7 +1595,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Ex Libris Group</a></h2><p>Partner since <strong>October 2011</strong></p>"
       },
-      "id": 134
+      "id": 133
     },
     
     {
@@ -1619,7 +1607,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Five Colleges, Inc.</a></h2><p>Partner since <strong>September 2012</strong></p>"
       },
-      "id": 135
+      "id": 134
     },
     
     {
@@ -1631,7 +1619,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Folger Shakespeare Library</a></h2><p>Partner since <strong>June 2013</strong></p>"
       },
-      "id": 136
+      "id": 135
     },
     
     {
@@ -1643,7 +1631,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Georgetown University Law Library</a></h2><p>Partner since <strong>October 2011</strong></p>"
       },
-      "id": 137
+      "id": 136
     },
     
     {
@@ -1655,7 +1643,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Government Publishing Office</a></h2><p>Partner since <strong>December 2010</strong></p>"
       },
-      "id": 138
+      "id": 137
     },
     
     {
@@ -1667,7 +1655,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Hagley Museum & Library</a></h2><p>Partner since <strong>August 2011</strong></p>"
       },
-      "id": 139
+      "id": 138
     },
     
     {
@@ -1679,7 +1667,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Hampshire College Library</a></h2><p>Partner since <strong>May 2012</strong></p>"
       },
-      "id": 140
+      "id": 139
     },
     
     {
@@ -1691,7 +1679,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Harvard University</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 141
+      "id": 140
     },
     
     {
@@ -1703,7 +1691,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Hawaii State Archives</a></h2><p>Partner since <strong>July 2011</strong></p>"
       },
-      "id": 142
+      "id": 141
     },
     
     {
@@ -1715,7 +1703,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">History Associates</a></h2><p>Partner since <strong>March 2014</strong></p>"
       },
-      "id": 143
+      "id": 142
     },
     
     {
@@ -1727,7 +1715,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">History of Computing in Learning and Education</a></h2><p>Partner since <strong>October 2013</strong></p>"
       },
-      "id": 144
+      "id": 143
     },
     
     {
@@ -1739,7 +1727,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Indiana Archives and Records Administration</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
-      "id": 145
+      "id": 144
     },
     
     {
@@ -1751,7 +1739,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Institute of Museum and Library Services (Liaison to NDSA)</a></h2><p>Partner since <strong>May 2012</strong></p>"
       },
-      "id": 146
+      "id": 145
     },
     
     {
@@ -1763,7 +1751,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Internet Archive</a></h2><p>Partner since <strong>September 2010</strong></p>"
       },
-      "id": 147
+      "id": 146
     },
     
     {
@@ -1775,7 +1763,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Inter-university Consortium for Political and Social Research</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 148
+      "id": 147
     },
     
     {
@@ -1787,7 +1775,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Jefferson Institute</a></h2><p>Partner since <strong>April 2011</strong></p>"
       },
-      "id": 149
+      "id": 148
     },
     
     {
@@ -1799,7 +1787,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Johns Hopkins University, The Sheridan Libraries</a></h2><p>Partner since <strong>January 2011</strong></p>"
       },
-      "id": 150
+      "id": 149
     },
     
     {
@@ -1811,7 +1799,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">JVC Advanced Media USA, Inc</a></h2><p>Partner since <strong>March 2012</strong></p>"
       },
-      "id": 151
+      "id": 150
     },
     
     {
@@ -1823,7 +1811,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Kentucky Department for Libraries and Archives</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
-      "id": 152
+      "id": 151
     },
     
     {
@@ -1835,7 +1823,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Knowledge Motifs LLC</a></h2><p>Partner since <strong>November 2012</strong></p>"
       },
-      "id": 153
+      "id": 152
     },
     
     {
@@ -1847,7 +1835,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Legal Information Preservation Alliance</a></h2><p>Partner since <strong>February 2011</strong></p>"
       },
-      "id": 154
+      "id": 153
     },
     
     {
@@ -1859,7 +1847,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Library Company of Philadelphia</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
-      "id": 155
+      "id": 154
     },
     
     {
@@ -1871,7 +1859,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Los Alamos National Laboratory Research Library</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
-      "id": 156
+      "id": 155
     },
     
     {
@@ -1883,7 +1871,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Maine State Archives</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
-      "id": 157
+      "id": 156
     },
     
     {
@@ -1895,7 +1883,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">MAM-A Inc.</a></h2><p>Partner since <strong>May 2011</strong></p>"
       },
-      "id": 158
+      "id": 157
     },
     
     {
@@ -1907,7 +1895,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Maryland Digital Library, Decker Library</a></h2><p>Partner since <strong>March 2014</strong></p>"
       },
-      "id": 159
+      "id": 158
     },
     
     {
@@ -1919,7 +1907,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Maryland State Archives</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
-      "id": 160
+      "id": 159
     },
     
     {
@@ -1931,7 +1919,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Media Archaeology Lab</a></h2><p>Partner since <strong>September 2012</strong></p>"
       },
-      "id": 161
+      "id": 160
     },
     
     {
@@ -1943,7 +1931,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Metropolitan New York Library Council</a></h2><p>Partner since <strong>October 2011</strong></p>"
       },
-      "id": 162
+      "id": 161
     },
     
     {
@@ -1955,7 +1943,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Michigan State University Archives & Historical Collections</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
-      "id": 163
+      "id": 162
     },
     
     {
@@ -1967,7 +1955,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Michigan State University Libraries</a></h2><p>Partner since <strong>August 2011</strong></p>"
       },
-      "id": 164
+      "id": 163
     },
     
     {
@@ -1979,7 +1967,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Minnesota Historical Society</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
-      "id": 165
+      "id": 164
     },
     
     {
@@ -1991,7 +1979,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Minnesota Office of the Revisor of Statutes</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
-      "id": 166
+      "id": 165
     },
     
     {
@@ -2003,7 +1991,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Mississippi Department of Archives and History</a></h2><p>Partner since <strong>January 2012</strong></p>"
       },
-      "id": 167
+      "id": 166
     },
     
     {
@@ -2015,7 +2003,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">MIT Libraries</a></h2><p>Partner since <strong>November 2012</strong></p>"
       },
-      "id": 168
+      "id": 167
     },
     
     {
@@ -2027,7 +2015,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Muller Media Conversions</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
-      "id": 169
+      "id": 168
     },
     
     {
@@ -2039,7 +2027,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">National Archives and Records Administration</a></h2><p>Partner since <strong>November 2010</strong></p>"
       },
-      "id": 170
+      "id": 169
     },
     
     {
@@ -2051,7 +2039,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"http://library.ucar.edu\">National Center for Atmospheric Research (NCAR) Library</a></h2><p>Partner since <strong>January 2013</strong></p>"
       },
-      "id": 171
+      "id": 170
     },
     
     {
@@ -2063,7 +2051,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">National Conference of State Legislatures</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 172
+      "id": 171
     },
     
     {
@@ -2075,7 +2063,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">National Film Board of Canada</a></h2><p>Partner since <strong>September 2012</strong></p>"
       },
-      "id": 173
+      "id": 172
     },
     
     {
@@ -2087,7 +2075,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">National Park Service</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
-      "id": 174
+      "id": 173
     },
     
     {
@@ -2099,7 +2087,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">NDSA Student Chapter at Pitt</a></h2><p>Partner since <strong>March 2013</strong></p>"
       },
-      "id": 175
+      "id": 174
     },
     
     {
@@ -2111,7 +2099,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Nebraska State Historical Society</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
-      "id": 176
+      "id": 175
     },
     
     {
@@ -2123,7 +2111,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">New Hanover County Register of Deeds</a></h2><p>Partner since <strong>March 2013</strong></p>"
       },
-      "id": 177
+      "id": 176
     },
     
     {
@@ -2135,7 +2123,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">New York Art Resources Consortium (NYARC)</a></h2><p>Partner since <strong>January 2013</strong></p>"
       },
-      "id": 178
+      "id": 177
     },
     
     {
@@ -2147,7 +2135,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">New York Philharmonic</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
-      "id": 179
+      "id": 178
     },
     
     {
@@ -2159,7 +2147,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">New York Public Library</a></h2><p>Partner since <strong>October 2011</strong></p>"
       },
-      "id": 180
+      "id": 179
     },
     
     {
@@ -2171,7 +2159,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">New York University</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
-      "id": 181
+      "id": 180
     },
     
     {
@@ -2183,7 +2171,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">North Carolina Department of Natural and Cultural Resources</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 182
+      "id": 181
     },
     
     {
@@ -2195,7 +2183,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Northeast Document Conservation Center</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
-      "id": 183
+      "id": 182
     },
     
     {
@@ -2207,7 +2195,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Northern Illinois University Library</a></h2><p>Partner since <strong>July 2013</strong></p>"
       },
-      "id": 184
+      "id": 183
     },
     
     {
@@ -2219,7 +2207,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Northwestern University</a></h2><p>Partner since <strong>August 2012</strong></p>"
       },
-      "id": 185
+      "id": 184
     },
     
     {
@@ -2231,7 +2219,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">NueMeta LLC</a></h2><p>Partner since <strong>April 2013</strong></p>"
       },
-      "id": 186
+      "id": 185
     },
     
     {
@@ -2243,7 +2231,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">OCLC</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 187
+      "id": 186
     },
     
     {
@@ -2255,7 +2243,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Old Dominion University, Department of Computer Science</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 188
+      "id": 187
     },
     
     {
@@ -2267,7 +2255,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Pop Up Archive</a></h2><p>Partner since <strong>December 2012</strong></p>"
       },
-      "id": 189
+      "id": 188
     },
     
     {
@@ -2279,7 +2267,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Portico</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 190
+      "id": 189
     },
     
     {
@@ -2291,7 +2279,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Pratt Institute</a></h2><p>Partner since <strong>August 2012</strong></p>"
       },
-      "id": 191
+      "id": 190
     },
     
     {
@@ -2303,7 +2291,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Presbyterian Historical Society</a></h2><p>Partner since <strong>February 2014</strong></p>"
       },
-      "id": 192
+      "id": 191
     },
     
     {
@@ -2315,7 +2303,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Princeton Theological Seminary Library</a></h2><p>Partner since <strong>November 2012</strong></p>"
       },
-      "id": 193
+      "id": 192
     },
     
     {
@@ -2327,7 +2315,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Property Records Industry Association (PRIA)</a></h2><p>Partner since <strong>April 2013</strong></p>"
       },
-      "id": 194
+      "id": 193
     },
     
     {
@@ -2339,7 +2327,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Public Broadcasting Service</a></h2><p>Partner since <strong>November 2010</strong></p>"
       },
-      "id": 195
+      "id": 194
     },
     
     {
@@ -2351,7 +2339,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Rhizome</a></h2><p>Partner since <strong>September 2011</strong></p>"
       },
-      "id": 196
+      "id": 195
     },
     
     {
@@ -2363,7 +2351,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Roper Center for Public Opinion Research</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
-      "id": 197
+      "id": 196
     },
     
     {
@@ -2375,7 +2363,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">SCOLA</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
-      "id": 198
+      "id": 197
     },
     
     {
@@ -2387,7 +2375,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Smithsonian Institution</a></h2><p>Partner since <strong>December 2010</strong></p>"
       },
-      "id": 199
+      "id": 198
     },
     
     {
@@ -2399,7 +2387,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">South Carolina Department of Archives and History</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 200
+      "id": 199
     },
     
     {
@@ -2411,7 +2399,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Stanford University Libraries</a></h2><p>Partner since <strong>February 2011</strong></p>"
       },
-      "id": 201
+      "id": 200
     },
     
     {
@@ -2423,7 +2411,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Still Water at the University of Maine</a></h2><p>Partner since <strong>July 2013</strong></p>"
       },
-      "id": 202
+      "id": 201
     },
     
     {
@@ -2435,7 +2423,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Preservica Inc.</a></h2><p>Partner since <strong>June 2011</strong></p>"
       },
-      "id": 203
+      "id": 202
     },
     
     {
@@ -2447,7 +2435,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Testronic Labs</a></h2><p>Partner since <strong>May 2012</strong></p>"
       },
-      "id": 204
+      "id": 203
     },
     
     {
@@ -2459,7 +2447,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Texas Tech University Libraries</a></h2><p>Partner since <strong>January 2013</strong></p>"
       },
-      "id": 205
+      "id": 204
     },
     
     {
@@ -2471,7 +2459,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">The Federal Library and Information Network (FEDLINK)</a></h2><p>Partner since <strong>October 2010</strong></p>"
       },
-      "id": 206
+      "id": 205
     },
     
     {
@@ -2483,7 +2471,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">The University of Texas at Austin</a></h2><p>Partner since <strong>June 2013</strong></p>"
       },
-      "id": 207
+      "id": 206
     },
     
     {
@@ -2495,7 +2483,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Thomson Reuters</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
-      "id": 208
+      "id": 207
     },
     
     {
@@ -2507,7 +2495,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Truman Technologies, LLC</a></h2><p>Partner since <strong>May 2012</strong></p>"
       },
-      "id": 209
+      "id": 208
     },
     
     {
@@ -2519,7 +2507,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">United States Holocaust Memorial Museum</a></h2><p>Partner since <strong>March 2011</strong></p>"
       },
-      "id": 210
+      "id": 209
     },
     
     {
@@ -2531,7 +2519,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Arkansas at Little Rock Center for Arkansas History and Culture</a></h2><p>Partner since <strong>January 2014</strong></p>"
       },
-      "id": 211
+      "id": 210
     },
     
     {
@@ -2543,7 +2531,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of California, San Diego</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 212
+      "id": 211
     },
     
     {
@@ -2555,7 +2543,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Delaware Library</a></h2><p>Partner since <strong>February 2014</strong></p>"
       },
-      "id": 213
+      "id": 212
     },
     
     {
@@ -2567,7 +2555,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Iowa Libraries</a></h2><p>Partner since <strong>March 2010</strong></p>"
       },
-      "id": 214
+      "id": 213
     },
     
     {
@@ -2579,7 +2567,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Maryland</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 215
+      "id": 214
     },
     
     {
@@ -2591,7 +2579,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Massachusetts Amherst Libraries</a></h2><p>Partner since <strong>November 2011</strong></p>"
       },
-      "id": 216
+      "id": 215
     },
     
     {
@@ -2603,7 +2591,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Michigan</a></h2><p>Partner since <strong>October 2010</strong></p>"
       },
-      "id": 217
+      "id": 216
     },
     
     {
@@ -2615,7 +2603,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Minnesota Libraries</a></h2><p>Partner since <strong>August 2011</strong></p>"
       },
-      "id": 218
+      "id": 217
     },
     
     {
@@ -2627,7 +2615,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Missouri Libraries</a></h2><p>Partner since <strong>August 2013</strong></p>"
       },
-      "id": 219
+      "id": 218
     },
     
     {
@@ -2639,7 +2627,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of North Carolina at Chapel Hill</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
-      "id": 220
+      "id": 219
     },
     
     {
@@ -2651,7 +2639,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of North Texas Libraries</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
-      "id": 221
+      "id": 220
     },
     
     {
@@ -2663,7 +2651,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Southern California</a></h2><p>Partner since <strong>February 2011</strong></p>"
       },
-      "id": 222
+      "id": 221
     },
     
     {
@@ -2675,7 +2663,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Virginia</a></h2><p>Partner since <strong>January 2012</strong></p>"
       },
-      "id": 223
+      "id": 222
     },
     
     {
@@ -2687,7 +2675,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Utah Automated Geographic Reference Center</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 224
+      "id": 223
     },
     
     {
@@ -2699,7 +2687,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Utah Division of Archives and Records Service</a></h2><p>Partner since <strong>July 2010</strong></p>"
       },
-      "id": 225
+      "id": 224
     },
     
     {
@@ -2711,7 +2699,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Vermont Access Network</a></h2><p>Partner since <strong>January 2014</strong></p>"
       },
-      "id": 226
+      "id": 225
     },
     
     {
@@ -2723,7 +2711,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Vermont State Archives and Records Administration</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
-      "id": 227
+      "id": 226
     },
     
     {
@@ -2735,7 +2723,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Virginia Tech</a></h2><p>Partner since <strong>June 2011</strong></p>"
       },
-      "id": 228
+      "id": 227
     },
     
     {
@@ -2747,7 +2735,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Vtechgraphics LLC</a></h2><p>Partner since <strong>January 2014</strong></p>"
       },
-      "id": 229
+      "id": 228
     },
     
     {
@@ -2759,7 +2747,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Wake Forest University/ Z. Smith Reynolds Library</a></h2><p>Partner since <strong>February 2012</strong></p>"
       },
-      "id": 230
+      "id": 229
     },
     
     {
@@ -2771,7 +2759,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Historypin</a></h2><p>Partner since <strong>February 2012</strong></p>"
       },
-      "id": 231
+      "id": 230
     },
     
     {
@@ -2783,7 +2771,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">WGBH Educational Foundation</a></h2><p>Partner since <strong>June 2010</strong></p>"
       },
-      "id": 232
+      "id": 231
     },
     
     {
@@ -2795,7 +2783,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">William Dolson & Associates, LLC</a></h2><p>Partner since <strong>March 2013</strong></p>"
       },
-      "id": 233
+      "id": 232
     },
     
     {
@@ -2807,7 +2795,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Williams College</a></h2><p>Partner since <strong>June 2013</strong></p>"
       },
-      "id": 234
+      "id": 233
     },
     
     {
@@ -2819,7 +2807,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Wisconsin Historical Society</a></h2><p>Partner since <strong>August 2010</strong></p>"
       },
-      "id": 235
+      "id": 234
     },
     
     {
@@ -2831,7 +2819,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">University of Pittsburgh</a></h2><p>Partner since <strong>June 2015</strong></p>"
       },
-      "id": 236
+      "id": 235
     },
     
     {
@@ -2843,7 +2831,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">The Miami Music Museum, Inc.</a></h2><p>Partner since <strong>September 2015</strong></p>"
       },
-      "id": 237
+      "id": 236
     },
     
     {
@@ -2855,7 +2843,7 @@ var members = {
       "properties": {
         "popupContent": "<h2><a href=\"\">Computer History Museum</a></h2><p>Partner since <strong>November 2015</strong></p>"
       },
-      "id": 238
+      "id": 237
     },
     
   ]
