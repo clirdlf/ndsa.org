@@ -28,7 +28,9 @@ This project will engage key stakeholders and other communities to:
 - Create other materials to support an updated Levels document, such as case studies and teaching materials; and,
 - Articulate an ongoing strategy by which the Levels can be adapted and updated on a regular basis.
 
-### Levels of Preservation Presentations and Workshops
+### Levels of Preservation Presentations, Workshops, and Updates
+* Levels of Preservation Reboot Overview and Update 30 January 2019
+  - Digital Preservation Coalition Blog Post describing work up to 2019 and current observations [Link](https://dpconline.org/blog/levels-of-preservation-reboot-overview-and-update)
 * Society of American Archivists (Washington, DC) 14-18 August
   - Poster Session at the Research Forum
 * iPres (Boston) 24 September 2018: 9:30-12:30 EST
