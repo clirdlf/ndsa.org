@@ -20,7 +20,7 @@ Interested in being involved in planning for this year's event? Indicate your in
 
 ### Sponsorship Opportunities
 
-Is your organization interested in becoming a sponsor of #digipres18 or the DLF Forum? Take a look at our  [sponsorship opportunities](https://forum2018.diglib.org/sponsorship-opportunities/) and please contact [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
+Is your organization interested in becoming a sponsor of #digipres19 or the DLF Forum? Take a look at our  [sponsorship opportunities](https://forum2019.diglib.org/sponsorship-opportunities/) and please contact [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
 
 ### Past Meetings
 
