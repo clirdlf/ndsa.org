@@ -16,7 +16,6 @@ The conference will be held at the beautiful [Tampa Marriott Waterside Hotel & M
 
 Please bookmark this page for updates as work on ([#digipres19](https://twitter.com/hashtag/digipres19)) gets underway.
 
-Interested in being involved in planning for this year's event? Indicate your interest by filling out [this form](https://goo.gl/forms/1b150mpr0RWEXJAS2) by January 11, 2019.
 
 ### Sponsorship Opportunities
 
