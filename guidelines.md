@@ -1,5 +1,5 @@
 ---
-title: Draft Community Guidelines and Code of Conduct
+title: Community Guidelines and Code of Conduct
 layout: page
 permalink: /guidelines/
 ---
