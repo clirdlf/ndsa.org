@@ -142,6 +142,7 @@ AND
 
 Undoing the `#` in the other mail configurations in
 
+```ruby
   Mail.defaults do
     delivery_method :smtp,
     address:  "smtp.office365.com",
@@ -151,9 +152,10 @@ Undoing the `#` in the other mail configurations in
     password:  ENV['SMTP_PASSWORD'],
     domain:   'clir.org',
     enable_starttls_auto: true
-    end
+  end
+```
 
-Save the file. Do NOT push this change.
+Save the file. Do **NOT** commit **OR** push this change.
 
 In the terminal (in the `~/projects/ndsa.org/` directory), run `ruby election_mailer.rb`. Open your browser to [http://127.0.0.1:1080/](http://127.0.0.1:1080/) and watch the emails come in.
 
