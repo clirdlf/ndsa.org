@@ -16,10 +16,29 @@ The conference will be held at the beautiful [Tampa Marriott Waterside Hotel & M
 
 Please bookmark this page for updates as work on ([#digipres19](https://twitter.com/hashtag/digipres19)) gets underway.
 
+**Digital Preservation 2019 CFP coming soon!**
+
 
 ### Sponsorship Opportunities
 
 Is your organization interested in becoming a sponsor of #digipres19 or the DLF Forum? Take a look at our  [sponsorship opportunities](https://forum2019.diglib.org/sponsorship-opportunities/) and please contact [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
+
+### 2019 DigiPres Organizing Committee
+
+Thank you to these individuals for their hard work in organizing this year's Digital Preservation conference.
+
+- **Sibyl Schaefer**, UC San Diego (chair)
+- **Courtney C. Mumma**, Texas Digital Library (vice chair)
+- **Seth Anderson**, Yale University Library
+- **Heather Barnes**, Wake Forest University
+- **Joe Carrano**, Massachusetts Institute of Technology**
+- **Suzanne Chase**, Georgetown University
+- **David Cirella**, Yale University
+- **Stefan Elnabli**, UC San Diego
+- **Alex Kinnaman**, Virginia Tech               
+- **Dan Noonan**, The Ohio State University
+- **Krista Oldham**, Clemson University
+- **Kristen Schuster**, King’s College London
 
 ### Past Meetings
 
