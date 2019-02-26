@@ -31,7 +31,7 @@ Thank you to these individuals for their hard work in organizing this year's Dig
 - **Courtney C. Mumma**, Texas Digital Library (vice chair)
 - **Seth Anderson**, Yale University Library
 - **Heather Barnes**, Wake Forest University
-- **Joe Carrano**, Massachusetts Institute of Technology**
+- **Joe Carrano**, Massachusetts Institute of Technology
 - **Suzanne Chase**, Georgetown University
 - **David Cirella**, Yale University
 - **Stefan Elnabli**, UC San Diego
