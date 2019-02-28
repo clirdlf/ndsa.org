@@ -40,6 +40,8 @@ For information on formatting, please review the [Markdown
   Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). GitHub keyboard shortcuts can be found
 [here](https://help.github.com/articles/using-keyboard-shortcuts/).
 
+Here are a couple of helpful video tutorials for [**how to add members**](https://drive.google.com/file/d/1zZP02OOE01G-KgDybCFWIIskvCBq62gs/view?usp=sharing) and [**how to update the website**](https://drive.google.com/file/d/1LFqH_dXVgTycB-xSCkjVWXazN57Zi96Y/view?usp=sharing).
+
 ## Blog Posts
 
 Blog posts are written and served from https://www.diglib.org/. There is a `rake` task to import these and convert them to the Jekyll format.
