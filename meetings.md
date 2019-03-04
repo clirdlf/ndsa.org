@@ -8,9 +8,9 @@ permalink: /meetings/
 
 <img alt="meetings" width="710" height="353" src='{{ "/images/DLF-Forum-2019_high-res.png" | prepend: site.baseurl }}'>
 
-### **_Digital Preservation 2019: Critical Junctures_ Call for Proposals**
+### **Digital Preservation 2019: Critical Junctures Call for Proposals**
 
-The National Digital Stewardship Alliance ([NDSA](http://ndsa.diglib.org/)) invites proposals for _Digital Preservation 2019: Critical Junctures_ to be held in Tampa, Florida, October 16-17, 2019.
+The National Digital Stewardship Alliance ([NDSA](http://ndsa.diglib.org/)) invites proposals for Digital Preservation 2019: Critical Junctures to be held in Tampa, Florida, October 16-17, 2019.
 
 Digital Preservation is the major meeting and conference of the NDSA. Open to members and non-members alike, it highlights the theory and practice of digital stewardship and preservation, data curation, the digital object lifecycle, and related issues. Our 2019 meeting is held in partnership with our host organization, the [Digital Library Federation](https://www.diglib.org). A separate [call for proposals]() is being issued for [Learn@DLF](https://forum2019.diglib.org/learnatdlf/) (October 13) and the 2019 [DLF Forum](https://forum2019.diglib.org) (October 14-16), which will take place at the same venue.
 
