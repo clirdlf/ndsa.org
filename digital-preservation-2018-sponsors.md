@@ -4,11 +4,9 @@ layout: page
 permalink: /digital-preservation-2018-sponsors/
 ---
 
-<p align="center">
 Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation!
 
 ## **Platinum Sponsors**
-<p align="center">
 <img src="https://forum2018.diglib.org/wp-content/uploads/sites/18/2018/04/DPN-logo-300x212.jpeg" width="500">
 
 
@@ -16,9 +14,8 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 
 
 <img src="https://i1.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/University-Libraries-Logo.png" width="300">
-</p>
+
 ## **Gold Sponsors**
-<p align="center">
 <img src="https://forum2018.diglib.org/wp-content/uploads/sites/18/2018/04/CodeOcean-Vertical-copy-e1524845619633.jpg" width="200">
 
 
@@ -41,15 +38,12 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 
 
 <img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/05/Quartex_pos_rgb-transparent-1000px-w.png" width="200">
-</p>
+
 
 ## **Silver**
-<p align="center">
   <img src="https://forum2018.diglib.org/wp-content/uploads/sites/18/2018/04/AVP_logo-e1524845657778.jpg" width="175">
-</p>
 
 ## **Bronze**
-<p align="center">
 <img src="https://forum2018.diglib.org/wp-content/uploads/sites/18/2018/05/LJA-Logo.png" width="150">
 
 
@@ -57,15 +51,12 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 
 
 <img src="https://i2.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/UA_UL_RGB_Primary.png" width="150">
-</p>
 
 ## **Museum Cohort Sponsor**
-<p align="center">
-  <img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/kress.png" width="150">
-</p>
+<img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/kress.png" width="150">
+
 ## **Fellowship Partners**
-<p align="center">
-  <img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/AIC-square-color.png?resize=275%2C300&ssl=1" width="150">
+<img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/AIC-square-color.png?resize=275%2C300&ssl=1" width="150">
 
 
 <img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/ARL_logo_2c.png" width="150">
@@ -75,10 +66,9 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 
 
 <img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/VRA-logo.png" width="150">
-</p>
+
 
 ## **Childcare Fund**
-<p align="center">
 <img src="https://i1.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/05/ach-logo-black-500px.png" width="150">
 
 <img src="https://i2.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/08/Digital_Bedrock_logoB.jpg" width="150">
@@ -86,8 +76,6 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 <img src="https://forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/reed-library-nameplate-white.png" width="150">
 
 <img src="https://i1.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/alluNeedStackedw-logoVerticalTrnsparent.png" width="150">
-</p>
 
-<p align="center">
+
 **Interested in sponsoring for 2019? Contact DLF Director of Development and Outreach at [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org)**
-</p>
