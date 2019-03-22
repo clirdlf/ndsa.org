@@ -13,71 +13,59 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 
 <img alt="UNR" width="300" src='{{ "/images/sponsors/University Libraries Logo.png"}}'>
 
-<img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/SUL-Logo-h200.png" width="700">
-
-<img src="https://i1.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/University-Libraries-Logo.png" width="300">
 
 ## **Gold Sponsors**
-<img src="https://forum2018.diglib.org/wp-content/uploads/sites/18/2018/04/CodeOcean-Vertical-copy-e1524845619633.jpg" width="200">
+
+<img alt="CodeOcean" width="200" src='{{ "/images/sponsors/CodeOcean Vertical copy.jpg"}}'>
+
+<img alt="DuraCloud" width="200" src='{{ "/images/sponsors/duracloud_logo_12in.png"}}'> & <img alt="DuraCloudEU" width="200" src='{{ "/images/sponsors/duracloudeu-logo (1).png"}}'>
+
+<img alt="Gale" width="200" src='{{ "/images/sponsors/Gale_Logo_CMYK.jpg"}}'>
+
+<img alt="i2s" width="200" src='{{ "/images/sponsors/logo_i2S_Q.jpg"}}'>
+
+<img alt="Memnon" width="200" src='{{ "/images/sponsors/Memnon-Sony-2018.jpg"}}'> & <img alt="IU" width="200" src='{{ "/images/sponsors/IU.jpg"}}'>
+
+<img alt="OCLC" width="200" src='{{ "/images/sponsors/OCLC_Logo_H_Color_NoTag.png"}}'>
+
+<img alt="Preservica" width="200" src='{{ "/images/sponsors/Preservica_CMYK Logo.jpg"}}'>
+
+<img alt="Quartex" width="200" src='{{ "/images/sponsors/Quartex_pos_rgb - transparent 1000px w.png"}}'>
 
 
-<img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/07/duracloud_logo_12in.png" width="200"> & <img src="https://i2.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/07/duracloudeu-logo-1.png" width="200">
+## **Silver Sponsor**
+<img alt="AVP" width="200" src='{{ "/images/sponsors/AVP_logo.jpg"}}'>
 
 
-<img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/Gale_Logo_CMYK.jpg" width="200">
+## **Bronze Sponsors**
+<img alt="LJA" width="200" src='{{ "/images/sponsors/LJA-Logo.png"}}'>
 
+<img alt="LIPA" width="200" src='{{ "/images/sponsors/LIPA.png"}}'>
 
-<img src="https://i2.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/07/logo_i2S_Q.jpg" width="200">
+<img alt="Arizona" width="200" src='{{ "/images/sponsors/UA_UL_RGB_Primary_reverse.png"}}'>
 
-
-<img src="https://i2.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/Memnon-Sony-2018.jpg" width="200"> & <img src="https://i2.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/IU.jpg" width="200">
-
-
-<img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/OCLC_Logo_H_Color_NoTag.png" width="200">
-
-
-<img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/06/Preservica_CMYK-Logo.jpg" width="200">
-
-
-<img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/05/Quartex_pos_rgb-transparent-1000px-w.png" width="200">
-
-## **Silver**
-<img src="https://forum2018.diglib.org/wp-content/uploads/sites/18/2018/04/AVP_logo-e1524845657778.jpg" width="175">
-
-## **Bronze**
-<img src="https://forum2018.diglib.org/wp-content/uploads/sites/18/2018/05/LJA-Logo.png" width="150">
-
-
-<img src="https://i1.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/06/LIPA.jpg" width="150">
-
-
-<img src="https://i2.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/UA_UL_RGB_Primary.png" width="150">
 
 ## **Museum Cohort Sponsor**
-<img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/kress.png" width="150">
+<img alt="Kress" width="150" src='{{ "/images/sponsors/kress.png"}}'>
+
 
 ## **Fellowship Partners**
-<img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/AIC-square-color.png?resize=275%2C300&ssl=1" width="150">
+<img alt="AIC" width="150" src='{{ "/images/sponsors/AIC-square-color.png"}}'>
+
+<img alt="ARL" width="150" src='{{ "/images/sponsors/ARL_logo_2c.png"}}'>
+
+<img alt="MCN" width="150" src='{{ "/images/sponsors/MCN_TAG_CMYK.png"}}'>
+
+<img alt="VRA" width="150" src='{{ "/images/sponsors/VRA-Logo.jpg"}}'>
 
 
-<img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/ARL_logo_2c.png" width="150">
+## **Childcare Fund Sponsors**
+<img alt="ACH" width="150" src='{{ "/images/sponsors/ach-logo-black-500px.png"}}'>
 
+<img alt="DigitalBedrock" width="150" src='{{ "/images/sponsors/Digital_Bedrock_logoB.jpg"}}'>
 
-<img src="https://i1.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/MCN_TAG_CMYK.png" width="150">
+<img alt="Reed" width="150" src='{{ "/images/sponsors/reed-library-nameplate-white.png"}}'>
 
-
-<img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/VRA-logo.png" width="150">
-
-## **Childcare Fund**
-<img src="https://i1.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/05/ach-logo-black-500px.png" width="150">
-
-
-<img src="https://i2.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/08/Digital_Bedrock_logoB.jpg" width="150">
-
-
-<img src="https://forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/reed-library-nameplate-white.png" width="150">
-
-
-<img src="https://i1.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/alluNeedStackedw-logoVerticalTrnsparent.png" width="150">
+<img alt="Utah" width="150" src='{{ "/images/sponsors/alluNeedStackedw-logoVerticalTrnsparent.png"}}'>
 
 **Interested in sponsoring for 2019? Contact DLF Director of Development and Outreach at [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org)**
