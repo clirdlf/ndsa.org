@@ -7,7 +7,11 @@ permalink: /digital-preservation-2018-sponsors/
 Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation!
 
 ## **Platinum Sponsors**
-<img src="https://forum2018.diglib.org/wp-content/uploads/sites/18/2018/04/DPN-logo-300x212.jpeg" width="400">
+<img alt="DPN" width="400" src='{{ "/images/sponsors/DPN-logo.jpeg"}}'>
+
+<img alt="SUL" width="700" src='{{ "/images/sponsors/SUL-Logo-h200.png"}}'>
+
+<img alt="UNR" width="300" src='{{ "/images/sponsors/University Libraries Logo.png"}}'>
 
 <img src="https://i0.wp.com/forum2018.diglib.org/wp-content/uploads/sites/18/2018/09/SUL-Logo-h200.png" width="700">
 
