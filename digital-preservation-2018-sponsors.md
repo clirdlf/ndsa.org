@@ -18,14 +18,16 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 | <img alt="CodeOcean" width="200" src='{{ "/images/sponsors/CodeOcean Vertical copy.jpg"}}'> | <img alt="DuraCloud" width="200" src='{{ "/images/sponsors/duracloud_logo_12in.png"}}'> & <img alt="DuraCloudEU" width="200" src='{{ "/images/sponsors/duracloudeu-logo (1).png"}}'> |
 :-------------------------:|:-------------------------:
 | <img alt="Gale" width="200" src='{{ "/images/sponsors/Gale_Logo_CMYK.jpg"}}'> | <img alt="i2s" width="200" src='{{ "/images/sponsors/logo_i2S_Q.jpg"}}'> |
+| | |
 | <img alt="Memnon" width="200" src='{{ "/images/sponsors/Memnon-Sony-2018.jpg"}}'> & <img alt="IU" width="200" src='{{ "/images/sponsors/IU.jpg"}}'> | <img alt="OCLC" width="200" src='{{ "/images/sponsors/OCLC_Logo_H_Color_NoTag.png"}}'> |
+| | |
 | <img alt="Preservica" width="200" src='{{ "/images/sponsors/Preservica_CMYK Logo.jpg"}}'> | <img alt="Quartex" width="200" src='{{ "/images/sponsors/Quartex_pos_rgb - transparent 1000px w.png"}}'> |
 | | |
 
 ## **Silver Sponsor**
 
-<img alt="AVP" width="200" src='{{ "/images/sponsors/AVP_logo.jpg"}}'>
-
+| <img alt="AVP" width="200" src='{{ "/images/sponsors/AVP_logo.jpg"}}'> |
+:-------------------------:
 
 ## **Bronze Sponsors**
 
@@ -36,7 +38,8 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 
 ## **Museum Cohort Sponsor**
 
-<img alt="Kress" width="150" src='{{ "/images/sponsors/kress.png"}}'>
+| <img alt="Kress" width="150" src='{{ "/images/sponsors/kress.png"}}'> |
+:-------------------------:
 
 
 ## **Fellowship Partners**
