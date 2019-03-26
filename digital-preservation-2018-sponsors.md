@@ -32,10 +32,10 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 
 ## **Bronze Sponsors**
 
-| <img alt="LJA" width="200" src='{{ "/images/sponsors/LJA-Logo.png"}}'> | <img alt="LIPA" width="200" src='{{ "/images/sponsors/LIPA.png"}}'> |
-:-------------------------:|:-------------------------:
+| <img alt="LJA" width="200" src='{{ "/images/sponsors/LJA-Logo.png"}}'> | | <img alt="LIPA" width="200" src='{{ "/images/sponsors/LIPA.png"}}'> |
+:-------------------------:|---|:-------------------------:
 | <img alt="Arizona" width="200" src='{{ "/images/sponsors/UA_UL_RGB_Primary_reverse.png"}}'> |
-| | |
+| | | |
 
 ## **Museum Cohort Sponsor**
 
@@ -46,18 +46,18 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 
 ## **Fellowship Partners**
 
-| <img alt="AIC" width="150" src='{{ "/images/sponsors/AIC-square-color.png"}}'> | <img alt="ARL" width="150" src='{{ "/images/sponsors/ARL_logo_2c.png"}}'> |
-:-------------------------:|:-------------------------:
-| | |
-| <img alt="MCN" width="150" src='{{ "/images/sponsors/MCN_TAG_CMYK.png"}}'> | <img alt="VRA" width="150" src='{{ "/images/sponsors/VRA-Logo.jpg"}}'> |
-| | |
+| <img alt="AIC" width="150" src='{{ "/images/sponsors/AIC-square-color.png"}}'> | | <img alt="ARL" width="150" src='{{ "/images/sponsors/ARL_logo_2c.png"}}'> |
+:-------------------------:|---|:-------------------------:
+| | | |
+| <img alt="MCN" width="150" src='{{ "/images/sponsors/MCN_TAG_CMYK.png"}}'> | | <img alt="VRA" width="150" src='{{ "/images/sponsors/VRA-Logo.jpg"}}'> |
+| | | |
 
 ## **Childcare Fund Sponsors**
 
-| <img alt="ACH" width="150" src='{{ "/images/sponsors/ach-logo-black-500px.png"}}'> | <img alt="DigitalBedrock" width="150" src='{{ "/images/sponsors/Digital_Bedrock_logoB.jpg"}}'> |
-:-------------------------:|:-------------------------:
-| | |
-| <img alt="Reed" width="150" src='{{ "/images/sponsors/reed-library-nameplate-white.png"}}'> | <img alt="Utah" width="150" src='{{ "/images/sponsors/alluNeedStackedw-logoVerticalTrnsparent.png"}}'> |
-| | |
+| <img alt="ACH" width="150" src='{{ "/images/sponsors/ach-logo-black-500px.png"}}'> | | <img alt="DigitalBedrock" width="150" src='{{ "/images/sponsors/Digital_Bedrock_logoB.jpg"}}'> |
+:-------------------------:|---|:-------------------------:
+| | | |
+| <img alt="Reed" width="150" src='{{ "/images/sponsors/reed-library-nameplate-white.png"}}'> | | <img alt="Utah" width="150" src='{{ "/images/sponsors/alluNeedStackedw-logoVerticalTrnsparent.png"}}'> |
+| | | |
 
 **Interested in sponsoring for 2019? Contact DLF Director of Development and Outreach at [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org)**
