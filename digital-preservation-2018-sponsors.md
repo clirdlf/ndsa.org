@@ -7,6 +7,7 @@ permalink: /digital-preservation-2018-sponsors/
 Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation!
 
 ## **Platinum Sponsors**
+
 | <img alt="DPN" width="400" src='{{ "/images/sponsors/DPN-logo.jpeg"}}'> | <img alt="SUL" width="700" src='{{ "/images/sponsors/SUL-Logo-h200.png"}}'> |
 :-------------------------:|:-------------------------:
 | <img alt="UNR" width="300" src='{{ "/images/sponsors/University Libraries Logo.png"}}'> |
@@ -22,20 +23,24 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 
 
 ## **Silver Sponsor**
+
 <img alt="AVP" width="200" src='{{ "/images/sponsors/AVP_logo.jpg"}}'>
 
 
 ## **Bronze Sponsors**
+
 | <img alt="LJA" width="200" src='{{ "/images/sponsors/LJA-Logo.png"}}'> | <img alt="LIPA" width="200" src='{{ "/images/sponsors/LIPA.png"}}'> |
 :-------------------------:|:-------------------------:
 | <img alt="Arizona" width="200" src='{{ "/images/sponsors/UA_UL_RGB_Primary_reverse.png"}}'> |
 
 
 ## **Museum Cohort Sponsor**
+
 <img alt="Kress" width="150" src='{{ "/images/sponsors/kress.png"}}'>
 
 
 ## **Fellowship Partners**
+
 | <img alt="AIC" width="150" src='{{ "/images/sponsors/AIC-square-color.png"}}'> | <img alt="ARL" width="150" src='{{ "/images/sponsors/ARL_logo_2c.png"}}'> |
 :-------------------------:|:-------------------------:
 | <img alt="MCN" width="150" src='{{ "/images/sponsors/MCN_TAG_CMYK.png"}}'> | <img alt="VRA" width="150" src='{{ "/images/sponsors/VRA-Logo.jpg"}}'> |
