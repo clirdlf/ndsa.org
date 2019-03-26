@@ -27,7 +27,8 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 ## **Silver Sponsor**
 
 | <img alt="AVP" width="200" src='{{ "/images/sponsors/AVP_logo.jpg"}}'> |
-:-------------------------:
+| ------------- | ------------- |
+| | |
 
 ## **Bronze Sponsors**
 
@@ -39,13 +40,15 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 ## **Museum Cohort Sponsor**
 
 | <img alt="Kress" width="150" src='{{ "/images/sponsors/kress.png"}}'> |
-:-------------------------:
+| ------------- | ------------- |
+| | |
 
 
 ## **Fellowship Partners**
 
 | <img alt="AIC" width="150" src='{{ "/images/sponsors/AIC-square-color.png"}}'> | <img alt="ARL" width="150" src='{{ "/images/sponsors/ARL_logo_2c.png"}}'> |
 :-------------------------:|:-------------------------:
+| | |
 | <img alt="MCN" width="150" src='{{ "/images/sponsors/MCN_TAG_CMYK.png"}}'> | <img alt="VRA" width="150" src='{{ "/images/sponsors/VRA-Logo.jpg"}}'> |
 | | |
 
@@ -53,6 +56,7 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 
 | <img alt="ACH" width="150" src='{{ "/images/sponsors/ach-logo-black-500px.png"}}'> | <img alt="DigitalBedrock" width="150" src='{{ "/images/sponsors/Digital_Bedrock_logoB.jpg"}}'> |
 :-------------------------:|:-------------------------:
+| | |
 | <img alt="Reed" width="150" src='{{ "/images/sponsors/reed-library-nameplate-white.png"}}'> | <img alt="Utah" width="150" src='{{ "/images/sponsors/alluNeedStackedw-logoVerticalTrnsparent.png"}}'> |
 | | |
 
