@@ -1,5 +1,5 @@
 ---
-title: Digital Preservation and DLF Forum Sponsors
+title: 2018 Digital Preservation and DLF Forum Sponsors
 layout: page
 permalink: /digital-preservation-2018-sponsors/
 ---
@@ -57,4 +57,4 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 | | | | | | | |
 
-**Interested in sponsoring for 2019? Contact DLF Director of Development and Outreach at [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org)**
+**Interested in sponsoring the DLF Forum and/or Digital Preservation 2019? Check out the [2019 Sponsorship Opportunities](https://forum2019.diglib.org/sponsorship-opportunities/) and contact DLF Director of Development and Outreach Louisa Kwasigroch at [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org)**
