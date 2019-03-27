@@ -12,7 +12,7 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 :-------------------------:|
 | <img alt="SUL" width="600" src='{{ "/images/sponsors/SUL-Logo-h200.png"}}'> |
 | |
-| <img alt="UNR" width="200" src='{{ "/images/sponsors/University Libraries Logo.png"}}'> |
+| [<img alt="UNR" width="200" src='{{ "/images/sponsors/University Libraries Logo.png"}}'>](https://library.unr.edu) |
 | |
 
 ## **Gold Sponsors**
