@@ -28,32 +28,32 @@ Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation
 
 ## **Silver Sponsor**
 
-| <img alt="AVP" width="150" src='{{ "/images/sponsors/AVP_logo.jpg"}}'> |
+| [<img alt="AVP" width="150" src='{{ "/images/sponsors/AVP_logo.jpg"}}'>](https://www.weareavp.com/) |
 | ------------- | ------------- |
 | | |
 
 ## **Bronze Sponsors**
 
-| <img alt="LJA" width="120" src='{{ "/images/sponsors/LJA-Logo.png"}}'> | | <img alt="LIPA" width="120" src='{{ "/images/sponsors/LIPA.png"}}'> | | <img alt="Arizona" width="400" src='{{ "/images/sponsors/UA_UL_RGB_Primary_reverse.png"}}'> |
+| [<img alt="LJA" width="120" src='{{ "/images/sponsors/LJA-Logo.png"}}'>](http://libraryjuiceacademy.com/) | | [<img alt="LIPA" width="120" src='{{ "/images/sponsors/LIPA.png"}}'>](http://lipalliance.org/) | | [<img alt="Arizona" width="400" src='{{ "/images/sponsors/UA_UL_RGB_Primary_reverse.png"}}'>](http://new.library.arizona.edu/) |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 | | | | | |
 
 ## **Museum Cohort Sponsor**
 
-| <img alt="Kress" width="150" src='{{ "/images/sponsors/kress.png"}}'> |
+| [<img alt="Kress" width="150" src='{{ "/images/sponsors/kress.png"}}'>](http://www.kressfoundation.org/) |
 | ------------- | ------------- |
 | | |
 
 
 ## **Fellowship Partners**
 
-| <img alt="AIC" width="100" src='{{ "/images/sponsors/AIC-square-color.png"}}'> | | <img alt="ARL" width="160" src='{{ "/images/sponsors/ARL_logo_2c.png"}}'> | | <img alt="MCN" width="100" src='{{ "/images/sponsors/MCN_TAG_CMYK.png"}}'> | | <img alt="VRA" width="160" src='{{ "/images/sponsors/VRA-Logo.jpg"}}'> |
+| [<img alt="AIC" width="100" src='{{ "/images/sponsors/AIC-square-color.png"}}'>](http://www.conservation-us.org/) | | [<img alt="ARL" width="160" src='{{ "/images/sponsors/ARL_logo_2c.png"}}'>](http://www.arl.org/) | | [<img alt="MCN" width="100" src='{{ "/images/sponsors/MCN_TAG_CMYK.png"}}'>](http://mcn.edu/) | | [<img alt="VRA" width="160" src='{{ "/images/sponsors/VRA-Logo.jpg"}}'>](http://vraweb.org/) |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 | | | | | | | |
 
 ## **Childcare Fund Sponsors**
 
-| <img alt="ACH" width="100" src='{{ "/images/sponsors/ach-logo-black-500px.png"}}'> | | <img alt="DigitalBedrock" width="120" src='{{ "/images/sponsors/Digital_Bedrock_logoB.jpg"}}'> | | <img alt="Reed" width="130" src='{{ "/images/sponsors/reed-library-nameplate-white.png"}}'> | | <img alt="Utah" width="120" src='{{ "/images/sponsors/alluNeedStackedw-logoVerticalTrnsparent.png"}}'> |
+| [<img alt="ACH" width="100" src='{{ "/images/sponsors/ach-logo-black-500px.png"}}'>](http://ach.org/) | | [<img alt="DigitalBedrock" width="120" src='{{ "/images/sponsors/Digital_Bedrock_logoB.jpg"}}'>](https://www.digitalbedrock.com/) | | [<img alt="Reed" width="130" src='{{ "/images/sponsors/reed-library-nameplate-white.png"}}'>](https://library.reed.edu/) | | [<img alt="Utah" width="120" src='{{ "/images/sponsors/alluNeedStackedw-logoVerticalTrnsparent.png"}}'>](https://www.lib.utah.edu/) |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 | | | | | | | |
 
