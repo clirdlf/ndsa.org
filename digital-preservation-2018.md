@@ -14,6 +14,10 @@ The National Digital Stewardship Alliance is a consortium of more than 220 organ
 
 The conference will be held at the beautiful [M Resort](http://www.themresort.com/), just outside of Las Vegas, NV. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/forums/2016forum/code-of-conduct/).
 
+### Thank you to our Sponsors!
+
+Please see a [full list of our wonderful 2018 DLF Forum + Digital Preservation sponsors](https://ndsa.org/digital-preservation-2018-sponsors/). Interested in sponsoring for 2019? Please email  [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
+
 ### Register
 Registration is open! Be among the first to secure a ticket and start planning for yet another memorable event. Please click [here](https://www.conftool.pro/dlf2018/) to register.
 
@@ -49,17 +53,6 @@ As part of the Digital Preservation 2018 registration process, registrants will 
 - Maintain confidentiality and exhibit professionalism in all interactions (including by adhering to DLF’s Code of Conduct)
 
 In addition, mentors will have access to a private discussion forum that can be used to get and give advice, explore mentorship philosophy, and provide feedback that will help shape the pilot program.
-
-### Sponsors
-We thank the [Digital Preservation Network](https://www.dpn.org/) and the [Legal Information Preservation Alliance](https://lipalliance.org/) for their support!
-
-<img alt="DPN" width="261" height="185" src='{{ "/images/DPN-logo.jpeg" | prepend: site.baseurl }}'>
-
-<img alt="LIPA" width="234" height="185" src='{{ "/images/LIPA.jpg" | prepend: site.baseurl }}'>
-
-### Sponsorship Opportunities
-
-Is your organization interested in becoming a sponsor of #digipres18 or the DLF Forum? Take a look at our  [sponsorship opportunities](https://forum2018.diglib.org/sponsorship-opportunities/) and please contact [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
 
 ### #DigiPres18 Planning Committee Members
 
