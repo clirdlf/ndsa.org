@@ -50,9 +50,16 @@ All submissions will be peer-reviewed by NDSA’s Program Committee. Presenters 
 [**Deadline to submit a proposal:** Sunday, April 28, at 11:59pm Eastern Time.](https://www.conftool.pro/dlf2019/)
 
 
+### **2019 Sponsors**
+
+Thank you to our [2019 DLF Forum + Digital Preservation sponsors](https://ndsa.org/digital-preservation-2019-sponsors/)!
+
+We are so grateful to our wonderful [2018 sponsors](https://ndsa.org/digital-preservation-2018-sponsors/) for making last year's event a success.
+
+
 ### **Sponsorship Opportunities**
 
-Is your organization interested in becoming a sponsor of #digipres19 or the DLF Forum? Take a look at our  [sponsorship opportunities](https://forum2019.diglib.org/sponsorship-opportunities/) and please contact [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
+Is your organization interested in becoming a sponsor of #digipres19 or the [DLF Forum](https://forum2019.diglib.org)? Take a look at our  [sponsorship opportunities](https://forum2019.diglib.org/sponsorship-opportunities/) and please contact [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
 
 ### **2019 DigiPres Organizing Committee**
 
