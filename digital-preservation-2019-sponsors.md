@@ -9,6 +9,13 @@ permalink: /digital-preservation-2019-sponsors/
 
 **Interested in sponsoring the [DLF Forum](https://forum2019.diglib.org) and/or [Digital Preservation 2019](https://ndsa.org/meetings/)? Check out the [2019 Sponsorship Opportunities](https://forum2019.diglib.org/sponsorship-opportunities/) and contact DLF Director of Development and Outreach Louisa Kwasigroch at [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org).**
 
+## **Adamantium Sponsor**
+
+Your logo could be here!
+
+## **Platinum Sponsor**
+
+Your logo could be here!
 
 ## **Lanyard Sponsor**
 
