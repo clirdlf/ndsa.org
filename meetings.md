@@ -49,6 +49,12 @@ All submissions will be peer-reviewed by NDSA’s Program Committee. Presenters 
 
 [**Deadline to submit a proposal:** Sunday, April 28, at 11:59pm Eastern Time.](https://www.conftool.pro/dlf2019/)
 
+### **Keynote: Alison Langmead**
+<img alt="meetings" width="250" height="250" src='{{ "/images/ADL_2019.JPG" | prepend: site.baseurl }}'>
+
+Alison Langmead will open the 2019 Digital Preservation conference with a keynote entitled, “Sustainability Is Not Preservation.” In her talk, Langmead will discuss her experiences both collaboratively producing the NEH-funded [Socio-Technical Sustainability Roadmap](http://sustainingdh.net/) at the [Visual Media Workshop at the University of Pittsburgh](https://www.haa.pitt.edu/visual-media-workshop) as well as some of the lessons learned from working through this sustainability workshop with over 100 people in six locations across the United States this past year.
+
+Langmead holds a joint faculty appointment at the University of Pittsburgh between the [Dietrich School of Arts and Sciences (DSAS)](https://www.haa.pitt.edu/people/alison-langmead) and the [School of Computing and Information (SCI)](http://sci.pitt.edu/faculty-and-research/faculty-directory/alison-langmead/) at the rank of Clinical Associate Professor. At DSAS, she serves as the Director of the Visual Media Workshop (VMW), a digital humanities lab focused on the investigation of material and visual culture—historical or contemporary—in an environment that encourages technological experimentation. At SCI, she teaches courses on digital preservation and the digital humanities. In her research, she designs and produces digital humanities projects that investigate visuality and materiality as multivalent, interactive processes. She also studies the practice of digital sustainability as a complex, transformative ecosystem that informs our understanding of the role of historical information in our contemporary digitality. Langmead is the Principal Contact for the [DHRX: Digital Humanities at Pitt](http://www.dhrx.pitt.edu/) faculty research initiative, which represents a transdisciplinary network of scholars at the university who use digital methods to study the ways in which humans interact with their environments, whether social or cultural, natural or human-created. She holds a PhD in medieval architectural history from Columbia University as well as an MLIS from the University of California, Los Angeles.
 
 ### **2019 Sponsors**
 
