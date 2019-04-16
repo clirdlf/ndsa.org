@@ -6,7 +6,7 @@ permalink: /meetings/
 
 ## **Digital Preservation 2019**
 
-<img alt="meetings" width="710" height="353" src='{{ "/images/DLF-Forum-2019_high-res.png" | prepend: site.baseurl }}'>
+<img alt="meetings" width="710" height="237" src='{{ "images/DigiPres-2019-FINAL.jpg" | prepend: site.baseurl }}'>
 
 ### **Digital Preservation 2019: Critical Junctures Call for Proposals**
 
