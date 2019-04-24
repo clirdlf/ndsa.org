@@ -20,3 +20,7 @@ Your logo could be here!
 ## **Lanyard Sponsor**
 
 [<img alt="Quartex" width="250" src='{{ "/images/sponsors/Quartex_pos_rgb - transparent 1000px w.png"}}'>](https://www.quartexcollections.com/)
+
+## **Gold Sponsor**
+
+[<img alt="Samvera" width="200" src='{{ "/images/sponsors/samvera-fall-TM.jpg"}}'>](https://samvera.org)
