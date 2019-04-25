@@ -69,7 +69,7 @@ This project will engage key stakeholders and other communities to:
   - [Member list](https://docs.google.com/spreadsheets/d/1oq057ba8aScyFWt_Q8kbmTLyrsxWus3GI07owN53Nn4/edit?usp=sharing)
   - If you have questions please contact the co-chairs Corey Davis (corey@coppul.ca) and Abby Adams (abby.adams@austin.utexas.edu).  
 
-##### **Levels of Preservation Updating Subgroup** (Lead: Karen Cariani)
+##### **Levels of Preservation Revision Subgroup** (Lead: Karen Cariani)
 * About: Update and add to the current themes included in the LoP (storage, fixity, migration, security, metadata, file formats, etc.).
 * <a href="https://docs.google.com/document/d/1jS-MmCYKHAH8Hy2Z2pBClU0DkvzEr313I1etiXCW4Qw/edit?usp=sharing">Charge</a> 
 * If you have questions please contact Karen Cariani (karen_cariani@wgbh.org)
