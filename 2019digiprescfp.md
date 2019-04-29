@@ -1,7 +1,7 @@
 ---
 title: Digital Preservation Conferences
 layout: page
-permalink: /2019cfp/
+permalink: /2019digiprescfp/
 ---
 
 **The Digital Preservation 2019 Call for Proposals has closed.**
