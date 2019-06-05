@@ -4,8 +4,31 @@ layout: page
 permalink: /meetings/
 ---
 
-## **Digital Preservation 2019**
+## **Digital Preservation 2019: Critical Junctures**
 <img alt="meetings" width="710" height="237" src='{{ "/images/DigiPres-2019-FINAL.jpg" | prepend: site.baseurl }}'>
+
+
+### **Registration is NOW OPEN!**
+
+Registration for Digital Preservation 2019: Critical Junctures is now open.
+
+#### [**Register today!**](https://www.conftool.pro/dlf2019/)
+
+#### Registration Rates
+
+NDSA’s Digital Preservation 2019 (#digipres19): 
+- $250 for DigiPres only
+- $225 for those also attending the DLF Forum
+- A limited number of student tickets ($200) will also be available
+
+New for 2019: increased overlap with the DLF Forum, including access to 2 DLF Forum sessions and the DLF Forum Closing Plenary
+Registration includes two continental breakfasts, one lunch buffet, coffee breaks, and reception
+
+#### Conference Hotel + Travel
+
+This year's event will take place at the Tampa Marriott Water Street, 700 South Florida Avenue, Tampa, Florida 33602
+
+Learn more and reserve your room at the conference hotel: [https://forum2019.diglib.org/hotel-travel/](https://forum2019.diglib.org/hotel-travel/)
 
 ### **Keynote: Alison Langmead**
 <img alt="meetings" width="250" height="250" src='{{ "/images/ADL_2019.JPG" | prepend: site.baseurl }}'>
