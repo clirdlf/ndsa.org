@@ -10,7 +10,7 @@ permalink: /meetings/
 
 ### **Registration is NOW OPEN!**
 
-Registration for Digital Preservation 2019: Critical Junctures is now open.
+Registration for Digital Preservation 2019: Critical Junctures is now open. The conference program will be released in mid-July.
 
 #### [**Register today!**](https://www.conftool.pro/dlf2019/)
 
@@ -24,11 +24,11 @@ NDSA’s Digital Preservation 2019 (#digipres19):
 New for 2019: increased overlap with the DLF Forum, including access to 2 DLF Forum sessions and the DLF Forum Closing Plenary
 Registration includes two continental breakfasts, one lunch buffet, coffee breaks, and reception
 
-#### Conference Hotel + Travel
+### Conference Hotel + Travel
 
-This year's event will take place at the Tampa Marriott Water Street, 700 South Florida Avenue, Tampa, Florida 33602
+This year's event will take place at the **[Tampa Marriott Water Street, 700 South Florida Avenue, Tampa, Florida 33602](https://www.marriott.com/hotels/travel/tpamc-tampa-marriott-water-street/)**
 
-Learn more and reserve your room at the conference hotel: [https://forum2019.diglib.org/hotel-travel/](https://forum2019.diglib.org/hotel-travel/)
+Learn more and reserve your room: [https://forum2019.diglib.org/hotel-travel/](https://forum2019.diglib.org/hotel-travel/)
 
 ### **Keynote: Alison Langmead**
 <img alt="meetings" width="250" height="250" src='{{ "/images/ADL_2019.JPG" | prepend: site.baseurl }}'>
