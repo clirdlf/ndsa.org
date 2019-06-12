@@ -44,11 +44,9 @@
         <h5>Contact</h5>
         <address>
           NDSA c/o CLIR+DLF<br>
-          1707 L St. NW,<br>
-          Suite 650 <br>
-          Washington, DC 20036 <br>
+          2221 South Clark Street,<br>
+          Arlington, VA 22202 <br>
 
-          <abbr title="Phone">P:</abbr>  (202) 939-4750 <br>
           <abbr title="Email">E:</abbr> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
         </address>
       </div>
@@ -85,14 +83,17 @@
 <script>
   var _gaq = _gaq || [];
   var pluginUrl =
- '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+    '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
   _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
   _gaq.push(['_setAccount', '{{ site.google_analytics }}']);
   _gaq.push(['_trackPageview']);
   (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript';
+    ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
   })();
 </script>
 {% endif %}
@@ -102,20 +103,20 @@
 <script src="{{ "/js/wow.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/jquery.sticky.js" | prepend: site.baseurl }}"></script>
 {% for js in page.javascript %}
-   <script src="{{ js }}"></script>
+<script src="{{ js }}"></script>
 {% endfor %}
 <script src="{{ "/js/app.js"| prepend: site.baseurl }}"></script>
 
 <script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "WebPage",
-  "name": "{{ page.title }}",
-  "description": "{{ page.content | strip_html | xml_escape | truncate: 200 }}",
-  "publisher": {
-    "@type": "EducationalOrganization",
-    "name": "National Digital Stewardship Alliance"
-  },
-  "license": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
-}
+  {
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "{{ page.title }}",
+    "description": "{{ page.content | strip_html | xml_escape | truncate: 200 }}",
+    "publisher": {
+      "@type": "EducationalOrganization",
+      "name": "National Digital Stewardship Alliance"
+    },
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  }
 </script>
