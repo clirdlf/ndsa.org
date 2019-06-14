@@ -3,26 +3,25 @@ title: NDSA Members
 layout: page
 permalink: /members-list/
 css:
-  - https://npmcdn.com/leaflet@0.7.7/dist/leaflet.css
-  - /css/bootstrap-table.min.css
+- https://unpkg.com/leaflet@1.5.1/dist/leaflet.css
+- https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table.min.css
 javascript:
-  - https://npmcdn.com/leaflet@0.7.7/dist/leaflet.js
-  - /data/member_map.js
-  - /js/bootstrap-table.min.js
+- https://unpkg.com/leaflet@1.5.1/dist/leaflet.js
+- /data/member_map.js
+- /js/map.js
+- https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table.min.js
 ---
-<p>Browse <!--geographically, -->or search and sort below!</p>
+<p>Browse
+  <!--geographically, -->or search and sort below!</p>
 <style>
-#map { height: 0px; }
+  #map {
+    height: 400px;
+  }
 </style>
 
 <div id="map"></div>
 
-<table
-  data-toggle="table"
-  data-search="true"
-  data-pagination="true"
-  data-url="{{ '/data/members.json' | prepend: site.base_url }}"
->
+<table data-toggle="table" data-search="true" data-page-size="25" data-pagination="true" data-url="{{ '/data/members.json' | prepend: site.base_url }}">
   <thead>
     <tr>
       <th data-field="organization" data-sortable="true">Organization</th>

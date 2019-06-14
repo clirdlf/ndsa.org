@@ -5,11 +5,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.5197135, 39.1301685]
+        "coordinates": [-84.5124602, 39.1014537]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Cincinnati Libraries</a></h2><p>Partner since <strong>May 2019</strong></p>"
+        "popupContent": "<h2><a href=\"https://libraries.uc.edu\">University of Cincinnati Libraries</a></h2><p>Partner since <strong>May 2019</strong></p><p>Cincinnati, OH</p>"
       },
       "id": 1
     },
@@ -17,11 +17,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.2510807, 41.8057429]
+        "coordinates": [-72.2495231, 41.8084314]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://Https://lib.uconn.edu\">University of Connecticut Library</a></h2><p>Partner since <strong>April 2019</strong></p>"
+        "popupContent": "<h2><a href=\"http://Https://lib.uconn.edu\">University of Connecticut Library</a></h2><p>Partner since <strong>April 2019</strong></p><p>Storrs, Connecticut</p>"
       },
       "id": 2
     },
@@ -29,11 +29,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.3080699, 47.65576645]
+        "coordinates": [-122.3300624, 47.6038321]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.lib.washington.edu\">University of Washington Libraries</a></h2><p>Partner since <strong>April 2019</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.lib.washington.edu\">University of Washington Libraries</a></h2><p>Partner since <strong>April 2019</strong></p><p>Seattle, WA</p>"
       },
       "id": 3
     },
@@ -41,11 +41,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [38.216911, -85.760273]
+        "coordinates": [-85.759407, 38.2542376]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Louisville Libraries</a></h2><p>Partner since <strong>March 2019</strong></p>"
+        "popupContent": "<h2><a href=\"http://library.louisville.edu/\">University of Louisville Libraries</a></h2><p>Partner since <strong>March 2019</strong></p><p>Louisville, KY</p>"
       },
       "id": 4
     },
@@ -53,11 +53,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [38.888676, -77.004676]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://loc.gov\">Library of Congress</a></h2><p>Partner since <strong>February 2019</strong></p>"
+        "popupContent": "<h2><a href=\"http://loc.gov\">Library of Congress</a></h2><p>Partner since <strong>February 2019</strong></p><p> Washington, , DC </p>"
       },
       "id": 5
     },
@@ -65,11 +65,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.48, 34]
+        "coordinates": [2.6500745, 39.5695818]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of the Balearic Islands</a></h2><p>Partner since <strong>February 2019</strong></p>"
+        "popupContent": "<h2><a href=\"https://www.uib.eu/\">University of the Balearic Islands</a></h2><p>Partner since <strong>February 2019</strong></p><p>Palma, Illes Balears - Spain</p>"
       },
       "id": 6
     },
@@ -81,7 +81,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Colorado Boulder</a></h2><p>Partner since <strong>February 2019</strong></p>"
+        "popupContent": "<h2><a href=\"https://www.colorado.edu\">University of Colorado Boulder</a></h2><p>Partner since <strong>February 2019</strong></p><p>Boudler, CO</p>"
       },
       "id": 7
     },
@@ -89,11 +89,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.1197505, 42.40629165]
+        "coordinates": [-71.1061639, 42.4184296]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Tufts University Digital Collections and Archives</a></h2><p>Partner since <strong>November 2018</strong></p>"
+        "popupContent": "<h2><a href=\"https://sites.tufts.edu/dca/\">Tufts University Digital Collections and Archives</a></h2><p>Partner since <strong>November 2018</strong></p><p>Medford, MA</p>"
       },
       "id": 8
     },
@@ -101,11 +101,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.8134657, 39.5469449]
+        "coordinates": [-119.8136744, 39.52927]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.unr.edu\">University of Nevada, Reno</a></h2><p>Partner since <strong>September 2018</strong></p>"
+        "popupContent": "<h2><a href=\"http://library.unr.edu\">University of Nevada, Reno</a></h2><p>Partner since <strong>September 2018</strong></p><p>Reno, NV</p>"
       },
       "id": 9
     },
@@ -113,11 +113,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.0400092, 39.999919]
+        "coordinates": [-111.8904308, 40.7670126]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">J. Willard Marriott Library, University of Utah</a></h2><p>Partner since <strong>August 2018</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.lib.utah.edu\">J. Willard Marriott Library, University of Utah</a></h2><p>Partner since <strong>August 2018</strong></p><p>Salt Lake City, UT</p>"
       },
       "id": 10
     },
@@ -125,11 +125,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-95.3388619, 29.7188196]
+        "coordinates": [-83.376398, 33.9597677]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.libs.uga.edu\">University of Georgia Libraries</a></h2><p>Partner since <strong>July 2018</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.libs.uga.edu\">University of Georgia Libraries</a></h2><p>Partner since <strong>July 2018</strong></p><p>Athens, GA</p>"
       },
       "id": 11
     },
@@ -137,11 +137,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.505187, 38.0366948]
+        "coordinates": [-96.667821, 40.8]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Nebraska-Lincoln</a></h2><p>Partner since <strong>July 2018</strong></p>"
+        "popupContent": "<h2><a href=\"https://www.unl.edu/\">University of Nebraska-Lincoln</a></h2><p>Partner since <strong>July 2018</strong></p><p>Lincoln, NE</p>"
       },
       "id": 12
     },
@@ -149,11 +149,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.3581, 33.7878]
+        "coordinates": [-84.4970393, 38.0464066]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Kentucky Libraries</a></h2><p>Partner since <strong>July 2018</strong></p>"
+        "popupContent": "<h2><a href=\"http://libraries.uky.edu\">University of Kentucky Libraries</a></h2><p>Partner since <strong>July 2018</strong></p><p>Lexington, KY</p>"
       },
       "id": 13
     },
@@ -161,11 +161,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-110.9493, 32.2311]
+        "coordinates": [-71.0582912, 42.3602534]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Isabella Stewart Gardner Museum</a></h2><p>Partner since <strong>May 2018</strong></p>"
+        "popupContent": "<h2><a href=\"https://www.gardnermuseum.org\">Isabella Stewart Gardner Museum</a></h2><p>Partner since <strong>May 2018</strong></p><p>Boston, MA</p>"
       },
       "id": 14
     },
@@ -173,11 +173,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.9922, 40.4466]
+        "coordinates": [-83.6513229, 41.3747744]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Bowling Green State University Libraries</a></h2><p>Partner since <strong>March 2018</strong></p>"
+        "popupContent": "<h2><a href=\"https://www.bgsu.edu/library/special-collections-and-libraries.html\">Bowling Green State University Libraries</a></h2><p>Partner since <strong>March 2018</strong></p><p>Bowling Green, OH</p>"
       },
       "id": 15
     },
@@ -185,11 +185,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.9904, 40.7562]
+        "coordinates": [-96.3271538, 30.6253463]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Texas A&M University Libraries</a></h2><p>Partner since <strong>February 2018</strong></p>"
+        "popupContent": "<h2><a href=\"http://library.tamu.edu/\">Texas A&M University Libraries</a></h2><p>Partner since <strong>February 2018</strong></p><p>College Station, TX</p>"
       },
       "id": 16
     },
@@ -197,11 +197,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.1542, 46.7319]
+        "coordinates": [-76.7519753, 38.8165274]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.wrlc.org\">Washington Research Library Consortium</a></h2><p>Partner since <strong>February 2018</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.wrlc.org\">Washington Research Library Consortium</a></h2><p>Partner since <strong>February 2018</strong></p><p>Upper Marlboro, MD</p>"
       },
       "id": 17
     },
@@ -209,11 +209,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-85.8889, 42.9639]
+        "coordinates": [-4.2910361, 55.8732557]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Digital Preservation Coalition</a></h2><p>Partner since <strong>February 2018</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.dpconline.org\">Digital Preservation Coalition</a></h2><p>Partner since <strong>February 2018</strong></p><p>Glasgow, Scotland</p>"
       },
       "id": 18
     },
@@ -221,11 +221,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.30694233, 40.0071506]
+        "coordinates": [-75.3002556, 40.0139837]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Haverford College</a></h2><p>Partner since <strong>January 2018</strong></p>"
+        "popupContent": "<h2><a href=\"https://www.haverford.edu/\">Haverford College</a></h2><p>Partner since <strong>January 2018</strong></p><p>Haverford, PA</p>"
       },
       "id": 19
     },
@@ -233,11 +233,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.1685, 42.3355]
+        "coordinates": [-98.1624501, 26.3013982]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.mosthistory.org\">The Museum of South Texas History</a></h2><p>Partner since <strong>November 2017</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.mosthistory.org\">The Museum of South Texas History</a></h2><p>Partner since <strong>November 2017</strong></p><p>Edinburg, TX</p>"
       },
       "id": 20
     },
@@ -245,11 +245,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.1899, 39.9566]
+        "coordinates": [-97.7436995, 30.2711286]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Texas Digital Library</a></h2><p>Partner since <strong>October 2017</strong></p>"
+        "popupContent": "<h2><a href=\"https://www.tdl.org/\">Texas Digital Library</a></h2><p>Partner since <strong>October 2017</strong></p><p>Austin, TX</p>"
       },
       "id": 21
     },
@@ -257,11 +257,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-87.6515, 41.8982]
+        "coordinates": [-86.23822026, 41.70456775]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Hesburgh Libraries at the University of Notre Dame</a></h2><p>Partner since <strong>September 2017</strong></p>"
+        "popupContent": "<h2><a href=\"https://library.nd.edu/\">Hesburgh Libraries at the University of Notre Dame</a></h2><p>Partner since <strong>September 2017</strong></p><p>Notre Dame, IN</p>"
       },
       "id": 22
     },
@@ -269,11 +269,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.0665, 42.3591]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.whitehousehistory.org\">White House Historical Association</a></h2><p>Partner since <strong>September 2017</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.whitehousehistory.org\">White House Historical Association</a></h2><p>Partner since <strong>September 2017</strong></p><p>Washington, District of Columbia</p>"
       },
       "id": 23
     },
@@ -281,11 +281,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.8599, 40.7982]
+        "coordinates": [-83.0007065, 39.9622601]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">The Ohio State University Libraries</a></h2><p>Partner since <strong>August 2017</strong></p>"
+        "popupContent": "<h2><a href=\"https://library.osu.edu/\">The Ohio State University Libraries</a></h2><p>Partner since <strong>August 2017</strong></p><p>Columbus, OH</p>"
       },
       "id": 24
     },
@@ -293,11 +293,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.0149, 39.9992]
+        "coordinates": [-97.5325462, 35.49482585]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Pennsylvania State University Libraries</a></h2><p>Partner since <strong>July 2017</strong></p>"
+        "popupContent": "<h2><a href=\"https://libraries.psu.edu/\">Pennsylvania State University Libraries</a></h2><p>Partner since <strong>July 2017</strong></p><p>University Park, PA</p>"
       },
       "id": 25
     },
@@ -305,11 +305,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0383405, 38.8994768]
+        "coordinates": [-83.0466403, 42.3315509]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Wayne State University Student Chapter</a></h2><p>Partner since <strong>July 2017</strong></p>"
+        "popupContent": "<h2><a href=\"https://www.facebook.com/wsustudentndsa/\">Wayne State University Student Chapter</a></h2><p>Partner since <strong>July 2017</strong></p><p>Detroit , MI</p>"
       },
       "id": 26
     },
@@ -317,11 +317,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-86.2342, 41.7024]
+        "coordinates": [-87.6244212, 41.8755616]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://mediaburn.org\">Media Burn Archive</a></h2><p>Partner since <strong>July 2017</strong></p>"
+        "popupContent": "<h2><a href=\"http://mediaburn.org\">Media Burn Archive</a></h2><p>Partner since <strong>July 2017</strong></p><p>Chicago, IL</p>"
       },
       "id": 27
     },
@@ -329,11 +329,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-97.7382, 30.2827]
+        "coordinates": [-75.1635262, 39.9527237]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://Drexel.edu/library\">Drexel University Libraries</a></h2><p>Partner since <strong>June 2017</strong></p>"
+        "popupContent": "<h2><a href=\"http://Drexel.edu/library\">Drexel University Libraries</a></h2><p>Partner since <strong>June 2017</strong></p><p>Philadelphia, PA</p>"
       },
       "id": 28
     },
@@ -341,11 +341,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-98.1613463, 26.3027948]
+        "coordinates": [-72.3481406, 42.5750869]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.bc.edu\">Boston College</a></h2><p>Partner since <strong>June 2017</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.bc.edu\">Boston College</a></h2><p>Partner since <strong>June 2017</strong></p><p>Chestnut Hill, MA</p>"
       },
       "id": 29
     },
@@ -353,11 +353,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.305656, 40.0093478]
+        "coordinates": [-123.1118379, 49.28845245]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.coppul.ca/\">Council of Prairie and Pacific University Libraries (COPPUL)</a></h2><p>Partner since <strong>May 2017</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.coppul.ca/\">Council of Prairie and Pacific University Libraries (COPPUL)</a></h2><p>Partner since <strong>May 2017</strong></p><p>Vancouver, British Columbia, CANADA</p>"
       },
       "id": 30
     },
@@ -365,11 +365,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.2912115, 55.8728978]
+        "coordinates": [-85.9536535, 42.9722455]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Grand Valley State University Libraries</a></h2><p>Partner since <strong>May 2017</strong></p>"
+        "popupContent": "<h2><a href=\"https://www.gvsu.edu/library/\">Grand Valley State University Libraries</a></h2><p>Partner since <strong>May 2017</strong></p><p>Allendale, Michigan</p>"
       },
       "id": 31
     },
@@ -377,11 +377,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.728755, 38.875026]
+        "coordinates": [-117.173895, 46.7304268]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Center for Digital Scholarship and Curation</a></h2><p>Partner since <strong>April 2017</strong></p>"
+        "popupContent": "<h2><a href=\"https://cdsc.libraries.wsu.edu/\">Center for Digital Scholarship and Curation</a></h2><p>Partner since <strong>April 2017</strong></p><p>Pullman, WA</p>"
       },
       "id": 32
     },
@@ -389,11 +389,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-96.3388426, 30.6168278]
+        "coordinates": [-74.0060152, 40.7127281]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Code Ocean</a></h2><p>Partner since <strong>March 2017</strong></p>"
+        "popupContent": "<h2><a href=\"https://codeocean.com\">Code Ocean</a></h2><p>Partner since <strong>March 2017</strong></p><p>New York, NY</p>"
       },
       "id": 33
     },
@@ -401,11 +401,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.635107, 41.376503]
+        "coordinates": [-79.9900861, 40.4416941]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.heinzhistorycenter.org\">Heinz History Center</a></h2><p>Partner since <strong>March 2017</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.heinzhistorycenter.org\">Heinz History Center</a></h2><p>Partner since <strong>March 2017</strong></p><p>Pittsburgh, PA</p>"
       },
       "id": 34
     },
@@ -413,11 +413,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.098889, 42.338611]
+        "coordinates": [-110.9262353, 32.2218917]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.library.arizona.edu\">The University of Arizona Libraries</a></h2><p>Partner since <strong>January 2017</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.library.arizona.edu\">The University of Arizona Libraries</a></h2><p>Partner since <strong>January 2017</strong></p><p>Tucson, AZ</p>"
       },
       "id": 35
     },
@@ -425,11 +425,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.504, 38.0307]
+        "coordinates": [-118.3581284, 33.7877943]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.komodocloud.com\">Komodo Cloud</a></h2><p>Partner since <strong>August 2016</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.komodocloud.com\">Komodo Cloud</a></h2><p>Partner since <strong>August 2016</strong></p><p>Rolling Hills Estates, CA</p>"
       },
       "id": 36
     },
@@ -437,11 +437,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-96.7005, 40.8202]
+        "coordinates": [-78.4766781, 38.029306]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://aptrust.org\">Academic Preservation Trust (APTrust)</a></h2><p>Partner since <strong>June 2016</strong></p>"
+        "popupContent": "<h2><a href=\"http://aptrust.org\">Academic Preservation Trust (APTrust)</a></h2><p>Partner since <strong>June 2016</strong></p><p>Charlottesville, VA</p>"
       },
       "id": 37
     },
@@ -449,11 +449,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.3738, 33.9541]
+        "coordinates": [-95.3676974, 29.7589382]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Houston Libraries</a></h2><p>Partner since <strong>May 2016</strong></p>"
+        "popupContent": "<h2><a href=\"http://info.lib.uh.edu/\">University of Houston Libraries</a></h2><p>Partner since <strong>May 2016</strong></p><p>Houston, TX</p>"
       },
       "id": 38
     },
@@ -461,11 +461,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.8421, 40.7649]
+        "coordinates": [-83.0007065, 39.9622601]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ohiolink.edu\">OhioLINK</a></h2><p>Partner since <strong>April 2016</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.ohiolink.edu\">OhioLINK</a></h2><p>Partner since <strong>April 2016</strong></p><p>Columbus, OH</p>"
       },
       "id": 39
     },
@@ -473,11 +473,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.8164, 39.5442]
+        "coordinates": [-74.0509725, 40.2962222]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.vcfed.org\">Vintage Computer Federation</a></h2><p>Partner since <strong>April 2016</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.vcfed.org\">Vintage Computer Federation</a></h2><p>Partner since <strong>April 2016</strong></p><p>Eatontown, NJ</p>"
       },
       "id": 40
     },
@@ -485,11 +485,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.119, 42.4075]
+        "coordinates": [-73.7145746, 41.0409305]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Purchase College Library</a></h2><p>Partner since <strong>April 2016</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.purchase.edu/departments/library\">Purchase College Library</a></h2><p>Partner since <strong>April 2016</strong></p><p>Purchase, NY</p>"
       },
       "id": 41
     },
@@ -497,11 +497,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-105.2659, 40.0076]
+        "coordinates": [-122.1238767, 47.6694141]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.gatesarchive.com \">Gates Archive</a></h2><p>Partner since <strong>April 2016</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.gatesarchive.com \">Gates Archive</a></h2><p>Partner since <strong>April 2016</strong></p><p>Redmond, WA</p>"
       },
       "id": 42
     },
@@ -509,11 +509,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [2.6456, 39.6412]
+        "coordinates": [-118.4965129, 34.0250724]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.digitalbedrock.com\">Digital Bedrock</a></h2><p>Partner since <strong>March 2016</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.digitalbedrock.com\">Digital Bedrock</a></h2><p>Partner since <strong>March 2016</strong></p><p>Santa Monica, CA</p>"
       },
       "id": 43
     },
@@ -521,11 +521,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0047, 38.8887]
+        "coordinates": [-75.31734069, 40.0238245]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.brynmawr.edu\">Bryn Mawr College</a></h2><p>Partner since <strong>February 2016</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.brynmawr.edu\">Bryn Mawr College</a></h2><p>Partner since <strong>February 2016</strong></p><p>Bryn Mawr, PA</p>"
       },
       "id": 44
     },
@@ -533,11 +533,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0229237, 38.9026536]
+        "coordinates": [-122.0832101, 37.3893889]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Computer History Museum</a></h2><p>Partner since <strong>November 2015</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.computerhistory.org\">Computer History Museum</a></h2><p>Partner since <strong>November 2015</strong></p><p>Mountain View, CA</p>"
       },
       "id": 45
     },
@@ -545,11 +545,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.9437223, 40.4410852]
+        "coordinates": [-80.32888594, 26.1482449]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">The Miami Music Museum, Inc.</a></h2><p>Partner since <strong>September 2015</strong></p>"
+        "popupContent": "<h2><a href=\"http://miamimusicmuseum.org\">The Miami Music Museum, Inc.</a></h2><p>Partner since <strong>September 2015</strong></p><p>Sunrise, FL</p>"
       },
       "id": 46
     },
@@ -557,11 +557,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.7544334, 44.3363072]
+        "coordinates": [-79.9900861, 40.4416941]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Pittsburgh</a></h2><p>Partner since <strong>June 2015</strong></p>"
+        "popupContent": "<h2><a href=\"http://library.pitt.edu/\">University of Pittsburgh</a></h2><p>Partner since <strong>June 2015</strong></p><p>Pittsburgh, PA</p>"
       },
       "id": 47
     },
@@ -569,11 +569,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.4957757, 38.5744058]
+        "coordinates": [-117.1627714, 32.7174209]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">San Diego County Recorder's Office</a></h2><p>Partner since <strong>March 2015</strong></p>"
+        "popupContent": "<h2><a href=\"http:// https://arcc.sdcounty.ca.gov/pages/default.aspx\">San Diego County Recorder's Office</a></h2><p>Partner since <strong>March 2015</strong></p><p>San Diego, CA</p>"
       },
       "id": 48
     },
@@ -581,11 +581,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-85.8883517, 42.9637675]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">\"The President's Own\" United States Marine Band</a></h2><p>Partner since <strong>March 2015</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.marineband.marines.mil\">\"The President's Own\" United States Marine Band</a></h2><p>Partner since <strong>March 2015</strong></p><p>Washington, DC</p>"
       },
       "id": 49
     },
@@ -593,11 +593,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-95.7747342, 39.0562129]
+        "coordinates": [-116.200835, 43.61656]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">MediaFox LLC</a></h2><p>Partner since <strong>February 2015</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.themediafox.com/\">MediaFox LLC</a></h2><p>Partner since <strong>February 2015</strong></p><p>Boise, ID</p>"
       },
       "id": 50
     },
@@ -605,11 +605,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-96.5824425, 39.1870409]
+        "coordinates": [-71.0582912, 42.3602534]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Massachusetts Archives</a></h2><p>Partner since <strong>November 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.sec.state.ma.us/arc/\">Massachusetts Archives</a></h2><p>Partner since <strong>November 2014</strong></p><p>Boston, MA</p>"
       },
       "id": 51
     },
@@ -617,11 +617,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.7648587, 39.1638936]
+        "coordinates": [-157.7960716, 21.4055]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">LLMC-Digital (Law Library Microform Consortium)</a></h2><p>Partner since <strong>October 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.llmc.com/\">LLMC-Digital (Law Library Microform Consortium)</a></h2><p>Partner since <strong>October 2014</strong></p><p>Kaneohe, HI</p>"
       },
       "id": 52
     },
@@ -629,11 +629,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.3111156, 38.8345098]
+        "coordinates": [-77.4381069, 37.5289588]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Virginia Commonwealth University Libraries</a></h2><p>Partner since <strong>October 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.library.vcu.edu/\">Virginia Commonwealth University Libraries</a></h2><p>Partner since <strong>October 2014</strong></p><p>Richmond, VA</p>"
       },
       "id": 53
     },
@@ -641,11 +641,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.0534118, 42.3347866]
+        "coordinates": [-73.8584684, 41.085652]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Rockefeller Archive Center</a></h2><p>Partner since <strong>October 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://rockarch.org/\">Rockefeller Archive Center</a></h2><p>Partner since <strong>October 2014</strong></p><p>Sleepy Hollow, NY</p>"
       },
       "id": 54
     },
@@ -653,11 +653,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-90.2099999, 38.63]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Gallinger Consulting</a></h2><p>Partner since <strong>October 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http:// https://gallingerconsult.wordpress.com\">Gallinger Consulting</a></h2><p>Partner since <strong>October 2014</strong></p><p>Washington, DC</p>"
       },
       "id": 55
     },
@@ -665,11 +665,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.1955524, 43.6153701]
+        "coordinates": [-75.1635262, 39.9527237]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">George Blood Audiovisual LC</a></h2><p>Partner since <strong>September 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.georgeblood.com/\">George Blood Audiovisual LC</a></h2><p>Partner since <strong>September 2014</strong></p><p>Philadelphia, PA</p>"
       },
       "id": 56
     },
@@ -677,11 +677,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.7281728, 33.5969729]
+        "coordinates": [-72.288666, 43.703622]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Dartmouth College Library</a></h2><p>Partner since <strong>September 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://library.dartmouth.edu\">Dartmouth College Library</a></h2><p>Partner since <strong>September 2014</strong></p><p>Hanover, NH</p>"
       },
       "id": 57
     },
@@ -689,11 +689,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.0637714, 42.3581549]
+        "coordinates": [-93.1015026, 44.9504037]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Seagate Government Solutions</a></h2><p>Partner since <strong>July 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.instrumental.com\">Seagate Government Solutions</a></h2><p>Partner since <strong>July 2014</strong></p><p>Saint Paul, MN</p>"
       },
       "id": 58
     },
@@ -701,11 +701,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.0970296, 33.4481163]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Georgetown University Library</a></h2><p>Partner since <strong>July 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.library.georgetown.edu\">Georgetown University Library</a></h2><p>Partner since <strong>July 2014</strong></p><p>Washington, DC</p>"
       },
       "id": 59
     },
@@ -713,11 +713,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0083969, 38.9042312]
+        "coordinates": [-97.7436995, 30.2711286]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Texas State Library and Archives Commission</a></h2><p>Partner since <strong>July 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.tsl.texas.gov\">Texas State Library and Archives Commission</a></h2><p>Partner since <strong>July 2014</strong></p><p>Austin, TX</p>"
       },
       "id": 60
     },
@@ -725,11 +725,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.9896696, 41.25713055]
+        "coordinates": [-72.9250518, 41.3082138]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Yale University Library</a></h2><p>Partner since <strong>July 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://library.yale.edu\">Yale University Library</a></h2><p>Partner since <strong>July 2014</strong></p><p>New Haven, CT</p>"
       },
       "id": 61
     },
@@ -737,11 +737,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-87.6066765, 41.8663817]
+        "coordinates": [-96.5716694, 39.1836082]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Kansas State University Libraries</a></h2><p>Partner since <strong>May 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.lib.k-state.edu/\">Kansas State University Libraries</a></h2><p>Partner since <strong>May 2014</strong></p><p>Manhattan, KS</p>"
       },
       "id": 62
     },
@@ -749,11 +749,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.2675335, 37.808281]
+        "coordinates": [-72.75549721, 44.33712535]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">VT Center for Geographic Information</a></h2><p>Partner since <strong>May 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://vcgi.vermont.gov\">VT Center for Geographic Information</a></h2><p>Partner since <strong>May 2014</strong></p><p>Waterbury, VT</p>"
       },
       "id": 63
     },
@@ -761,11 +761,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.403784, 29.689113]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">NPR (National Public Radio)</a></h2><p>Partner since <strong>May 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://npr.org\">NPR (National Public Radio)</a></h2><p>Partner since <strong>May 2014</strong></p><p>Washington, DC</p>"
       },
       "id": 64
     },
@@ -773,11 +773,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.0037948, 40.4399982]
+        "coordinates": [-85.9536535, 42.9722455]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Grand Valley State University Libraries</a></h2><p>Partner since <strong>May 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://gvsu.edu/library/\">Grand Valley State University Libraries</a></h2><p>Partner since <strong>May 2014</strong></p><p>Allendale, MI</p>"
       },
       "id": 65
     },
@@ -785,11 +785,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.4261366, 28.6563095]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Historical Society of Washington, D.C.</a></h2><p>Partner since <strong>May 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.historydc.org/\">Historical Society of Washington, D.C.</a></h2><p>Partner since <strong>May 2014</strong></p><p>Washington, DC</p>"
       },
       "id": 66
     },
@@ -797,11 +797,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-86.5186022, 39.1714266]
+        "coordinates": [-86.3006485, 32.3669656]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Alabama Department of Archives and History</a></h2><p>Partner since <strong>May 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.archives.alabama.gov/\">Alabama Department of Archives and History</a></h2><p>Partner since <strong>May 2014</strong></p><p>Montgomery, AL</p>"
       },
       "id": 67
     },
@@ -809,11 +809,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-93.0954956, 44.9490497]
+        "coordinates": [-79.9900861, 40.4416941]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Carnegie Mellon University Libraries</a></h2><p>Partner since <strong>April 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://search.library.cmu.edu/\">Carnegie Mellon University Libraries</a></h2><p>Partner since <strong>April 2014</strong></p><p>Pittsburgh, PA</p>"
       },
       "id": 68
     },
@@ -821,11 +821,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.16, 46.53]
+        "coordinates": [-79.9900861, 40.4416941]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Forever, Inc.</a></h2><p>Partner since <strong>April 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.forever.com\">Forever, Inc.</a></h2><p>Partner since <strong>April 2014</strong></p><p>Pittsburgh, PA</p>"
       },
       "id": 69
     },
@@ -833,11 +833,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.039448, 38.8988111]
+        "coordinates": [-77.1527573, 39.0840054]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">History Associates</a></h2><p>Partner since <strong>March 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.historyassociates.com\">History Associates</a></h2><p>Partner since <strong>March 2014</strong></p><p>Rockville, MD</p>"
       },
       "id": 70
     },
@@ -845,11 +845,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0988323, 38.9959508]
+        "coordinates": [-88.2433829, 40.1164205]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Board of Trustees of the University of Illinois</a></h2><p>Partner since <strong>March 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.uiuc.edu\">Board of Trustees of the University of Illinois</a></h2><p>Partner since <strong>March 2014</strong></p><p>Champaign, IL</p>"
       },
       "id": 71
     },
@@ -857,11 +857,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.9497247, 36.025539]
+        "coordinates": [-76.62047464, 39.2847494]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Maryland Digital Library, Decker Library</a></h2><p>Partner since <strong>March 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://md-diglib.org/\">Maryland Digital Library, Decker Library</a></h2><p>Partner since <strong>March 2014</strong></p><p>Baltimore, MD</p>"
       },
       "id": 72
     },
@@ -869,11 +869,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.1654257, 38.8078085]
+        "coordinates": [-75.1635262, 39.9527237]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Presbyterian Historical Society</a></h2><p>Partner since <strong>February 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://history.pcusa.org\">Presbyterian Historical Society</a></h2><p>Partner since <strong>February 2014</strong></p><p>Philadelphia, PA</p>"
       },
       "id": 73
     },
@@ -881,11 +881,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.66, 35.67]
+        "coordinates": [-75.7508289, 39.6852191]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Delaware Library</a></h2><p>Partner since <strong>February 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.lib.udel.edu\">University of Delaware Library</a></h2><p>Partner since <strong>February 2014</strong></p><p>Newark, DE</p>"
       },
       "id": 74
     },
@@ -893,11 +893,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-105.945357, 35.662312]
+        "coordinates": [-73.86054904, 40.738646]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Princeton University Library</a></h2><p>Partner since <strong>January 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://library.princeton.edu\">Princeton University Library</a></h2><p>Partner since <strong>January 2014</strong></p><p>Princeton, NY</p>"
       },
       "id": 75
     },
@@ -905,11 +905,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.6051229, 35.743037]
+        "coordinates": [-92.2895948, 34.7464809]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Arkansas at Little Rock Center for Arkansas History and Culture</a></h2><p>Partner since <strong>January 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.ualr.edu/cahc\">University of Arkansas at Little Rock Center for Arkansas History and Culture</a></h2><p>Partner since <strong>January 2014</strong></p><p>Little Rock, AR</p>"
       },
       "id": 76
     },
@@ -917,11 +917,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.2103963, 36.0436803]
+        "coordinates": [-73.2135472, 44.4762975]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Vermont Access Network</a></h2><p>Partner since <strong>January 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://vermontaccess.net/\">Vermont Access Network</a></h2><p>Partner since <strong>January 2014</strong></p><p>Burlington, VT</p>"
       },
       "id": 77
     },
@@ -929,11 +929,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-97.5079036, 35.4876622]
+        "coordinates": [-84.1916069, 39.7589478]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Vtechgraphics LLC</a></h2><p>Partner since <strong>January 2014</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.vtechgraphics.com\">Vtechgraphics LLC</a></h2><p>Partner since <strong>January 2014</strong></p><p>Dayton, OH</p>"
       },
       "id": 78
     },
@@ -941,11 +941,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-123.030846, 44.939851]
+        "coordinates": [-117.7258122, 33.5761376]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">EVault, a Seagate Company</a></h2><p>Partner since <strong>December 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.evault.com/\">EVault, a Seagate Company</a></h2><p>Partner since <strong>December 2013</strong></p><p>Aliso Viejo, CA</p>"
       },
       "id": 79
     },
@@ -953,11 +953,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.4413735, 28.4580434]
+        "coordinates": [-76.62047464, 39.2847494]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Enoch Pratt Free Library</a></h2><p>Partner since <strong>December 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.prattlibrary.org/\">Enoch Pratt Free Library</a></h2><p>Partner since <strong>December 2013</strong></p><p>Baltimore, MD</p>"
       },
       "id": 80
     },
@@ -965,11 +965,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.1256524, 42.3796539]
+        "coordinates": [-122.9959133, 38.5017085]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">History of Computing in Learning and Education</a></h2><p>Partner since <strong>October 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://HCLE.org\">History of Computing in Learning and Education</a></h2><p>Partner since <strong>October 2013</strong></p><p>Guerneville, CA</p>"
       },
       "id": 81
     },
@@ -977,11 +977,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.8067707, 39.484245]
+        "coordinates": [-87.62452878, 41.70064135]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Chicago State University Library</a></h2><p>Partner since <strong>September 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http:// http://library.csu.edu/\">Chicago State University Library</a></h2><p>Partner since <strong>September 2013</strong></p><p>Chicago, IL</p>"
       },
       "id": 82
     },
@@ -989,11 +989,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.9281841, 35.9547603]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Dance Heritage Coalition</a></h2><p>Partner since <strong>August 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.danceheritage.org\">Dance Heritage Coalition</a></h2><p>Partner since <strong>August 2013</strong></p><p>Washington, DC</p>"
       },
       "id": 83
     },
@@ -1001,11 +1001,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-89.3796284, 43.0733074]
+        "coordinates": [-118.1444779, 34.1476452]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">California Institute of Technology</a></h2><p>Partner since <strong>August 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.caltech.edu/\">California Institute of Technology</a></h2><p>Partner since <strong>August 2013</strong></p><p>Pasadena, CA</p>"
       },
       "id": 84
     },
@@ -1013,11 +1013,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-89.307678, 43.067659]
+        "coordinates": [-71.0582912, 42.3602534]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Boston University, Mugar Library</a></h2><p>Partner since <strong>August 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://Http://www.bu.edu/library\">Boston University, Mugar Library</a></h2><p>Partner since <strong>August 2013</strong></p><p>Boston, MA</p>"
       },
       "id": 85
     },
@@ -1025,11 +1025,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.9992607, 40.753271]
+        "coordinates": [-92.3337366, 38.951883]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Missouri Libraries</a></h2><p>Partner since <strong>August 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://mulibraries.missouri.edu/\">University of Missouri Libraries</a></h2><p>Partner since <strong>August 2013</strong></p><p>Columbia, MO</p>"
       },
       "id": 86
     },
@@ -1037,11 +1037,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.0291749, 33.9963834]
+        "coordinates": [-74.0060152, 40.7127281]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">AudioVisual Preservation Solutions</a></h2><p>Partner since <strong>July 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.avpreserve.com\">AudioVisual Preservation Solutions</a></h2><p>Partner since <strong>July 2013</strong></p><p>New York, NY</p>"
       },
       "id": 87
     },
@@ -1049,11 +1049,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.6570566, 40.3503239]
+        "coordinates": [-68.672791, 44.883607]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Still Water at the University of Maine</a></h2><p>Partner since <strong>July 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://still-water.net/\">Still Water at the University of Maine</a></h2><p>Partner since <strong>July 2013</strong></p><p>Orono, ME</p>"
       },
       "id": 88
     },
@@ -1061,11 +1061,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.071613, 38.9076729]
+        "coordinates": [-88.7503647, 41.9294736]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Northern Illinois University Library</a></h2><p>Partner since <strong>July 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.ulib.niu.edu/\">Northern Illinois University Library</a></h2><p>Partner since <strong>July 2013</strong></p><p>DeKalb, IL</p>"
       },
       "id": 89
     },
@@ -1073,11 +1073,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.289479, 43.7046557]
+        "coordinates": [-73.2035986, 42.712207]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Williams College</a></h2><p>Partner since <strong>June 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://archives.williams.edu\">Williams College</a></h2><p>Partner since <strong>June 2013</strong></p><p>Williamstown, MA</p>"
       },
       "id": 90
     },
@@ -1085,11 +1085,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.207019, 40.0757679]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Folger Shakespeare Library</a></h2><p>Partner since <strong>June 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.folger.edu\">Folger Shakespeare Library</a></h2><p>Partner since <strong>June 2013</strong></p><p>Washington, DC</p>"
       },
       "id": 91
     },
@@ -1097,11 +1097,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-97.7384341, 30.2739262]
+        "coordinates": [-97.7436995, 30.2711286]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">The University of Texas at Austin</a></h2><p>Partner since <strong>June 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.lib.utexas.edu/\">The University of Texas at Austin</a></h2><p>Partner since <strong>June 2013</strong></p><p>Austin, TX</p>"
       },
       "id": 92
     },
@@ -1109,11 +1109,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.928888, 41.311102]
+        "coordinates": [-71.1056157, 42.3750997]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Digital Public Library of America (DPLA)</a></h2><p>Partner since <strong>May 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://dp.la\">Digital Public Library of America (DPLA)</a></h2><p>Partner since <strong>May 2013</strong></p><p>Cambridge, MA</p>"
       },
       "id": 93
     },
@@ -1121,11 +1121,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-93.1620213, 44.9711821]
+        "coordinates": [-87.6244212, 41.8755616]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">NueMeta LLC</a></h2><p>Partner since <strong>April 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.nuemeta.com\">NueMeta LLC</a></h2><p>Partner since <strong>April 2013</strong></p><p>Chicago, IL</p>"
       },
       "id": 94
     },
@@ -1133,11 +1133,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.8348078, 41.09368]
+        "coordinates": [-78.8300321, 35.824341]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Property Records Industry Association (PRIA)</a></h2><p>Partner since <strong>April 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.pria.us\">Property Records Industry Association (PRIA)</a></h2><p>Partner since <strong>April 2013</strong></p><p>Morrisville, NC</p>"
       },
       "id": 95
     },
@@ -1145,11 +1145,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.05849, 38.911452]
+        "coordinates": [-157.8556764, 21.304547]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">DL Consulting, Ltd.</a></h2><p>Partner since <strong>April 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.dlconsulting.com\">DL Consulting, Ltd.</a></h2><p>Partner since <strong>April 2013</strong></p><p>Honolulu, HI</p>"
       },
       "id": 96
     },
@@ -1157,11 +1157,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.4535006, 37.5477089]
+        "coordinates": [-77.9447107, 34.2257282]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">New Hanover County Register of Deeds</a></h2><p>Partner since <strong>March 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.nhcgov.com/ROD/Pages/ROD.aspx\">New Hanover County Register of Deeds</a></h2><p>Partner since <strong>March 2013</strong></p><p>Wilmington, NC</p>"
       },
       "id": 97
     },
@@ -1173,7 +1173,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">William Dolson & Associates, LLC</a></h2><p>Partner since <strong>March 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.wdolson.com\">William Dolson & Associates, LLC</a></h2><p>Partner since <strong>March 2013</strong></p><p>Villanueva, NM</p>"
       },
       "id": 98
     },
@@ -1181,11 +1181,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.034775, 42.3140057]
+        "coordinates": [-79.9900861, 40.4416941]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">NDSA Student Chapter at Pitt</a></h2><p>Partner since <strong>March 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.ischool.pitt.edu\">NDSA Student Chapter at Pitt</a></h2><p>Partner since <strong>March 2013</strong></p><p>Pittsburgh, PA</p>"
       },
       "id": 99
     },
@@ -1193,781 +1193,13 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.2144407, 43.6206337]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Coalition for Networked Information</a></h2><p>Partner since <strong>February 2013</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.cni.org\">Coalition for Networked Information</a></h2><p>Partner since <strong>February 2013</strong></p><p>Washington, DC</p>"
       },
       "id": 100
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1721077, 32.7219487]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"http://library.ucar.edu\">National Center for Atmospheric Research (NCAR) Library</a></h2><p>Partner since <strong>January 2013</strong></p>"
-      },
-      "id": 101
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.9949742, 38.8792668]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">New York Art Resources Consortium (NYARC)</a></h2><p>Partner since <strong>January 2013</strong></p>"
-      },
-      "id": 102
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3273299, 34.0948159]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Texas Tech University Libraries</a></h2><p>Partner since <strong>January 2013</strong></p>"
-      },
-      "id": 103
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.3004757, 32.3757522]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Pop Up Archive</a></h2><p>Partner since <strong>December 2012</strong></p>"
-      },
-      "id": 104
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.760244, 42.655717]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Brown University Library</a></h2><p>Partner since <strong>November 2012</strong></p>"
-      },
-      "id": 105
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.143281, 39.953403]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">MIT Libraries</a></h2><p>Partner since <strong>November 2012</strong></p>"
-      },
-      "id": 106
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9664908, 40.7633685]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Princeton Theological Seminary Library</a></h2><p>Partner since <strong>November 2012</strong></p>"
-      },
-      "id": 107
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.4838723, 32.6011025]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Adler Planetarium</a></h2><p>Partner since <strong>November 2012</strong></p>"
-      },
-      "id": 108
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.48, 34]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">National Press Photographers Association (NPPA)</a></h2><p>Partner since <strong>November 2012</strong></p>"
-      },
-      "id": 109
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9930736, 40.7482597]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Knowledge Motifs LLC</a></h2><p>Partner since <strong>November 2012</strong></p>"
-      },
-      "id": 110
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-105.353523, 39.663528]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Media Archaeology Lab</a></h2><p>Partner since <strong>September 2012</strong></p>"
-      },
-      "id": 111
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.77929, 36.136148]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Duke University Libraries</a></h2><p>Partner since <strong>September 2012</strong></p>"
-      },
-      "id": 112
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.2388421, 40.0923325]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Five Colleges, Inc.</a></h2><p>Partner since <strong>September 2012</strong></p>"
-      },
-      "id": 113
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1082267, 42.3507232]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">National Film Board of Canada</a></h2><p>Partner since <strong>September 2012</strong></p>"
-      },
-      "id": 114
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.402345, 41.8269626]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Pratt Institute</a></h2><p>Partner since <strong>August 2012</strong></p>"
-      },
-      "id": 115
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1247032, 34.1378866]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Northwestern University</a></h2><p>Partner since <strong>August 2012</strong></p>"
-      },
-      "id": 116
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.495827, 38.5766487]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Testronic Labs</a></h2><p>Partner since <strong>May 2012</strong></p>"
-      },
-      "id": 117
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.9999244, 38.9383082]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Truman Technologies, LLC</a></h2><p>Partner since <strong>May 2012</strong></p>"
-      },
-      "id": 118
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-92.0193606, 30.2148762]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Hampshire College Library</a></h2><p>Partner since <strong>May 2012</strong></p>"
-      },
-      "id": 119
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9093435, 41.0034577]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Institute of Museum and Library Services (Liaison to NDSA)</a></h2><p>Partner since <strong>May 2012</strong></p>"
-      },
-      "id": 120
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.5935825, 41.7846504]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">JVC Advanced Media USA, Inc</a></h2><p>Partner since <strong>March 2012</strong></p>"
-      },
-      "id": 121
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.6108791, 41.719584]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">California State Archives</a></h2><p>Partner since <strong>February 2012</strong></p>"
-      },
-      "id": 122
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0438095, 38.9088606]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Wake Forest University/ Z. Smith Reynolds Library</a></h2><p>Partner since <strong>February 2012</strong></p>"
-      },
-      "id": 123
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9632198, 40.8064029]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Historypin</a></h2><p>Partner since <strong>February 2012</strong></p>"
-      },
-      "id": 124
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.4830579, 42.4467049]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">State Library of Massachusetts</a></h2><p>Partner since <strong>January 2012</strong></p>"
-      },
-      "id": 125
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.76, 42.65]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">North Carolina Center for Geographic Information and Analysis</a></h2><p>Partner since <strong>January 2012</strong></p>"
-      },
-      "id": 126
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0406147, 38.9080786]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">University of Virginia</a></h2><p>Partner since <strong>January 2012</strong></p>"
-      },
-      "id": 127
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.036063, 38.904147]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Mississippi Department of Archives and History</a></h2><p>Partner since <strong>January 2012</strong></p>"
-      },
-      "id": 128
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.7754758, 42.2721528]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Center for Cultural and Eco-Tourism-University of Louisiana</a></h2><p>Partner since <strong>January 2012</strong></p>"
-      },
-      "id": 129
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0774435, 42.3514927]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Ripley Entertainment Inc.</a></h2><p>Partner since <strong>December 2011</strong></p>"
-      },
-      "id": 130
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.2850204, 30.4381205]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">University of South Carolina</a></h2><p>Partner since <strong>December 2011</strong></p>"
-      },
-      "id": 131
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.701769, 40.796734]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Muller Media Conversions</a></h2><p>Partner since <strong>November 2011</strong></p>"
-      },
-      "id": 132
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-78.9472089, 35.9992263]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Library Company of Philadelphia</a></h2><p>Partner since <strong>November 2011</strong></p>"
-      },
-      "id": 133
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.4962498, 42.440893]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">New York Philharmonic</a></h2><p>Partner since <strong>November 2011</strong></p>"
-      },
-      "id": 134
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.3851742, 33.7879505]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Northeast Document Conservation Center</a></h2><p>Partner since <strong>November 2011</strong></p>"
-      },
-      "id": 135
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.3228814, 33.7904328]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">University of Massachusetts Amherst Libraries</a></h2><p>Partner since <strong>November 2011</strong></p>"
-      },
-      "id": 136
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.6175457, 39.2945319]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Audiovisual Archive Network</a></h2><p>Partner since <strong>November 2011</strong></p>"
-      },
-      "id": 137
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1887391, 42.357318]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">U.S. Fish and Wildlife Service</a></h2><p>Partner since <strong>November 2011</strong></p>"
-      },
-      "id": 138
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.5141994, 42.3743599]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">National Park Service</a></h2><p>Partner since <strong>November 2011</strong></p>"
-      },
-      "id": 139
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0030586, 38.8893879]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Indiana Archives and Records Administration</a></h2><p>Partner since <strong>November 2011</strong></p>"
-      },
-      "id": 140
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0190228, 38.912068]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Michigan State University Archives & Historical Collections</a></h2><p>Partner since <strong>November 2011</strong></p>"
-      },
-      "id": 141
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0092955, 38.8998456]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Metropolitan New York Library Council</a></h2><p>Partner since <strong>October 2011</strong></p>"
-      },
-      "id": 142
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.5810988, 39.7879368]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">New York Public Library</a></h2><p>Partner since <strong>October 2011</strong></p>"
-      },
-      "id": 143
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.5314323, 42.3258413]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Ex Libris Group</a></h2><p>Partner since <strong>October 2011</strong></p>"
-      },
-      "id": 144
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.103962, 42.362928]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Wisconsin Dept. of Public Instruction</a></h2><p>Partner since <strong>October 2011</strong></p>"
-      },
-      "id": 145
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [14.30972315, 121.0872267]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Bishoff Group, The</a></h2><p>Partner since <strong>October 2011</strong></p>"
-      },
-      "id": 146
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.1484004, 39.0873509]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Georgetown University Law Library</a></h2><p>Partner since <strong>October 2011</strong></p>"
-      },
-      "id": 147
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-123.003572, 38.517121]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Emory University Library</a></h2><p>Partner since <strong>September 2011</strong></p>"
-      },
-      "id": 148
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.1573709, 39.7713425]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Rhizome</a></h2><p>Partner since <strong>September 2011</strong></p>"
-      },
-      "id": 149
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0406147, 38.9080786]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Hagley Museum & Library</a></h2><p>Partner since <strong>August 2011</strong></p>"
-      },
-      "id": 150
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.4716373, 37.7823215]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">i/oTrak, Inc. - E-Z Photo Scan</a></h2><p>Partner since <strong>August 2011</strong></p>"
-      },
-      "id": 151
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.7754758, 42.2721528]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Catholic University of America, School of Library & Information Science</a></h2><p>Partner since <strong>August 2011</strong></p>"
-      },
-      "id": 152
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.9902276, 38.8831372]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Council of State Archivists</a></h2><p>Partner since <strong>August 2011</strong></p>"
-      },
-      "id": 153
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.6200464, 39.3304957]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Michigan State University Libraries</a></h2><p>Partner since <strong>August 2011</strong></p>"
-      },
-      "id": 154
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.0460894, 42.0467637]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">University of Minnesota Libraries</a></h2><p>Partner since <strong>August 2011</strong></p>"
-      },
-      "id": 155
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.87, 38.2]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Hawaii State Archives</a></h2><p>Partner since <strong>July 2011</strong></p>"
-      },
-      "id": 156
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.332381, 37.5740849]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Albany Institute of History & Art</a></h2><p>Partner since <strong>July 2011</strong></p>"
-      },
-      "id": 157
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-86.5186022, 39.1714266]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Indiana University Libraries</a></h2><p>Partner since <strong>July 2011</strong></p>"
-      },
-      "id": 158
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.1631178, 39.9478101]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Minnesota Public Radio | American Public Media</a></h2><p>Partner since <strong>July 2011</strong></p>"
-      },
-      "id": 159
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-106.31, 35.89]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Montana Dept. of Administration/State Info Technology Services Division</a></h2><p>Partner since <strong>July 2011</strong></p>"
-      },
-      "id": 160
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-69.4454689, 45.253783]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">New Mexico State Library</a></h2><p>Partner since <strong>July 2011</strong></p>"
-      },
-      "id": 161
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-104.845759, 38.894659]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Preservica Inc.</a></h2><p>Partner since <strong>June 2011</strong></p>"
-      },
-      "id": 162
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.6383832, 39.3289463]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Virginia Tech</a></h2><p>Partner since <strong>June 2011</strong></p>"
-      },
-      "id": 163
-    },
-    
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.5008615, 38.9863312]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<h2><a href=\"\">Florida Center for Library Automation</a></h2><p>Partner since <strong>June 2011</strong></p>"
-      },
-      "id": 164
     },
     
     {
@@ -1977,7 +1209,775 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Archive Media Partners</a></h2><p>Partner since <strong>June 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://library.ucar.edu\">National Center for Atmospheric Research (NCAR) Library</a></h2><p>Partner since <strong>January 2013</strong></p><p>Boulder, CO</p>"
+      },
+      "id": 101
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060152, 40.7127281]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.nyarc.org\">New York Art Resources Consortium (NYARC)</a></h2><p>Partner since <strong>January 2013</strong></p><p>New York, NY</p>"
+      },
+      "id": 102
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-101.8551665, 33.5778631]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.library.ttu.edu/\">Texas Tech University Libraries</a></h2><p>Partner since <strong>January 2013</strong></p><p>Lubbock, TX</p>"
+      },
+      "id": 103
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.2713563, 37.8044557]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://popuparchive.org\">Pop Up Archive</a></h2><p>Partner since <strong>December 2012</strong></p><p>Oakland, CA</p>"
+      },
+      "id": 104
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.4128343, 41.8239891]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://library.brown.edu\">Brown University Library</a></h2><p>Partner since <strong>November 2012</strong></p><p>Providence, RI</p>"
+      },
+      "id": 105
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1056157, 42.3750997]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http:// http://libraries.mit.edu/\">MIT Libraries</a></h2><p>Partner since <strong>November 2012</strong></p><p>Cambridge, MA</p>"
+      },
+      "id": 106
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.6592958, 40.3492744]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.ptsem.edu\">Princeton Theological Seminary Library</a></h2><p>Partner since <strong>November 2012</strong></p><p>Princeton, NJ</p>"
+      },
+      "id": 107
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.6244212, 41.8755616]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.adlerplanetarium.org\">Adler Planetarium</a></h2><p>Partner since <strong>November 2012</strong></p><p>Chicago, IL</p>"
+      },
+      "id": 108
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.8751582, 36.0181316]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiruM35h4XNAhXJ8z4KHSPFBI8QFggcMAA&url=https%3A%2F%2Fwww.nppa.org%2F&usg=AFQjCNHRoAfNhdStnxzxDKr5m7--laD9rg&sig2=rmx1L3ZaR_NoZjIVExHhsw&bvm=bv.123325700,d.cWw\">National Press Photographers Association (NPPA)</a></h2><p>Partner since <strong>November 2012</strong></p><p>Durham, NC</p>"
+      },
+      "id": 109
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3330573, 37.496904]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.kmotifs.com\">Knowledge Motifs LLC</a></h2><p>Partner since <strong>November 2012</strong></p><p>San Mateo, CA</p>"
+      },
+      "id": 110
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.2705456, 40.0149856]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://loriemerson.net/archeological-media-lab/\">Media Archaeology Lab</a></h2><p>Partner since <strong>September 2012</strong></p><p>Boulder, CO</p>"
+      },
+      "id": 111
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.8751582, 36.0181316]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://library.duke.edu/\">Duke University Libraries</a></h2><p>Partner since <strong>September 2012</strong></p><p>Durham, NC</p>"
+      },
+      "id": 112
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.523143, 42.3803676]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"https://www.fivecolleges.edu/\">Five Colleges, Inc.</a></h2><p>Partner since <strong>September 2012</strong></p><p>Amherst, MA</p>"
+      },
+      "id": 113
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.69053885, 45.48484875]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://nfb.ca\">National Film Board of Canada</a></h2><p>Partner since <strong>September 2012</strong></p><p>Montreal, </p>"
+      },
+      "id": 114
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060152, 40.7127281]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.pratt.edu/sils\">Pratt Institute</a></h2><p>Partner since <strong>August 2012</strong></p><p>New York, NY</p>"
+      },
+      "id": 115
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.6930459, 42.0447388]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.library.northwestern.edu\">Northwestern University</a></h2><p>Partner since <strong>August 2012</strong></p><p>Evanston, IL</p>"
+      },
+      "id": 116
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3258554, 34.1816482]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.testroniclabs.com\">Testronic Labs</a></h2><p>Partner since <strong>May 2012</strong></p><p>Burbank, CA</p>"
+      },
+      "id": 117
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.2713563, 37.8044557]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.trumantechnologies.com\">Truman Technologies, LLC</a></h2><p>Partner since <strong>May 2012</strong></p><p>Oakland, CA</p>"
+      },
+      "id": 118
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.523143, 42.3803676]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.hampshire.edu/library/index_library.htm\">Hampshire College Library</a></h2><p>Partner since <strong>May 2012</strong></p><p>Amherst, MA</p>"
+      },
+      "id": 119
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0365625, 38.8950092]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.imls.gov\">Institute of Museum and Library Services (Liaison to NDSA)</a></h2><p>Partner since <strong>May 2012</strong></p><p>Washington, DC</p>"
+      },
+      "id": 120
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.083406, 42.0333608]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://jvc-media.com\">JVC Advanced Media USA, Inc</a></h2><p>Partner since <strong>March 2012</strong></p><p>Schaumburg, IL</p>"
+      },
+      "id": 121
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.4943996, 38.5815719]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.sos.ca.gov/archives/\">California State Archives</a></h2><p>Partner since <strong>February 2012</strong></p><p>Sacramento, CA</p>"
+      },
+      "id": 122
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.2440518, 36.0998131]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://zsr.wfu.edu/\">Wake Forest University/ Z. Smith Reynolds Library</a></h2><p>Partner since <strong>February 2012</strong></p><p>Winston-Salem, NC</p>"
+      },
+      "id": 123
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4192363, 37.7792808]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.historypin.com\">Historypin</a></h2><p>Partner since <strong>February 2012</strong></p><p>San Francisco, CA</p>"
+      },
+      "id": 124
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0582912, 42.3602534]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.mass.gov/lib\">State Library of Massachusetts</a></h2><p>Partner since <strong>January 2012</strong></p><p>Boston, MA</p>"
+      },
+      "id": 125
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.6390989, 35.7803977]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.cgia.state.nc.us\">North Carolina Center for Geographic Information and Analysis</a></h2><p>Partner since <strong>January 2012</strong></p><p>Raleigh, NC</p>"
+      },
+      "id": 126
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.4766781, 38.029306]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.lib.virginia.edu/\">University of Virginia</a></h2><p>Partner since <strong>January 2012</strong></p><p>Charlottesville, VA</p>"
+      },
+      "id": 127
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.6486325, 30.4899024]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.mdah.state.ms.us\">Mississippi Department of Archives and History</a></h2><p>Partner since <strong>January 2012</strong></p><p>Jackson, MS</p>"
+      },
+      "id": 128
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.0198427, 30.2240897]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://ccet.louisiana.edu\">Center for Cultural and Eco-Tourism-University of Louisiana</a></h2><p>Partner since <strong>January 2012</strong></p><p>Lafayette, LA</p>"
+      },
+      "id": 129
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.3790388, 28.5421097]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.ripleys.com\">Ripley Entertainment Inc.</a></h2><p>Partner since <strong>December 2011</strong></p><p>Orlando, FL</p>"
+      },
+      "id": 130
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0343313, 34.0007493]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://library.sc.edu/\">University of South Carolina</a></h2><p>Partner since <strong>December 2011</strong></p><p>Columbia, SC</p>"
+      },
+      "id": 131
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.6995749, 40.7978787]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.mullermedia.com\">Muller Media Conversions</a></h2><p>Partner since <strong>November 2011</strong></p><p>Manhasset, NY</p>"
+      },
+      "id": 132
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1635262, 39.9527237]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.librarycompany.org\">Library Company of Philadelphia</a></h2><p>Partner since <strong>November 2011</strong></p><p>Philadelphia, PA</p>"
+      },
+      "id": 133
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060152, 40.7127281]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://archives.nyphil.org/\">New York Philharmonic</a></h2><p>Partner since <strong>November 2011</strong></p><p>New York, NY</p>"
+      },
+      "id": 134
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1408776, 42.65717]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://nedcc.org\">Northeast Document Conservation Center</a></h2><p>Partner since <strong>November 2011</strong></p><p>Andover, MA</p>"
+      },
+      "id": 135
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.523143, 42.3803676]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.library.umass.edu/\">University of Massachusetts Amherst Libraries</a></h2><p>Partner since <strong>November 2011</strong></p><p>Amherst, MA</p>"
+      },
+      "id": 136
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4965129, 34.0250724]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.archivenetwork.org\">Audiovisual Archive Network</a></h2><p>Partner since <strong>November 2011</strong></p><p>Santa Monica, CA</p>"
+      },
+      "id": 137
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.804161, 39.4300996]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://library.fws.govandhttp://digitalmedia.fws.gov\">U.S. Fish and Wildlife Service</a></h2><p>Partner since <strong>November 2011</strong></p><p>Shepherdstown, WV</p>"
+      },
+      "id": 138
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.084204, 39.6246085]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://npsfocus.nps.gov\">National Park Service</a></h2><p>Partner since <strong>November 2011</strong></p><p>Lakewood, CO</p>"
+      },
+      "id": 139
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.1583502, 39.7683331]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.in.gov/icpr\">Indiana Archives and Records Administration</a></h2><p>Partner since <strong>November 2011</strong></p><p>Indianapolis, IN</p>"
+      },
+      "id": 140
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4852469, 42.7355416]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://archives.msu.edu\">Michigan State University Archives & Historical Collections</a></h2><p>Partner since <strong>November 2011</strong></p><p>East Lansing, MI</p>"
+      },
+      "id": 141
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060152, 40.7127281]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://metro.org\">Metropolitan New York Library Council</a></h2><p>Partner since <strong>October 2011</strong></p><p>New York, NY</p>"
+      },
+      "id": 142
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060152, 40.7127281]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.nypl.org\">New York Public Library</a></h2><p>Partner since <strong>October 2011</strong></p><p>New York, NY</p>"
+      },
+      "id": 143
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.2092214, 42.3370414]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.exlibrisgroup.com/\">Ex Libris Group</a></h2><p>Partner since <strong>October 2011</strong></p><p>Newton, MA</p>"
+      },
+      "id": 144
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.3837613, 43.074761]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.wistatedocuments.org\">Wisconsin Dept. of Public Instruction</a></h2><p>Partner since <strong>October 2011</strong></p><p>Madison, WI</p>"
+      },
+      "id": 145
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.321458, 39.6361637]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://n/a\">Bishoff Group, The</a></h2><p>Partner since <strong>October 2011</strong></p><p>Evergreen, CO</p>"
+      },
+      "id": 146
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0365625, 38.8950092]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.ll.georgetown.edu\">Georgetown University Law Library</a></h2><p>Partner since <strong>October 2011</strong></p><p>Washington, DC</p>"
+      },
+      "id": 147
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3901849, 33.7490987]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwibg4nxiIXNAhUWQFIKHX0yB3MQFggdMAA&url=http%3A%2F%2Fweb.library.emory.edu%2F&usg=AFQjCNE9Hk2NonzcwKdoz5lRysa7qhDsRw&sig2=7Cu7A5SQOwOtIDY8IlC_6Q\">Emory University Library</a></h2><p>Partner since <strong>September 2011</strong></p><p>Atlanta, GA</p>"
+      },
+      "id": 148
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060152, 40.7127281]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.rhizome.org\">Rhizome</a></h2><p>Partner since <strong>September 2011</strong></p><p>New York, NY</p>"
+      },
+      "id": 149
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.546589, 39.7459468]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.hagley.org\">Hagley Museum & Library</a></h2><p>Partner since <strong>August 2011</strong></p><p>Wilmington, DE</p>"
+      },
+      "id": 150
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.37626861, 28.6649055]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.ezphotoscanning.com\">i/oTrak, Inc. - E-Z Photo Scan</a></h2><p>Partner since <strong>August 2011</strong></p><p>Altamonte Springs, FL</p>"
+      },
+      "id": 151
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0365625, 38.8950092]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://slis.cua.edu/\">Catholic University of America, School of Library & Information Science</a></h2><p>Partner since <strong>August 2011</strong></p><p>Washington, DC</p>"
+      },
+      "id": 152
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.754968, 42.6511674]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.statearchivists.org\">Council of State Archivists</a></h2><p>Partner since <strong>August 2011</strong></p><p>Albany, NY</p>"
+      },
+      "id": 153
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4852469, 42.7355416]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.lib.msu.edu/\">Michigan State University Libraries</a></h2><p>Partner since <strong>August 2011</strong></p><p>East Lansing, MI</p>"
+      },
+      "id": 154
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.2654692, 44.9772995]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.lib.umn.edu\">University of Minnesota Libraries</a></h2><p>Partner since <strong>August 2011</strong></p><p>Minneapolis, MN</p>"
+      },
+      "id": 155
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-157.8556764, 21.304547]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://hawaii.gov/dags/archives\">Hawaii State Archives</a></h2><p>Partner since <strong>July 2011</strong></p><p>Honolulu, HI</p>"
+      },
+      "id": 156
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.754968, 42.6511674]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiv-oWjiIXNAhXD2T4KHWXcCacQFggeMAA&url=http%3A%2F%2Fwww.albanyinstitute.org%2F&usg=AFQjCNGBzlG5qHIlUiseWxPeZ9B0CNS7Vg&sig2=Q5FLkiJk8o-SZdN8GEhxag\">Albany Institute of History & Art</a></h2><p>Partner since <strong>July 2011</strong></p><p>Albany, NY</p>"
+      },
+      "id": 157
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.5342881, 39.1670396]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.libraries.iub.edu/\">Indiana University Libraries</a></h2><p>Partner since <strong>July 2011</strong></p><p>Bloomington, IN</p>"
+      },
+      "id": 158
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.1015026, 44.9504037]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://archive.mprnews.org/\">Minnesota Public Radio | American Public Media</a></h2><p>Partner since <strong>July 2011</strong></p><p>St. Paul, MN</p>"
+      },
+      "id": 159
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.036109, 46.592712]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://itsd.mt.gov/default.mcpx\">Montana Dept. of Administration/State Info Technology Services Division</a></h2><p>Partner since <strong>July 2011</strong></p><p>Helena, MT</p>"
+      },
+      "id": 160
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.9377997, 35.6869996]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.nmstatelibrary.org\">New Mexico State Library</a></h2><p>Partner since <strong>July 2011</strong></p><p>Santa Fe, NM</p>"
+      },
+      "id": 161
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.2092214, 42.3370414]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.digital-preservation.com\">Preservica Inc.</a></h2><p>Partner since <strong>June 2011</strong></p><p>Newton, MA</p>"
+      },
+      "id": 162
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.4136767, 37.2296566]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://scholar.lib.vt.edu/\">Virginia Tech</a></h2><p>Partner since <strong>June 2011</strong></p><p>Blacksburg, VA</p>"
+      },
+      "id": 163
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.3233746, 29.67357765]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://fclaweb.fcla.edu\">Florida Center for Library Automation</a></h2><p>Partner since <strong>June 2011</strong></p><p>Gainesville, FL</p>"
+      },
+      "id": 164
+    },
+    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.0466403, 42.3315509]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<h2><a href=\"http://www.archivemediapartners.com/AMPed\">Archive Media Partners</a></h2><p>Partner since <strong>June 2011</strong></p><p>Detroit, MI</p>"
       },
       "id": 165
     },
@@ -1985,11 +1985,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.9874105, 40.7322535]
+        "coordinates": [-76.4968019, 42.4396039]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Cornell University Library</a></h2><p>Partner since <strong>June 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.library.cornell.edu\">Cornell University Library</a></h2><p>Partner since <strong>June 2011</strong></p><p>Ithaca, NY</p>"
       },
       "id": 166
     },
@@ -1997,11 +1997,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.4796047, 42.724305]
+        "coordinates": [-104.8253485, 38.8339578]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">MAM-A Inc.</a></h2><p>Partner since <strong>May 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.MAM-A.Com\">MAM-A Inc.</a></h2><p>Partner since <strong>May 2011</strong></p><p>Colorado Springs, CO</p>"
       },
       "id": 167
     },
@@ -2009,11 +2009,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.4831403, 42.7431016]
+        "coordinates": [-71.1056157, 42.3750997]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">The Research Volunteer Corporation</a></h2><p>Partner since <strong>May 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.theresearchvolunteer.org\">The Research Volunteer Corporation</a></h2><p>Partner since <strong>May 2011</strong></p><p>Cambridge, MA</p>"
       },
       "id": 168
     },
@@ -2021,11 +2021,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-93.1057093, 44.9492102]
+        "coordinates": [-84.2696449, 36.0103562]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Office of Scientific and Technical Information, Department of Energy</a></h2><p>Partner since <strong>April 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.osti.gov/\">Office of Scientific and Technical Information, Department of Energy</a></h2><p>Partner since <strong>April 2011</strong></p><p>Oak Ridge, TN</p>"
       },
       "id": 169
     },
@@ -2033,11 +2033,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-93.104095, 44.951321]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Jefferson Institute</a></h2><p>Partner since <strong>April 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.jeffersoninst.org\">Jefferson Institute</a></h2><p>Partner since <strong>April 2011</strong></p><p>Washington, DC</p>"
       },
       "id": 170
     },
@@ -2045,11 +2045,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-90.1787272, 32.3004887]
+        "coordinates": [-77.09024765, 38.8147596]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">National Technical Information Service</a></h2><p>Partner since <strong>April 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.ntis.gov\">National Technical Information Service</a></h2><p>Partner since <strong>April 2011</strong></p><p>Alexandria, VA</p>"
       },
       "id": 171
     },
@@ -2057,11 +2057,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.0931342, 42.3592539]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Council on Library and Information Resources, including the Digital Library Federation</a></h2><p>Partner since <strong>April 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.diglib.org\">Council on Library and Information Resources, including the Digital Library Federation</a></h2><p>Partner since <strong>April 2011</strong></p><p>Washington, DC</p>"
       },
       "id": 172
     },
@@ -2069,11 +2069,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.702039, 40.797132]
+        "coordinates": [-97.5170536, 35.4729886]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Oklahoma Department of Libraries</a></h2><p>Partner since <strong>March 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.odl.state.ok.us/agency/\">Oklahoma Department of Libraries</a></h2><p>Partner since <strong>March 2011</strong></p><p>Oklahoma City, OK</p>"
       },
       "id": 173
     },
@@ -2081,11 +2081,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.022893, 38.892319]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">United States Holocaust Memorial Museum</a></h2><p>Partner since <strong>March 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.ushmm.org\">United States Holocaust Memorial Museum</a></h2><p>Partner since <strong>March 2011</strong></p><p>Washington, DC</p>"
       },
       "id": 174
     },
@@ -2093,11 +2093,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-105.24, 39.99]
+        "coordinates": [-76.4968019, 42.4396039]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">DuraSpace</a></h2><p>Partner since <strong>February 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.duraspace.org\">DuraSpace</a></h2><p>Partner since <strong>February 2011</strong></p><p>Ithaca, NY</p>"
       },
       "id": 175
     },
@@ -2105,11 +2105,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-104.8954431, 39.7222329]
+        "coordinates": [-122.1702445, 37.427467]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Stanford University Libraries</a></h2><p>Partner since <strong>February 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://library.stanford.edu\">Stanford University Libraries</a></h2><p>Partner since <strong>February 2011</strong></p><p>Stanford, CA</p>"
       },
       "id": 176
     },
@@ -2117,11 +2117,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.6590479, 45.5152805]
+        "coordinates": [-118.2427666, 34.0536909]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Southern California</a></h2><p>Partner since <strong>February 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.usc.edu/libraries/\">University of Southern California</a></h2><p>Partner since <strong>February 2011</strong></p><p>Los Angeles, CA</p>"
       },
       "id": 177
     },
@@ -2129,11 +2129,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-105.1609838, 39.6849237]
+        "coordinates": [-95.677556, 39.049011]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Kansas State Historical Society</a></h2><p>Partner since <strong>February 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.kshs.org\">Kansas State Historical Society</a></h2><p>Partner since <strong>February 2011</strong></p><p>Topeka, KS</p>"
       },
       "id": 178
     },
@@ -2141,11 +2141,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.9531948, 40.4424402]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">National Endowment for the Humanities</a></h2><p>Partner since <strong>February 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.neh.gov\">National Endowment for the Humanities</a></h2><p>Partner since <strong>February 2011</strong></p><p>Washington, DC</p>"
       },
       "id": 179
     },
@@ -2153,11 +2153,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-95.9603517, 41.3105786]
+        "coordinates": [-76.6605187, 38.7217837]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Legal Information Preservation Alliance</a></h2><p>Partner since <strong>February 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.aallnet.org/committee/lipa/\">Legal Information Preservation Alliance</a></h2><p>Partner since <strong>February 2011</strong></p><p>Dunkirk, MD</p>"
       },
       "id": 180
     },
@@ -2165,11 +2165,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.947292, 34.232114]
+        "coordinates": [-87.6244212, 41.8755616]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Center for Research Libraries</a></h2><p>Partner since <strong>January 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.crl.edu\">Center for Research Libraries</a></h2><p>Partner since <strong>January 2011</strong></p><p>Chicago, IL</p>"
       },
       "id": 181
     },
@@ -2177,11 +2177,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.9666576, 40.7712919]
+        "coordinates": [-74.0060152, 40.7127281]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Columbia University Libraries / Information Services</a></h2><p>Partner since <strong>January 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.columbia.edu/cu/lweb/\">Columbia University Libraries / Information Services</a></h2><p>Partner since <strong>January 2011</strong></p><p>New York, NY</p>"
       },
       "id": 182
     },
@@ -2189,11 +2189,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.984564, 40.7711403]
+        "coordinates": [-76.62047464, 39.2847494]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Johns Hopkins University, The Sheridan Libraries</a></h2><p>Partner since <strong>January 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.library.jhu.edu/\">Johns Hopkins University, The Sheridan Libraries</a></h2><p>Partner since <strong>January 2011</strong></p><p>Baltimore, MD</p>"
       },
       "id": 183
     },
@@ -2201,11 +2201,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0059413, 40.7127837]
+        "coordinates": [-73.91346, 41.0111793]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Center for International Earth Science Information Network (CIESIN), Columbia University</a></h2><p>Partner since <strong>January 2011</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.ciesin.columbia.edu/\">Center for International Earth Science Information Network (CIESIN), Columbia University</a></h2><p>Partner since <strong>January 2011</strong></p><p>Palisades, NY</p>"
       },
       "id": 184
     },
@@ -2213,11 +2213,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.9440825, 40.8376047]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Smithsonian Institution</a></h2><p>Partner since <strong>December 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.si.edu\">Smithsonian Institution</a></h2><p>Partner since <strong>December 2010</strong></p><p>Washington, DC</p>"
       },
       "id": 185
     },
@@ -2225,11 +2225,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.63714, 35.7828545]
+        "coordinates": [-77.12333463, 38.98130835]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">National Library of Medicine (NLM)</a></h2><p>Partner since <strong>December 2010</strong></p>"
+        "popupContent": "<h2><a href=\"https://www.nlm.nih.gov/\">National Library of Medicine (NLM)</a></h2><p>Partner since <strong>December 2010</strong></p><p>Bethesda, MD</p>"
       },
       "id": 186
     },
@@ -2237,11 +2237,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.1456349, 42.6738489]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Government Publishing Office</a></h2><p>Partner since <strong>December 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.gpo.gov\">Government Publishing Office</a></h2><p>Partner since <strong>December 2010</strong></p><p>Washington, DC</p>"
       },
       "id": 187
     },
@@ -2249,11 +2249,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.7722652, 41.9340722]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">National Archives and Records Administration</a></h2><p>Partner since <strong>November 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.archives.gov\">National Archives and Records Administration</a></h2><p>Partner since <strong>November 2010</strong></p><p>Washington, DC</p>"
       },
       "id": 188
     },
@@ -2261,11 +2261,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-87.6759889, 42.0541119]
+        "coordinates": [-90.1994097, 38.6268039]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Federal Reserve Bank of St. Louis</a></h2><p>Partner since <strong>November 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://research.stlouisfed.organdhttp://fraser.stlouisfed.org\">Federal Reserve Bank of St. Louis</a></h2><p>Partner since <strong>November 2010</strong></p><p>Saint Louis, MO</p>"
       },
       "id": 189
     },
@@ -2273,11 +2273,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-87.6227041, 41.8854235]
+        "coordinates": [-89.3837613, 43.074761]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Wisconsin Department of Administration</a></h2><p>Partner since <strong>November 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://doa.wi.gov\">Wisconsin Department of Administration</a></h2><p>Partner since <strong>November 2010</strong></p><p>Madison, WI</p>"
       },
       "id": 190
     },
@@ -2285,11 +2285,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.1270135, 40.1025829]
+        "coordinates": [-77.0841585, 38.8903961]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Public Broadcasting Service</a></h2><p>Partner since <strong>November 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.pbs.org\">Public Broadcasting Service</a></h2><p>Partner since <strong>November 2010</strong></p><p>Arlington, VA</p>"
       },
       "id": 191
     },
@@ -2297,11 +2297,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.3040214, 36.8838958]
+        "coordinates": [-77.0365625, 38.8950092]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">The Federal Library and Information Network (FEDLINK)</a></h2><p>Partner since <strong>October 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.loc.gov/flicc\">The Federal Library and Information Network (FEDLINK)</a></h2><p>Partner since <strong>October 2010</strong></p><p>Washington, DC</p>"
       },
       "id": 192
     },
@@ -2309,11 +2309,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.2660119, 37.8132673]
+        "coordinates": [-83.7312291, 42.2681569]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Michigan</a></h2><p>Partner since <strong>October 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.umich.edu\">University of Michigan</a></h2><p>Partner since <strong>October 2010</strong></p><p>Ann Arbor, MI</p>"
       },
       "id": 193
     },
@@ -2321,11 +2321,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.6394932, 40.3253662]
+        "coordinates": [-121.4943996, 38.5815719]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">California State Library</a></h2><p>Partner since <strong>September 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.library.ca.gov\">California State Library</a></h2><p>Partner since <strong>September 2010</strong></p><p>Sacramento, CA</p>"
       },
       "id": 194
     },
@@ -2333,11 +2333,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [37.808158, -122.267607]
+        "coordinates": [-122.2713563, 37.8044557]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">California Digital Library</a></h2><p>Partner since <strong>September 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.cdlib.org\">California Digital Library</a></h2><p>Partner since <strong>September 2010</strong></p><p>Oakland, CA</p>"
       },
       "id": 195
     },
@@ -2345,11 +2345,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.1499077, 39.9431122]
+        "coordinates": [-122.4192363, 37.7792808]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Internet Archive</a></h2><p>Partner since <strong>September 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.archive.org\">Internet Archive</a></h2><p>Partner since <strong>September 2010</strong></p><p>San Francisco, CA</p>"
       },
       "id": 196
     },
@@ -2357,11 +2357,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.6665961, 40.3452942]
+        "coordinates": [-74.0060152, 40.7127281]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">New York University</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.nyu.edu\">New York University</a></h2><p>Partner since <strong>August 2010</strong></p><p>New York, NY</p>"
       },
       "id": 197
     },
@@ -2369,11 +2369,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.8157726, 35.8553693]
+        "coordinates": [-72.2495231, 41.8084314]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Roper Center for Public Opinion Research</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.ropercenter.uconn.edu\">Roper Center for Public Opinion Research</a></h2><p>Partner since <strong>August 2010</strong></p><p>Storrs, CT</p>"
       },
       "id": 198
     },
@@ -2381,11 +2381,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0498782, 38.8550595]
+        "coordinates": [-97.1413417, 33.1838787]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of North Texas Libraries</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.library.unt.edu\">University of North Texas Libraries</a></h2><p>Partner since <strong>August 2010</strong></p><p>Denton, TX</p>"
       },
       "id": 199
     },
@@ -2393,11 +2393,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.9928695, 40.7223752]
+        "coordinates": [-89.3837613, 43.074761]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Wisconsin Historical Society</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.wisconsinhistory.org\">Wisconsin Historical Society</a></h2><p>Partner since <strong>August 2010</strong></p><p>Madison, WI</p>"
       },
       "id": 200
     },
@@ -2405,11 +2405,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.2517586, 41.8066151]
+        "coordinates": [-123.033121, 44.9391565]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Oregon State Library</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.oregon.gov/osl\">Oregon State Library</a></h2><p>Partner since <strong>August 2010</strong></p><p>Salem, OR</p>"
       },
       "id": 201
     },
@@ -2417,11 +2417,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-95.668294, 41.3266319]
+        "coordinates": [-69.779663, 44.310583]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Maine State Archives</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.maine.gov/sos/arc/\">Maine State Archives</a></h2><p>Partner since <strong>August 2010</strong></p><p>Augusta, ME</p>"
       },
       "id": 202
     },
@@ -2429,11 +2429,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.991533, 38.892014]
+        "coordinates": [-76.492786, 38.9786401]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Maryland State Archives</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://mdsa.net\">Maryland State Archives</a></h2><p>Partner since <strong>August 2010</strong></p><p>Annapolis, MD</p>"
       },
       "id": 203
     },
@@ -2441,11 +2441,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.9616057, 34.0926402]
+        "coordinates": [-72.575684, 44.260445]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Vermont State Archives and Records Administration</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.vermont-archives.org\">Vermont State Archives and Records Administration</a></h2><p>Partner since <strong>August 2010</strong></p><p>Montpelier, VT</p>"
       },
       "id": 204
     },
@@ -2453,11 +2453,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.1584581, 37.4282999]
+        "coordinates": [-85.48827731, 32.6848205]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Auburn University Libraries</a></h2><p>Partner since <strong>August 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://lib.auburn.edu/\">Auburn University Libraries</a></h2><p>Partner since <strong>August 2010</strong></p><p>Auburn, AL</p>"
       },
       "id": 205
     },
@@ -2465,11 +2465,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.7951875, 44.3396962]
+        "coordinates": [-78.6390989, 35.7803977]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">North Carolina State University Libraries</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0ahUKEwi3nYOAiIXNAhXIcz4KHerNCYAQFgg2MAM&url=https%3A%2F%2Fwww.lib.ncsu.edu%2F&usg=AFQjCNEJULsrtTZdetkeC2NdpXgXOWNYFA&sig2=4hemCHDGBVwFSn6iFbsm7Q&bvm=bv.123325700,d.cWw\">North Carolina State University Libraries</a></h2><p>Partner since <strong>July 2010</strong></p><p>Raleigh, NC</p>"
       },
       "id": 206
     },
@@ -2477,11 +2477,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.2150411, 42.3099689]
+        "coordinates": [-118.3196124, 34.093214]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Academy of Motion Picture Arts and Sciences</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.oscars.org/\">Academy of Motion Picture Arts and Sciences</a></h2><p>Partner since <strong>July 2010</strong></p><p>Hollywood, CA</p>"
       },
       "id": 207
     },
@@ -2489,11 +2489,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.310606, 34.1796632]
+        "coordinates": [-78.6390989, 35.7803977]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">North Carolina Department of Natural and Cultural Resources</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.ncdcr.gov\">North Carolina Department of Natural and Cultural Resources</a></h2><p>Partner since <strong>July 2010</strong></p><p>Raleigh, NC</p>"
       },
       "id": 208
     },
@@ -2501,11 +2501,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-101.8820434, 33.5886439]
+        "coordinates": [-116.200835, 43.61656]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Idaho Commission for Libraries</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://libraries.idaho.gov/\">Idaho Commission for Libraries</a></h2><p>Partner since <strong>July 2010</strong></p><p>Boise, ID</p>"
       },
       "id": 209
     },
@@ -2513,11 +2513,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0046631, 38.8869718]
+        "coordinates": [-83.7312291, 42.2681569]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Data Preservation Alliance for the Social Sciences (Data-PASS)</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.icpsr.umich.edu/DATAPASS/\">Data Preservation Alliance for the Social Sciences (Data-PASS)</a></h2><p>Partner since <strong>July 2010</strong></p><p>Ann Arbor, MI</p>"
       },
       "id": 210
     },
@@ -2525,11 +2525,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-97.74, 30.28]
+        "coordinates": [-84.2809332, 30.4380832]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Division of Libraries and Information Services, Florida Department of State</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://dos.myflorida.com/library-archives/\">Division of Libraries and Information Services, Florida Department of State</a></h2><p>Partner since <strong>July 2010</strong></p><p>Tallahassee, FL</p>"
       },
       "id": 211
     },
@@ -2537,11 +2537,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-93.113175, 44.824895]
+        "coordinates": [-83.7312291, 42.2681569]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Inter-university Consortium for Political and Social Research</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.icpsr.org\">Inter-university Consortium for Political and Social Research</a></h2><p>Partner since <strong>July 2010</strong></p><p>Ann Arbor, MI</p>"
       },
       "id": 212
     },
@@ -2549,11 +2549,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.252014, 37.8264574]
+        "coordinates": [-76.2481624, 36.8889933]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Old Dominion University, Department of Computer Science</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.cs.odu.edu\">Old Dominion University, Department of Computer Science</a></h2><p>Partner since <strong>July 2010</strong></p><p>Norfolk, VA</p>"
       },
       "id": 213
     },
@@ -2561,11 +2561,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0326078, 38.8867068]
+        "coordinates": [-115.7390188, 43.9873519]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Idaho State Archives, A Division of the Idaho State Historical Society</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://history.idaho.gov/library_archives.html\">Idaho State Archives, A Division of the Idaho State Historical Society</a></h2><p>Partner since <strong>July 2010</strong></p><p>Boise, ID</p>"
       },
       "id": 214
     },
@@ -2573,11 +2573,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-92.2664306, 34.7472838]
+        "coordinates": [-112.0773456, 33.4485866]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Arizona State Library, Archives and Public Records</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.lib.az.us\">Arizona State Library, Archives and Public Records</a></h2><p>Partner since <strong>July 2010</strong></p><p>Phoenix, AZ</p>"
       },
       "id": 215
     },
@@ -2585,11 +2585,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.2338066, 32.8843552]
+        "coordinates": [-83.9210261, 35.9603948]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Tennessee</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.utk.edu\">University of Tennessee</a></h2><p>Partner since <strong>July 2010</strong></p><p>Knoxville, TN</p>"
       },
       "id": 216
     },
@@ -2597,11 +2597,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.7529159, 39.6780454]
+        "coordinates": [-74.0060152, 40.7127281]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">WNET</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.wnet.org/\">WNET</a></h2><p>Partner since <strong>July 2010</strong></p><p>New York, NY</p>"
       },
       "id": 217
     },
@@ -2609,11 +2609,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-91.5487099, 41.659363]
+        "coordinates": [-71.1056157, 42.3750997]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Harvard University</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.harvard.edu\">Harvard University</a></h2><p>Partner since <strong>July 2010</strong></p><p>Cambridge, MA</p>"
       },
       "id": 218
     },
@@ -2621,11 +2621,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.9434381, 38.9886748]
+        "coordinates": [-104.9653271, 39.7348381]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">National Conference of State Legislatures</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.ncsl.org\">National Conference of State Legislatures</a></h2><p>Partner since <strong>July 2010</strong></p><p>Denver, CO</p>"
       },
       "id": 219
     },
@@ -2633,11 +2633,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.5299693, 42.3891571]
+        "coordinates": [-83.1140771, 40.0992294]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">OCLC</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.oclc.org\">OCLC</a></h2><p>Partner since <strong>July 2010</strong></p><p>Dublin, OH</p>"
       },
       "id": 220
     },
@@ -2645,11 +2645,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.6694169, 42.3053253]
+        "coordinates": [-74.6592958, 40.3492744]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Portico</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.portico.org\">Portico</a></h2><p>Partner since <strong>July 2010</strong></p><p>Princeton, NJ</p>"
       },
       "id": 221
     },
@@ -2657,11 +2657,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-93.2436994, 44.9709258]
+        "coordinates": [-81.0343313, 34.0007493]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">South Carolina Department of Archives and History</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://scdah.sc.gov\">South Carolina Department of Archives and History</a></h2><p>Partner since <strong>July 2010</strong></p><p>Columbia, SC</p>"
       },
       "id": 222
     },
@@ -2669,11 +2669,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-92.3340724, 38.9517053]
+        "coordinates": [-76.9369189, 38.980666]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Maryland</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.umd.edu\">University of Maryland</a></h2><p>Partner since <strong>July 2010</strong></p><p>College Park, MD</p>"
       },
       "id": 223
     },
@@ -2681,11 +2681,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.9670225, 35.9504006]
+        "coordinates": [-111.8904308, 40.7670126]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Utah Automated Geographic Reference Center</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://gis.utah.gov\">Utah Automated Geographic Reference Center</a></h2><p>Partner since <strong>July 2010</strong></p><p>Salt Lake City, UT</p>"
       },
       "id": 224
     },
@@ -2693,11 +2693,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-97.1462541, 33.2110605]
+        "coordinates": [-111.8904308, 40.7670126]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Utah Division of Archives and Records Service</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://archives.utah.gov\">Utah Division of Archives and Records Service</a></h2><p>Partner since <strong>July 2010</strong></p><p>Salt Lake City, UT</p>"
       },
       "id": 225
     },
@@ -2705,11 +2705,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2892046, 34.0220127]
+        "coordinates": [-74.0060152, 40.7127281]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">ARTstor</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.artstor.org\">ARTstor</a></h2><p>Partner since <strong>July 2010</strong></p><p>New York, NY</p>"
       },
       "id": 226
     },
@@ -2717,11 +2717,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.5035945, 38.0356981]
+        "coordinates": [-117.2716839, 32.83259]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of California, San Diego</a></h2><p>Partner since <strong>July 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://ucsd.edu\">University of California, San Diego</a></h2><p>Partner since <strong>July 2010</strong></p><p>La Jolla, CA</p>"
       },
       "id": 227
     },
@@ -2729,11 +2729,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.88815, 40.75959]
+        "coordinates": [-96.667821, 40.8]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Nebraska State Historical Society</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.nebraskahistory.org\">Nebraska State Historical Society</a></h2><p>Partner since <strong>June 2010</strong></p><p>Lincoln, NE</p>"
       },
       "id": 228
     },
@@ -2741,11 +2741,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.9015732, 40.7630453]
+        "coordinates": [-93.1659179, 44.818173]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Thomson Reuters</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.thomsonreuters.com\">Thomson Reuters</a></h2><p>Partner since <strong>June 2010</strong></p><p>Eagan, MN</p>"
       },
       "id": 229
     },
@@ -2753,11 +2753,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.5778415, 44.5588028]
+        "coordinates": [-119.7670929, 39.163876]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Nevada State Library and Archives</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://nsla.nevadaculture.org\">Nevada State Library and Archives</a></h2><p>Partner since <strong>June 2010</strong></p><p>Carson City, NV</p>"
       },
       "id": 230
     },
@@ -2765,11 +2765,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.5778415, 44.5588028]
+        "coordinates": [-93.1015026, 44.9504037]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Minnesota Historical Society</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.mnhs.org\">Minnesota Historical Society</a></h2><p>Partner since <strong>June 2010</strong></p><p>St. Paul, MN</p>"
       },
       "id": 231
     },
@@ -2777,11 +2777,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.4218679, 37.2220827]
+        "coordinates": [-77.3063733, 38.8462236]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Roy Rosenzweig Center for History and New Media (RRCHNM), George Mason University</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://chnm.gmu.edu\">Roy Rosenzweig Center for History and New Media (RRCHNM), George Mason University</a></h2><p>Partner since <strong>June 2010</strong></p><p>Fairfax, VA</p>"
       },
       "id": 232
     },
@@ -2789,11 +2789,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.2436849, 39.6692118]
+        "coordinates": [-84.3901849, 33.7490987]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Educopia Institute</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://educopia.org\">Educopia Institute</a></h2><p>Partner since <strong>June 2010</strong></p><p>Atlanta, GA</p>"
       },
       "id": 233
     },
@@ -2801,11 +2801,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2781262, 36.1341553]
+        "coordinates": [-84.8732836, 38.2009055]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Kentucky Department for Libraries and Archives</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://kdla.ky.gov/\">Kentucky Department for Libraries and Archives</a></h2><p>Partner since <strong>June 2010</strong></p><p>Frankfort, KY</p>"
       },
       "id": 234
     },
@@ -2813,11 +2813,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.411793, 37.754872]
+        "coordinates": [-86.7743531, 36.1622296]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">VeVa Sound</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.vevasound.com\">VeVa Sound</a></h2><p>Partner since <strong>June 2010</strong></p><p>Nashville, TN</p>"
       },
       "id": 235
     },
@@ -2825,11 +2825,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.1477949, 42.3570425]
+        "coordinates": [-106.2989958, 35.8814009]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Los Alamos National Laboratory Research Library</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://library.lanl.gov\">Los Alamos National Laboratory Research Library</a></h2><p>Partner since <strong>June 2010</strong></p><p>Los Alamos, NM</p>"
       },
       "id": 236
     },
@@ -2837,11 +2837,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-105.3741825, 35.2564988]
+        "coordinates": [-93.1015026, 44.9504037]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">Minnesota Office of the Revisor of Statutes</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"https://www.revisor.mn.gov\">Minnesota Office of the Revisor of Statutes</a></h2><p>Partner since <strong>June 2010</strong></p><p>St. Paul, MN</p>"
       },
       "id": 237
     },
@@ -2849,11 +2849,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.198856, 42.7152194]
+        "coordinates": [-95.6838963, 41.3294401]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">SCOLA</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.scola.org\">SCOLA</a></h2><p>Partner since <strong>June 2010</strong></p><p>McClelland, IA</p>"
       },
       "id": 238
     },
@@ -2861,11 +2861,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-89.399985, 43.0754]
+        "coordinates": [-79.05578, 35.9131542]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of North Carolina at Chapel Hill</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.unc.edu\">University of North Carolina at Chapel Hill</a></h2><p>Partner since <strong>June 2010</strong></p><p>Chapel Hill, NC</p>"
       },
       "id": 239
     },
@@ -2873,11 +2873,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.9420622, 40.4434676]
+        "coordinates": [-71.0582912, 42.3602534]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">WGBH Educational Foundation</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://openvault.wgbh.org\">WGBH Educational Foundation</a></h2><p>Partner since <strong>June 2010</strong></p><p>Boston, MA</p>"
       },
       "id": 240
     },
@@ -2885,11 +2885,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.273045, 26.189961]
+        "coordinates": [-75.1635262, 39.9527237]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">American Society of Media Photographers</a></h2><p>Partner since <strong>June 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.asmp.org\">American Society of Media Photographers</a></h2><p>Partner since <strong>June 2010</strong></p><p>Philadelphia, PA</p>"
       },
       "id": 241
     },
@@ -2897,11 +2897,11 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.0773213, 37.4143233]
+        "coordinates": [-91.5299106, 41.6612561]
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"\">University of Iowa Libraries</a></h2><p>Partner since <strong>March 2010</strong></p>"
+        "popupContent": "<h2><a href=\"http://www.uiowa.edu\">University of Iowa Libraries</a></h2><p>Partner since <strong>March 2010</strong></p><p>Iowa City, IA</p>"
       },
       "id": 242
     },
