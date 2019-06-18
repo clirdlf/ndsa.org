@@ -12,29 +12,24 @@ permalink: /digital-preservation-2019-sponsors/
 ## **Adamantium**
 
 Your logo could be here!
-</br>
-</br>
+
 
 ## **Platinum**
 
 Your logo could be here!
-</br>
-</br>
+
 
 ## **Lanyards**
 
 [<img alt="Quartex" width="250" src='{{ "/images/sponsors/Quartex_pos_rgb - transparent 1000px w.png"}}'>](https://www.quartexcollections.com/)
-</br>
-</br>
+
 
 ## **Gold**
 
 [<img alt="Libnova" width="200" src='{{ "/images/sponsors/LIBNOVA-logo.png"}}'>](https://www.libnova.com/en)
-</br>
 
 [<img alt="Samvera" width="200" src='{{ "/images/sponsors/samvera-fall-TM.jpg"}}'>](https://samvera.org)
-</br>
-</br>
+
 
 ## **DigiPres Coffee Break**
 
