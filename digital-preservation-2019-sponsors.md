@@ -26,3 +26,7 @@ Your logo could be here!
 [<img alt="Libnova" width="200" src='{{ "/images/sponsors/LIBNOVA-logo.png"}}'>](https://www.libnova.com/en)
 
 [<img alt="Samvera" width="200" src='{{ "/images/sponsors/samvera-fall-TM.jpg"}}'>](https://samvera.org)
+
+## **Bronze Sponsor**
+
+[<img alt="Digital Bedrock" width="175" src='{{ "/images/sponsors/Digital_Bedrock_logoB.eps"}}'>](https://www.digitalbedrock.com)
