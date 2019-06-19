@@ -33,4 +33,4 @@ Your logo could be here!
 
 ## **DigiPres Coffee Break**
 
-[<img alt="Digital Bedrock" width="175" src='{{ "/images/sponsors/Digital_Bedrock_logoB.eps"}}'>](https://www.digitalbedrock.com)
+[<img alt="Digital Bedrock" width="175" src='{{ "/images/sponsors/Digital_Bedrock_logoB.jpg"}}'>](https://www.digitalbedrock.com)
