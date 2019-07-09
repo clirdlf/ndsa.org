@@ -9,7 +9,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"<%= feature[:website] %>\"><%= feature[:organization] %></a></h2><p>Partner since <strong><%= feature[:joined].strftime("%B %Y") %></strong></p>"
+        "popupContent": "<h2><a href=\"<%= feature[:website] %>\"><%= feature[:organization] %></a></h2><p>Partner since <strong><%= feature[:joined].strftime("%B %Y") %></strong></p><p><%= feature[:city] %>, <%= feature[:state] %></p>"
       },
       "id": <%= feature[:id] %>
     },
