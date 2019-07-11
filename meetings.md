@@ -8,11 +8,11 @@ permalink: /meetings/
 <img alt="meetings" width="710" height="237" src='{{ "/images/DigiPres-2019-FINAL.jpg" | prepend: site.baseurl }}'>
 
 
-### **Registration is NOW OPEN!**
+### **Program is NOW LIVE, and Registration remains open**
 
-Registration for Digital Preservation 2019: Critical Junctures is now open. The conference program will be released in mid-July.
+The program for Digital Preservation 2019: Critical Junctures is now available. [Browse the program here.](https://forum2019.diglib.org/schedule/)
 
-#### [**Register today!**](https://www.conftool.pro/dlf2019/)
+Registration remains open for this year's event. [**Register today!**](https://www.conftool.pro/dlf2019/)
 
 #### Registration Rates
 
@@ -22,7 +22,9 @@ NDSA’s Digital Preservation 2019 (#digipres19):
 - A limited number of student tickets ($200) will also be available
 
 New for 2019: increased overlap with the DLF Forum, including access to 2 DLF Forum sessions and the DLF Forum Closing Plenary
-Registration includes two continental breakfasts, one lunch buffet, coffee breaks, and reception
+Registration includes two continental breakfasts, one lunch buffet, coffee breaks, and a reception on Wednesday evening.
+
+[**Register today!**](https://www.conftool.pro/dlf2019/)
 
 ### Conference Hotel + Travel
 
