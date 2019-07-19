@@ -26,6 +26,8 @@ Your logo could be here!
 
 ## **Gold**
 
+[<img alt="East View" width="200" src='{{ "/images/sponsors/EastView_IS_FullColor.jpg"}}'>](https://www.eastview.com)
+
 [<img alt="Libnova" width="200" src='{{ "/images/sponsors/LIBNOVA-logo.png"}}'>](https://www.libnova.com/en)
 
 [<img alt="Samvera" width="200" src='{{ "/images/sponsors/samvera-fall-TM.jpg"}}'>](https://samvera.org)
