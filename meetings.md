@@ -39,12 +39,36 @@ Alison Langmead will open the 2019 Digital Preservation conference with a keynot
 
 Langmead holds a joint faculty appointment at the University of Pittsburgh between the [Dietrich School of Arts and Sciences (DSAS)](https://www.haa.pitt.edu/people/alison-langmead) and the [School of Computing and Information (SCI)](http://sci.pitt.edu/faculty-and-research/faculty-directory/alison-langmead/) at the rank of Clinical Associate Professor. At DSAS, she serves as the Director of the Visual Media Workshop (VMW), a digital humanities lab focused on the investigation of material and visual culture—historical or contemporary—in an environment that encourages technological experimentation. At SCI, she teaches courses on digital preservation and the digital humanities. In her research, she designs and produces digital humanities projects that investigate visuality and materiality as multivalent, interactive processes. She also studies the practice of digital sustainability as a complex, transformative ecosystem that informs our understanding of the role of historical information in our contemporary digitality. Langmead is the Principal Contact for the [DHRX: Digital Humanities at Pitt](http://www.dhrx.pitt.edu/) faculty research initiative, which represents a transdisciplinary network of scholars at the university who use digital methods to study the ways in which humans interact with their environments, whether social or cultural, natural or human-created. She holds a PhD in medieval architectural history from Columbia University as well as an MLIS from the University of California, Los Angeles.
 
+### **DigiPres Mentoring Program**
+
+NDSA is pleased to offer an exciting opportunity to establish mentoring relationships among our community members, centering around face-to-face interaction at our annual meeting. This lightweight program serves as a way for new attendees and emerging professionals to experience the NDSA DigiPres conference by meeting with someone from within the field and making a professional connection.  
+
+**Sign up here by August 30th: https://forms.gle/zsWqZUDwzTjsCtYk6**
+
+Mentors agree to:
+- Reach out to your mentee: exchange emails and/or set up a phone/video chat to get to know each other before the conference
+- Meet up as early as possible at DigiPres, to be a friendly face, help make introductions, and generally advise on how to make the most of the conference
+- Offer career advice as requested, based on your own experience or as a peer mentor
+- Maintain confidentiality and exhibit professionalism in all interactions (including adhering to our Code of Conduct)
+- Contact DigiPres organizers if you have not heard from your mentee by 10/1
+ 
+Mentees agree to:
+- Look for and be responsive to contact from your mentor, making plans to get to know each other before the conference
+- Meet up as early as possible at the DigiPres
+- Maintain confidentiality and exhibit professionalism in all interactions (including adhering to our Code of Conduct)
+- Contact DigiPres organizers if you have not heard from your mentor 10/1
+
+**[Be sure to sign up here by August 30th.](https://forms.gle/zsWqZUDwzTjsCtYk6)**
+
+The matching of mentors and mentees is based on expertise and mentee requests. You will be contacted by a member of the DigiPres steering committee with your match in early September.
+
+Questions? Please write us at [forum@diglib.org](mailto:forum@diglib.org).
+
 ### **2019 Sponsors**
 
 Thank you to our [2019 DLF Forum + Digital Preservation sponsors](https://ndsa.org/digital-preservation-2019-sponsors/)!
 
 We are so grateful to our wonderful [2018 sponsors](https://ndsa.org/digital-preservation-2018-sponsors/) for making last year's event a success.
-
 
 ### **Sponsorship Opportunities**
 
