@@ -43,7 +43,7 @@ Langmead holds a joint faculty appointment at the University of Pittsburgh betwe
 
 NDSA is pleased to offer an exciting opportunity to establish mentoring relationships among our community members, centering around face-to-face interaction at our annual meeting. This lightweight program serves as a way for new attendees and emerging professionals to experience the NDSA DigiPres conference by meeting with someone from within the field and making a professional connection.  
 
-**Sign up here by August 30th: https://forms.gle/zsWqZUDwzTjsCtYk6**
+**[Sign up here by August 30th.](https://forms.gle/zsWqZUDwzTjsCtYk6)**
 
 Mentors agree to:
 - Reach out to your mentee: exchange emails and/or set up a phone/video chat to get to know each other before the conference
