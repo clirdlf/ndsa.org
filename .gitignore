@@ -8,3 +8,5 @@ npm-debug.log
 config.json
 vendor
 pa11y.html
+Gemfile.lock
+images/sponsors/lipa.png
