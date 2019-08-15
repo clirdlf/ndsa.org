@@ -26,6 +26,8 @@ Your logo could be here!
 
 ## **Gold**
 
+[<img alt="Aviary by AVP" width="200" src='{{ "/images/sponsors/AviaryByAvpLogo.png"}}'>](https://www.weareavp.com)
+
 [<img alt="East View" width="200" src='{{ "/images/sponsors/EastView_IS_FullColor.jpg"}}'>](https://www.eastview.com)
 
 [<img alt="Libnova" width="200" src='{{ "/images/sponsors/LIBNOVA-logo.png"}}'>](https://www.libnova.com/en)
