@@ -21,8 +21,9 @@ NDSA’s Digital Preservation 2019 (#digipres19):
 - $225 for those also attending the DLF Forum
 - A limited number of student tickets ($200) will also be available
 
-New for 2019: increased overlap with the DLF Forum, including access to 2 DLF Forum sessions and the DLF Forum Closing Plenary
-Registration includes two continental breakfasts, one lunch buffet, coffee breaks, and a reception on Wednesday evening.
+**New for 2019:** Increased overlap with the DLF Forum! DigiPres now begins on Wednesday morning at 8am. When you purchase either a DigiPres-only ticket or a Forum/DigiPres combo ticket, attend the two Wednesday morning DLF Forum sessions and the DLF Forum Closing Plenary. 
+
+DigiPres registration includes two continental breakfasts, one lunch buffet, coffee breaks, and a reception on Wednesday evening.
 
 [**Register today!**](https://www.conftool.pro/dlf2019/)
 
