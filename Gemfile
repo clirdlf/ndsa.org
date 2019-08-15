@@ -20,3 +20,4 @@ gem 'chronic' # parsing date times
 gem 'mail' # for generating email
 # gem 'mailjet'
 gem 'mailcatcher' # really just for development
+gem 'wdm' # just for development on Windows
