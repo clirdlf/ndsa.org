@@ -34,6 +34,13 @@ Your logo could be here!
 
 [<img alt="Samvera" width="200" src='{{ "/images/sponsors/samvera-fall-TM.jpg"}}'>](https://samvera.org)
 
+## **Silver**
+
+Your logo could be here!
+
+## **Bronze**
+
+[<img alt="MetaArchive" width="175" src='{{ "/images/sponsors/MetaArchive_coop_logo.png"}}'>]
 
 ## **DigiPres Coffee Break**
 
