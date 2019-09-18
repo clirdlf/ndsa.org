@@ -9,15 +9,9 @@ permalink: /digital-preservation-2019-sponsors/
 
 **Interested in sponsoring the [DLF Forum](https://forum2019.diglib.org) and/or [Digital Preservation 2019](https://ndsa.org/meetings/)? Check out the [2019 Sponsorship Opportunities](https://forum2019.diglib.org/sponsorship-opportunities/) and contact DLF Director of Development and Outreach Louisa Kwasigroch at [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org).**
 
-## **Adamantium**
+## **Livestreaming & Recording**
 
-Your logo could be here!
-
-
-## **Platinum**
-
-Your logo could be here!
-
+[<img alt="Carnegie Mellon" width="300" src='{{ "/images/sponsors/UL_CMU_Logo_Horiz_Black.jpg"}}'>](https://www.library.cmu.edu/)
 
 ## **Lanyards**
 
@@ -28,15 +22,15 @@ Your logo could be here!
 
 [<img alt="Aviary by AVP" width="200" src='{{ "/images/sponsors/AviaryByAvpLogo.png"}}'>](https://www.weareavp.com)
 
+[<img alt="Data Curation Experts" width="200" src='{{ "/images/sponsors/DCE_transparentbackground.png"}}'>](https://curationexperts.com/)
+
 [<img alt="East View" width="200" src='{{ "/images/sponsors/EastView_IS_FullColor.jpg"}}'>](https://www.eastview.com)
 
 [<img alt="Libnova" width="200" src='{{ "/images/sponsors/LIBNOVA-logo.png"}}'>](https://www.libnova.com/en)
 
+[<img alt="OCLC" width="200" src='{{ "/images/sponsors/OCLC_Logo_H_Color_NoTag.png"}}'>](https://www.oclc.org/)
+
 [<img alt="Samvera" width="200" src='{{ "/images/sponsors/samvera-fall-TM.jpg"}}'>](https://samvera.org)
-
-## **Silver**
-
-Your logo could be here!
 
 ## **Bronze**
 
