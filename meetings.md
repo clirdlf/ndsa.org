@@ -40,11 +40,16 @@ Alison Langmead will open the 2019 Digital Preservation conference with a keynot
 
 Langmead holds a joint faculty appointment at the University of Pittsburgh between the [Dietrich School of Arts and Sciences (DSAS)](https://www.haa.pitt.edu/people/alison-langmead) and the [School of Computing and Information (SCI)](http://sci.pitt.edu/faculty-and-research/faculty-directory/alison-langmead/) at the rank of Clinical Associate Professor. At DSAS, she serves as the Director of the Visual Media Workshop (VMW), a digital humanities lab focused on the investigation of material and visual culture—historical or contemporary—in an environment that encourages technological experimentation. At SCI, she teaches courses on digital preservation and the digital humanities. In her research, she designs and produces digital humanities projects that investigate visuality and materiality as multivalent, interactive processes. She also studies the practice of digital sustainability as a complex, transformative ecosystem that informs our understanding of the role of historical information in our contemporary digitality. Langmead is the Principal Contact for the [DHRX: Digital Humanities at Pitt](http://www.dhrx.pitt.edu/) faculty research initiative, which represents a transdisciplinary network of scholars at the university who use digital methods to study the ways in which humans interact with their environments, whether social or cultural, natural or human-created. She holds a PhD in medieval architectural history from Columbia University as well as an MLIS from the University of California, Los Angeles.
 
+### **Minute Madness Talks**
+There's still time to sign up to present in this year's Minute Madness session! Share your ideas with all DigiPres attendees in 60 seconds or less on Wednesday, October 16, from 5:15-5:30pm. Presenters will have the option to display 24”x 36” posters during the reception that follows.
+
+Please use this [form](https://forms.gle/7tk1tYHCGSVkARAC7) to submit your proposed talk. Please keep your description to 200 words or fewer. We encourage talks on your current research, projects in progress or just aspirational, or anything related to your experiences and work in digital preservation.
+
+Connect with us at [forum@diglib.org](mailto:forum@diglib.org) if you have any questions.
+
 ### **DigiPres Mentoring Program**
 
 NDSA is pleased to offer an exciting opportunity to establish mentoring relationships among our community members, centering around face-to-face interaction at our annual meeting. This lightweight program serves as a way for new attendees and emerging professionals to experience the NDSA DigiPres conference by meeting with someone from within the field and making a professional connection.  
-
-**[Sign up here by August 30th.](https://forms.gle/zsWqZUDwzTjsCtYk6)**
 
 Mentors agree to:
 - Reach out to your mentee: exchange emails and/or set up a phone/video chat to get to know each other before the conference
@@ -59,11 +64,7 @@ Mentees agree to:
 - Maintain confidentiality and exhibit professionalism in all interactions (including adhering to our Code of Conduct)
 - Contact DigiPres organizers if you have not heard from your mentor 10/1
 
-**[Be sure to sign up here by August 30th.](https://forms.gle/zsWqZUDwzTjsCtYk6)**
-
-The matching of mentors and mentees is based on expertise and mentee requests. You will be contacted by a member of the DigiPres steering committee with your match in early September.
-
-Questions? Please write us at [forum@diglib.org](mailto:forum@diglib.org).
+The deadline has passed for this year's mentoring program, but if you have questions or want to see if there are ways you can get involved, please write us at [forum@diglib.org](mailto:forum@diglib.org).
 
 ### **2019 Sponsors**
 
