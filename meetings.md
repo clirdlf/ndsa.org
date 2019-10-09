@@ -8,30 +8,21 @@ permalink: /meetings/
 <img alt="meetings" width="710" height="237" src='{{ "/images/DigiPres-2019-FINAL.jpg" | prepend: site.baseurl }}'>
 
 
-### **Program is NOW LIVE, and Registration remains open**
+### **See you in Tampa!!**
 
-The program for Digital Preservation 2019: Critical Junctures is now available. [Browse the program here.](https://forum2019.diglib.org/schedule/)
+Registration is now closed for this year's event. If you're joining us in Tampa, we can't wait to see you!
 
-Registration remains open for this year's event. [**Register today!**](https://www.conftool.pro/dlf2019/)
-
-#### Registration Rates
-
-NDSA’s Digital Preservation 2019 (#digipres19): 
-- $250 for DigiPres only
-- $225 for those also attending the DLF Forum
-- A limited number of student tickets ($200) will also be available
+The program for Digital Preservation 2019: Critical Junctures is available [here](https://forum2019.diglib.org/schedule/).
 
 **New for 2019:** Increased overlap with the DLF Forum! DigiPres now begins on Wednesday morning at 8am. When you purchase either a DigiPres-only ticket or a Forum/DigiPres combo ticket, attend the two Wednesday morning DLF Forum sessions and the DLF Forum Closing Plenary. 
 
-DigiPres registration includes two continental breakfasts, one lunch buffet, coffee breaks, and a reception on Wednesday evening.
-
-[**Register today!**](https://www.conftool.pro/dlf2019/)
+DigiPres registration includes two continental breakfasts, one lunch buffet, a coffee break, and a reception on Wednesday evening.
 
 ### Conference Hotel + Travel
 
 This year's event will take place at the **[Tampa Marriott Water Street, 700 South Florida Avenue, Tampa, Florida 33602](https://www.marriott.com/hotels/travel/tpamc-tampa-marriott-water-street/)**
 
-Learn more and reserve your room: [https://forum2019.diglib.org/hotel-travel/](https://forum2019.diglib.org/hotel-travel/)
+Our room block is now closed but there may still be availability in the conference hotel: [https://forum2019.diglib.org/hotel-travel/](https://forum2019.diglib.org/hotel-travel/)
 
 ### **Keynote: Alison Langmead**
 <img alt="meetings" width="250" height="250" src='{{ "/images/ADL_2019.JPG" | prepend: site.baseurl }}'>
@@ -44,32 +35,6 @@ The ongoing sustainability of digital projects is of critical concern to both pr
 
 Alison Langmead holds a joint faculty appointment at the University of Pittsburgh between the [Dietrich School of Arts and Sciences (DSAS)](https://www.haa.pitt.edu/people/alison-langmead) and the [School of Computing and Information (SCI)](http://sci.pitt.edu/faculty-and-research/faculty-directory/alison-langmead/) at the rank of Clinical Associate Professor. At DSAS, she serves as the Director of the Visual Media Workshop (VMW), a digital humanities lab focused on the investigation of material and visual culture—historical or contemporary—in an environment that encourages technological experimentation. At SCI, she teaches courses on digital preservation and the digital humanities. In her research, she designs and produces digital humanities projects that investigate visuality and materiality as multivalent, interactive processes. She also studies the practice of digital sustainability as a complex, transformative ecosystem that informs our understanding of the role of historical information in our contemporary digitality. Langmead is the Principal Contact for the [DHRX: Digital Humanities at Pitt](http://www.dhrx.pitt.edu/) faculty research initiative, which represents a transdisciplinary network of scholars at the university who use digital methods to study the ways in which humans interact with their environments, whether social or cultural, natural or human-created. She holds a PhD in medieval architectural history from Columbia University as well as an MLIS from the University of California, Los Angeles.
 
-### **Minute Madness Talks**
-There's still time to sign up to present in this year's Minute Madness session! Share your ideas with all DigiPres attendees in 60 seconds or less on Wednesday, October 16, from 5:15-5:30pm. Presenters will have the option to display 24”x 36” posters during the reception that follows.
-
-Please use this [form](https://forms.gle/7tk1tYHCGSVkARAC7) to submit your proposed talk. Please keep your description to 200 words or fewer. We encourage talks on your current research, projects in progress or just aspirational, or anything related to your experiences and work in digital preservation.
-
-Connect with us at [forum@diglib.org](mailto:forum@diglib.org) if you have any questions.
-
-### **DigiPres Mentoring Program**
-
-NDSA is pleased to offer an exciting opportunity to establish mentoring relationships among our community members, centering around face-to-face interaction at our annual meeting. This lightweight program serves as a way for new attendees and emerging professionals to experience the NDSA DigiPres conference by meeting with someone from within the field and making a professional connection.  
-
-Mentors agree to:
-- Reach out to your mentee: exchange emails and/or set up a phone/video chat to get to know each other before the conference
-- Meet up as early as possible at DigiPres, to be a friendly face, help make introductions, and generally advise on how to make the most of the conference
-- Offer career advice as requested, based on your own experience or as a peer mentor
-- Maintain confidentiality and exhibit professionalism in all interactions (including adhering to our Code of Conduct)
-- Contact DigiPres organizers if you have not heard from your mentee by 10/1
- 
-Mentees agree to:
-- Look for and be responsive to contact from your mentor, making plans to get to know each other before the conference
-- Meet up as early as possible at the DigiPres
-- Maintain confidentiality and exhibit professionalism in all interactions (including adhering to our Code of Conduct)
-- Contact DigiPres organizers if you have not heard from your mentor 10/1
-
-The deadline has passed for this year's mentoring program, but if you have questions or want to see if there are ways you can get involved, please write us at [forum@diglib.org](mailto:forum@diglib.org).
-
 ### **2019 Sponsors**
 
 Thank you to our [2019 DLF Forum + Digital Preservation sponsors](https://ndsa.org/digital-preservation-2019-sponsors/)!
@@ -79,6 +44,20 @@ We are so grateful to our wonderful [2018 sponsors](https://ndsa.org/digital-pre
 ### **Sponsorship Opportunities**
 
 Is your organization interested in becoming a sponsor of #digipres19 or the [DLF Forum](https://forum2019.diglib.org)? Take a look at our  [sponsorship opportunities](https://forum2019.diglib.org/sponsorship-opportunities/) and please contact [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
+
+### **Can't make it to Tampa?**
+
+If you aren't able to join us in Tampa this year, there are a number of ways to follow along at home.
+
+**Tune into the opening plenary livestream.** The opening plenary of Digital Preservation 2019: Critical Junctures will be livestreamed thanks to generous support from [Carnegie Mellon University Libraries](https://www.library.cmu.edu). [Tune in](https://forum2019.diglib.org/livestream-recordings/) on Wednesday, October 16, from 2-4pm ET or [bookmark this page](https://forum2019.diglib.org/livestream-recordings/) to view the recording later.
+
+**Browse the conference program.** The program for Digital Preservation 2019: Critical Junctures is available [here](https://forum2019.diglib.org/schedule/).
+
+**Follow along in shared notes.** Shared notes for all sessions (including [Learn@DLF](https://forum2019.diglib.org/learnatdlf/) and the [DLF Forum](https://forum2019.diglib.org/)) are available here: [bit.ly/2019DLF](bit.ly/2019DLF).
+
+**Check out presentations in the OSF Repository.** All presenters are encouraged to share their presentations in our OSF Repository, available here [https://osf.io/view/ndsa2019/](https://osf.io/view/ndsa2019/).
+
+Having trouble find something? Get in touch at [forum@diglib.org](mailto:forum@diglib.org).
 
 ### **2019 DigiPres Organizing Committee**
 
