@@ -13,6 +13,7 @@ permalink: /digital-preservation-2019-sponsors/
 
 [<img alt="Carnegie Mellon" width="300" src='{{ "/images/sponsors/UL_CMU_Logo_Horiz_Black.jpg"}}'>](https://www.library.cmu.edu/)
 
+
 ## **Lanyards**
 
 [<img alt="Quartex" width="250" src='{{ "/images/sponsors/Quartex_pos_rgb - transparent 1000px w.png"}}'>](https://www.quartexcollections.com/)
@@ -32,9 +33,15 @@ permalink: /digital-preservation-2019-sponsors/
 
 [<img alt="Samvera" width="200" src='{{ "/images/sponsors/samvera-fall-TM.jpg"}}'>](https://samvera.org)
 
+[<img alt="Web of Science Group, a Clarivate Analytics company" width="200" src='{{ "/images/Zontal_C_002.png"}}'>](https://clarivate.com/webofsciencegroup/)
+
+[<img alt="ZONTAL" width="200" src='{{ "/images/sponsors/WS_endorsed-logo_RGB_colour.jpg"}}'>](https://www.zontal.io/)
+
+
 ## **Bronze**
 
 [<img alt="MetaArchive" width="175" src='{{ "/images/sponsors/MetaArchive_coop_logo.png"}}'>]
+
 
 ## **DigiPres Coffee Break**
 
