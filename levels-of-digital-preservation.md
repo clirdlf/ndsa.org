@@ -3,26 +3,47 @@ title: Levels of Digital Preservation
 layout: page
 permalink: /activities/levels-of-digital-preservation/
 ---
+page is under construction Oct 13, 2019
 
-The "[Levels of Digital Preservation](/documents/NDSA_Levels_Archiving_2013.pdf)" (PDF; *Proceedings of the Archiving (IS&T) Conference,* April 2013, Washington, DC) are a tiered set of recommendations for how organizations should begin to build or enhance their digital preservation activities. A work in progress by the NDSA, it is intended to be a relatively easy-to-use set of guidelines useful not only for those just beginning to think about preserving their digital assets, but also for institutions planning the next steps in enhancing their existing digital preservation systems and workflows. It allows institutions to assess the level of preservation achieved for specific materials in their custody, or their entire preservation infrastructure. It is not designed to assess the robustness of digital preservation programs as a whole since it does not cover such things as policies, staffing, or organizational support. The guidelines are organized into five functional areas that are at the heart of digital preservation systems: storage and geographic location, file fixity and data integrity, information security, metadata, and file formats.
+## Background and Overview
 
-It is expected that the Levels of Digital Preservation will be updated over time as additional feedback is received, experience is gained implementing its recommendations and as empirical research provides detailed information about data loss. For this reason, each iteration of the Levels will be versioned. [Version 1](/documents/Levels_v1.pdf) (PDF) is shown below.
+The NDSA launched its Levels of Digital Preservation (LoP) guidelines in 2013 as a tiered set of recommendations on how organizations should begin to build or enhance their digital preservation activities. They function as a key tool to help practitioners of all levels deploy a sustainable digital preservation strategy. Since that time practitioners across the globe have been working with the guidelines and some have been extending and adapting them.
 
-![Levels of Digital Preservation Version 1](/images/levels_v1.jpg)
+The original intent of the LoP was to create tiered set of recommendations for either preservation practitioners who were just starting out or for those looking to deepen their preservation strategy. Not meant as a comprehensive preservation strategy but rather a lightweight tool to encourage organizations to think through preservation issues. The LoP were organized into five functional areas that are at the heart of digital preservation systems: storage and geographic location, file fixity and data integrity, information security, metadata, and file formats. By design, they do not cover policy staffing, or other organizational considerations. They are considered to be a technological implementation of a variety of preservation decisions and are utilized by many organizations across the country and even internationally.
 
-The overall structure of the chart is progressive -- the actions in the first level are either necessary prerequisites for those in the second to fourth levels or are themselves the most pressing activities to accomplish first. Broadly speaking, as one moves up each of the tiers from Level 1 to Level 4, one is moving from the basic need to ensure bit preservation towards broader requirements for keeping track of digital content and being able to ensure that it can be made available over longer periods of time.
+With the current rapid changes in technology, a document that functions as the technological implementation of a preservation strategy, needs updating after 5 years. In addition, after 5 years of active use, users have expressed the need to add features and considerations.
 
-The [United States Geological Survey Fundamental Science Practices Advisory Committee](http://www.usgs.gov/fsp/) Data Preservation Subcommittee has developed a set of [preservation recommendations](/documents/USGS_Guidelines_for_the_Preservation_of_Digital_Scientific_Data_Final.pdf) (pdf) based on the original NDSA levels guidelines.
+NDSA responded by creating a Levels of Preservation Working group with multiple subgroups to take on the task of updating the Levels and developing additional resources around the Levels grid.  Learn more about the LOP Working group and subgroups [here](https://ndsa.org/working-groups/levels-of-preservation/).
 
-Comments and suggestions for improvement can be sent to:
+## Levels of Digital Preservation V2.0
 
-- Jefferson Bailey - jbailey at metro dot org
-- Andrea Goethals - andrea_goethals at harvard dot edu
-- Trevor Owens - trow at loc dot gov
-- Meg Phillips - meg dot phillips at nara dot gov
+The updated Levels of Digital Preservation Grid is shown below.  The previous categories of storage and geographic location, file fixity and data integrity, information security, metadata, and file formats have been renamed to storage, integrity, control, metadata, and content.  These changes were made as the team wanted the Levels to feature actions independent of specific formats, content types, and storage systems, thus enhancing their usability across domains. 
 
-NDSA questions? Send an email to ndsa@diglib.org.
+-- place holder for image of V2.0--
 
-### 2018 Update
+The revision has realigned the levels so that they have a stronger progressive implication, and each level naturally builds upon the prior one to guide a repository into greater maturity. However, organizational priorities and resources may still result in an organization achieving certain variables in a higher level before they resolve earlier ones.
 
-A new NDSA Levels of Preservation Working Group has formed. Its primary task will be to provide the methodology by which the important NDSA Levels of Preservation document can be adapted more readily—taking in the broadest possible feedback in the process. More information about the newly formed group is [here](https://ndsa.org/working-groups/levels-of-preservation/).
+The Levels of Digital Preservation Matrix is available on the NDSA OSF [2019 Levels of Preservation page.](https://osf.io/qgz98/)
+
+
+
+## Revision Working Group
+The Revision Working group produced the updated Levels of Digital Preservation grid as well as supporting documentation.  
+* [Using the Levels of Digital Preservation: An Overview](https://osf.io/nt8u9/): Provides background information on the Levels of Digital Preservation project from 2013 and 2018, the thinking of the group on changes that were made, and recommendations for implementing the LOP. This also includes a list of Working Definitions - a list of terms used throughout the Levels of Digital Preservation grid and project to help explain terms. 
+* [Levels of Digital Preservation Matrix](https://osf.io/2mkwx/)
+
+
+## Other Supporting Documentation
+* [Using the Levels of Digital Preservation as an Assessment Tool](https://osf.io/m2fek/): Both a template to use the Levels of Digital Preservation as an assessment tool and a guiding document which includes two case studies of its use. 
+
+
+
+## Levels of Preservation Working Group
+Find more information on the Levels of Preservation Working Group on their [webpage](https://ndsa.org/working-groups/levels-of-preservation/).
+
+It is expected that the Levels of Digital Preservation will continue to be updated over time as additional feedback is received, experience is gained implementing its recommendations and as empirical research provides detailed information about data loss. For this reason, each iteration of the Levels will be versioned.
+
+
+## Original Levels of Digital Preservation (2013) 
+The original [Levels of Digital Preservation](https://osf.io/9ya8c/) (*Proceedings of the Archiving (IS&T) Conference,* April 2013, Washington, DC) are still available for use and reference.  
+
