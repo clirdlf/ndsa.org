@@ -23,7 +23,7 @@ The updated Levels of Digital Preservation Grid is shown below.  The previous ca
 
 The revision has realigned the levels so that they have a stronger progressive implication, and each level naturally builds upon the prior one to guide a repository into greater maturity. However, organizational priorities and resources may still result in an organization achieving certain variables in a higher level before they resolve earlier ones.
 
-The Levels of Digital Preservation Matrix is available on the NDSA OSF [2019 Levels of Preservation page.](https://osf.io/qgz98/)
+The Levels of Digital Preservation Matrix is available on the NDSA OSF site [here](https://osf.io/2mkwx/).
 
 
 
