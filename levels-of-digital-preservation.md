@@ -17,9 +17,9 @@ NDSA responded by creating a Levels of Preservation Working group with multiple 
 
 ## Levels of Digital Preservation V2.0
 
-The updated Levels of Digital Preservation Grid is shown below.  The previous categories of storage and geographic location, file fixity and data integrity, information security, metadata, and file formats have been renamed to storage, integrity, control, metadata, and content.  These changes were made as the team wanted the Levels to feature actions independent of specific formats, content types, and storage systems, thus enhancing their usability across domains. 
+The updated Levels of Digital Preservation Grid is shown below.  The previous categories of storage and geographic location, file fixity and data integrity, information security, metadata, and file formats have been renamed to storage, integrity, control, metadata, and content.  These changes were made as the team wanted the Levels to feature actions independent of specific formats, content types, and storage systems, thus enhancing their usability across domains.
 
--- place holder for image of V2.0--
+[![Levels of Digital Preservation, Version 2.0](/images/LOP_v2.png "Levels of Digital Preservation, Version 2.0")](https://osf.io/wvgjn/?show=view)
 
 The revision has realigned the levels so that they have a stronger progressive implication, and each level naturally builds upon the prior one to guide a repository into greater maturity. However, organizational priorities and resources may still result in an organization achieving certain variables in a higher level before they resolve earlier ones.
 
@@ -29,12 +29,12 @@ The Levels of Digital Preservation Matrix is available on the NDSA OSF site [her
 
 ## Revision Working Group
 The Revision Working group produced the updated Levels of Digital Preservation grid as well as supporting documentation.  
-* [Using the Levels of Digital Preservation: An Overview](https://osf.io/nt8u9/): Provides background information on the Levels of Digital Preservation project from 2013 and 2018, the thinking of the group on changes that were made, and recommendations for implementing the LOP. This also includes a list of Working Definitions - a list of terms used throughout the Levels of Digital Preservation grid and project to help explain terms. 
+* [Using the Levels of Digital Preservation: An Overview](https://osf.io/nt8u9/): Provides background information on the Levels of Digital Preservation project from 2013 and 2018, the thinking of the group on changes that were made, and recommendations for implementing the LOP. This also includes a list of Working Definitions - a list of terms used throughout the Levels of Digital Preservation grid and project to help explain terms.
 * [Levels of Digital Preservation Matrix](https://osf.io/2mkwx/)
 
 
 ## Other Supporting Documentation
-* [Using the Levels of Digital Preservation as an Assessment Tool](https://osf.io/m2fek/): Both a template to use the Levels of Digital Preservation as an assessment tool and a guiding document which includes two case studies of its use. 
+* [Using the Levels of Digital Preservation as an Assessment Tool](https://osf.io/m2fek/): Both a template to use the Levels of Digital Preservation as an assessment tool and a guiding document which includes two case studies of its use.
 
 
 
@@ -44,6 +44,5 @@ Find more information on the Levels of Preservation Working Group on their [webp
 It is expected that the Levels of Digital Preservation will continue to be updated over time as additional feedback is received, experience is gained implementing its recommendations and as empirical research provides detailed information about data loss. For this reason, each iteration of the Levels will be versioned.
 
 
-## Original Levels of Digital Preservation (2013) 
+## Original Levels of Digital Preservation (2013)
 The original [Levels of Digital Preservation](https://osf.io/9ya8c/) (*Proceedings of the Archiving (IS&T) Conference,* April 2013, Washington, DC) are still available for use and reference.  
-
