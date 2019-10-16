@@ -6,6 +6,9 @@ permalink: /working-groups/levels-of-preservation/
 
 *Take me to the [Levels of Digital Preservation Working Group Listserv](https://lists.clir.org/cgi-bin/wa?A0=NDSA-LEVELS)! If you are already a member of this Working Group, you can always access the listserv (including its archives) at that link. To join this Working Group, please contact Bradley Daigle at bradley [at] virginia [dot] edu.*
 
+### Version 2.0 
+Version 2.0 of the Levels of Digitial Preservation is now complete. Supporting documentation is still being created. All completed materials are [available](https://ndsa.org/activities/levels-of-digital-preservation/) on the 2019 LOP OSF project page. (October 16, 2019) 
+
 # The Levels Reboot
 ## Project Plan
 From the members of the [Levels Reboot Team](#levels-reboot-team).
