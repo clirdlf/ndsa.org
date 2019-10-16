@@ -3,7 +3,6 @@ title: Levels of Digital Preservation
 layout: page
 permalink: /activities/levels-of-digital-preservation/
 ---
-page is under construction Oct 13, 2019
 
 ## Background and Overview
 
@@ -13,7 +12,7 @@ The original intent of the LoP was to create tiered set of recommendations for e
 
 With the current rapid changes in technology, a document that functions as the technological implementation of a preservation strategy, needs updating after 5 years. In addition, after 5 years of active use, users have expressed the need to add features and considerations.
 
-NDSA responded by creating a Levels of Preservation Working group with multiple subgroups to take on the task of updating the Levels and developing additional resources around the Levels grid.  Learn more about the LOP Working group and subgroups [here](https://ndsa.org/working-groups/levels-of-preservation/).
+NDSA responded by creating a Levels of Preservation Working group with multiple subgroups to take on the task of updating the Levels and developing additional resources around the Levels grid.  Learn more about the [LOP Working group and subgroups](https://ndsa.org/working-groups/levels-of-preservation/).
 
 ## Levels of Digital Preservation V2.0
 
@@ -23,7 +22,7 @@ The updated Levels of Digital Preservation Grid is shown below.  The previous ca
 
 The revision has realigned the levels so that they have a stronger progressive implication, and each level naturally builds upon the prior one to guide a repository into greater maturity. However, organizational priorities and resources may still result in an organization achieving certain variables in a higher level before they resolve earlier ones.
 
-The Levels of Digital Preservation Matrix is available on the NDSA OSF site [here](https://osf.io/2mkwx/).
+The Levels of Digital Preservation [Matrix](https://osf.io/2mkwx/) is available on the NDSA OSF site.
 
 
 
