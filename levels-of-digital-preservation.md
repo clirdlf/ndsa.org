@@ -18,7 +18,7 @@ NDSA responded by creating a Levels of Preservation Working group with multiple 
 
 The updated Levels of Digital Preservation Grid is shown below.  The previous categories of storage and geographic location, file fixity and data integrity, information security, metadata, and file formats have been renamed to storage, integrity, control, metadata, and content.  These changes were made as the team wanted the Levels to feature actions independent of specific formats, content types, and storage systems, thus enhancing their usability across domains.
 
-[![Levels of Digital Preservation, Version 2.0](/images/LOP_v2.png "Levels of Digital Preservation, Version 2.0")](https://osf.io/wvgjn/?show=view)
+[![Levels of Digital Preservation, Version 2.0](/images/LOP_v2.png "Levels of Digital Preservation, Version 2.0")](https://osf.io/2mkwx/)
 
 The revision has realigned the levels so that they have a stronger progressive implication, and each level naturally builds upon the prior one to guide a repository into greater maturity. However, organizational priorities and resources may still result in an organization achieving certain variables in a higher level before they resolve earlier ones.
 
