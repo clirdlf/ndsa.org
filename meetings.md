@@ -5,8 +5,8 @@ permalink: /meetings/
 ---
 
 ## **Digital Preservation 2019: Critical Junctures**
-<img alt="meetings" width="710" height="237" src='{{ "/images/DigiPres-2019-FINAL.jpg" | prepend: site.baseurl }}'>
 
+<img alt="meetings" width="710" height="237" src='{{ "/images/DigiPres-2019-FINAL.jpg" | prepend: site.baseurl }}'>
 
 ### **See you in Tampa!!**
 
@@ -14,7 +14,7 @@ Registration is now closed for this year's event. If you're joining us in Tampa,
 
 The program for Digital Preservation 2019: Critical Junctures is available [here](https://forum2019.diglib.org/schedule/).
 
-**New for 2019:** Increased overlap with the DLF Forum! DigiPres now begins on Wednesday morning at 8am. When you purchase either a DigiPres-only ticket or a Forum/DigiPres combo ticket, attend the two Wednesday morning DLF Forum sessions and the DLF Forum Closing Plenary. 
+**New for 2019:** Increased overlap with the DLF Forum! DigiPres now begins on Wednesday morning at 8am. When you purchase either a DigiPres-only ticket or a Forum/DigiPres combo ticket, attend the two Wednesday morning DLF Forum sessions and the DLF Forum Closing Plenary.
 
 DigiPres registration includes two continental breakfasts, one lunch buffet, a coffee break, and a reception on Wednesday evening.
 
@@ -22,9 +22,10 @@ DigiPres registration includes two continental breakfasts, one lunch buffet, a c
 
 This year's event will take place at the **[Tampa Marriott Water Street, 700 South Florida Avenue, Tampa, Florida 33602](https://www.marriott.com/hotels/travel/tpamc-tampa-marriott-water-street/)**
 
-Our room block is now closed but there may still be availability in the conference hotel: [https://forum2019.diglib.org/hotel-travel/](https://forum2019.diglib.org/hotel-travel/)
+Our room block is now closed but there may still be availability in the conference hotel: <https://forum2019.diglib.org/hotel-travel/>
 
 ### **Keynote: Alison Langmead**
+
 <img alt="meetings" width="250" height="250" src='{{ "/images/ADL_2019.JPG" | prepend: site.baseurl }}'>
 
 **Alison Langmead** will open the 2019 Digital Preservation conference with a keynote entitled, “Sustainability Is Not Preservation.” In her talk, Langmead will discuss her experiences both collaboratively producing the NEH-funded [Socio-Technical Sustainability Roadmap](http://sustainingdh.net/) at the [Visual Media Workshop at the University of Pittsburgh](https://www.haa.pitt.edu/visual-media-workshop) as well as some of the lessons learned from working through this sustainability workshop with over 100 people in six locations across the United States this past year.
@@ -43,7 +44,7 @@ We are so grateful to our wonderful [2018 sponsors](https://ndsa.org/digital-pre
 
 ### **Sponsorship Opportunities**
 
-Is your organization interested in becoming a sponsor of #digipres19 or the [DLF Forum](https://forum2019.diglib.org)? Take a look at our  [sponsorship opportunities](https://forum2019.diglib.org/sponsorship-opportunities/) and please contact [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
+Is your organization interested in becoming a sponsor of #digipres19 or the [DLF Forum](https://forum2019.diglib.org)? Take a look at our  [sponsorship opportunities](https://forum2019.diglib.org/sponsorship-opportunities/) and please contact <mailto:lkwasigroch@clir.org> if you would like more information.
 
 ### **Can't make it to Tampa?**
 
@@ -53,40 +54,42 @@ If you aren't able to join us in Tampa this year, there are a number of ways to 
 
 **Browse the conference program.** The program for Digital Preservation 2019: Critical Junctures is available [here](https://forum2019.diglib.org/schedule/).
 
-**Follow along in shared notes.** Shared notes for all sessions (including [Learn@DLF](https://forum2019.diglib.org/learnatdlf/) and the [DLF Forum](https://forum2019.diglib.org/)) are available here: [bit.ly/2019DLF](bit.ly/2019DLF).
+**Follow along in shared notes.** Shared notes for all sessions (including [Learn@DLF](https://forum2019.diglib.org/learnatdlf/) and the [DLF Forum](https://forum2019.diglib.org/)) are available here: <http://bit.ly/2019DLF>
 
-**Check out presentations in the OSF Repository.** All presenters are encouraged to share their presentations in our OSF Repository, available here [https://osf.io/view/ndsa2019/](https://osf.io/view/ndsa2019/).
+**Check out presentations in the OSF Repository.** All presenters are encouraged to share their presentations in our OSF Repository, available here <https://osf.io/view/ndsa2019/>.
 
-Having trouble find something? Get in touch at [forum@diglib.org](mailto:forum@diglib.org).
+Having trouble find something? Get in touch at <mailto:forum@diglib.org>.
 
 ### **2019 DigiPres Organizing Committee**
 
 Thank you to these individuals for their hard work in organizing this year's Digital Preservation conference.
 
-- **Sibyl Schaefer**, UC San Diego (chair)
-- **Courtney C. Mumma**, Texas Digital Library (vice chair)
-- **Seth Anderson**, Yale University Library
-- **Heather Barnes**, Wake Forest University
-- **Joe Carrano**, Massachusetts Institute of Technology
-- **Suzanne Chase**, Georgetown University
-- **David Cirella**, Yale University
-- **Stefan Elnabli**, UC San Diego
-- **Alex Kinnaman**, Virginia Tech               
-- **Dan Noonan**, The Ohio State University
-- **Krista Oldham**, Clemson University
-- **Kristen Schuster**, King’s College London
+-   **Sibyl Schaefer**, UC San Diego (chair)
+-   **Courtney C. Mumma**, Texas Digital Library (vice chair)
+-   **Seth Anderson**, Yale University Library
+-   **Heather Barnes**, Wake Forest University
+-   **Joe Carrano**, Massachusetts Institute of Technology
+-   **Suzanne Chase**, Georgetown University
+-   **David Cirella**, Yale University
+-   **Stefan Elnabli**, UC San Diego
+-   **Alex Kinnaman**, Virginia Tech               
+-   **Dan Noonan**, The Ohio State University
+-   **Krista Oldham**, Clemson University
+-   **Kristen Schuster**, King’s College London
 
 ### **DigiPres Call for Proposals**
+
 The 2019 Digital Preservation Call for Proposals closed on April 28. You can review the CFP [here](https://ndsa.org/2019digiprescfp/).
 
 ### **Past Meetings**
 
-An archive of past *Digital Preservation* meetings (which from 2011-2014 was a combined NDIIPP-NDSA conference for the digital preservation community) can be found on the [Digital Preservation Meetings page](http://www.digitalpreservation.gov/meetings/) at the Library of Congress.
+An archive of past _Digital Preservation_ meetings (which from 2011-2014 was a combined NDIIPP-NDSA conference for the digital preservation community) can be found on the [Digital Preservation Meetings page](http://www.digitalpreservation.gov/meetings/) at the Library of Congress.
 
-Information of past *Digital Preservation* meetings from 2016- can be found below:
-* [Digital Preservation 2016](/digital-preservation-2016)
-* [Digital Preservation 2017](/digital-preservation-2017)
-* [Digital Preservation 2018](/digital-preservation-2018)
+Information of past _Digital Preservation_ meetings from 2016- can be found below:
+
+-   [Digital Preservation 2016](/digital-preservation-2016)
+-   [Digital Preservation 2017](/digital-preservation-2017)
+-   [Digital Preservation 2018](/digital-preservation-2018)
 
 ### Calendar
 
