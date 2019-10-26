@@ -16,10 +16,16 @@ end
 namespace :test do
   desc 'Validate HTML output'
   task :html do
-    require 'html/proofer'
-
+    require 'html-proofer'
     `bundle exec jekyll build`
-    HTML::Proofer.new('./_site').run
+    options = {
+      assume_extension: true,
+      disable_external: true,
+      empty_alt_ignore: true,
+      url_swap: { "^/" => "http://localhost/" }
+    }
+    HTMLProofer.check_directory("./_site", options).run
+    # HTML::Proofer.new('./_site').run
   end
 
   desc 'Validate site with pa11y'
