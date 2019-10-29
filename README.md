@@ -44,13 +44,15 @@ Here are a couple of helpful video tutorials for [**how to add members**](https:
 
 ## Blog Posts
 
-Blog posts are written and served from https://www.diglib.org/. There is a `rake` task to import these and convert them to the Jekyll format.
+Blog posts are written and served from WordPress at [https://www.diglib.org/wp-admin](https://www.diglib.org/wp-admin). After saving posts as drafts, authors should contact [info@diglib.org](mailto:info@diglib.org) to coordinate publication as it will also appear on the DLF website.
+
+After the blog post has been published on the DLF website, you must run a `rake` task in a local development environment to import the post and convert it to the Jekyll format. This will load the full content of the posts from the RSS feed and generate the appropriate files. Any changes (typos, links, etc.) need to be made at https://www.diglib.org.
 
 ```
 $ rake import:rss
 ```
 
-This will load the full content of the posts from the RSS feed and generate the appropriate files. Any changes (typos, links, etc.) need to be made at https://www.diglib.org.
+After running the `rake` task locally, the changes will need to be committed to git and pushed to GitHub in order to be deployed to ndsa.org
 
 ## Membership Data
 
