@@ -3,14 +3,34 @@ title: Values and Mission
 layout: page
 permalink: /values/
 ---
-## NDSA Values Statement
+## Mission
+The NDSA is an international membership organization that supplies advocacy, expertise, and support for the preservation of digital heritage. 
 
-The National Digital Stewardship Alliance and all of its members are bound as a community by the following values:
+## Vision
+The NDSA promotes a vision in which all digital material fundamentally important to our cultures receives appropriate, effective, and sustainable stewardship care from the international preservation community to protect and enhance its persistent value, availability, and (re)use.  
 
-- **Stewardship:** Members of the NDSA are committed to managing digital content for current and long-term use. The members of the NDSA are actively ensuring sustained access to the digital content that constitutes our national legacy and empowers us as leaders in the global knowledge economy. Individually, these organizations support the management of digital resources; as an Alliance, we commit to protecting our nation's cultural, scientific, scholarly, and business heritage.
-- **Collaboration:** Collaborative work is the centering value of the Alliance and a value shared by all members. Approaching digital stewardship collaboratively allows the NDSA to coordinate effort, avoid duplicate work, build a community of practice, develop new preservation strategies, flexibly respond to a changing economic landscape, build relationships and increase capacity to manage content beyond institutional boundaries.
-- **Inclusiveness:** The NDSA is a collaborative effort to preserve a distributed national digital collection for the benefit of current and future generations. We value the range of experience, the potential for innovation, and the fault-tolerance that heterogeneity brings. We believe the preservation of digital information is a pervasive challenge and that engaging across different communities strengthens the nation’s digital preservation practices and increases the likelihood of preserving content now and into the future.
-- **Exchange:** Members of the Alliance encourage the open exchange of ideas, services, and software. This leverages the commitments of each member to increase the capacity of the entire stewardship network. Participation and engagement result in innovations and benefits that can be shared by all. The Alliance is committed to transparency and all products generated or produced by the Alliance will be circulated under open licenses.
+## Goals
+The NDSA membership invests collaborative stewardship action towards three primary objectives:
+1. Convening and sustaining an engaged community to advance digital stewardship theory and practice.
+2. Identifying, communicating, and advocating for the common needs, concerns, standards, and best practices of that community.
+3. Providing outreach, resources, training, and professional development opportunities to bolster the effectiveness, productivity, and continuity of that community.
+
+## Strategies and Activities
+The NDSA’s specific strategic priorities and initiatives are articulated in the NDSA Stewardship Agenda.  In general, these divide into four high-level categories:
+* *Communications and outreach*, to promote community and raise public awareness
+* *Reports and guidance*, to advocate standards, encourage sustainable infrastructure, and broaden access to and use of preserved digital materials
+* *Knowledge exchange*, to facilitate cooperation and promote innovation
+* *Sustainable Governance*, to maintain a clear, transparent, and accountable governance structure for the NDSA
+
+## Values
+The NDSA membership is bound as a community by the following values:
+1. *Stewardship* is the existential value of the NDSA. NDSA membership expresses a foundational commitment to the proactive management of digital content for current and long-term use.
+2. *Collaboration, exchange, and inclusiveness* are the operational values of the NDSA.  The vision of the NDSA is expansive and progress towards it depends upon harnessing the complementary and coordinated actions of all appropriate organizational and individual participants, including voices and perspectives that have been historically marginalized.
+3. *Ethical behavior* is the imperative value of the NDSA. NDSA members act towards each other and stakeholder communities with integrity, respect, transparency, and accountability.
+
+
+
+
 
 ## Current Organization
 
