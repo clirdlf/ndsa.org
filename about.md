@@ -4,18 +4,25 @@ title: About the NDSA
 permalink: /about/
 ---
 
-The National Digital Stewardship Alliance is a [consortium of organizations](/members-list/) committed to the long-term preservation of digital information. The mission of the NDSA is to establish, maintain, and advance the capacity to preserve our nation's digital resources for the benefit of present and future generations.
 
-NDSA was launched as a membership organization in July 2010 as an initiative of the National [Digital Information Infrastructure and Preservation Program](http://www.digitalpreservation.gov/index.php) of the Library of Congress. For an inaugural 4-year term, NDIIPP provided secretariat and membership management support to the NDSA, contributing Interest Group leadership, expertise, and administrative support.
+
+
+NDSA was launched in July 2010 as an initiative of the [National Digital Information Infrastructure and Preservation Program](http://www.digitalpreservation.gov/index.php) (NDIIPP) of the Library of Congress. For an inaugural four-year term, the Library of Congress provided secretariat and membership management services to the NDSA as well as contributing leadership, expertise, and administrative support.
 
 The NDSA's institutional home as of January 1, 2016, is the [Digital Library Federation (DLF)](https://www.diglib.org), at the [Council on Library and Information Resources (CLIR)](http://www.clir.org/). Selection of DLF followed a nationwide search and evaluation of cultural heritage, membership, and technical service organizations, in consultation with NDSA Interest Groups, their members, and external advisors.
 
+Although originally constituted as a US-centric organization, NDSA has since opened up its membership to international participation in recognition of the innovative and impactful work being done across national boundaries. The NDSA is a [consortium of organizations](/members-list/) committed to the long-term preservation of digital information. 
+
+
 ### Who We Are
-The NDSA is a dynamic organization with more than 220 [member organizations](/members-list/), including universities, government and nonprofit organizations, commercial businesses, and professional associations. NDSA members have proven themselves in the field of digital stewardship.
 
-Activities of the NDSA are organized by 3 [Interest Groups](/working-groups/), each with two co-chairs, and led by an elected [Coordinating Committee](/leadership/) with representation from the DLF.
+Membership in the NDSA is at the institution level with currently over 250 [organizations](/members-list/) representing universities, government and non-profit organizations, commercial businesses and professional associations. Multiple individuals from each institution are encouraged to participate in NDSA activities.  
 
-While membership in the NDSA is at the institutional level, individuals serving in leadership roles are highly experienced in the areas of digital stewardship and have made contributions to the field of digital preservation. A partial list of these individuals and their contact information is available through the [NDSA Experts Guide](/experts-guide/).
+Activities of the NDSA most often take place through Interest and Working groups. Members of the NDSA are encouraged to join one or more [Interest and Working Groups](/working-groups/) and/or become chairs/co-chairs of the Groups.  
+
+Interest Groups are standing groups that provide information about areas of interest to the membership. Interest groups may be formed as needed with approval from the [Coordinating Committee](/leadership/). 
+Working Groups originate with the goal to complete a task or project. Working Groups may be ongoing or spun up or down as needed.  
+
 
 ### How We Work
 NDSA members join by completing a [membership application](https://docs.google.com/forms/d/e/1FAIpQLScAtyX61Rmnp0uxB7daaqnKEVSbgip2C7nO92C9Ybzox7LpEw/viewform), agreeing to our Principles of Collaboration and Membership Agreement, found in the NDSA [Membership Packet](/documents/Member_Packet_2018.pdf), and by participating in [Interest and Working Groups](/working-groups/). There are no fees to join the NDSA but members do commit to work collaboratively and share expertise. An elected [Coordinating Committee](/leadership/) provides strategic direction for the NDSA.
