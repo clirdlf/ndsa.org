@@ -46,7 +46,7 @@ You can read about past NDSA projects and activities on NDIIPP's [*The Signal*](
 - [NDSA Calendar](/calendar/) (including Interest Group calls, upcoming presentation dates, and NDSA Regional Meetings)
 - [Interest Group](/working-groups) Projects and Activities
 - [The National Agenda for Digital Stewardship](/national-agenda/)
-- [Legacy Content](/about/legacy-content/) (Legacy working documentation form NDSA working and interest groups)
+- [Legacy Content](/about/legacy-content/) (Legacy working documentation from NDSA working and interest groups.)
 <!-- - [NDSA Experts Guide](/experts-guide/)-->
 - NDSA [Values Statement](/values/)
 - [Information about joining the NDSA](/get-involved/)
