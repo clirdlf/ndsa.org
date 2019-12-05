@@ -1,7 +1,7 @@
 ---
 title: NDSA Legacy Content
 layout: page
-permalink: /about/legacy-content
+permalink: /about/legacy-content/
 ---
 
 Until 2016, some working documentation from NDSA groups was maintained on the NDSA Wiki at https://wiki.diglib.org/NDSA:Main_Page. Since 2016, those activities have often been captured using Google Drive and final products made available on the NDSA website or [NDSA OSF repository](https://osf.io/4d567/). Meeting notes for some groups are also available on the NDSA website. 
