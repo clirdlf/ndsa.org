@@ -1,14 +1,15 @@
 ---
-title: Digital Preservation Conferences
+title: Digital Preservation 2020
 layout: page
 permalink: /meetings/
 ---
 
+## November 11-12, 2020 in Baltimore, Maryland
+
 <img alt="meetings" width="710" height="347" src='{{ "/images/FINAL DLF-Forum-2020_Baltimore v2-01.png" | prepend: site.baseurl }}'>
 
-## Digital Preservation 2020: November 11-12, 2020 in Baltimore, Maryland
 
-### About the NDSA and Digital Preservation 2020:
+### **About the NDSA and Digital Preservation 2020:**
 
 The National Digital Stewardship Alliance is a consortium of more than 220 organizations committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. Digital Preservation 2020 ([#digipres20](https://twitter.com/hashtag/digipres20)) intended to help to chart future directions for both the NDSA and digital stewardship, and was expected to be a crucial venue for intellectual exchange, community-building, development of best practices, and national-level agenda-setting in the field.
 
@@ -23,7 +24,7 @@ Is your organization interested in becoming a sponsor of #digipres20 or the [DLF
 
 We are so grateful to our [2019 DLF Forum + Digital Preservation sponsors](https://ndsa.org/digital-preservation-2019-sponsors/) for making last year's events a success!
 
-### Conference Hotel + Travel
+### **Conference Hotel + Travel**
 
 This year's event will take place at the **[Renaissance Baltimore Harborplace Hotel, 202 East Pratt Street, Baltimore, Maryland 21202](https://www.marriott.com/hotels/travel/bwish-renaissance-baltimore-harborplace-hotel/)**
 
