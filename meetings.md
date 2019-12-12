@@ -1,10 +1,10 @@
 ---
-title: Digital Preservation 2020
+title: Digital Preservation Conference
 layout: page
 permalink: /meetings/
 ---
 
-## November 11-12, 2020 in Baltimore, Maryland
+### **November 11-12, 2020 in Baltimore, Maryland**
 
 <img alt="meetings" width="710" height="347" src='{{ "/images/FINAL DLF-Forum-2020_Baltimore v2-01.png" | prepend: site.baseurl }}'>
 
