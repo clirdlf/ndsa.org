@@ -1,12 +1,10 @@
 ---
-title: Digital Preservation Conferences
+title: Digital Preservation 2019 CFP
 layout: page
-permalink: /2019digiprescfp/
+permalink: /digital-preservation-2019-cfp/
 ---
 
-**The Digital Preservation 2019 Call for Proposals has closed.**
-
-**The CFP appears below. We hope to see you in Tampa in October!**
+**The Digital Preservation 2019 Call for Proposals closed April 28, 2019.** You can see the text of the CFP below.
 
 ## **Digital Preservation 2019**
 <img alt="meetings" width="710" height="237" src='{{ "/images/DigiPres-2019-FINAL.jpg" | prepend: site.baseurl }}'>
