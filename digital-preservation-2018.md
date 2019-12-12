@@ -12,18 +12,31 @@ permalink: /digital-preservation-2018/
 
 The National Digital Stewardship Alliance is a consortium of more than 220 organizations committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. Digital Preservation 2018 ([#digipres18](https://twitter.com/search?q=%23digipres18&src=typd)) intended to help to chart future directions for both the NDSA and digital stewardship, and was expected to be a crucial venue for intellectual exchange, community-building, development of best practices, and national-level agenda-setting in the field.
 
-The conference was held at the beautiful [M Resort](http://www.themresort.com/), just outside of Las Vegas, NV. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code).
+The conference was held at the beautiful [M Resort](http://www.themresort.com/), just outside of Las Vegas, NV. 
+
+The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code).
 
 ### Thank you to our Sponsors!
 
 Please see a [full list of our wonderful 2018 DLF Forum + Digital Preservation sponsors](https://ndsa.org/digital-preservation-2018-sponsors/). 
 
-**Interested in sponsoring for an upcoming event?** Please email  [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
+**Interested in sponsoring an upcoming event?** Please email [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
 
-### Program
-The planning committee is excited to share the [program for Digital Preservation 2018](https://dlfforum2018.sched.com/)! To view the conference's offerings, please scroll down to Wednesday and Thursday. 
+### **Review our 2018 Event**
 
-Presentations from our 2018 conference may be found in our [online repository](https://osf.io/view/ndsa2018/).
+If you weren't able to join us in Las Vegas or if you'd like to review event happenings, read on.
+
+**Check out event recordings.** The opening plenary of Digital Preservation 2018: In/visible Work was livestreamed and recorded. You can view the recordings [on this page](https://forum2018.diglib.org/livestream-recordings/).
+
+**Browse the conference program.** The program for Digital Preservation 2019: Critical Junctures is available [here](https://forum2019.diglib.org/schedule/).
+
+**Catch up with shared notes.** Shared notes for all DigiPres sessions are available here: <http://bit.ly/digipres18>. 
+
+Shared notes for [Learn@DLF](https://forum2018.diglib.org/learnatdlf/) and the [DLF Forum](https://forum2018.diglib.org/)) are available here: <http://bit.ly/DLFforum2018>.
+
+**Check out presentations in the OSF Repository.** All presenters were encouraged to share their presentations in our OSF Repository, available here <https://osf.io/view/ndsa2018/>.
+
+Having trouble find something? Get in touch at <mailto:forum@diglib.org>.
 
 ### Keynote: Snowden Becker
 [Snowden Becker](https://snowdenbecker.com/) will open Digital Preservation 2018 with a talk entitled “**To See Ourselves as Others See Us: On Archives, Visibility, and Value**.”
@@ -82,5 +95,3 @@ Submissions are invited in the following lengths and formats:
 - **Workshops:** Hands-on training sessions on specific tools, techniques, workflows, or concepts. All workshop organizers are asked to provide details on technology needs and learning outcomes for participants. Workshops are allotted 90 minutes.
 - **Minute Madness/Posters:** Share your ideas in 60 seconds or less as part of the opening plenary of the conference. Presenters will have the option to display posters during the reception that follows. (Guidelines for poster sizes will be provided on acceptance.)
 - **Lunchtime Working Group Meetings:** NDSA working and interest group chairs are invited to propose group meetings or targeted collaboration sessions. (Lunch provided.)
-
-
