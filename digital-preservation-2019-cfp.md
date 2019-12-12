@@ -1,15 +1,12 @@
 ---
-title: Digital Preservation 2019 CFP
+title: Digital Preservation 2019 Critical Junctures Call for Proposals
 layout: page
 permalink: /digital-preservation-2019-cfp/
 ---
 
-**The Digital Preservation 2019 Call for Proposals closed April 28, 2019.** You can see the text of the CFP below.
-
-## **Digital Preservation 2019**
 <img alt="meetings" width="710" height="237" src='{{ "/images/DigiPres-2019-FINAL.jpg" | prepend: site.baseurl }}'>
 
-### **Digital Preservation 2019: Critical Junctures Call for Proposals**
+### The Digital Preservation 2019 Call for Proposals closed April 28, 2019. You can see the text of the CFP below.
 
 The National Digital Stewardship Alliance ([NDSA](http://ndsa.diglib.org/)) invites proposals for Digital Preservation 2019: Critical Junctures to be held in Tampa, Florida, October 16-17, 2019.
 
