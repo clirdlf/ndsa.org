@@ -52,6 +52,6 @@ Information of past _Digital Preservation_ meetings from 2016- can be found belo
 -   [Digital Preservation 2018](/digital-preservation-2018)
 -   [Digital Preservation 2019](/digital-preservation-2019)
 
-### Calendar
+### **Calendar**
 
 For the latest on upcoming events, see our [NDSA calendar](/calendar). More events relevant to the NDSA's mission are to be found on the [DLF Community Calendar](https://www.diglib.org/opportunities/calendar/).
