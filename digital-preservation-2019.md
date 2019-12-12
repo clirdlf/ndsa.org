@@ -1,10 +1,8 @@
 ---
-title: Digital Preservation 2019
+title: Digital Preservation 2019 Critical Junctures
 layout: page
 permalink: /digital-preservation-2019/
 ---
-
-## **Digital Preservation 2019: Critical Junctures**
 
 <img alt="meetings" width="710" height="237" src='{{ "/images/DigiPres-2019-FINAL.jpg" | prepend: site.baseurl }}'>
 
