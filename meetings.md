@@ -4,7 +4,7 @@ layout: page
 permalink: /meetings/
 ---
 
-<img alt="meetings" width="710" height="237" src='{{ "/images/FINAL DLF-Forum-2020_Baltimore v2-01.png" | prepend: site.baseurl }}'>
+<img alt="meetings" width="710" height="347" src='{{ "/images/FINAL DLF-Forum-2020_Baltimore v2-01.png" | prepend: site.baseurl }}'>
 
 ## Digital Preservation 2020: November 11-12, 2020 in Baltimore, Maryland
 
