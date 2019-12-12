@@ -1,5 +1,5 @@
 ---
-title: Digital Preservation Conferences
+title: 2019 Digital Preservation Conference
 layout: page
 permalink: /digital-preservation-2019/
 ---
