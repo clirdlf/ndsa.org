@@ -1,5 +1,5 @@
 ---
-title: 2019 Digital Preservation Conference
+title: Digital Preservation 2019
 layout: page
 permalink: /digital-preservation-2019/
 ---
@@ -8,21 +8,35 @@ permalink: /digital-preservation-2019/
 
 <img alt="meetings" width="710" height="237" src='{{ "/images/DigiPres-2019-FINAL.jpg" | prepend: site.baseurl }}'>
 
-### **See you in Tampa!!**
+### About the NDSA and Digital Preservation 2019:
 
-Registration is now closed for this year's event. If you're joining us in Tampa, we can't wait to see you!
+The National Digital Stewardship Alliance is a consortium of more than 220 organizations committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. Digital Preservation 2019 ([#digipres19](https://twitter.com/hashtag/digipres19)) intended to help to chart future directions for both the NDSA and digital stewardship, and was expected to be a crucial venue for intellectual exchange, community-building, development of best practices, and national-level agenda-setting in the field.
 
-The program for Digital Preservation 2019: Critical Junctures is available [here](https://forum2019.diglib.org/schedule/).
+The conference was held at the beautiful [Tampa Marriott Water Street](https://www.marriott.com/hotels/travel/tpamc-tampa-marriott-water-street/), in Tampa, FL. 
 
-**New for 2019:** Increased overlap with the DLF Forum! DigiPres now begins on Wednesday morning at 8am. When you purchase either a DigiPres-only ticket or a Forum/DigiPres combo ticket, attend the two Wednesday morning DLF Forum sessions and the DLF Forum Closing Plenary.
+The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code).
 
-DigiPres registration includes two continental breakfasts, one lunch buffet, a coffee break, and a reception on Wednesday evening.
+### Thank you to our Sponsors!
 
-### Conference Hotel + Travel
+Please see a [full list of our wonderful 2019 DLF Forum + Digital Preservation sponsors](https://ndsa.org/digital-preservation-2019-sponsors/). 
 
-This year's event will take place at the **[Tampa Marriott Water Street, 700 South Florida Avenue, Tampa, Florida 33602](https://www.marriott.com/hotels/travel/tpamc-tampa-marriott-water-street/)**
+**Interested in sponsoring an upcoming event?** Please email [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
 
-Our room block is now closed but there may still be availability in the conference hotel: <https://forum2019.diglib.org/hotel-travel/>
+We are also so grateful to our [2018 sponsors](https://ndsa.org/digital-preservation-2018-sponsors/) for making last year's event a success.
+
+### **Review our 2019 Event**
+
+If you weren't able to join us in Tampa or if you'd like to review event happenings, read on.
+
+**Check out event recordings.** The opening plenary of Digital Preservation 2019: Critical Junctures was livestreamed and recorded thanks to generous support from [Carnegie Mellon University Libraries](https://www.library.cmu.edu). You can view the recordings [on this page](https://forum2019.diglib.org/livestream-recordings/).
+
+**Browse the conference program.** The program for Digital Preservation 2019: Critical Junctures is available [here](https://forum2019.diglib.org/schedule/).
+
+**Catch up with shared notes.** Shared notes for all sessions (including [Learn@DLF](https://forum2019.diglib.org/learnatdlf/) and the [DLF Forum](https://forum2019.diglib.org/)) are available here: <http://bit.ly/2019DLF>
+
+**Check out presentations in the OSF Repository.** All presenters were encouraged to share their presentations in our OSF Repository, available here <https://osf.io/view/ndsa2019/>.
+
+Having trouble find something? Get in touch at <mailto:forum@diglib.org>.
 
 ### **Keynote: Alison Langmead**
 
@@ -42,27 +56,9 @@ Thank you to our [2019 DLF Forum + Digital Preservation sponsors](https://ndsa.o
 
 We are so grateful to our wonderful [2018 sponsors](https://ndsa.org/digital-preservation-2018-sponsors/) for making last year's event a success.
 
-### **Sponsorship Opportunities**
-
-Is your organization interested in becoming a sponsor of #digipres19 or the [DLF Forum](https://forum2019.diglib.org)? Take a look at our  [sponsorship opportunities](https://forum2019.diglib.org/sponsorship-opportunities/) and please contact <mailto:lkwasigroch@clir.org> if you would like more information.
-
-### **Can't make it to Tampa?**
-
-If you aren't able to join us in Tampa this year, there are a number of ways to follow along at home.
-
-**Tune into the opening plenary livestream.** The opening plenary of Digital Preservation 2019: Critical Junctures will be livestreamed thanks to generous support from [Carnegie Mellon University Libraries](https://www.library.cmu.edu). [Tune in](https://forum2019.diglib.org/livestream-recordings/) on Wednesday, October 16, from 2-4pm ET or [bookmark this page](https://forum2019.diglib.org/livestream-recordings/) to view the recording later.
-
-**Browse the conference program.** The program for Digital Preservation 2019: Critical Junctures is available [here](https://forum2019.diglib.org/schedule/).
-
-**Follow along in shared notes.** Shared notes for all sessions (including [Learn@DLF](https://forum2019.diglib.org/learnatdlf/) and the [DLF Forum](https://forum2019.diglib.org/)) are available here: <http://bit.ly/2019DLF>
-
-**Check out presentations in the OSF Repository.** All presenters are encouraged to share their presentations in our OSF Repository, available here <https://osf.io/view/ndsa2019/>.
-
-Having trouble find something? Get in touch at <mailto:forum@diglib.org>.
-
 ### **2019 DigiPres Organizing Committee**
 
-Thank you to these individuals for their hard work in organizing this year's Digital Preservation conference.
+Thank you to these individuals for their hard work in organizing the 2019 Digital Preservation conference.
 
 -   **Sibyl Schaefer**, UC San Diego (chair)
 -   **Courtney C. Mumma**, Texas Digital Library (vice chair)
@@ -90,8 +86,4 @@ Information of past _Digital Preservation_ meetings from 2016- can be found belo
 -   [Digital Preservation 2016](/digital-preservation-2016)
 -   [Digital Preservation 2017](/digital-preservation-2017)
 -   [Digital Preservation 2018](/digital-preservation-2018)
-
-### Calendar
-
-For the latest on upcoming events, see our [NDSA calendar](/calendar). More events relevant to the NDSA's mission are to be found on the [DLF Community Calendar](https://www.diglib.org/opportunities/calendar/).
 
