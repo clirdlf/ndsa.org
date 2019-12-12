@@ -1,7 +1,7 @@
 ---
 title: Digital Preservation Conferences
 layout: page
-permalink: /meetings/
+permalink: /digital-preservation-2019/
 ---
 
 ## **Digital Preservation 2019: Critical Junctures**
