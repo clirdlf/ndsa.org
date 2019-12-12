@@ -1,5 +1,5 @@
 ---
-title: Digital Preservation 2018: In/visible Work
+title: Digital Preservation 2018 In/visible Work
 layout: page
 permalink: /digital-preservation-2018/
 ---
