@@ -1,10 +1,8 @@
 ---
-title: Digital Preservation 2018
+title: Digital Preservation 2018: In/visible Work
 layout: page
 permalink: /digital-preservation-2018/
 ---
-
-### Digital Preservation 2018: In/visible Work
 
 <img alt="meetings" width="710" height="270" src='{{ "/images/NDSA-DigitalPreservation-2018_FacebookHeader_Final.png" | prepend: site.baseurl }}'>
 
