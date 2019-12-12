@@ -16,7 +16,9 @@ The conference was held at the beautiful [M Resort](http://www.themresort.com/),
 
 ### Thank you to our Sponsors!
 
-Please see a [full list of our wonderful 2018 DLF Forum + Digital Preservation sponsors](https://ndsa.org/digital-preservation-2018-sponsors/). Interested in sponsoring for an upcoming event? Please email  [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
+Please see a [full list of our wonderful 2018 DLF Forum + Digital Preservation sponsors](https://ndsa.org/digital-preservation-2018-sponsors/). 
+
+**Interested in sponsoring for an upcoming event?** Please email  [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org) if you would like more information.
 
 ### Program
 The planning committee is excited to share the [program for Digital Preservation 2018](https://dlfforum2018.sched.com/)! To view the conference's offerings, please scroll down to Wednesday and Thursday. 
