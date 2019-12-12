@@ -29,7 +29,8 @@ The NDSA membership is bound as a community by the following values:
 3. *Ethical behavior* is the imperative value of the NDSA. NDSA members act towards each other and stakeholder communities with integrity, respect, transparency, and accountability.
 
 
-
+## Code of Conduct
+As the Digital Library Federation (DLF) acts as the host organization for NDSA, NDSA groups follow DLF's [Code of Conduct](https://www.diglib.org/about/code-of-conduct/).
 
 
 ## Current Organization
