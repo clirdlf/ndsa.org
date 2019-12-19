@@ -25,7 +25,7 @@ Working Groups originate with the goal to complete a task or project. Working Gr
 
 
 ### How We Work
-NDSA members join by completing a [membership application](https://docs.google.com/forms/d/e/1FAIpQLScAtyX61Rmnp0uxB7daaqnKEVSbgip2C7nO92C9Ybzox7LpEw/viewform), agreeing to our Principles of Collaboration and Membership Agreement, found in the NDSA [Membership Packet](/documents/Member_Packet_2018.pdf), and by participating in [Interest and Working Groups](/working-groups/). There are no fees to join the NDSA but members do commit to work collaboratively and share expertise. An elected [Coordinating Committee](/leadership/) provides strategic direction for the NDSA.
+NDSA members join by completing a [membership application](https://docs.google.com/forms/d/e/1FAIpQLScAtyX61Rmnp0uxB7daaqnKEVSbgip2C7nO92C9Ybzox7LpEw/viewform), agreeing to our Foundational Principles and Membership Agreement and by participating in [Interest and Working Groups](/working-groups/). There are no fees to join the NDSA but members do commit to work collaboratively and share expertise. An elected [Coordinating Committee](/leadership/) provides strategic direction for the NDSA.
 
 ### What We Do
 The NDSA organizes a national network of collaborative partners to take stewardship action toward three primary objectives:
