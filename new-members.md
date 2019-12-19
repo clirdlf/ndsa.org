@@ -20,7 +20,7 @@ Then try...
 Action teams may also be formed outside of (or within) the Interest Groups to perform specific tasks or accomplish goals. Start one up!
 
 ## Need Help?
-- Lost your wiki password? Go [here](https://wiki.diglib.org/Special:PasswordReset), and enter your username. Click “Reset password”. A temporary password will be sent to your email address. Forgot your username? Go [here](https://wiki.diglib.org/index.php?title=Special:UserLogin&returnto=Special%3ASpecialPages) and click "Help with logging in".
+<!--- - Lost your wiki password? Go [here](https://wiki.diglib.org/Special:PasswordReset), and enter your username. Click “Reset password”. A temporary password will be sent to your email address. Forgot your username? Go [here](https://wiki.diglib.org/index.php?title=Special:UserLogin&returnto=Special%3ASpecialPages) and click "Help with logging in". --->
 - Listserv questions or problems?
 If you or a colleague need to be added or removed from NDSA_ALL or one of the Interest Group listservs, contact your Interest Group co-chairs.
 - I’m in the "wrong Interest Group!"
