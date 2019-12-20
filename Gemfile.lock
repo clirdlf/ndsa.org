@@ -120,7 +120,7 @@ GEM
     ra11y (0.0.1)
       colorator
       parallel
-    rack (1.6.11)
+    rack (1.6.12)
     rack-protection (1.5.5)
       rack
     rake (12.3.2)
