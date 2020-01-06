@@ -3,9 +3,6 @@ title: New Members
 layout: page
 permalink: /new-members/
 ---
-Welcome! Start by reviewing this website and the [Membership Packet](/documents/Member_Packet_2018.pdf).
-
-Then try...
 
 ## Five Easy Ways to Get Involved
 - Contact your [Interest Group or Working Group co-chairs](/working-groups/) to learn more about how to get involved in a specific group or activity.
