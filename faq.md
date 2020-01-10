@@ -28,7 +28,6 @@ javascript:
 ### Member Communication
 
 - [How do members access NDSA listservs?](#how-do-members-access-ndsa-listservs)
-- [How do members use the NDSA wiki?](#how-do-members-use-the-ndsa-wiki)
 - [I just joined the NDSA. How can I get involved?](#i-just-joined-the-ndsa-how-can-i-get-involved)
 - [Who are the NDSA Interest Group and Working Group Co-Chairs?](#who-are-the-ndsa-interest-group-and-working-group-co-chairs)
 
