@@ -86,7 +86,7 @@ This project will engage key stakeholders and other communities to:
 
 - [Levels of Digital Preservation](http://ndsa.org/activities/levels-of-digital-preservation/)
 - [The NDSA Levels of Digital Preservation: An Explanation and Uses](http://www.digitalpreservation.gov/documents/NDSA_Levels_Archiving_2013.pdf)
-- [NDSA Levels of preservation original Project Plans](https://wiki.diglib.org/NDSA:Levels_of_preservation)
+- [NDSA Levels of preservation original Project Plans](https://web.archive.org/web/20170304174709/https://wiki.diglib.org/NDSA:Levels_of_preservation), Internet Archive Wayback Machine
 - [Expanding NDSA Levels of Preservation](https://blogs.loc.gov/thesignal/2016/04/expanding-ndsa-levels-of-preservation/), Shira Peltzman from the UCLA Library
 
 ## Dates and deliverables
