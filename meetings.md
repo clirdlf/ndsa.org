@@ -20,7 +20,7 @@ The NDSA strives to create a safe, accessible, welcoming, and inclusive event, a
 
 ### **Sponsorship Opportunities**
 
-Is your organization interested in becoming a sponsor of #digipres20 or the [DLF Forum](https://forum2019.diglib.org)? Take a look at our [sponsorship opportunities](https://forum2019.diglib.org/sponsorship-opportunities/) and please contact <mailto:lkwasigroch@clir.org> if you would like more information.
+Is your organization interested in becoming a sponsor of #digipres20 or the [DLF Forum](https://forum2019.diglib.org)? Take a look at our [sponsorship opportunities](https://forum2019.diglib.org/sponsorship-opportunities/) and please contact [Louisa Kwasigroch](mailto:lkwasigroch@clir.org) if you would like more information.
 
 We are so grateful to our [2019 DLF Forum + Digital Preservation sponsors](https://ndsa.org/digital-preservation-2019-sponsors/) for making last year's events a success!
 
