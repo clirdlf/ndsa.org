@@ -73,7 +73,7 @@ Thank you to these individuals for their hard work in organizing the 2019 Digita
 
 ### **DigiPres Call for Proposals**
 
-The 2019 Digital Preservation Call for Proposals closed on April 28. You can review the CFP [here](https://ndsa.org/2019digiprescfp/).
+The 2019 Digital Preservation Call for Proposals closed on April 28. You can review the CFP [here](https://ndsa.org/digital-preservation-2019-cfp/).
 
 ### **Past Meetings**
 
