@@ -29,11 +29,7 @@ NDSA welcomes 250-word proposals for Digital Preservation describing your presen
 We encourage proposals related to this year’s theme: Critical Junctures.
 
 Digital preservation supports ongoing access to important digital records and aims to counteract the many risks that digital materials face, from obsolete software and hardware to bit corruption. “Junctures” can be defined as particular points in time or as the places where things join. Critical junctures among people, organizations, and technology are fostered to ensure digital objects persist over time. This year, Digital Preservation 2019 invites presentations and workshops that seek to explore these “Critical Junctures.” The program committee is particularly interested in presentations that address the following topics:
-- **Joining Forces:** We invite talks with a focus on exploring interdisciplinary, multidisciplinary, and post-custodial approaches, while examining the benefits, challenges, and limitations of collaboration and resource-sharing.
-- **Risks Becoming Reality:** What happens when skills, policies, tools, and/or other resources fail to materialize or align at critical junctures? We’d like to hear “real life” stories of preservation risks playing out in big and small ways and their impacts not only on collections and organizations, but also on communities.
-- **Soup to Nuts:** Preservation is a series of decision points that enable collections to endure. We invite papers that explore a holistic view of preservation and consider how individual components of digital preservation fit into the chain as a whole. 
-- **Preservation is Social:** Socio-technical perspectives look beyond software and hardware to explore the intersections of people, organizations, and digital preservation programs and policies.
-- **Fast Forward:** What will digital preservation look like in 5, 10, 20, or even 50 years? Bring a futurist point-of-view to the table, and/or examine forward-looking ideas and new approaches that may not only be experimental, but fun. 
+
 
 
 ### Submissions length and format:
@@ -46,3 +42,11 @@ With the increased integration with the DLF Forum and **based upon strong feedba
 All submissions will be peer-reviewed by NDSA’s Program Committee. Presenters will be notified of their acceptance in June and will be guaranteed entry to the conference.
 
 [**Deadline to submit a proposal:** Sunday, April 28, at 11:59pm Eastern Time.](https://www.conftool.pro/dlf2019/)
+
+Submissions length and format 
+Submissions this year are invited in the following lengths and formats:
+- **45-Minute Panels**: 45-minute panel discussions with 3-4 speakers will be given a dedicated session. Panels should reflect a diverse range of voices, and male-only panels will not be accepted.
+45-Minute Workshops:  Hands-on training sessions on specific tools, techniques, workflows, or concepts. No more than 5 leaders are allowed per submission. All workshop organizers are asked to provide details on technology needs and learning outcomes for participants. Workshops must be interactive, and the strongest proposals will demonstrate this clearly.
+45-Minute Working Group Meetings: NDSA working and interest group chairs are invited to propose 45-minute group meetings or targeted collaboration sessions.
+15-Minute Talks/Demos: Presentations and demonstrations are allocated 15 minutes each, and speakers should reserve time within that allotment (3-5 minutes) for interactive exchanges on next steps, possible NDSA community action, and discussion or debate.
+2-Minute Lightning Talks: Share your ideas in 2 minutes or less before the reception. Presenters will have the option to display 24”x 36” posters during the reception that follows. 
