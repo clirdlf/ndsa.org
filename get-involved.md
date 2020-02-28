@@ -1,5 +1,5 @@
 ---
-title: Join us!
+title: Join the NDSA!
 layout: page
 permalink: /get-involved/
 ---
