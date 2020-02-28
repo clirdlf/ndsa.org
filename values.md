@@ -1,5 +1,5 @@
 ---
-title: Values and Mission
+title: Foundational Principles
 layout: page
 permalink: /values/
 ---
