@@ -47,7 +47,7 @@ Submissions this year are invited in the following lengths and formats:
 
 All submissions will be peer-reviewed by NDSA’s Digital Preservation 2020 Program Committee. Presenters will be notified of their acceptance in June and guaranteed a registration slot.
 
-**[Deadline to submit a proposal:** Monday, April 27, at 11:59pm Eastern Time.](https://www.conftool.pro/dlf2020/)
+[**Deadline to submit a proposal:** Monday, April 27, at 11:59pm Eastern Time.](https://www.conftool.pro/dlf2020/)
 
 ### About the NDSA and Digital Preservation 2020
 The NDSA is a consortium of [more than 250 organizations](http://ndsa.diglib.org/members-list/) committed to the long-term preservation and stewardship of digital information and cultural heritage. Digital Preservation 2020 ([#digipres20](https://twitter.com/hashtag/DigiPres20)) will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
