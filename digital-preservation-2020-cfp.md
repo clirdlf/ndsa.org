@@ -8,7 +8,7 @@ permalink: /digital-preservation-2020-cfp/
 
 The National Digital Stewardship Alliance ([NDSA](http://ndsa.diglib.org/)) invites proposals for [Digital Preservation 2020: Get Active with DP](https://ndsa.org/meetings/) to be held in Baltimore, Maryland, November 11-12, 2020.
 
-Digital Preservation is the major meeting and conference of the NDSA. Open to members and non-members alike, it highlights the theory and practice of digital stewardship and preservation, data curation, the digital object lifecycle, and related issues. Our 2020 meeting is held in partnership with our host organization, the Council on Library and Information Resources’ (CLIR) [Digital Library Federation](https://www.diglib.org). Separate calls are being issued for CLIR+DLF's 2020 events, the [2020 DLF Forum](https://www.diglib.org/) (November 9-11) and associated preconference day [Learn@DLF](https://forum2020.diglib.org/learndlf/) (November 8), and CLIR's [Digitizing Hidden Special Collections Symposium](https://www.clir.org/hiddencollections/2020-symposium/) (November 11-12), which will take place at the same venue.
+Digital Preservation is the major meeting and conference of the NDSA. Open to members and non-members alike, it highlights the theory and practice of digital stewardship and preservation, data curation, the digital object lifecycle, and related issues. Our 2020 meeting is held in partnership with our host organization, the Council on Library and Information Resources’ (CLIR) [Digital Library Federation](https://www.diglib.org). Separate calls are being issued for CLIR+DLF's 2020 events, the [2020 DLF Forum](https://forum2020.diglib.org/) (November 9-11) and associated preconference day [Learn@DLF](https://forum2020.diglib.org/learndlf/) (November 8), and CLIR's [Digitizing Hidden Special Collections Symposium](https://www.clir.org/hiddencollections/2020-symposium/) (November 11-12), which will take place at the same venue.
 
 **[Proposals are due by Monday, April 27, at 11:59pm Eastern Time.](https://www.conftool.pro/dlf2020/)**
 
@@ -56,5 +56,5 @@ The conference will be held at the beautiful [Renaissance Harborplace](https://w
 
 Digital Preservation will overlap with the DLF Forum so both communities can have the opportunity to interact and learn from each other. On Wednesday morning (November 11), DigiPres attendees will join DLF Forum attendees for breakfast, Forum sessions, a coffee break, and the Forum closing plenary. Then, Forum attendees will depart and DigiPres attendees will stay for an exclusive buffet lunch, followed by an opening plenary, DigiPres conference sessions, and a reception. DigiPres continues through midday Thursday (November 12) with sessions and working group meetings.
 
-**Questions?** Feel free to reach out to [ndsa-digipres@lists.clir.org](ndsa-digipres@lists.clir.org) and someone will get back to you as soon as possible.
+**Questions?** Feel free to reach out to <ndsa-digipres@lists.clir.org> and someone will get back to you as soon as possible.
 
