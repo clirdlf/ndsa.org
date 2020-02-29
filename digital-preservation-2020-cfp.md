@@ -1,5 +1,5 @@
 ---
-title: Digital Preservation 2020 Critical Junctures Call for Proposals
+title: Digital Preservation 2020 Get Active with DP Call for Proposals
 layout: page
 permalink: /digital-preservation-2020-cfp/
 ---
@@ -37,7 +37,7 @@ This year, Digital Preservation 2020 invites presentations and workshops that se
   - Influence of digital content type on actions. How does the ease or difficulty of preservation of a format or content type impact our preservation actions? For content types and formats for which preservation practices are still emerging, are some institutions moving ahead while others wait-and-see?
   - Resource allocation’s impact on curatorial decisions. In organizations with low or limited resources, how do some actions get prioritized and what good practices are feasible to implement? How do those bodies with limited resources make it work? What does successful digital preservation practice look like?
 
-**Submission length and format**
+### Submission length and format
 Submissions this year are invited in the following lengths and formats:
 - **45-minute Panel:** 45-minute panel discussions with 3-4 speakers will be given a dedicated session. Panels should reflect a diverse range of voices, and male-only panels will not be accepted.
 - **45-minute Workshop:** Hands-on training sessions on specific tools, techniques, workflows, or concepts. No more than 5 leaders are allowed per submission. All workshop organizers are asked to provide details on technology needs and learning outcomes for participants. Workshops must be interactive, and the strongest proposals will demonstrate this clearly.
@@ -47,7 +47,7 @@ Submissions this year are invited in the following lengths and formats:
 
 All submissions will be peer-reviewed by NDSA’s Digital Preservation 2020 Program Committee. Presenters will be notified of their acceptance in June and guaranteed a registration slot.
 
-[Deadline to submit a proposal: Monday, April 27, at 11:59pm Eastern Time.](https://www.conftool.pro/dlf2020/) 
+**[Deadline to submit a proposal:** Monday, April 27, at 11:59pm Eastern Time.](https://www.conftool.pro/dlf2020/)
 
 ### About the NDSA and Digital Preservation 2020
 The NDSA is a consortium of [more than 250 organizations](http://ndsa.diglib.org/members-list/) committed to the long-term preservation and stewardship of digital information and cultural heritage. Digital Preservation 2020 ([#digipres20](https://twitter.com/hashtag/DigiPres20)) will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
