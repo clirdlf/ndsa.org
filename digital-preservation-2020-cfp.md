@@ -1,5 +1,5 @@
 ---
-title: Digital Preservation 2020: Get Active with Digital Preservation Call for Proposals
+title: Digital Preservation 2020 Call for Proposals
 layout: page
 permalink: /digital-preservation-2020-cfp/
 ---
