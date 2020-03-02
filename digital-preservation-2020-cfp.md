@@ -4,9 +4,9 @@ layout: page
 permalink: /digital-preservation-2020-cfp/
 ---
 
-<img alt="meetings" width="710" height="237" src='{{ "/images/DigiPres-2019-FINAL.jpg" | prepend: site.baseurl }}'>
+<img alt="2020 All Events Combo Banner" width="710" height="347" src='{{ "/images/Combo-Banner-2020-DHC.jpg" | prepend: site.baseurl }}'>
 
-The National Digital Stewardship Alliance ([NDSA](http://ndsa.diglib.org/)) invites proposals for [Digital Preservation 2020: Get Active with DP](https://ndsa.org/meetings/) to be held in Baltimore, Maryland, November 11-12, 2020.
+The National Digital Stewardship Alliance ([NDSA](http://ndsa.diglib.org/)) invites proposals for [Digital Preservation 2020: Get Active with Digital Preservation](https://ndsa.org/meetings/) to be held in Baltimore, Maryland, November 11-12, 2020.
 
 Digital Preservation is the major meeting and conference of the NDSA. Open to members and non-members alike, it highlights the theory and practice of digital stewardship and preservation, data curation, the digital object lifecycle, and related issues. Our 2020 meeting is held in partnership with our host organization, the Council on Library and Information Resources’ (CLIR) [Digital Library Federation](https://www.diglib.org). Separate calls are being issued for CLIR+DLF's 2020 events, the [2020 DLF Forum](https://forum2020.diglib.org/) (November 9-11) and associated preconference day [Learn@DLF](https://forum2020.diglib.org/learndlf/) (November 8), and CLIR's [Digitizing Hidden Special Collections Symposium](https://www.clir.org/hiddencollections/2020-symposium/) (November 11-12), which will take place at the same venue.
 
@@ -15,7 +15,7 @@ Digital Preservation is the major meeting and conference of the NDSA. Open to me
 ### Submissions for Digital Preservation 2020
 NDSA welcomes 250-word proposals describing your presentation, demo, or poster, or 500-word proposals for full 45-minute sessions. Please also include a 50-word abstract to be included in the conference program if your submission is selected. Submit proposals online with ConfTool: [https://www.conftool.pro/dlf2020/](https://www.conftool.pro/dlf2020/).
 
-[Deadline: Monday, April 27, at 11:59pm Eastern Time](https://www.conftool.pro/dlf2020/) 
+**[Deadline: Monday, April 27, at 11:59pm Eastern Time](https://www.conftool.pro/dlf2020/)**
 
 We encourage proposals related to this year’s theme: **Get Active with Digital Preservation**
 
@@ -47,7 +47,7 @@ Submissions this year are invited in the following lengths and formats:
 
 All submissions will be peer-reviewed by NDSA’s Digital Preservation 2020 Program Committee. Presenters will be notified of their acceptance in June and guaranteed a registration slot.
 
-[**Deadline to submit a proposal:** Monday, April 27, at 11:59pm Eastern Time.](https://www.conftool.pro/dlf2020/)
+**[Deadline to submit a proposal: Monday, April 27, at 11:59pm Eastern Time.](https://www.conftool.pro/dlf2020/)**
 
 ### About the NDSA and Digital Preservation 2020
 The NDSA is a consortium of [more than 250 organizations](http://ndsa.diglib.org/members-list/) committed to the long-term preservation and stewardship of digital information and cultural heritage. Digital Preservation 2020 ([#digipres20](https://twitter.com/hashtag/DigiPres20)) will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
