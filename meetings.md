@@ -6,8 +6,7 @@ permalink: /meetings/
 
 ### **November 11-12, 2020 in Baltimore, Maryland**
 
-<img alt="meetings" width="710" height="347" src='{{ "/images/FINAL DLF-Forum-2020_Baltimore v2-01.png" | prepend: site.baseurl }}'>
-
+<img alt="2020 All Events Combo Banner" width="710" height="347" src='{{ "/images/Combo-Banner-2020-DHC.jpg" | prepend: site.baseurl }}'>
 
 ### **About the NDSA and Digital Preservation 2020:**
 
