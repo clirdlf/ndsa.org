@@ -2,17 +2,20 @@
 title: Member Orientation
 layout: page
 permalink: /member-orientation/
+redirect_from: 
+  - /new-members/
+  - /members/
 ---
 The challenges of digital stewardship are greater than any single institution can address. Membership in the NDSA connects you to [partnering organizations](/members-list/) and individuals around the country working to address those challenges and devise community solutions.
 
 ## Group Participation
-- NDSA Member Organizations submit one or more names for participation in one or more Interest Groups.  These names are added to the NDSA-All and Interest Group specific listserves.
+- NDSA Member Organizations submit one or more names for participation in one or more Interest Groups.  These names are added to the NDSA-All and Interest Group specific mailing lists.
 - Anyone from a Member Organization is welcome to join any Interest or Working Group at any time.  To do so, contact the chairs of the group.
 - Encourage others from your organization to also be involved in NDSA activities.  
 
 
 ## Easy Ways to Get Involved
-- Attend and participate in monthly Interest or Working Group meetings.  Contact your [Interest Group or Working Group co-chairs](/working-groups/) to learn more about how to get involved in a specific group or activity.
+- Attend and participate in monthly Interest or Working Group meetings.  Contact your [Interest Group or Working Group co-chairs](/groups/) to learn more about how to get involved in a specific group or activity.
   - Offer to help take meeting minutes (this is always truly appreciated!).
   - Help with small or large tasks to accomplish Interest Group or Working Group goals.
 - Chat with your fellow members via the listserv - ask questions, tell us about your projects, introduce yourself! You will be added to the listserv upon joining the NDSA, and can always access it [here](http://lists.clir.org/cgi-bin/wa?A0=NDSA-ALL)

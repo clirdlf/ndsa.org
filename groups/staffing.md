@@ -1,7 +1,8 @@
 ---
 title: Staffing Survey Working Group
 layout: page
-permalink: /working-groups/staffing/
+permalink: /groups/staffing/
+redirect_from: /working-groups/staffing/
 ---
 Initiated within the [Standards and Practices Interest Group](http://ndsa.org/working-groups/standards-and-practices/) the Staffing Survey Working Group was established in November 2016 as a collaboration of interested NDSA members.  
 

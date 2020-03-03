@@ -1,7 +1,8 @@
 ---
 title: Infrastructure Interest Group
 layout: page
-permalink: /working-groups/infrastructure/
+permalink: /groups/infrastructure/
+redirect_from: /working-groups/infrastructure/
 ---
 **Infrastructure Interest Group Co-Chairs**: Nathan Tallman - ntt7 at psu dot edu; Corey Davis - corey at coppul dot ca
 

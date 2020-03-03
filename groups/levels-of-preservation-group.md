@@ -1,7 +1,8 @@
 ---
 title: Levels of Preservation Working Group
 layout: page
-permalink: /working-groups/levels-of-preservation/
+permalink: /groups/levels-of-preservation/
+redirect_from: /working-groups/levels-of-preservation/
 ---
 
 *Take me to the [Levels of Digital Preservation Working Group Listserv](https://lists.clir.org/cgi-bin/wa?A0=NDSA-LEVELS)! If you are already a member of this Working Group, you can always access the listserv (including its archives) at that link. To join this Working Group, please contact Bradley Daigle at bradley [at] virginia [dot] edu.*

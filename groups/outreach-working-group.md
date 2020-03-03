@@ -1,7 +1,8 @@
 ---
 title: Outreach Interest Group
 layout: page
-permalink: /working-groups/outreach/
+permalink: /groups/outreach/
+redirect_from: /working-groups/outreach/
 ---
 **The Outreach Interest Group is no longer active.** Activities of this working group were suspended in 2014. The [Coordinating Committee](/leadership) has committed to furthering outreach and communication for the NDSA. We encourage you to contact the Coordinating Committee with ideas and suggestions.
 

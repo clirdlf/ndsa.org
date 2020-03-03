@@ -1,7 +1,8 @@
 ---
 title: Storage Survey Working Group
 layout: page
-permalink: /working-groups/storage-survey/
+permalink: /groups/storage-survey/
+redirect_from: /working-groups/storage-survey/
 ---
 
 ## Background

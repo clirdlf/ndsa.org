@@ -1,7 +1,8 @@
 ---
 title: Standards and Practices Interest Group
 layout: page
-permalink: /working-groups/standards-and-practices/
+permalink: /groups/standards-and-practices/
+redirect_from: /working-groups/standards-and-practices/
 ---
 
 **Standards and Practices Interest Group Co-Chairs**: Felicity Dykas, University of Missouri Libraries - dykasf@missouri.edu; Aaron Collie, Federal Reserve Bank of St. Louis - aaron.collie@stls.frb.org

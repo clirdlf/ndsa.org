@@ -1,7 +1,8 @@
 ---
 title: Innovation Interest Group
 layout: page
-permalink: /working-groups/innovation/
+permalink: /groups/innovation/
+redirect_from: /working-groups/innovation/
 ---
 **The Innovation Interest Group is no longer active.**
 

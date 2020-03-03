@@ -1,7 +1,8 @@
 ---
 title: National Agenda
 layout: page
-permalink: /national-agenda/
+permalink: /groups/national-agenda/
+redirect_from: /national-agenda/
 ---
 ![2015 National Agenda cover](/images/2015NationalAgendaCover.jpg)
 - [Executive Summary](/documents/2015NationalAgendaExecSummary.pdf)
