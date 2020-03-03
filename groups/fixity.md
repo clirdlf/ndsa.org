@@ -1,7 +1,8 @@
 ---
 title: Fixity Working Group
 layout: page
-permalink: /fixity/
+permalink: /groups/fixity/
+redirect_from: /fixity/
 ---
 
 The Fixity Working Group was established May 31, 2016 as a joint collaboration of the [Standards & Practices Interest Group](http://ndsa.org/working-groups/standards-and-practices/) and the [Infrastructure Interest Group](http://ndsa.org/working-groups/infrastructure/) in order to move forward with reccomendations from the [Fixity Guidance Report](http://ndsa.org/documents/NDSA-Fixity-Guidance-Report-final100214.pdf) and the [NDSA National Agenda](http://ndsa.org/national-agenda/). The Fixity Working Group is currently working to address the "... clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements" raised in the 2015 NDSA National Agenda.

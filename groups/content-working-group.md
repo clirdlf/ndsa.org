@@ -1,7 +1,8 @@
 ---
 title: Content Interest Group
 layout: page
-permalink: /working-groups/content/
+permalink: /groups/content/
+redirect_from: /working-groups/content/
 ---
 **Content Interest Group Co-Chairs:** Lauren Work - lw2cd at eservices dot virginia dot edu; Matt Schultz - schultzm at gvsu dot edu.
 

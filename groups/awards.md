@@ -1,7 +1,8 @@
 ---
 title: Awards
 layout: page
-permalink: /awards/
+permalink: /groups/awards/
+redirect_from: /awards/
 ---
 
 Our annual Innovation Awards were established by the National Digital Stewardship Alliance (NDSA) to recognize and encourage innovation in the field of digital preservation stewardship. These awards highlight and commend creative individuals, projects, organizations, and future stewards demonstrating originality and excellence in their contributions to the field of digital preservation.
