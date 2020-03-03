@@ -1,7 +1,8 @@
 ---
 title: 2018 Digital Preservation and DLF Forum Sponsors
 layout: page
-permalink: /digital-preservation-2018-sponsors/
+permalink: /conference/digital-preservation-2018/sponsors/
+redirect_from: /digital-preservation-2018-sponsors/
 ---
 
 Thank you to all of the 2018 sponsors for the DLF Forum and Digital Preservation!

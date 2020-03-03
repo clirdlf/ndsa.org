@@ -1,7 +1,8 @@
 ---
 title: Digital Preservation Conference
 layout: page
-permalink: /meetings/
+permalink: /conference/
+redirect_from: /meetings/
 ---
 
 ### **November 11-12, 2020 in Baltimore, Maryland**
@@ -47,10 +48,10 @@ An archive of past _Digital Preservation_ meetings (which from 2011-2014 was a c
 
 Information of past _Digital Preservation_ meetings from 2016- can be found below:
 
--   [Digital Preservation 2016](/digital-preservation-2016)
--   [Digital Preservation 2017](/digital-preservation-2017)
--   [Digital Preservation 2018](/digital-preservation-2018)
--   [Digital Preservation 2019](/digital-preservation-2019)
+-   [Digital Preservation 2016](/conference/digital-preservation-2016)
+-   [Digital Preservation 2017](/conference/digital-preservation-2017)
+-   [Digital Preservation 2018](/conference/digital-preservation-2018)
+-   [Digital Preservation 2019](/conference/digital-preservation-2019)
 
 ### **Calendar**
 
