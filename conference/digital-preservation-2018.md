@@ -1,7 +1,8 @@
 ---
 title: Digital Preservation 2018 In/visible Work
 layout: page
-permalink: /digital-preservation-2018/
+permalink: /conference/digital-preservation-2018/
+redirect_from: /digital-preservation-2018/
 ---
 
 <img alt="meetings" width="710" height="270" src='{{ "/images/NDSA-DigitalPreservation-2018_FacebookHeader_Final.png" | prepend: site.baseurl }}'>

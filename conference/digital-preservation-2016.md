@@ -1,7 +1,8 @@
 ---
 title: Digital Preservation 2016
 layout: page
-permalink: /digital-preservation-2016/
+permalink: /conference/digital-preservation-2016/
+redirect_from: /digital-preservation-2016/
 ---
 <img alt="meetings" src='{{ "/images/icons/presentation.png" | prepend: site.baseurl }}'>
 

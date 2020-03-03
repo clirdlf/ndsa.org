@@ -1,7 +1,8 @@
 ---
 title: Digital Preservation 2017
 layout: page
-permalink: /digital-preservation-2017/
+permalink: /conference/digital-preservation-2017/
+redirect_from: /digital-preservation-2017/
 ---
 
 ## Digital Preservation 2017: "Preservation is Political"

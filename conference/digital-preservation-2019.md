@@ -1,7 +1,8 @@
 ---
 title: Digital Preservation 2019 Critical Junctures
 layout: page
-permalink: /digital-preservation-2019/
+permalink: /conference/digital-preservation-2019/
+redirect_from: /digital-preservation-2019/
 ---
 
 <img alt="meetings" width="710" height="237" src='{{ "/images/DigiPres-2019-FINAL.jpg" | prepend: site.baseurl }}'>
