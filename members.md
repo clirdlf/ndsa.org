@@ -2,6 +2,7 @@
 title: Membership Overview
 layout: page
 permalink: /members/
+redirect_to: /member-orientation/
 ---
 <!-- Editing this text and moving it to the Members-Orientation page. -->
 
