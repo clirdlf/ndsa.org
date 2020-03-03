@@ -3,6 +3,7 @@ title: Membership Overview
 layout: page
 permalink: /members/
 ---
+<!-- I want this page to be Member Orientation.  What redirects do I need?-->
 
 The challenges of digital stewardship are greater than any single institution can address. Membership in the NDSA connects you to [partnering organizations](/members-list/) and individuals around the country working to address those challenges and devise community solutions.
 
