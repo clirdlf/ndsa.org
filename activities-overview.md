@@ -12,10 +12,10 @@ The newest publications are announced on the NDSA blog.  While links to a few of
 - [NDSA Blog](/news/)
 
 ### Selected Publications
-- [NDSA OSF](https://osf.io/4d567/): A repository for all NDSA publications
-- [National Agenda](/national-agenda/)
-- [2019 Levels of Digital Preservation](/activities/levels-of-digital-preservation/)
-- [2019 Levels of Digital Preservation] (<a href="https://osf.io/qgz98/" target="_blank">OSF Repository <i class="fas fa-external-link-alt"></i></a>)
+- [NDSA OSF Repository](https://osf.io/4d567/): A repository for all NDSA publications
+- [National Agenda Working Group](/national-agenda/)
+- [2019 Levels of Digital Preservation Working Group](/activities/levels-of-digital-preservation/)
+- 2019 Levels of Digital Preservation Publications (<a href="https://osf.io/qgz98/" target="_blank">OSF Repository <i class="fas fa-external-link-alt"></i></a>)
 - [Selected Reports and Articles](/publications/)
 
 <!--https://osf.io/qgz98/
