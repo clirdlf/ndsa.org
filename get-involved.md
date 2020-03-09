@@ -1,68 +1,55 @@
 ---
-title: Join us!
+title: Join the NDSA!
 layout: page
 permalink: /get-involved/
 ---
 
-**Ready to join** the NDSA? Please submit a brief **[membership application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform)**. More information about the Membership application process is shared below.  
+**Ready to join** the NDSA? Please submit a brief **[membership application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform)**.
 
 
-## Membership Information
-NDSA member organizations are committed to long-term digital stewardship. Individuals from member organizations share expertise, tools, and practices to benefit local efforts while contributing to the stewardship of a growing collective collection of diverse digital content. Our members collaborate in many ways that benefit the digital preservation community and their organizations. NDSA depends on members contributing their efforts in a variety of ways such as participation in our Interest and Working Groups, in order to develop, expand, and share their knowledge and expertise. Learn more [about the NDSA](/about/).
-
-There are no fees or dues for membership in the NDSA, but members are expected to be engaged and contribute to and participate in NDSA initiatives.
+## Is the NDSA a good fit for my organization?
+NDSA organizations have proven themselves in the field of digital stewardship. As NDSA members, they share expertise, tools and practices to benefit local efforts while contributing to the stewardship of a growing national collection of diverse digital content. Members collaborate on projects to benefit the digital preservation community and their organization. Learn more [about the NDSA](/about/).
 
 ## Membership Eligibility
-- Members may be any type of organization or consortia, but currently is not open to individuals.
-  - Departments of larger organizations are welcome to apply.
-    - EX: A University Library, rather than the entire University
-    - EX: A State Archives, housed within a State Historical Society
-  - Service providers (nonprofit or for-profit) that support digital preservation activities and who share our core [values](/values/) may be NDSA members. 
-    - They are expected to follow the listed membership commitments.  
-    - They may NOT use NDSA events, projects, or publications as marketing opportunities with the exception of open calls for sponsorship (e.g. at  the annual conference). 
-- Members will have demonstrated an active commitment to digital preservation.
-- Members will share the [stated values](/values/) of the NDSA.
 
-## Membership Commitment
-Each member organization is required to identify and provide one or more representatives to participate in NDSA activities.  Multiple representatives are encouraged. 
-
-Representatives from NDSA member organizations agree to:
-- Serve on one or more [Interest and Working Groups](/working-groups/).
-- Participate in the surveys NDSA conducts of its membership.
-- Review drafts of NDSA publications and provide feedback as requested.
-- Assist with dissemination of NDSA news as requested.
-- Follow the [DLF Code of Conduct](https://www.diglib.org/about/code-of-conduct/).
-
-Representatives may further contribute by:
-- Volunteering or presenting at NDSA’s annual conference.  
-- Delivering presentations and posters at conferences and workshops on behalf of the NDSA.
-- Sharing knowledge about digital preservation practices by contributing content to the NDSA blog and social media feeds.
-- Nominating representative(s) for the [Coordinating Committee](/leadership/) annual election.
-
-Voting (done by the authorized signatory representative only)
-- When votes are called for, each member organization has a single vote.  
-- Voting occurs for the annual Coordinating Committee election but may also be requested for other organizational and governance matters affecting the NDSA.
-
+- Members will be organizations or consortia;
+- Members will have demonstrated an active commitment to digital preservation;
+- Members will share the stated values of the Alliance;
+- Members will agree to maintain vendor neutrality;
+- Members will agree to participate in one or more Interest Groups, NDSA surveys, dissemination activities, and related efforts, as described in the "Commitment" section below.
 
 ## Benefits of Membership
-Participants from member organizations share in the advantages of the NDSA, including:
-- Learning about and contributing to digital preservation practices through community knowledge-sharing with active practitioners. 
-- Having decision-making power at the Working Group and Interest Group level, e.g., deciding on work plans and work products.
-- Participating and shaping NDSA initiatives, such as the [Levels of Preservation](/activities/levels-of-digital-preservation/) and the [NDSA Agenda](/national-agenda/).  
-- Taking part in outreach and advocacy to build public awareness around digital preservation.
-- Partnering with major organizations, including premier cultural heritage institutions and nonprofit organizations.
-- Help develop community based, durable solutions to a dynamically changing preservation landscape. 
+Members share in the advantages of the NDSA, including:
 
+- Shaping the [National Agenda](/national-agenda/) for digital preservation in the United States;
+- Partnering with major organizations, including premier cultural heritage institutions and nonprofit organizations;
+- Participating in efforts to develop and implement [tools and infrastructure](/working-groups/infrastructure/), services, [standards](/working-groups/standards-and-practices/), and training;
+- Taking part in national outreach build public awareness;
+- Learning about digital preservation practices from a network of thought leaders.
+
+## Commitment and Groups
+There are no fees or dues for membership in the NDSA. (NDSA is financially supported by the [Digital Library Federation](https://www.diglib.org/), which also provides communications infrastructure and staff time.) But the real longevity and value of the NDSA depends on members contributing their efforts to Interest Groups and sharing their knowledge and expertise.
+
+In particular, NDSA members agree to:
+
+- Serve on one or more [Interest Groups and Working Groups](/working-groups/), including Content, Infrastructure, and Standards and Practices Interest Groups as well as the Awards, Fixity, National Agenda, Conference Program, Web Archiving, and Staffing Survey Working Groups.
+- Participate in the core surveys NDSA conducts of its membership;
+- Review proposed NDSA reports and guidance;
+- Assist with dissemination of NDSA news as requested.
+
+Members may further contribute by:
+
+- Collecting, providing and/or curating digital content in accordance with NDSA recommendations;
+- Providing services in storage, infrastructure, tools, software or hardware, or policy development;
+- Volunteering or presenting at NDSA's Digital Preservation meeting and at the annual [DLF Forum](https://www.diglib.org/dlf-events/past/);
+- Delivering presentations and posters at disciplinary conferences and workshops on behalf of the NDSA;
+- Contributing to guest blog posts and reports.
+
+## Consortia and Membership Organizations
+The NDSA welcomes applications from potential consortial members and membership organizations, provided that there is a clear representative identified to participate from each collective group.
+
+## Commercial Members and Vendors
+Applications are welcome from all sectors. All members must share the [core values](/values/) of the NDSA and agree to maintain vendor neutrality.
 
 ## Join the NDSA
 **Ready to become an NDSA member?** Please submit a brief [ application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform) on behalf of your organization.
-
-### Membership Application Process
-The application and vetting process is as follows:
-
-1. Prospective members submit an application through the [online form](https://docs.google.com/forms/d/e/1FAIpQLScAtyX61Rmnp0uxB7daaqnKEVSbgip2C7nO92C9Ybzox7LpEw/viewform).
-2. The Chair of the Coordinating Committee (CC) sends an email to the contacts listed in the application confirming receipt of application. 
-3. Applications are reviewed by the [Leadership Group](/leadership/) during their monthly call.  Any objections/concerns are discussed and applicants may be contacted if additional information is needed. If necessary, CC members conduct a vote.
-   - If approved, the CC Chair sends a formal welcome to the applicant. Appropriate Interest Group (IG) and Working Group (WG) chairs are cc-ed so that they may welcome new members and add them to IG and WG lists/meeting invites. CC Chair or Communications WG Chair(s) adds new representatives to NDSA-All and updates website list/map. 
-   - If not approved, the CC Chair sends a formal notice to the applicant stating the reasons why membership was not approved.
-
