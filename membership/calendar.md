@@ -2,6 +2,7 @@
 title: Calendar of Meetings and Events
 layout: page
 permalink: /membership/calendar/
+redirect_from: /calendar/
 javascript:
   - /js/jquery.easing.min.js
   - /js/SmoothScroll.js
