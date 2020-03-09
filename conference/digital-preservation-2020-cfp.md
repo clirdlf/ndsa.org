@@ -16,7 +16,7 @@ Digital Preservation is the major meeting and conference of the NDSA. Open to me
 ## Submissions for Digital Preservation 2020
 NDSA welcomes 250-word proposals describing your presentation, demo, or poster, or 500-word proposals for full 45-minute sessions. Please also include a 50-word abstract to be included in the conference program if your submission is selected. Submit proposals online with ConfTool: [https://www.conftool.pro/dlf2020/](https://www.conftool.pro/dlf2020/).
 
-#### **[Deadline: Monday, April 27, at 11:59pm Eastern Time](https://www.conftool.pro/dlf2020/)**
+#### **Deadline to submit a proposal: Monday, April 27, at 11:59pm Eastern Time. [Submit here.](https://www.conftool.pro/dlf2020/)**
 
 We encourage proposals related to this year’s theme: **Get Active with Digital Preservation**
 
