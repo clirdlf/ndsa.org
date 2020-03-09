@@ -2,6 +2,7 @@
 title: Publications
 layout: page
 permalink: /publications/
+redirect_to: /publications/overview/
 ---
 This is a non-exclusive list of NDSA reports, survey outcomes, and articles. 
 <!--## Selected Reports-->
