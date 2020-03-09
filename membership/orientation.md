@@ -31,7 +31,7 @@ New Working Groups can be formed at any time based on the interest of NDSA parti
 - [A full list of NDSA Member Organizations](/members-list/)
 - [Leadership Team Members](/leadership/)
 - [List of Interest and Working Groups](/working-groups) 
-- DigiPres, NDSA's [Annual Meeting](/meetings-and-events/)
+- DigiPres, NDSA's [Annual Conference](/conference/)
 - [Frequently Asked Questions](/faq/) about membership, participation and communications.
 <!-- - [NDSA Experts Guide](/experts-guide/)-->
 <!-- - [New Member Orientation Information](/new-members/)-->
