@@ -6,7 +6,7 @@ redirect_from:
   - /new-members/
   - /members/
 ---
-The challenges of digital stewardship are greater than any single institution can address. Membership in the NDSA connects you to [partnering organizations](/members-list/) and individuals around the country working to address those challenges and devise community solutions.
+The challenges of digital stewardship are greater than any single institution can address. Membership in the NDSA connects you to [partnering organizations](/membership/members/) and individuals around the country working to address those challenges and devise community solutions.
 
 ## Group Participation
 - NDSA Member Organizations submit one or more names for participation in one or more Interest Groups.  These names are added to the NDSA-All and Interest Group specific mailing lists.
@@ -28,7 +28,7 @@ New Working Groups can be formed at any time based on the interest of NDSA parti
 
 
 ## Resources for Members
-- [A full list of NDSA Member Organizations](/members-list/)
+- [A full list of NDSA Member Organizations](/membership/members/)
 - [Leadership Team Members](/leadership/)
 - [List of Interest and Working Groups](/working-groups) 
 - DigiPres, NDSA's [Annual Conference](/conference/)
