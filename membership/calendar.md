@@ -1,7 +1,7 @@
 ---
-title: Calendar
+title: Calendar of Meetings and Events
 layout: page
-permalink: /calendar/
+permalink: /membership/calendar/
 javascript:
   - /js/jquery.easing.min.js
   - /js/SmoothScroll.js

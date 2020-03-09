@@ -1,7 +1,8 @@
 ---
-title: NDSA Members
+title: Members of NDSA
 layout: page
-permalink: /members-list/
+permalink: /membership/members/
+redirect_from: /members-list/
 css:
 - https://unpkg.com/leaflet@1.5.1/dist/leaflet.css
 - https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table.min.css

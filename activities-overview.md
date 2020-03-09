@@ -1,7 +1,8 @@
 ---
-title: Activities Overview
+title: Publications Overview
 layout: page
-permalink: /activities-overview/
+permalink: /publications/overview/
+redirect_from: /activities-overview/
 ---
 This is an overview of NDSA reports, survey outcomes, and articles. See our [overview of activities](/meetings-and-events/) for more, and don't miss the latest NDSA [National Agenda for Digital Stewardship](/national-agenda/).
 

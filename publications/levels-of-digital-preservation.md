@@ -1,7 +1,8 @@
 ---
 title: Levels of Digital Preservation
 layout: page
-permalink: /activities/levels-of-digital-preservation/
+permalink: /publications/levels-of-digital-preservation/
+redirect_from: /activities/levels-of-digital-preservation/
 ---
 
 ## Background and Overview

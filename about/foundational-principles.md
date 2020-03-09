@@ -1,7 +1,8 @@
 ---
 title: Foundational Principles
 layout: page
-permalink: /values/
+permalink: /about/foundational-principles/
+redirect_from: /values/
 ---
 ## Mission
 The NDSA is an international membership organization that supplies advocacy, expertise, and support for the preservation of digital heritage. 

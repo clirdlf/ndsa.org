@@ -1,7 +1,8 @@
 ---
 title: Frequently Asked Questions
 layout: page
-permalink: /faq/
+permalink: /about/faq/
+redirect_from: /faq/
 javascript:
   - /js/jquery.easing.min.js
   - /js/SmoothScroll.js
@@ -10,20 +11,43 @@ javascript:
 
 ### Membership
 
-- [Should my organization join the NDSA?](#should-my-organization-join-the-ndsa)
-- [How can my organization check the status of our application?](#how-can-my-organization-check-the-status-of-our-application)
-- [What commitment is expected if my organization joins the NDSA?](#what-commitment-is-expected-if-my-organization-joins-the-ndsa)
-- [What are the benefits of joining the NDSA?](#what-are-the-benefits-of-joining-the-ndsa)
-- [Does the NDSA provide funding?](#does-the-ndsa-provide-funding)
-- [How does NDSA relate to the DLF? To CLIR?](#how-does-ndsa-relate-to-the-dlf-to-clir)
+- [Membership](#membership-1)
+  - [Should my organization join the NDSA?](#should-my-organization-join-the-ndsa)
+  - [How can my organization check the status of our application?](#how-can-my-organization-check-the-status-of-our-application)
+  - [What commitment is expected if my organization joins the NDSA?](#what-commitment-is-expected-if-my-organization-joins-the-ndsa)
+  - [What are the benefits of joining the NDSA?](#what-are-the-benefits-of-joining-the-ndsa)
+  - [Does the NDSA provide funding?](#does-the-ndsa-provide-funding)
+  - [How does NDSA relate to the DLF? To CLIR?](#how-does-ndsa-relate-to-the-dlf-to-clir)
+- [Participation](#participation-1)
+  - [What is the difference between an Interest Group and a Working Group?](#what-is-the-difference-between-an-interest-group-and-a-working-group)
+  - [Which groups are right for my organization?](#which-groups-are-right-for-my-organization)
+  - [How do we join a specific Interest Group or Working Group?](#how-do-we-join-a-specific-interest-group-or-working-group)
+  - [Can I switch to a different group?](#can-i-switch-to-a-different-group)
+  - [Can member organizations participate in more than one Interest Group or Working Group?](#can-member-organizations-participate-in-more-than-one-interest-group-or-working-group)
+- [Member Communication](#member-communication-1)
+  - [How do members access NDSA listservs?](#how-do-members-access-ndsa-listservs)
+  - [I just joined the NDSA. How can I get involved?](#i-just-joined-the-ndsa-how-can-i-get-involved)
+  - [Who are the NDSA Interest Group and Working Group Co-Chairs?](#who-are-the-ndsa-interest-group-and-working-group-co-chairs)
 
 ### Participation
 
-- [What is the difference between an Interest Group and a Working Group?](#what-is-the-difference-between-an-interest-group-and-a-working-group)
-- [Which groups are right for my organization?](#which-groups-are-right-for-my-organization)
-- [How do we join a specific Interest Group or Working Group?](#how-do-we-join-a-specific-interest-group-or-working-group)
-- [Can I switch to a different group?](#can-i-switch-to-a-different-group)
-- [Can member organizations participate in more than one Interest Group or Working Group?](#can-member-organizations-participate-in-more-than-one-interest-group-or-working-group)
+- [Membership](#membership-1)
+  - [Should my organization join the NDSA?](#should-my-organization-join-the-ndsa)
+  - [How can my organization check the status of our application?](#how-can-my-organization-check-the-status-of-our-application)
+  - [What commitment is expected if my organization joins the NDSA?](#what-commitment-is-expected-if-my-organization-joins-the-ndsa)
+  - [What are the benefits of joining the NDSA?](#what-are-the-benefits-of-joining-the-ndsa)
+  - [Does the NDSA provide funding?](#does-the-ndsa-provide-funding)
+  - [How does NDSA relate to the DLF? To CLIR?](#how-does-ndsa-relate-to-the-dlf-to-clir)
+- [Participation](#participation-1)
+  - [What is the difference between an Interest Group and a Working Group?](#what-is-the-difference-between-an-interest-group-and-a-working-group)
+  - [Which groups are right for my organization?](#which-groups-are-right-for-my-organization)
+  - [How do we join a specific Interest Group or Working Group?](#how-do-we-join-a-specific-interest-group-or-working-group)
+  - [Can I switch to a different group?](#can-i-switch-to-a-different-group)
+  - [Can member organizations participate in more than one Interest Group or Working Group?](#can-member-organizations-participate-in-more-than-one-interest-group-or-working-group)
+- [Member Communication](#member-communication-1)
+  - [How do members access NDSA listservs?](#how-do-members-access-ndsa-listservs)
+  - [I just joined the NDSA. How can I get involved?](#i-just-joined-the-ndsa-how-can-i-get-involved)
+  - [Who are the NDSA Interest Group and Working Group Co-Chairs?](#who-are-the-ndsa-interest-group-and-working-group-co-chairs)
 
 ### Member Communication
 

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: News from the NDSA
-permalink: /blog/
+permalink: /news/
+redirect_from: /blog/
 ---
 
 {% for post in site.posts %}

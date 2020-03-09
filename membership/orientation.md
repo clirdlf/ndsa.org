@@ -1,7 +1,7 @@
 ---
 title: Member Orientation
 layout: page
-permalink: /member-orientation/
+permalink: /membership/orientation/
 redirect_from: 
   - /new-members/
   - /members/
