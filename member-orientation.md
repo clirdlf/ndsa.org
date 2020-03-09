@@ -30,11 +30,11 @@ New Working Groups can be formed at any time based on the interest of NDSA parti
 ## Resources for Members
 - [A full list of NDSA Member Organizations](/members-list/)
 - [Leadership Team Members](/leadership/)
-<!-- - [NDSA Experts Guide](/experts-guide/)-->
-<!-- - [New Member Orientation Information](/new-members/)-->
 - [List of Interest and Working Groups](/working-groups) 
 - DigiPres, NDSA's [Annual Meeting](/meetings-and-events/)
 - [Frequently Asked Questions](/faq/) about membership, participation and communications.
+<!-- - [NDSA Experts Guide](/experts-guide/)-->
+<!-- - [New Member Orientation Information](/new-members/)-->
 
 ## Need Help?
 <!--- - Lost your wiki password? Go [here](https://wiki.diglib.org/Special:PasswordReset), and enter your username. Click “Reset password”. A temporary password will be sent to your email address. Forgot your username? Go [here](https://wiki.diglib.org/index.php?title=Special:UserLogin&returnto=Special%3ASpecialPages) and click "Help with logging in". --->
