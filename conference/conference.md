@@ -40,13 +40,29 @@ Thank you to our wonderful planning committee!
 
 -   **Courtney C. Mumma**, Texas Digital Library (chair)
 -   **Tricia Patterson**, Harvard University (vice chair)
+-   **Heather Barnes**, Wake Forest University  
+-   **Suzanne Chase**, Georgetown University
+-   **David Cirella**, Yale University Library
+-   **Greg Colati**, University of Connecticut
+-   **Stefan Elnabli**, UCSD Libraries
+-   **Elizabeth England**, Johns Hopkins University
+-   **Heather Heckman**, University of South Carolina
+-   **Deirdre Joyce**, Syracuse University
+-   **Julia Kim**, Library of Congress
+-   **Alex Kinniman**, Virginia Tech University Libraries
+-   **Kathryn Michaelis**, Emory University
+-   **Jes Neal**, Hampshire College
+-   **Dan Noonan**, The Ohio State University
 -   **Krista Oldham**, Clemson University Libraries
 -   **Margo Padilla**, NY Historical Society Museum & Library
 -   **Thomas Pulhamus**, University of Delaware
--   **Aliya Reich**, CLIR+DLF
+-   **Aliya Reich**, CLIR/DLF
 -   **Amy Rudersdorf**, AVP
 -   **Abby Stambach**, College of the Holy Cross
 -   **Lance Stuchell**, University of Michigan Library
+-   **Paige Walker**, Boston College
+-   **Kristen Weischedel**, Illinois Institute of Technology
+-   **Frederick Zarndt**, Digital Divide Data
 
 ### **Past Meetings**
 
