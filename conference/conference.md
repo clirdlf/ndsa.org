@@ -9,12 +9,12 @@ redirect_from: /meetings/
 
 <img alt="meetings" width="710" height="347" src='{{ "/images/FINAL DLF-Forum-2020_Baltimore v2-01.png" | prepend: site.baseurl }}'>
 
-### **2020 Call for Proposals is now live!**
-We are delighted to share the Call for Proposals for our 2020 event, **Get Active with Digital Preservation**. See it (here)[https://ndsa.org/digital-preservation-2020-cfp/] and submit your proposal by the deadline, **Monday, April 27, at 11:59pm Eastern Time.**
+## **2020 Call for Proposals is now live!**
+We are delighted to share the Call for Proposals for our 2020 event, **Get Active with Digital Preservation**. See it [here](https://ndsa.org/digital-preservation-2020-cfp/) and submit your proposal by the deadline, **Monday, April 27, at 11:59pm Eastern Time.**
 
 ### **About the NDSA and Digital Preservation 2020:**
 
-The NDSA is a consortium of (more than 250 organizations)[https://ndsa.org/members-list/] committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. Digital Preservation 2020 ([#digipres20](https://twitter.com/hashtag/digipres20)) will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
+The NDSA is a consortium of [more than 250 organizations](https://ndsa.org/members-list/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. Digital Preservation 2020 ([#digipres20](https://twitter.com/hashtag/digipres20)) will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
 
 The conference will be held at the beautiful [Renaissance Baltimore Harborplace Hotel](https://www.marriott.com/hotels/travel/bwish-renaissance-baltimore-harborplace-hotel/), on November 11-12, 2020, in Baltimore, Maryland.
 
