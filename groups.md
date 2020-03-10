@@ -33,7 +33,7 @@
     of large scale storage systems.</p></li></ul>
 
 <h3>Working Groups</h3>
-<p>Working Groups are created on an as needed basis.  Once formed, groups my perform a one-time activity, a cyclical activity, or an ongoing activity.  This activity level is listed after the Working Group name below.  Further details about each group is provided on their individual pages.</p></li></ul>
+<p>Working Groups are created on an as needed basis.  Once formed, groups my perform a one-time activity, a cyclical activity, or an ongoing activity.  This activity level is listed after the Working Group name below.  Further details about each group is provided on their individual pages.</p>
 
 <h4><a href="/awards">Awards (annually)</a></h4>
 <ul><li><p>Administering awards that highlight and commend creative individuals, projects, organizations, and future stewards demonstrating originality and excellence in their contributions to the field of digital preservation. Awards are given out at the DigiPres conference.</p></li></ul>
