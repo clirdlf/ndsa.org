@@ -75,5 +75,4 @@
     <strong>The Outreach Interest Group is no longer active.</strong> Activities of this working group were suspended in 2014. Its focus was on building relationships with stakeholder communities and preparing and sharing digital preservation information
     resources. The group worked to support the release of the 2014 National Agenda for Digital Stewardship, published the Digital Preservation in a Box outreach toolkit, supported regional NDSA meetings, and developed tools to make it easier for partners
     to share information about their work. The work done by this Interest Group is being done by other Working Groups and the NDSA Leadership Team. Please contact the <a href="http://ndsa.org/leadership/">Leadership Team</a> with ideas and suggestions.</p>
-    </div>
-    </div>
+ 
