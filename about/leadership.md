@@ -254,6 +254,16 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Tricia Patterson</h3>
+        <p>Tricia Patterson (DigiPres 2020 Vice Chair/2021 Chair) is a Digital Preservation Analyst at Harvard Library, where she champions communication with the future by ensuring long-term stewardship and usability of Harvard’s digital historical assets. Centrally positioned, she supports programmatic activities for the digital repository, web and email archiving, digital forensics, and other related enterprises across the Library. Prior to joining Harvard University, she was a National Digital Stewardship Resident (NDSR) at MIT Libraries, where she researched and documented digital preservation workflows. Tricia has served as a coordinator for the SAA Research Forum, an inaugural NDSR Advisory Group member, and she co-developed and instructs an SAA DAS course on email archiving.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" class="img-responsive" alt="Tricia Patterson" src="{{ '/images/coordinating-committee/Patterson_T2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Leah Prescott</h3>
         <p>Leah Prescott (Infrastructure Interest Group Co-Chair) is the Associate Director for Digital Initiatives and Special Collections at Georgetown University Law Library, where she is responsible for the digital curation lifecycle, from the development
             of a production digitization program for all types of library media, to providing access to digital materials in multiple repositories, to the implementation of a preservation strategy that is in-line with best practices. She is also responsible
