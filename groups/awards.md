@@ -19,7 +19,13 @@ These awards focus on recognizing excellence in one or more of the following are
 - **Future stewards**, especially students, but including educators, trainers, or curricular endeavors taking a creative approach to advancing knowledge of digital preservation issues and practices.
 - **Educators**, including trainers or curricular endeavors, promoting innovative approaches and access to digital preservation through partnerships, professional development opportunities, and curriculum.
 
-<!--### Working Group Members-->
+## Working Group Members
+- Stephen Abrams, co-chair (Harvard University) 
+- Krista Oldham, co-chair (Clemson University)
+- Samantha Abrams (Ivy Plus Libraries Confederation)
+- Lauren Goodley (Texas State University)
+- Grete Graf (Yale University)
+- Kari May (University of Pittsburgh)
 
 <!-- ## 2019 NDSA Innovation Awards: Nominations Open & Join Our Working Group! 
 The NDSA is looking for participants in the 2019 NDSA Innovation Awards Working Group. Working group members encourage nominations during the nominations period and get together on a conference call early in September to talk about and get consensus on the award selections. 
