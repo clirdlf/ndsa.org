@@ -190,7 +190,6 @@ redirect_from: /leadership/
     </div>
 </div>
 
-
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Paige Walker</h3>
@@ -290,6 +289,16 @@ redirect_from: /leadership/
     </div>
 </div>
 
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Deb Verhoff</h3>
+        <p>Deb Verhoff (Content Interest Group Co-Chair) is the digital collections manager for NYU Libraries with responsibility for planning repository services. In her role within the digital library technology services team, she guides digital preservation activities for born digital and digitized content. Prior to joining NYU, Deb worked as an arts librarian and led a digital library project for Robert Wilson's Watermill Center. She holds a Masters in Fine Arts from the School of the Museum of Fine Arts, Boston and a Masters in Library and Information Science from Simmons College. 
+        </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Nathan Tallman" src="{{ '/images/coordinating-committee/verhoff2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
