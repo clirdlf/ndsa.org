@@ -313,19 +313,3 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Trevor Owens" src="{{ '/images/coordinating-committee/trow-fullsize.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
-
-
-<!--<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Lauren Work</h3>
-        <p>Lauren Work (Content Interest Group Co-Chair) is the Digital Preservation Librarian at the University of Virginia, where she is responsible for the preservation of university digital resources ranging from websites to legacy hard drives. She helps
-            to create workflows and strategies for the sustainable ingest, preservation and access to born-digital content at Virginia via collaboration within communities such as the Academic Preservation Trust, Archivematica, and Fedora. Prior to her
-            arrival at the University of Virginia, Lauren was the Digital Collections Librarian at Virginia Commonwealth University. She has worked at various cultural and academic organizations including NPR, Densho, and both Special Collections and
-            the Media Center at the University of Washington. She was part of the inaugural cohort of the National Digital Stewardship Residency, where she was responsible for creating a digitization and preservation plan for legacy media at the Public
-            Broadcasting Service. She earned her Master of Library and Information Science degree from the University of Washington.
-        </p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Lauren Work" src="{{ '/images/coordinating-committee/Work.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>-->
