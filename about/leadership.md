@@ -55,11 +55,8 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Bradley Daigle, Chair</h3>
-        <p>Bradley Daigle (1st term, 2016-19) is content and strategic expert for the Academic Preservation Trust and other external partnerships at the University of Virginia Library. He also works on copyright issues related to digital collections. Currently
-            he is also Chair of the Virginia Heritage Governance Team. Having been in the library profession for over fifteen years, he has published and presented on a wide range of topics including mass digitization, digital curation and stewardship,
-            sustaining digital scholarship, intellectual property issues, mentoring in libraries, and digital preservation. In addition to his professional field, his research interests also include the history of the book, natural history, and early
-            modern British literature. He received his MA in literature from the University of Montreal and an MLS from Catholic University.</p>
+        <h3>Bradley Daigle, 2020 Chair</h3>
+        <p>Bradley Daigle (1st term, 2016-20) (Levels of Preservation co-chair) is content and strategic expert for the Academic Preservation Trust and other external partnerships at the University of Virginia Library. He also works on copyright issues related to digital collections. Currently he is also Chair of the Virginia Heritage Governance Team. Having been in the library profession for over fifteen years, he has published and presented on a wide range of topics including mass digitization, digital curation and stewardship, sustaining digital scholarship, intellectual property issues, mentoring in libraries, and digital preservation. In addition to his professional field, his research interests also include the history of the book, natural history, and early modern British literature. He received his MA in literature from the University of Montreal and an MLS from Catholic University.</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Bradley Daigle" src="{{ " /images/coordinating-committee/daigle.png " | prepend: site.baseurl }}">
@@ -70,7 +67,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Stephen Abrams</h3>
-        <p>Stephen Abrams (1st term, 2019-21) is head of digital preservation at the Harvard Library, with responsibility for policy, strategy, and innovation regarding long-term stewardship of Harvard’s rich digital collections. He was project leader and
+        <p>Stephen Abrams (1st term, 2019-21) (Innovation Award Working Group co-chair) is head of digital preservation at the Harvard Library, with responsibility for policy, strategy, and innovation regarding long-term stewardship of Harvard’s rich digital collections. He was project leader and
             editor for the ISO 19005 PDF/A standard, project manager for the JHOVE and JHOVE2 format characterization systems, and principal investigator for the California state government web archive, Cobweb collaborative collection development, and
             Make Data Count data metric projects. His research interests are in cost and business models for sustainable digital library services, new modes of post-custodial curation, and metrics for evaluating digital preservation efficacy. Mr. Abrams
             was previously associate director of the UC Curation Center at the California Digital Library. He holds a BA in Mathematics from Boston University, an ALM in the History of Art and Architecture from Harvard University, and is pursuing a PhD
@@ -133,7 +130,7 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Daniel Noonan</h3>
+        <h3>Daniel Noonan, 2020 Vice Chair</h3>
         <p>Dan (1st Term, 2020-2023) is an Associate Professor and the Digital Preservation Librarian for The Ohio State University Libraries (OSUL). Reporting to the Associate Director for Distinctive Collections and Digital Programs, Dan plays a key role
             in developing a trusted digital preservation ethos and infrastructure at OSUL. This position contributes strategy and expertise, and provides leadership through close collaboration with faculty, staff, and other leaders in OSUL’s Digital Programs,
             Preservation and Digitization, Distinctive Collections, Content and Access, Archival Description and Access, and Publishing and Repository Services groups. Previously, he was OSUL’s Electronic Records/Digital Resources Archivist and Electronic
@@ -300,20 +297,7 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Lauren Work</h3>
-        <p>Lauren Work (Content Interest Group Co-Chair) is the Digital Preservation Librarian at the University of Virginia, where she is responsible for the preservation of university digital resources ranging from websites to legacy hard drives. She helps
-            to create workflows and strategies for the sustainable ingest, preservation and access to born-digital content at Virginia via collaboration within communities such as the Academic Preservation Trust, Archivematica, and Fedora. Prior to her
-            arrival at the University of Virginia, Lauren was the Digital Collections Librarian at Virginia Commonwealth University. She has worked at various cultural and academic organizations including NPR, Densho, and both Special Collections and
-            the Media Center at the University of Washington. She was part of the inaugural cohort of the National Digital Stewardship Residency, where she was responsible for creating a digitization and preservation plan for legacy media at the Public
-            Broadcasting Service. She earned her Master of Library and Information Science degree from the University of Washington.
-        </p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Lauren Work" src="{{ '/images/coordinating-committee/Work.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
+
 
 <h2>Host Organization</h2>
 
@@ -330,3 +314,19 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Trevor Owens" src="{{ '/images/coordinating-committee/trow-fullsize.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
+
+
+<!--<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Lauren Work</h3>
+        <p>Lauren Work (Content Interest Group Co-Chair) is the Digital Preservation Librarian at the University of Virginia, where she is responsible for the preservation of university digital resources ranging from websites to legacy hard drives. She helps
+            to create workflows and strategies for the sustainable ingest, preservation and access to born-digital content at Virginia via collaboration within communities such as the Academic Preservation Trust, Archivematica, and Fedora. Prior to her
+            arrival at the University of Virginia, Lauren was the Digital Collections Librarian at Virginia Commonwealth University. She has worked at various cultural and academic organizations including NPR, Densho, and both Special Collections and
+            the Media Center at the University of Washington. She was part of the inaugural cohort of the National Digital Stewardship Residency, where she was responsible for creating a digitization and preservation plan for legacy media at the Public
+            Broadcasting Service. She earned her Master of Library and Information Science degree from the University of Washington.
+        </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Lauren Work" src="{{ '/images/coordinating-committee/Work.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>-->
