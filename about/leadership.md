@@ -275,8 +275,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Matt Schultz</h3>
-        <p>Matt Schultz (Content Interest Group Co-Chair/Infrastructure Interest Group Co-Chair) is the Director of Digital Curation and Preservation Programs at the Educopia Institute where he provides facilitation for Educopia’s Affiliated Communities
-            that are focused on curation and preservation. Schultz works with leaders in these Communities and the team at Educopia to develop services and engage in ongoing research, development, and documentation of best practices for their mutual benefit
+        <p>Matt Schultz (Content Interest Group Co-Chair/Infrastructure Interest Group Co-Chair) is the Director of Digital Curation and Preservation Programs at the Educopia Institute where he provides facilitation for Educopia’s Affiliated Communities that are focused on curation and preservation. Schultz works with leaders in these Communities and the team at Educopia to develop services and engage in ongoing research, development, and documentation of best practices for their mutual benefit
             and the advancement of the field. He holds a B.A. in History from GVSU (2007) and a Master of Science in Information (MSI) from the University of Michigan (2009). Schultz is also the founder of Fringe Digital, a research and program consultancy
             that specializes in helping cultural institutions, content creators, and other organizations pursue sustainable and open source solutions in the digital age. As a proud member of the Nottawaseppi Huron Band of the Potawatomi, Schultz actively
             seeks to advance projects aimed at decolonizing and indigenizing data, digital technologies, and the internet. He lives in West Michigan with his partner, two children, and their pit bull named Parker.</p>
