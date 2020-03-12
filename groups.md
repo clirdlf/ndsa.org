@@ -35,9 +35,6 @@
 <h3>Working Groups</h3>
 <p>Working Groups are created on an as needed basis.  Once formed, groups my perform a one-time activity, a cyclical activity, or an ongoing activity.  This activity level is listed after the Working Group name below.  Further details about each group is provided on their individual pages.</p>
 
-<h4><a href="/groups/awards/">Awards (annually)</a></h4>
-<ul><li><p>Administering awards that highlight and commend creative individuals, projects, organizations, and future stewards demonstrating originality and excellence in their contributions to the field of digital preservation. Awards are given out at the DigiPres conference.</p></li></ul>
-
 <h4><a href="/groups/communications-outreach-publications/">Communications, Outreach, and Publications (ongoing)</a></h4>
 <ul><li><p>Working with the Coordinating Committee and Group Chairs to assist with internal and external communications, blog posts, website updates, and editing and publishing NDSA reports and other materials.</p></li></ul>
 
@@ -46,6 +43,9 @@
 
 <h4><a href="/groups/fixity/">Fixity (2016-2017)</a></h4>
 <ul><li><p>Created to address the “… clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements” raised in the 2015 NDSA National Agenda. This group produced the 2017 Fixity Survey Report as a result of their work.</p></li></ul>
+
+<h4><a href="/groups/innovation-awards/">Innovation Awards (annually)</a></h4>
+<ul><li><p>Administering awards that highlight and commend creative individuals, projects, organizations, and future stewards demonstrating originality and excellence in their contributions to the field of digital preservation. Awards are given out at the DigiPres conference.</p></li></ul>
 
 <h4><a href="/groups/levels-of-preservation/">Levels of Preservation (ongoing)</a></h4>
 <ul><li><p>Working to provide the methodology by which the important NDSA Levels of Digital Preservation document can be adapted more readily—taking in the broadest possible feedback in the process. Created the Levels of Digital Preservation V2.0 in October 2019. Work continues.</p></li></ul>
