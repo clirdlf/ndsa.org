@@ -16,7 +16,7 @@ The Infrastructure Interest Group works to identify and share emerging practices
   * Agendas and notes for/from meetings held in 2020 are available at[https://bit.ly/30XnNWs](https://bit.ly/30XnNWs). <!--Our scheduled topics for 2020 are noted below.-->
   * Meetings are generally recorded and posted to our YouTube Playlist at [https://bit.ly/2QRIMmO](https://bit.ly/2QRIMmO).
  
- ## Past Meetings
+## Past Meetings
   * Agendas and notes for 2019 are available at [https://bit.ly/2FyZzt6](https://bit.ly/2FyZzt6). 
 
   
