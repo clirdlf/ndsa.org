@@ -17,7 +17,6 @@ The Infrastructure Interest Group works to identify and share emerging practices
   * Meetings are generally recorded and posted to our YouTube Playlist at [https://bit.ly/2QRIMmO](https://bit.ly/2QRIMmO).
  
  ## Past Meetings
-  
   * Agendas and notes for 2019 are available at [https://bit.ly/2FyZzt6](https://bit.ly/2FyZzt6). 
 
   
