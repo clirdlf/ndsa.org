@@ -23,7 +23,7 @@ There are no fees or dues for membership in the NDSA, but members are expected t
     - They may NOT use NDSA events, projects, or publications as marketing opportunities with the exception of open calls for sponsorship (e.g. at  the annual conference).  
 - Members will have demonstrated an active commitment to digital preservation.
 - Members will share the [stated values](/values/) of the NDSA.
-- *Although organizational membership is strongly preferred, in some rare instances individuals may need to participate in NDSA activities outside of an organizational membership, in which case becoming an Affiliate Member is an option. Please contact the Coordinating Committee Chair (ndsa.digipres at gmail dot com) if you are interested in becoming an Affiliate Member.*
+- *Although organizational membership is strongly preferred, in some rare instances individuals may need to participate in NDSA activities outside of an organizational membership, in which case becoming an Affiliate Member is an option. Please contact the Coordinating Committee Chair (ndsa at diglib dot org) if you are interested in becoming an Affiliate Member.*
 
 ## Membership Commitment
 Each member organization is required to identify and provide one or more representatives to participate in NDSA activities.  Multiple representatives are encouraged. 
