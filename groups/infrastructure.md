@@ -13,7 +13,7 @@ The Infrastructure Interest Group works to identify and share emerging practices
 ## Meetings
   * The Infrastructure Interest Group meets the third Monday of each month at three pm. 
   * You can join us online at [https://clirdlf.zoom.us/j/745482656](https://clirdlf.zoom.us/j/745482656) or via phone at US: +1 646 876 9923 or +1 669 900 6833 or +1 408 740 3766. Meeting ID: 745 482 656. [International numbers available](https://zoom.us/u/cPpLHpqKX).
-  * Agendas and notes for/from meetings held in 2020 are available at[https://bit.ly/30XnNWs](https://bit.ly/30XnNWs). <!--Our scheduled topics for 2020 are noted below.-->
+  * Agendas and notes for/from meetings held in 2020 are available at [https://bit.ly/30XnNWs](https://bit.ly/30XnNWs). <!--Our scheduled topics for 2020 are noted below.-->
   * Meetings are generally recorded and posted to our YouTube Playlist at [https://bit.ly/2QRIMmO](https://bit.ly/2QRIMmO).
  
 ## Past Meetings
