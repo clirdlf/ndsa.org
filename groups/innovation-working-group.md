@@ -13,7 +13,7 @@ It was decided to present the question of whether to continue or to sunset the I
 The consensus was that the interests of participants were best served by other existing, or yet to be created, interest or working groups. It was decided officially to sunset the Innovation Interest Group. However, many new ideas were generated at the meeting and in prior group conversations.  We encourage participants to use the framework of the NDSA to explore them, creating new groups as needed.  (See [“Group Formation”](/groups/) for more details.)
 
 The Innovation Interest Group had more than a six-year history of activity under the umbrella of NDSA. Among its initiatives were:
-- The [NDSA Innovation Awards](groups/innovation-awards/) (Now undertaken by the Innovations Award Working Group)
+- The [NDSA Innovation Awards](/groups/innovation-awards/) (Now undertaken by the Innovations Award Working Group)
 - Insights Interviews and Digital Pioneers Series, posted on the Library of Congress digital preservation blog, [The Signal](http://blogs.loc.gov/thesignal/) and archived on the [NDSA Wiki](https://web.archive.org/web/20161214221748/https://wiki.diglib.org/NDSA:Broadening_and_Networking_the_Field_of_Research_in_Digital_Preservation)
 - [Digital Preservation Stack Exchange](http://qanda.digipres.org/) (in partnership with OPF)
 - [Digital Stewardship Innovation IDEAS (DSII) Challenge](http://dsii.ideascale.com/) for 2014
