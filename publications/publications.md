@@ -2,10 +2,26 @@
 title: Publications
 layout: page
 permalink: /publications/
-redirect_to: /publications/overview/
+redirect_from: 
+ - /activities-overview/
+ - /publications/overview/
 ---
-This is a non-exclusive list of NDSA reports, survey outcomes, and articles. 
-<!--## Selected Reports-->
+The NDSA Interest and Working Groups produce reports, survey outcomes, and articles based off of their interests and work. The majority of these are made available on the <a href="https://osf.io/4d567/" target="_blank">NDSA OSF Repository <i class="fas fa-external-link-alt"></i></a>.  
+
+New publications are announced on the [NDSA Blog](/news/), while links to a few of the NDSA's main products such as the Levels of Digital Preservation and the NDSA Agenda are provided below.
+
+### Signature Publications
+#### Levels of Digital Preservation
+- [2019 Levels of Digital Preservation Working Group](/activities/levels-of-digital-preservation/)
+- 2019 Levels of Digital Preservation Publications (<a href="https://osf.io/qgz98/" target="_blank">OSF Repository <i class="fas fa-external-link-alt"></i></a>)
+
+#### NDSA Agenda
+- Previously called the National Agenda, the NDSA Agenda integrates the persepctive of dozens of experts and hundreds of institutions to provide funders and executive decision‐makers insight into emerging technological trends, gaps in digital stewardship capacity, and key areas for funding, research and development to ensure that today’s valuable digital content remains accessible and comprehensible in the future, supporting a thriving economy, a robust democracy, and a rich cultural heritage.
+- The [National Agenda Working Group](/national-agenda/) provides background information on the work and links to previous versions.
+
+
+### Selected Publications
+
 #### 2017 Fixity Survey Report
 - A [report](/documents/Report_2017NDSAFixitySurvery.pdf) (PDF, 977 KB) written by the [Fixity Working Group](/fixity) that addresses the “… clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements” raised in the 2015 NDSA National Agenda.
 
@@ -38,3 +54,16 @@ This is a non-exclusive list of NDSA reports, survey outcomes, and articles.
 
 #### Storage Survey
 - The [NDSA Infrastructure Working Group](/working-groups/infrastructure/) conducted a 2011 survey of member institutions on their institutions' current long-term archival storage for digital materials and projected storage needs for the future. The information from this survey was shared though a series of blog posts and an article and was published in D-Lib article in the May/June 2013 edition, "[NDSA Storage Report: Reflections on National Digital Stewardship Alliance Member Approaches to Preservation Storage Technologies.](http://www.dlib.org/dlib/may13/altman/05altman.html)" Early analysis of the survey is available here.
+
+<!--- [Selected Reports and Articles](/publications/)-->
+<!--https://osf.io/4d567/
+<li><a href="https://osf.io/4d567/" target="_blank">OSF Repository <i class="fas fa-external-link-alt"></i></a></li>-->
+
+<!--### Resources and tools
+- [Experts Guide](/experts-guide): A list of individuals from member organizations available to speak to the news media about a variety of digital stewardship topics, and who are recognized for their contributions to the NDSA community.
+- [Case Studies](/activities/case-studies): The [Content Interest Group](/working-groups/content/) has created case studies to engage members of the community in the preservation of content and to encourate the cultivation of relationships that could enambe preservation.
+- [Glossary](http://ndsa.org/glossary/): A definition of terms of special value to the NDSA and its extended digital stewardship community.-->
+<!--- ### Library of Congress Blog Posts
+- [The Signal](https://blogs.loc.gov/thesignal/category/ndsa-2/)
+- [Content Matters Interviews](https://blogs.loc.gov/thesignal/category/content-matters-interview/)
+- [Insights Interviews](https://blogs.loc.gov/thesignal/category/insights-interview/)-->
