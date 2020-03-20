@@ -219,6 +219,17 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Felicity Dykas</h3>
+        <p>Felicity Dykas (Standards and Practices Interest Group Co-Chair) is Head of Digital Services at the University of Missouri (MU). In this role she oversees the work of MOspace, the University of Missouri institutional repository, the MU Digital Library, and digitization work. Prior roles include Cataloger and Head of the Catalog Department. Her current work interests include providing online access to information resources (now and into the future) by focusing on the development and use of international, national, and local standards for digital objects and metadata that enhances discoverability. Collaborating with others on digital projects also is a priority. As a mantra, Felicity frequently quotes the IFLA Library Reference Model user tasks: Our goal is to help our users Find, Identify, Select, Obtain, and Explore information resources. Felicity is active in ALA, with current membership on the Association of Library Collections and Technical Services Continuing Education Committee.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Felicity Dykas" src="{{ '/images/coordinating-committee/Dykas2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Carol Kussmann</h3>
         <p>Carol Kussmann (Communications, Outreach, and Publications Working Group Chair) is the Digital Preservation Analyst at the University of Minnesota Libraries. In this role, she works across many departments within the Libraries, as well as outside
             the Libraries including through the statewide Minnesota Digital Library Program. She addresses current and future requirements for the long-term preservation of electronic records in the areas of archives and special collections, information
