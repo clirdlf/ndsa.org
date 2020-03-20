@@ -1,10 +1,9 @@
 ---
-title: Levels of Preservation Working Group History
+title: History of the Levels of Preservation Working Group
 layout: page
-permalink: /groups/levels-of-preservation-historical/
+permalink: /groups/levels-of-preservation/history/
 
 ---
-## Background
 The Levels of Preservation (LOP) Working Group was initiated in March of 2018.  While the main goal was producing an updated LOP Matrix (or grid) it was recognized early on that to responsbily do so required the work of many.  A call for interest was made to the community, to which over 100 responded.  Many sub-working-groups were formed.  These groups worked in parallel and sometimes informed the work of the other groups.  Details on the groups are provided below.
 
 Version 2.0 of the Levels of Preservation was made available in October 2019.  Supporting documetation followed. All completed materials are [available](https://ndsa.org/activities/levels-of-digital-preservation/) on the 2019 LOP OSF project page.
@@ -14,7 +13,7 @@ This page documents the project plan and work done between 2018-2019 by the Leve
 ## Levels of Preservation Working Group (2018)
 The NDSA initially launched its Levels of Digital Preservation guidelines in 2013. The Levels’ authors wrote about the philosophy behind the publication [here](http://www.digitalpreservation.gov/documents/NDSA_Levels_Archiving_2013.pdf). Since that time practitioners across the globe have been working with the guidelines and some have been extending and adapting them. Response to and adoption of the Levels has far exceeded NDSA’s expectations.
 
-This new Working Group’s primary task will be to provide the methodology by which the important NDSA Levels of Preservation document can be adapted more readily—taking in the broadest possible feedback in the process. We will not limit the group to NDSA members, though we will strongly encourage everyone interested in this project to consider [joining the National Digital Stewardship Alliance](http://ndsa.org/get-involved/). The preliminary charge for this group will be to:
+This new Working Group’s primary task will be to provide the methodology by which the important NDSA Levels of Preservation document can be adapted more readily—taking in the broadest possible feedback in the process. We will not limit the group to NDSA members, though we will strongly encourage everyone interested in this project to consider [joining the NDSA](http://ndsa.org/get-involved/). The preliminary charge for this group will be to:
 - Identify those actively engaged in adapting the Levels
 - Cast a wide net for those willing to engage in updating the current version
 - Create a methodology by which disparate approaches can be fully vetted and harmonized into a Version 2.0 of the Levels
@@ -69,8 +68,6 @@ This project will engage key stakeholders and other communities to:
 * About: Explore the creation of a non-technical preservation decision layer that will allow curators and collections stewards to make initial preservation decisions that map to the LoP.
 * <a href="https://docs.google.com/document/d/1-aFpi9GzK1ni_wBOeFLYtJ8x8vmQWPzM4Kw5hAPynuc/edit?usp=sharing">Charge</a>
 * [Curatorial Group Folder](https://drive.google.com/drive/folders/1RPoqF98JwcQHJKCAMxfkXzFDAE0-faih)
-* [Curatorial Email List](https://groups.google.com/forum/#!members/ndsa-curatorial) (available to current members)
-* [Audio Recordings of Curatorial Meetings](https://www.dropbox.com/sh/w9438qwz1n7clhu/AADJTYx6wEmEbzX9UIAof_Dya?dl=0)
 * Co-chairs: Bradley Daigle and Angela Beking
 
 ##### **Implementation Subgroup** (Lead: Corey Davis)  
@@ -84,7 +81,7 @@ This project will engage key stakeholders and other communities to:
 * <a href="https://docs.google.com/document/d/1jS-MmCYKHAH8Hy2Z2pBClU0DkvzEr313I1etiXCW4Qw/edit?usp=sharing">Charge</a> 
 * Co-chairs: Karen Cariani and Dan Noonan
 
-##### **Teaching, Outreach, and Advocacy Subgroup** (Lead: Helen Tibbo)
+##### **Teaching, Outreach, and Advocacy Subgroup**
 The work of this group, as expected, did not take place during 2018-2019.  Work of this group will be taken up by a new group in 2020.
 * About: Explore the use and adaption of the LoP as a teaching tool for understanding digital preservation concepts and pragmatic use and to advocate for preservation resources.
 
