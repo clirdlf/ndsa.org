@@ -624,11 +624,11 @@ th, td {
 </table>
 </body>
 </html>
-### Communication vehicles
+<!--### Communication vehicles-->
 
-The project will adhere to principles of transparency and clarity. The following communication vehicles will be used to insure that stakeholders and other audiences are able to easily stay informed on project progress.
+<!--The project will adhere to principles of transparency and clarity. The following communication vehicles will be used to insure that stakeholders and other audiences are able to easily stay informed on project progress.-->
 
-<html>
+<!--<html>
 <head>
 <style>
 table, th, td {
@@ -787,9 +787,10 @@ th, td {
 </body>
 </html>
 ### Get Involved
-Please contact Bradley Daigle at bradley [at] virginia [dot] edu if you are interested in participating
+Please contact Bradley Daigle at bradley [at] virginia [dot] edu if you are interested in participating-->
 
 ### Levels Reboot Team
+The Levels Reboot Team is mad up of the chair/co-chairs of the many sub-working groups of the 2019 Levels of Preservation Working Group 
 - Karen Cariani, The David O. Ives Executive Director of the WGBH Media Library and Archives
 - Aaron Collie, FRASER Digital Library Manager, Federal Reserve Bank of St. Louis
 - Bradley Daigle, Partnerships and Content Lead, Academic Preservation Trust (APTrust)
@@ -803,4 +804,4 @@ Please contact Bradley Daigle at bradley [at] virginia [dot] edu if you are inte
 - Helen Tibbo, Alumni Distinguished Professor, School of Information and Library Science, University of North Carolina
 - Lauren Work, Digital Preservation Librarian, University of Virginia Libraries
 
-For information about the NDSA Coordinating Committee and Interest Group Co-chairs, please visit the [Leadership page](http://ndsa.org/leadership/).
+For information about NDSA's Leadership team, made up of the elected Coordinating Committee and Group Co-chairs, please visit the [Leadership page](http://ndsa.org/about/leadership/).
