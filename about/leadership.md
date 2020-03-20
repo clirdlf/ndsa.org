@@ -274,6 +274,16 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Linda Reynolds</h3>
+        <p>Linda Reynolds (Standards and Practices Interest Group Co-Chair) is the Director of the East Texas Research Center at Stephen F. Austin State University (SFA) in Nacogdoches, Texas.  She is responsible for overseeing all aspects of archival work from paper processing to digital preservation.  Since there is no digital archivist at SFA, she has taken on that responsibility.  She is a one woman digital show and has thrown herself into the deep end of the digital pool to bring SFA’s chaotic digital assets into a manageable system. She advises and works with many cultural heritage institutions and community members in the east Texas area on processing, preservation, and providing access of digital and non-digital material.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Linda Reynolds" src="{{ '/images/coordinating-committee/ReynoldsLinda2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Matt Schultz</h3>
         <p>Matt Schultz (Content Interest Group Co-Chair/Infrastructure Interest Group Co-Chair) is the Director of Digital Curation and Preservation Programs at the Educopia Institute where he provides facilitation for Educopia’s Affiliated Communities that are focused on curation and preservation. Schultz works with leaders in these Communities and the team at Educopia to develop services and engage in ongoing research, development, and documentation of best practices for their mutual benefit
             and the advancement of the field. He holds a B.A. in History from GVSU (2007) and a Master of Science in Information (MSI) from the University of Michigan (2009). Schultz is also the founder of Fringe Digital, a research and program consultancy
