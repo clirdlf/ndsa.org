@@ -4,17 +4,42 @@ layout: page
 permalink: /groups/levels-of-preservation-historical/
 
 ---
+## Background
+The Levels of Preservation (LOP) Working Group was initiated in March of 2018.  While the main goal was producing an updated LOP Matrix (or grid) it was recognized early on that to responsbily do so required the work of many.  A call for interest was made to the community, to which over 100 responded.  Many sub-working-groups were formed.  These groups worked in parallel and sometimes informed the work of the other groups.  Details on the groups are provided below.
 
-*Take me to the [Levels of Digital Preservation Working Group Listserv](https://lists.clir.org/cgi-bin/wa?A0=NDSA-LEVELS)! If you are already a member of this Working Group, you can always access the listserv (including its archives) at that link. To join this Working Group, please contact Bradley Daigle at bradley [at] virginia [dot] edu.*
+Version 2.0 of the Levels of Preservation was made available in October 2019.  Supporting documetation followed. All completed materials are [available](https://ndsa.org/activities/levels-of-digital-preservation/) on the 2019 LOP OSF project page.
 
-### Version 2.0 
-Version 2.0 of the Levels of Digitial Preservation is now complete. Supporting documentation is still being created. All completed materials are [available](https://ndsa.org/activities/levels-of-digital-preservation/) on the 2019 LOP OSF project page. (October 16, 2019) 
+This page documents the project plan and work done between 2018-2019 by the Levels of Preservation Working Group.
 
-# The Levels Reboot
-## Project Plan
-From the members of the [Levels Reboot Team](#levels-reboot-team).
+## Levels of Preservation Working Group (2018)
+The NDSA initially launched its Levels of Digital Preservation guidelines in 2013. The Levels’ authors wrote about the philosophy behind the publication [here](http://www.digitalpreservation.gov/documents/NDSA_Levels_Archiving_2013.pdf). Since that time practitioners across the globe have been working with the guidelines and some have been extending and adapting them. Response to and adoption of the Levels has far exceeded NDSA’s expectations.
 
-### Project overview and description
+This new Working Group’s primary task will be to provide the methodology by which the important NDSA Levels of Preservation document can be adapted more readily—taking in the broadest possible feedback in the process. We will not limit the group to NDSA members, though we will strongly encourage everyone interested in this project to consider [joining the National Digital Stewardship Alliance](http://ndsa.org/get-involved/). The preliminary charge for this group will be to:
+- Identify those actively engaged in adapting the Levels
+- Cast a wide net for those willing to engage in updating the current version
+- Create a methodology by which disparate approaches can be fully vetted and harmonized into a Version 2.0 of the Levels
+- Devise an ongoing strategy by which the Levels can be adapted on a regular basis.
+
+A call for interest and participation was sent out in April 2018 and the community’s response has been tremendous. Practitioners from all over the globe have responded that they are either using the NDSA’s Levels guidelines or would like to assist in the creation of Version 2.0. We hope to harness the excellent work that is already underway and create a series of international groups to help refine and test the new proposed changes.
+
+
+### Levels Reboot Team
+The Levels Reboot Team is mad up of the chair/co-chairs of the many sub-working groups of the 2019 Levels of Preservation Working Group 
+- Karen Cariani, The David O. Ives Executive Director of the WGBH Media Library and Archives
+- Aaron Collie, FRASER Digital Library Manager, Federal Reserve Bank of St. Louis
+- Bradley Daigle, Partnerships and Content Lead, Academic Preservation Trust (APTrust)
+- Corey Davis, Digital Preservation Coordinator, Council of Prairie and Pacific University Libraries (COPPUL)
+- Amy Kirchoff, Archive Service Product Manager, ITHAKA
+- Carol Kussmann, Digital Preservation Analyst for the University of Minnesota Libraries
+- Mary Molinaro, Executive Director, Digital Preservation Network (DPN)
+- Bethany Nowviskie, Executive Director, Digital Library Federation (DLF - *ex officio*)
+- Sibyl Schaefer, Chronopolis Program Manager and Digital Preservation Analyst for the University of California, San Diego
+- Nathan Tallman, Digital Preservation Librarian, Penn State University Libraries
+- Helen Tibbo, Alumni Distinguished Professor, School of Information and Library Science, University of North Carolina
+- Lauren Work, Digital Preservation Librarian, University of Virginia Libraries
+
+# The Levels Reboot Project Plan
+## Project overview and description
 
 ### Overview
 
@@ -32,7 +57,39 @@ This project will engage key stakeholders and other communities to:
 - Create other materials to support an updated Levels document, such as case studies and teaching materials; and,
 - Articulate an ongoing strategy by which the Levels can be adapted and updated on a regular basis.
 
+
+### Levels of Preservation Subgroups and Charges
+
+##### **Assessment Subgroup** (Lead: Carol Kussmann)
+* This group will explore the past and current use and adaptation of the LoP framework for institutional benchmarking and assessment of digital preservation readiness or as a method to review progress towards institutional preservation goals.
+* The groups initial [charge](https://docs.google.com/document/d/1UUK5fTv1zzlAhfFiERC91SZlVK7JPgslKgDRglU7Oy4/edit?usp=sharing) is provided for you to review but is subject to change as we work through logistics and review past projects and determine the best course of action moving forward.   
+* Co-chairs: Carol Kussmann and Amy Rudersdorf.
+
+##### **Curatorial Layer Subgroup** (Lead: Bradley Daigle)
+* About: Explore the creation of a non-technical preservation decision layer that will allow curators and collections stewards to make initial preservation decisions that map to the LoP.
+* <a href="https://docs.google.com/document/d/1-aFpi9GzK1ni_wBOeFLYtJ8x8vmQWPzM4Kw5hAPynuc/edit?usp=sharing">Charge</a>
+* [Curatorial Group Folder](https://drive.google.com/drive/folders/1RPoqF98JwcQHJKCAMxfkXzFDAE0-faih)
+* [Curatorial Email List](https://groups.google.com/forum/#!members/ndsa-curatorial) (available to current members)
+* [Audio Recordings of Curatorial Meetings](https://www.dropbox.com/sh/w9438qwz1n7clhu/AADJTYx6wEmEbzX9UIAof_Dya?dl=0)
+* Co-chairs: Bradley Daigle and Angela Beking
+
+##### **Implementation Subgroup** (Lead: Corey Davis)  
+  - About: Explore the use and adaption of the LoP framework to implement or improve digital preservation infrastructure, administration, and maintenance.
+  - [Charge](https://docs.google.com/document/d/1D3-e_xDfYwwDYneyUiRzPBxDc_0-CXSrbW7T-KIElOk/edit?usp=sharing)
+  - [Member list](https://docs.google.com/spreadsheets/d/1oq057ba8aScyFWt_Q8kbmTLyrsxWus3GI07owN53Nn4/edit?usp=sharing)
+  - Co-chairs: Corey Davis and Abby Adams. 
+
+##### **Levels of Preservation Revision Subgroup** (Lead: Karen Cariani)
+* About: Update and add to the current themes included in the LoP (storage, fixity, migration, security, metadata, file formats, etc.).
+* <a href="https://docs.google.com/document/d/1jS-MmCYKHAH8Hy2Z2pBClU0DkvzEr313I1etiXCW4Qw/edit?usp=sharing">Charge</a> 
+* Co-chairs: Karen Cariani and Dan Noonan
+
+##### **Teaching, Outreach, and Advocacy Subgroup** (Lead: Helen Tibbo)
+The work of this group, as expected, did not take place during 2018-2019.  Work of this group will be taken up by a new group in 2020.
+* About: Explore the use and adaption of the LoP as a teaching tool for understanding digital preservation concepts and pragmatic use and to advocate for preservation resources.
+
 ### Levels of Preservation Presentations, Workshops, and Updates
+Conferences were used as opportunities to share the status of the updated Levels and as a method to gather feedback.  Some of these are listed below.  
 * Levels of Preservation Reboot Overview and Update 30 January 2019
   - Digital Preservation Coalition Blog Post describing work up to 2019 and current observations [Link](https://dpconline.org/blog/levels-of-preservation-reboot-overview-and-update)
 * Society of American Archivists (Washington, DC) 14-18 August
@@ -41,50 +98,9 @@ This project will engage key stakeholders and other communities to:
   - 103 Cool Change: The NDSA Levels of Preservation Reboot: Update, Discussion, and Future Steps. A workshop by: Bradley Daigle, Helen Tibbo, Corey Davis, Karen Cariani, Carol Kussmann, Sibyl Schaefer and Mary Molinaro -- Pechet Room 2. [Link](https://osf.io/u5w3q/wiki/home/)
 * DigiPres 2018 (Las Vegas, NV) 18 October: 8:30-10:00 AM PST
   - NDSA Levels of Preservation Reboot: The NDSA Levels of Preservation is a guide to assess digital preservation efforts against best practices. This session will present, what the levels currently are, how they have been used, the work to update the document, and an open discussion with the audience for feedback and suggestions for improvement. [Link](https://dlfforum2018.sched.com/event/FVBv/r1d-ndsa-levels-of-preservation-reboot)
-* Future Planned Sessions tbd
-
-### Levels of Preservation Subgroups and Charges
-
-##### **Curatorial Layer Subgroup** (Lead: Bradley Daigle)
-* About: Explore the creation of a non-technical preservation decision layer that will allow curators and collections stewards to make initial preservation decisions that map to the LoP.
-* <a href="https://docs.google.com/document/d/1-aFpi9GzK1ni_wBOeFLYtJ8x8vmQWPzM4Kw5hAPynuc/edit?usp=sharing">Charge</a>
-* [Curatorial Group Folder](https://drive.google.com/drive/folders/1RPoqF98JwcQHJKCAMxfkXzFDAE0-faih)
-* [Curatorial Email List](https://groups.google.com/forum/#!members/ndsa-curatorial) (availble to current members)
-* [Audio Recordings of Curatorial Meetings](https://www.dropbox.com/sh/w9438qwz1n7clhu/AADJTYx6wEmEbzX9UIAof_Dya?dl=0)
-* If you have questions or would like to join the group please contact Bradley Daigle at bradley [at] virginia [dot] edu.
-
-##### **Assessment Subgroup** (Lead: Carol Kussmann)
-* This group will explore the past and current use and adaptation of the LoP framework for institutional benchmarking and assessment of digital preservation readiness or as a method to review progress towards institutional preservation goals.
-* The groups initial [charge](https://docs.google.com/document/d/1UUK5fTv1zzlAhfFiERC91SZlVK7JPgslKgDRglU7Oy4/edit?usp=sharing) is provided for you to review but is subject to change as we work through logistics and review past projects and determine the best course of action moving forward.   
-* If you have questions or would like to join the group please contact the co-chairs Carol Kussmann (kussmann@umn.edu) and Amy Rudersdorf (amy@weareavp.com).
-
-##### **Documentation Subgroup** (Lead: Mary Molinaro)
-* About: Explore the ways in which the LoP may be transparently and publicly updated, commented on, distributed, critiqued, used, and integrated widely across many groups/sectors - nationally and internationally.
-* <a href="https://docs.google.com/document/d/1D3-e_xDfYwwDYneyUiRzPBxDc_0-CXSrbW7T-KIElOk/edit?usp=sharing">Charge</a> 
-* Tasks and Goals Include:
-  * Review and document what others have already done to get the word out about the LoP previously
-  * Develop a strategy for sharing information about the LoP and the changes that were made (and why)
-  * Develop a process for review of the LoP in order to keep current
-  * Develop a method for documenting and versioning ongoing updates to the LoP (working with the Updating Levels Subgroup as necessary)
-
-##### **Implementation Subgroup** (Lead: Corey Davis)  
-  - About: Explore the use and adaption of the LoP framework to implement or improve digital preservation infrastructure, administration, and maintenance.
-  - [Charge](https://docs.google.com/document/d/1D3-e_xDfYwwDYneyUiRzPBxDc_0-CXSrbW7T-KIElOk/edit?usp=sharing)
-  - [Member list](https://docs.google.com/spreadsheets/d/1oq057ba8aScyFWt_Q8kbmTLyrsxWus3GI07owN53Nn4/edit?usp=sharing)
-  - If you have questions please contact the co-chairs Corey Davis (corey@coppul.ca) and Abby Adams (abby.adams@austin.utexas.edu).  
-
-##### **Levels of Preservation Revision Subgroup** (Lead: Karen Cariani)
-* About: Update and add to the current themes included in the LoP (storage, fixity, migration, security, metadata, file formats, etc.).
-* <a href="https://docs.google.com/document/d/1jS-MmCYKHAH8Hy2Z2pBClU0DkvzEr313I1etiXCW4Qw/edit?usp=sharing">Charge</a> 
-* If you have questions please contact Karen Cariani (karen_cariani@wgbh.org)
-
-
-##### **Teaching, Outreach, and Advocacy Subgroup** (Lead: Helen Tibbo)
-* About: Explore the use and adaption of the LoP as a teaching tool for understanding digital preservation concepts and pragmatic use and to advocate for preservation resources.
-
 
 ### Related documents
-
+These documents provide additional background information on the Levels themselves and the modivation of the revision.
 - [Levels of Digital Preservation](http://ndsa.org/activities/levels-of-digital-preservation/)
 - [The NDSA Levels of Digital Preservation: An Explanation and Uses](http://www.digitalpreservation.gov/documents/NDSA_Levels_Archiving_2013.pdf)
 - [NDSA Levels of preservation original Project Plans](https://web.archive.org/web/20170304174709/https://wiki.diglib.org/NDSA:Levels_of_preservation), Internet Archive Wayback Machine
@@ -388,23 +404,6 @@ th, td {
 </table>
 </body>
 </html>
-
-## Project managers and key stakeholders
-
-The members of the Levels Reboot Team, a subgroup of the NDSA Coordinating Committee, share project management responsibilities, and shall be responsible to NDSA members through the NDSA Coordinating Committee.
-
-All project details and the activities will be overseen by the [Levels Reboot Team](#levels-reboot-team).
-
-The NDSA initially launched its [Levels of Digital Preservation](http://ndsa.org/activities/levels-of-digital-preservation/) guidelines in 2013. The Levels’ authors wrote about the philosophy behind the publication [here](http://www.digitalpreservation.gov/documents/NDSA_Levels_Archiving_2013.pdf). Since that time practitioners across the globe have been working with the guidelines and some have been extending and adapting them. Response to and adoption of the Levels has far exceeded NDSA’s expectations.
-
-This new Working Group’s primary task will be to provide the methodology by which the important NDSA Levels of Preservation document can be adapted more readily—taking in the broadest possible feedback in the process. We will not limit the group to NDSA members, though we will strongly encourage everyone interested in this project to consider [joining the National Digital Stewardship Alliance](http://ndsa.org/get-involved/). The preliminary charge for this group will be to:
-
-- Identify those actively engaged in adapting the Levels
-- Cast a wide net for those willing to engage in updating the current version
-- Create a methodology by which disparate approaches can be fully vetted and harmonized into a Version 2.0 of the Levels
-- Devise an ongoing strategy by which the Levels can be adapted on a regular basis.
-
-A call for interest and participation was sent out in April 2018 and the community’s response has been tremendous. Practitioners from all over the globe have responded that they are either using the NDSA’s Levels guidelines or would like to assist in the creation of Version 2.0. We hope to harness the excellent work that is already underway and create a series of international groups to help refine and test the new proposed changes.
 
 ## Principle audiences
 ### Key stakeholders
@@ -788,20 +787,3 @@ th, td {
 </html>
 ### Get Involved
 Please contact Bradley Daigle at bradley [at] virginia [dot] edu if you are interested in participating-->
-
-### Levels Reboot Team
-The Levels Reboot Team is mad up of the chair/co-chairs of the many sub-working groups of the 2019 Levels of Preservation Working Group 
-- Karen Cariani, The David O. Ives Executive Director of the WGBH Media Library and Archives
-- Aaron Collie, FRASER Digital Library Manager, Federal Reserve Bank of St. Louis
-- Bradley Daigle, Partnerships and Content Lead, Academic Preservation Trust (APTrust)
-- Corey Davis, Digital Preservation Coordinator, Council of Prairie and Pacific University Libraries (COPPUL)
-- Amy Kirchoff, Archive Service Product Manager, ITHAKA
-- Carol Kussmann, Digital Preservation Analyst for the University of Minnesota Libraries
-- Mary Molinaro, Executive Director, Digital Preservation Network (DPN)
-- Bethany Nowviskie, Executive Director, Digital Library Federation (DLF - *ex officio*)
-- Sibyl Schaefer, Chronopolis Program Manager and Digital Preservation Analyst for the University of California, San Diego
-- Nathan Tallman, Digital Preservation Librarian, Penn State University Libraries
-- Helen Tibbo, Alumni Distinguished Professor, School of Information and Library Science, University of North Carolina
-- Lauren Work, Digital Preservation Librarian, University of Virginia Libraries
-
-For information about NDSA's Leadership team, made up of the elected Coordinating Committee and Group Co-chairs, please visit the [Leadership page](http://ndsa.org/about/leadership/).
