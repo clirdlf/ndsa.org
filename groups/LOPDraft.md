@@ -3,7 +3,7 @@ title: Levels of Preservation Working Group
 layout: page
 permalink: /groups/levels-of-preservation/draft/
 ---
-The Levels of Preservation Working Group was re-formed in 2018 with the main purpose of updating the Levels of Preservation Matrix. The full set activities of the 2018 group are provided on the [history](/group/levels-of-preservation/history/) page for the LOP Working Group.
+The Levels of Preservation Working Group was re-formed in 2018 with the main purpose of updating the Levels of Preservation Matrix. The full set activities of the 2018 group are provided on the [history](/groups/levels-of-preservation/history/) page for the LOP Working Group.
 
 The Levels of Preservation Working Group is ongoing and manages activities related to the Levels of Preservation created by the NDSA.  Subgroups are formed as needed to address the needs of the community. 
 
