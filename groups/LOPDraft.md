@@ -28,7 +28,7 @@ After the completion of Version 2.0 of the Levels of Preservation, other support
 
 ### Get Involved
 - Join the conversation by adding your name to the [Levels of Preservation Working Group mailing list](https://lists.clir.org/cgi-bin/wa?A0=NDSA-LEVELS)!  
-- If you have any questions about the group's work, send an email to ndsa [@] diglib [.] org. 
+- If you have any questions about the group's work, send an email to Bradley Daigle at bradley [@] virginia [.] edu. 
 
 
 
