@@ -4,8 +4,14 @@ layout: page
 permalink: /publications/levels-of-digital-preservation/
 redirect_from: /activities/levels-of-digital-preservation/
 ---
+The Levels of Digital Preservation (LoP) is a resource for digital preservation practitioners when building or evaluating their digital preservation program.  Originally created in 2013, Version 2.0 was released in 2018 along with additional supporting documentation and resources. 
 
-## Background and Overview
+The LoP Matrix, documentation, and supporting resources are provided on this page as well as in the NDSA's OSF repository.  
+
+For questions, please contact a member of the [LOP Working Group](/groups/levels-of-preservation/). 
+
+
+### Background and Overview
 
 The NDSA launched its Levels of Digital Preservation (LoP) guidelines in 2013 as a tiered set of recommendations on how organizations should begin to build or enhance their digital preservation activities. They function as a key tool to help practitioners of all levels deploy a sustainable digital preservation strategy. Since that time practitioners across the globe have been working with the guidelines and some have been extending and adapting them.
 
@@ -15,10 +21,7 @@ With the current rapid changes in technology, a document that functions as the t
 
 NDSA responded by creating a Levels of Preservation Working group with multiple subgroups to take on the task of updating the Levels and developing additional resources around the Levels grid.  Learn more about the [LOP Working group and subgroups](https://ndsa.org/working-groups/levels-of-preservation/).
 
-## Levels of Digital Preservation V2.0
-
-The updated Levels of Digital Preservation Grid is shown below.  The previous categories of storage and geographic location, file fixity and data integrity, information security, metadata, and file formats have been renamed to storage, integrity, control, metadata, and content.  These changes were made as the team wanted the Levels to feature actions independent of specific formats, content types, and storage systems, thus enhancing their usability across domains.
-
+## Levels of Digital Preservation V2.0 Matrix
 
 [![Levels of Digital Preservation, Version 2.0](/images/LOP_v2.png "Levels of Digital Preservation, Version 2.0")](https://osf.io/2mkwx/)
 <p align="center"><em>Levels of Digital Preservation Version 2.0 Matrix</em></p>

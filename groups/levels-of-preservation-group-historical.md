@@ -4,6 +4,8 @@ layout: page
 permalink: /groups/levels-of-preservation/history/
 
 ---
+<!--The revision has realigned the levels so that they have a stronger progressive implication, and each level naturally builds upon the prior one to guide a repository into greater maturity. However, organizational priorities and resources may still result in an organization achieving certain variables in a higher level before they resolve earlier ones.-->
+
 The Levels of Preservation (LOP) Working Group was initiated in March of 2018.  While the main goal was producing an updated LOP Matrix (or grid) it was recognized early on that to responsbily do so required the work of many.  A call for interest was made to the community, to which over 100 responded.  Many sub-working-groups were formed.  These groups worked in parallel and sometimes informed the work of the other groups.  Details on the groups are provided below.
 
 Version 2.0 of the Levels of Preservation was made available in October 2019.  Supporting documetation followed. All completed materials are [available](https://ndsa.org/activities/levels-of-digital-preservation/) on the 2019 LOP OSF project page.
