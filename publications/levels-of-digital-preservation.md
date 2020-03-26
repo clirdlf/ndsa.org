@@ -6,7 +6,7 @@ redirect_from: /activities/levels-of-digital-preservation/
 ---
 The Levels of Digital Preservation (LoP) is a resource for digital preservation practitioners when building or evaluating their digital preservation program.  Originally created in 2013, Version 2.0 was released in 2018 along with additional supporting documentation and resources. 
 
-The LoP Matrix, documentation, and supporting resources are provided on this page as well as in the NDSA's OSF repository.  
+The LoP Matrix, documentation, and supporting resources are provided on this page as well as in the [NDSA's OSF repository](https://osf.io/4d567/).  
 
 For questions, please contact a member of the [LOP Working Group](/groups/levels-of-preservation/). 
 
