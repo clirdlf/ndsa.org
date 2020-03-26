@@ -35,6 +35,8 @@ The Levels of Preservation Working Group produced additional supporting document
 ### 2013 Levels of Digital Preservation
 The original [Levels of Digital Preservation](https://osf.io/9ya8c/) (*Proceedings of the Archiving (IS&T) Conference,* April 2013, Washington, DC) are still available for use and reference as needed.  
 
+A French translation is also available from the [Bibliotheque nationale de France](https://hal-bnf.archives-ouvertes.fr/hal-02162334) or on the [OSF site](https://osf.io/9ya8c/).  
+
 ### Levels of Preservation Working Group
 This work was done by the Levels of Preservation Working Group.  It is expected that the Levels of Digital Preservation will continue to be updated over time as additional feedback is received, experience is gained implementing its recommendations and as empirical research provides detailed information about data loss. For this reason, each iteration of the Levels will be versioned.
 
