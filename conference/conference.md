@@ -47,7 +47,6 @@ Thank you to our wonderful planning committee!
 -   **Greg Colati**, University of Connecticut
 -   **Stefan Elnabli**, UCSD Libraries
 -   **Elizabeth England**, Johns Hopkins University
--   **Heather Heckman**, University of South Carolina
 -   **Deirdre Joyce**, Syracuse University
 -   **Julia Kim**, Library of Congress
 -   **Alex Kinnaman**, Virginia Tech University Libraries
