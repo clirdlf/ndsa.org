@@ -10,7 +10,7 @@ redirect_from: /meetings/
 <img alt="meetings" width="710" height="347" src='{{ "/images/FINAL DLF-Forum-2020_Baltimore v2-01.png" | prepend: site.baseurl }}'>
 
 ## **2020 Call for Proposals is now live!**
-We are delighted to share the Call for Proposals for our 2020 event, **Get Active with Digital Preservation**. See it **[HERE](https://ndsa.org/digital-preservation-2020-cfp/)** and submit your proposal by the deadline, **Monday, April 27, at 11:59pm Eastern Time.**
+We are delighted to share the Call for Proposals for our 2020 event, **Get Active with Digital Preservation**. See it **[HERE](https://ndsa.org/digital-preservation-2020-cfp/)** and submit your proposal by the deadline, **Monday, May 11, at 11:59pm Eastern Time.**
 
 
 ### **About the NDSA and Digital Preservation 2020:**
