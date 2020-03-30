@@ -5,7 +5,7 @@ permalink: /groups/standards-and-practices/
 redirect_from: /working-groups/standards-and-practices/
 ---
 
-**Standards and Practices Interest Group Co-Chairs**: Felicity Dykas, University of Missouri Libraries - dykasf@missouri.edu; Aaron Collie, Federal Reserve Bank of St. Louis - aaron.collie@stls.frb.org
+**Standards and Practices Interest Group Co-Chairs**: Felicity Dykas, University of Missouri Libraries - dykasf [at] missouri [dot] edu; Aaron Collie, Federal Reserve Bank of St. Louis - aaron [dot] collie [at] stls [dot] frb[dot] org
 
 *Take me to the [Standards and Practices Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-STANDARDS)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, please contact the coordinators.*
 
