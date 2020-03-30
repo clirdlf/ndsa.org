@@ -4,7 +4,7 @@ layout: page
 permalink: /groups/content/
 redirect_from: /working-groups/content/
 ---
-**Content Interest Group Co-Chairs:** Lauren Work - lw2cd at eservices dot virginia dot edu; Matt Schultz - schultzm at gvsu dot edu.
+**Content Interest Group Co-Chairs:** Lauren Work - lw2cd [at] eservices [dot] virginia [dot] edu; Matt Schultz - schultzm [at] gvsu [dot] edu.
 
 **New Member Liaison:** Paige Walker - walkerpb at bc dot edu
 
