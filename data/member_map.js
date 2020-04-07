@@ -9,7 +9,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://library.miami.edu\">University of Miami Libraries</a></h2><p>Partner since <strong>July 2019</strong></p><p>Coral Gables, FL</p>"
+        "popupContent": "<h2><a href=\"http://www.ropercenter.cornell.edu\">Roper Center for Public Opinion Research</a></h2><p>Partner since <strong>July 2019</strong></p><p>Ithaca, NY</p>"
       },
       "id": 1
     },
@@ -21,7 +21,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.libnova.com\">LIBNOVA, SL</a></h2><p>Partner since <strong>May 2019</strong></p><p>Miami, FL</p>"
+        "popupContent": "<h2><a href=\"https://library.miami.edu\">University of Miami Libraries</a></h2><p>Partner since <strong>July 2019</strong></p><p>Coral Gables, FL</p>"
       },
       "id": 2
     },
@@ -33,7 +33,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://libraries.uc.edu\">University of Cincinnati Libraries</a></h2><p>Partner since <strong>May 2019</strong></p><p>Cincinnati, OH</p>"
+        "popupContent": "<h2><a href=\"http://www.libnova.com\">LIBNOVA, SL</a></h2><p>Partner since <strong>May 2019</strong></p><p>Miami, FL</p>"
       },
       "id": 3
     },
@@ -45,7 +45,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://Https://lib.uconn.edu\">University of Connecticut Library</a></h2><p>Partner since <strong>April 2019</strong></p><p>Storrs, CT</p>"
+        "popupContent": "<h2><a href=\"http://www.afpls.org/aarl\">Auburn Avenue Research Library</a></h2><p>Partner since <strong>May 2019</strong></p><p>Atlanta, GA</p>"
       },
       "id": 4
     },
@@ -57,7 +57,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.lib.washington.edu\">University of Washington Libraries</a></h2><p>Partner since <strong>April 2019</strong></p><p>Seattle, WA</p>"
+        "popupContent": "<h2><a href=\"http://Https://lib.uconn.edu\">University of Connecticut Library</a></h2><p>Partner since <strong>April 2019</strong></p><p>Storrs, CT</p>"
       },
       "id": 5
     },
@@ -69,7 +69,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.louisville.edu/\">University of Louisville Libraries</a></h2><p>Partner since <strong>March 2019</strong></p><p>Louisville, KY</p>"
+        "popupContent": "<h2><a href=\"http://centreofexcellence.net/\">Nasir Ali Shamsi</a></h2><p>Partner since <strong>April 2019</strong></p><p>Houston, TX</p>"
       },
       "id": 6
     },
@@ -81,7 +81,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://loc.gov\">Library of Congress</a></h2><p>Partner since <strong>February 2019</strong></p><p> Washington, , DC </p>"
+        "popupContent": "<h2><a href=\"http://library.louisville.edu/\">University of Louisville Libraries</a></h2><p>Partner since <strong>March 2019</strong></p><p>Louisville, KY</p>"
       },
       "id": 7
     },
@@ -93,7 +93,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://www.uib.eu/\">University of the Balearic Islands</a></h2><p>Partner since <strong>February 2019</strong></p><p>Palma, Illes Balears - Spain</p>"
+        "popupContent": "<h2><a href=\"http://loc.gov\">Library of Congress</a></h2><p>Partner since <strong>February 2019</strong></p><p> Washington, , DC </p>"
       },
       "id": 8
     },
@@ -105,7 +105,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://www.colorado.edu\">University of Colorado Boulder</a></h2><p>Partner since <strong>February 2019</strong></p><p>Boudler, CO</p>"
+        "popupContent": "<h2><a href=\"https://www.uib.eu/\">University of the Balearic Islands</a></h2><p>Partner since <strong>February 2019</strong></p><p>Palma, Illes Balears - Spain</p>"
       },
       "id": 9
     },
@@ -117,7 +117,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://sites.tufts.edu/dca/\">Tufts University Digital Collections and Archives</a></h2><p>Partner since <strong>November 2018</strong></p><p>Medford, MA</p>"
+        "popupContent": "<h2><a href=\"https://www.colorado.edu\">University of Colorado Boulder</a></h2><p>Partner since <strong>February 2019</strong></p><p>Boudler, CO</p>"
       },
       "id": 10
     },
@@ -129,7 +129,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.unr.edu\">University of Nevada, Reno</a></h2><p>Partner since <strong>September 2018</strong></p><p>Reno, NV</p>"
+        "popupContent": "<h2><a href=\"https://sites.tufts.edu/dca/\">Tufts University Digital Collections and Archives</a></h2><p>Partner since <strong>November 2018</strong></p><p>Medford, MA</p>"
       },
       "id": 11
     },
@@ -141,7 +141,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.lib.utah.edu\">J. Willard Marriott Library, University of Utah</a></h2><p>Partner since <strong>August 2018</strong></p><p>Salt Lake City, UT</p>"
+        "popupContent": "<h2><a href=\"http://library.unr.edu\">University of Nevada, Reno</a></h2><p>Partner since <strong>September 2018</strong></p><p>Reno, NV</p>"
       },
       "id": 12
     },
@@ -153,7 +153,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.libs.uga.edu\">University of Georgia Libraries</a></h2><p>Partner since <strong>July 2018</strong></p><p>Athens, GA</p>"
+        "popupContent": "<h2><a href=\"http://www.lib.utah.edu\">J. Willard Marriott Library, University of Utah</a></h2><p>Partner since <strong>August 2018</strong></p><p>Salt Lake City, UT</p>"
       },
       "id": 13
     },
@@ -165,7 +165,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://www.unl.edu/\">University of Nebraska-Lincoln</a></h2><p>Partner since <strong>July 2018</strong></p><p>Lincoln, NE</p>"
+        "popupContent": "<h2><a href=\"http://www.libs.uga.edu\">University of Georgia Libraries</a></h2><p>Partner since <strong>July 2018</strong></p><p>Athens, GA</p>"
       },
       "id": 14
     },
@@ -177,7 +177,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://libraries.uky.edu\">University of Kentucky Libraries</a></h2><p>Partner since <strong>July 2018</strong></p><p>Lexington, KY</p>"
+        "popupContent": "<h2><a href=\"https://www.unl.edu/\">University of Nebraska-Lincoln</a></h2><p>Partner since <strong>July 2018</strong></p><p>Lincoln, NE</p>"
       },
       "id": 15
     },
@@ -189,7 +189,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://www.gardnermuseum.org\">Isabella Stewart Gardner Museum</a></h2><p>Partner since <strong>May 2018</strong></p><p>Boston, MA</p>"
+        "popupContent": "<h2><a href=\"http://libraries.uky.edu\">University of Kentucky Libraries</a></h2><p>Partner since <strong>July 2018</strong></p><p>Lexington, KY</p>"
       },
       "id": 16
     },
@@ -201,7 +201,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://www.bgsu.edu/library/special-collections-and-libraries.html\">Bowling Green State University Libraries</a></h2><p>Partner since <strong>March 2018</strong></p><p>Bowling Green, OH</p>"
+        "popupContent": "<h2><a href=\"https://www.gardnermuseum.org\">Isabella Stewart Gardner Museum</a></h2><p>Partner since <strong>May 2018</strong></p><p>Boston, MA</p>"
       },
       "id": 17
     },
@@ -213,7 +213,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.tamu.edu/\">Texas A&M University Libraries</a></h2><p>Partner since <strong>February 2018</strong></p><p>College Station, TX</p>"
+        "popupContent": "<h2><a href=\"https://www.bgsu.edu/library/special-collections-and-libraries.html\">Bowling Green State University Libraries</a></h2><p>Partner since <strong>March 2018</strong></p><p>Bowling Green, OH</p>"
       },
       "id": 18
     },
@@ -225,7 +225,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.wrlc.org\">Washington Research Library Consortium</a></h2><p>Partner since <strong>February 2018</strong></p><p>Upper Marlboro, MD</p>"
+        "popupContent": "<h2><a href=\"http://library.tamu.edu/\">Texas A&M University Libraries</a></h2><p>Partner since <strong>February 2018</strong></p><p>College Station, TX</p>"
       },
       "id": 19
     },
@@ -237,7 +237,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.dpconline.org\">Digital Preservation Coalition</a></h2><p>Partner since <strong>February 2018</strong></p><p>Glasgow, Scotland</p>"
+        "popupContent": "<h2><a href=\"http://www.wrlc.org\">Washington Research Library Consortium</a></h2><p>Partner since <strong>February 2018</strong></p><p>Upper Marlboro, MD</p>"
       },
       "id": 20
     },
@@ -249,7 +249,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://www.haverford.edu/\">Haverford College</a></h2><p>Partner since <strong>January 2018</strong></p><p>Haverford, PA</p>"
+        "popupContent": "<h2><a href=\"http://www.dpconline.org\">Digital Preservation Coalition</a></h2><p>Partner since <strong>February 2018</strong></p><p>Glasgow, Scotland</p>"
       },
       "id": 21
     },
@@ -261,7 +261,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.mosthistory.org\">The Museum of South Texas History</a></h2><p>Partner since <strong>November 2017</strong></p><p>Edinburg, TX</p>"
+        "popupContent": "<h2><a href=\"https://www.haverford.edu/\">Haverford College</a></h2><p>Partner since <strong>January 2018</strong></p><p>Haverford, PA</p>"
       },
       "id": 22
     },
@@ -273,7 +273,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://www.tdl.org/\">Texas Digital Library</a></h2><p>Partner since <strong>October 2017</strong></p><p>Austin, TX</p>"
+        "popupContent": "<h2><a href=\"http://www.mosthistory.org\">The Museum of South Texas History</a></h2><p>Partner since <strong>November 2017</strong></p><p>Edinburg, TX</p>"
       },
       "id": 23
     },
@@ -285,7 +285,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://library.nd.edu/\">Hesburgh Libraries at the University of Notre Dame</a></h2><p>Partner since <strong>September 2017</strong></p><p>Notre Dame, IN</p>"
+        "popupContent": "<h2><a href=\"https://www.tdl.org/\">Texas Digital Library</a></h2><p>Partner since <strong>October 2017</strong></p><p>Austin, TX</p>"
       },
       "id": 24
     },
@@ -297,7 +297,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.whitehousehistory.org\">White House Historical Association</a></h2><p>Partner since <strong>September 2017</strong></p><p>Washington, DC</p>"
+        "popupContent": "<h2><a href=\"https://library.nd.edu/\">Hesburgh Libraries at the University of Notre Dame</a></h2><p>Partner since <strong>September 2017</strong></p><p>Notre Dame, IN</p>"
       },
       "id": 25
     },
@@ -309,7 +309,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://library.osu.edu/\">The Ohio State University Libraries</a></h2><p>Partner since <strong>August 2017</strong></p><p>Columbus, OH</p>"
+        "popupContent": "<h2><a href=\"http://www.whitehousehistory.org\">White House Historical Association</a></h2><p>Partner since <strong>September 2017</strong></p><p>Washington, DC</p>"
       },
       "id": 26
     },
@@ -321,7 +321,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://libraries.psu.edu/\">Penn State University Libraries</a></h2><p>Partner since <strong>July 2017</strong></p><p>State College, PA</p>"
+        "popupContent": "<h2><a href=\"https://library.osu.edu/\">The Ohio State University Libraries</a></h2><p>Partner since <strong>August 2017</strong></p><p>Columbus, OH</p>"
       },
       "id": 27
     },
@@ -333,7 +333,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://www.facebook.com/wsustudentndsa/\">Wayne State University Student Chapter</a></h2><p>Partner since <strong>July 2017</strong></p><p>Detroit , MI</p>"
+        "popupContent": "<h2><a href=\"https://libraries.psu.edu/\">Penn State University Libraries</a></h2><p>Partner since <strong>July 2017</strong></p><p>State College, PA</p>"
       },
       "id": 28
     },
@@ -345,7 +345,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://mediaburn.org\">Media Burn Archive</a></h2><p>Partner since <strong>July 2017</strong></p><p>Chicago, IL</p>"
+        "popupContent": "<h2><a href=\"https://www.facebook.com/wsustudentndsa/\">Wayne State University Student Chapter</a></h2><p>Partner since <strong>July 2017</strong></p><p>Detroit , MI</p>"
       },
       "id": 29
     },
@@ -357,7 +357,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://Drexel.edu/library\">Drexel University Libraries</a></h2><p>Partner since <strong>June 2017</strong></p><p>Philadelphia, PA</p>"
+        "popupContent": "<h2><a href=\"http://mediaburn.org\">Media Burn Archive</a></h2><p>Partner since <strong>July 2017</strong></p><p>Chicago, IL</p>"
       },
       "id": 30
     },
@@ -369,7 +369,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.bc.edu\">Boston College</a></h2><p>Partner since <strong>June 2017</strong></p><p>Chestnut Hill, MA</p>"
+        "popupContent": "<h2><a href=\"http://Drexel.edu/library\">Drexel University Libraries</a></h2><p>Partner since <strong>June 2017</strong></p><p>Philadelphia, PA</p>"
       },
       "id": 31
     },
@@ -381,7 +381,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.coppul.ca/\">Council of Prairie and Pacific University Libraries (COPPUL)</a></h2><p>Partner since <strong>May 2017</strong></p><p>Vancouver, British Columbia, CANADA</p>"
+        "popupContent": "<h2><a href=\"http://www.bc.edu\">Boston College</a></h2><p>Partner since <strong>June 2017</strong></p><p>Chestnut Hill, MA</p>"
       },
       "id": 32
     },
@@ -393,7 +393,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://www.gvsu.edu/library/\">Grand Valley State University Libraries</a></h2><p>Partner since <strong>May 2017</strong></p><p>Allendale, MI</p>"
+        "popupContent": "<h2><a href=\"http://www.coppul.ca/\">Council of Prairie and Pacific University Libraries (COPPUL)</a></h2><p>Partner since <strong>May 2017</strong></p><p>Vancouver, British Columbia, CANADA</p>"
       },
       "id": 33
     },
@@ -405,7 +405,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://cdsc.libraries.wsu.edu/\">Center for Digital Scholarship and Curation</a></h2><p>Partner since <strong>April 2017</strong></p><p>Pullman, WA</p>"
+        "popupContent": "<h2><a href=\"https://www.gvsu.edu/library/\">Grand Valley State University Libraries</a></h2><p>Partner since <strong>May 2017</strong></p><p>Allendale, MI</p>"
       },
       "id": 34
     },
@@ -417,7 +417,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://codeocean.com\">Code Ocean</a></h2><p>Partner since <strong>March 2017</strong></p><p>New York, NY</p>"
+        "popupContent": "<h2><a href=\"https://cdsc.libraries.wsu.edu/\">Center for Digital Scholarship and Curation</a></h2><p>Partner since <strong>April 2017</strong></p><p>Pullman, WA</p>"
       },
       "id": 35
     },
@@ -429,7 +429,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.heinzhistorycenter.org\">Heinz History Center</a></h2><p>Partner since <strong>March 2017</strong></p><p>Pittsburgh, PA</p>"
+        "popupContent": "<h2><a href=\"https://codeocean.com\">Code Ocean</a></h2><p>Partner since <strong>March 2017</strong></p><p>New York, NY</p>"
       },
       "id": 36
     },
@@ -441,7 +441,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.library.arizona.edu\">The University of Arizona Libraries</a></h2><p>Partner since <strong>January 2017</strong></p><p>Tucson, AZ</p>"
+        "popupContent": "<h2><a href=\"http://www.heinzhistorycenter.org\">Heinz History Center</a></h2><p>Partner since <strong>March 2017</strong></p><p>Pittsburgh, PA</p>"
       },
       "id": 37
     },
@@ -453,7 +453,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.komodocloud.com\">Komodo Cloud</a></h2><p>Partner since <strong>August 2016</strong></p><p>Rolling Hills Estates, CA</p>"
+        "popupContent": "<h2><a href=\"http://www.library.arizona.edu\">The University of Arizona Libraries</a></h2><p>Partner since <strong>January 2017</strong></p><p>Tucson, AZ</p>"
       },
       "id": 38
     },
@@ -465,7 +465,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://aptrust.org\">Academic Preservation Trust (APTrust)</a></h2><p>Partner since <strong>June 2016</strong></p><p>Charlottesville, VA</p>"
+        "popupContent": "<h2><a href=\"http://www.komodocloud.com\">Komodo Cloud</a></h2><p>Partner since <strong>August 2016</strong></p><p>Rolling Hills Estates, CA</p>"
       },
       "id": 39
     },
@@ -477,7 +477,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://info.lib.uh.edu/\">University of Houston Libraries</a></h2><p>Partner since <strong>May 2016</strong></p><p>Houston, TX</p>"
+        "popupContent": "<h2><a href=\"http://aptrust.org\">Academic Preservation Trust (APTrust)</a></h2><p>Partner since <strong>June 2016</strong></p><p>Charlottesville, VA</p>"
       },
       "id": 40
     },
@@ -489,7 +489,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.ohiolink.edu\">OhioLINK</a></h2><p>Partner since <strong>April 2016</strong></p><p>Columbus, OH</p>"
+        "popupContent": "<h2><a href=\"http://info.lib.uh.edu/\">University of Houston Libraries</a></h2><p>Partner since <strong>May 2016</strong></p><p>Houston, TX</p>"
       },
       "id": 41
     },
@@ -501,7 +501,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.vcfed.org\">Vintage Computer Federation</a></h2><p>Partner since <strong>April 2016</strong></p><p>Eatontown, NJ</p>"
+        "popupContent": "<h2><a href=\"http://www.ohiolink.edu\">OhioLINK</a></h2><p>Partner since <strong>April 2016</strong></p><p>Columbus, OH</p>"
       },
       "id": 42
     },
@@ -513,7 +513,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.purchase.edu/departments/library\">Purchase College Library</a></h2><p>Partner since <strong>April 2016</strong></p><p>Purchase, NY</p>"
+        "popupContent": "<h2><a href=\"http://www.vcfed.org\">Vintage Computer Federation</a></h2><p>Partner since <strong>April 2016</strong></p><p>Eatontown, NJ</p>"
       },
       "id": 43
     },
@@ -525,7 +525,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.gatesarchive.com \">Gates Archive</a></h2><p>Partner since <strong>April 2016</strong></p><p>Redmond, WA</p>"
+        "popupContent": "<h2><a href=\"http://www.purchase.edu/departments/library\">Purchase College Library</a></h2><p>Partner since <strong>April 2016</strong></p><p>Purchase, NY</p>"
       },
       "id": 44
     },
@@ -537,7 +537,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.digitalbedrock.com\">Digital Bedrock</a></h2><p>Partner since <strong>March 2016</strong></p><p>Santa Monica, CA</p>"
+        "popupContent": "<h2><a href=\"http://www.gatesarchive.com \">Gates Archive</a></h2><p>Partner since <strong>April 2016</strong></p><p>Redmond, WA</p>"
       },
       "id": 45
     },
@@ -549,7 +549,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.brynmawr.edu\">Bryn Mawr College</a></h2><p>Partner since <strong>February 2016</strong></p><p>Bryn Mawr, PA</p>"
+        "popupContent": "<h2><a href=\"http://www.digitalbedrock.com\">Digital Bedrock</a></h2><p>Partner since <strong>March 2016</strong></p><p>Santa Monica, CA</p>"
       },
       "id": 46
     },
