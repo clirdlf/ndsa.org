@@ -4,7 +4,7 @@ FEED_URL = 'https://www.diglib.org/category/ndsa/feed/'
 
 Dotenv.load
 
-task default: %w(geocode:empty convert:all import:rss)
+task default: %w(convert:all import:rss)
 
 namespace :import do
   desc "Import NDSA feed"
@@ -54,7 +54,7 @@ end
 
 namespace :convert do
   desc 'Run all conversions (for map and membership list)'
-  task :all => [:table_data, :members_map, :checksums]
+  task :all => [:table_data, :checksums]
 
   desc 'Create checksums for the documents directory'
   task :checksums do
