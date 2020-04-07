@@ -54,7 +54,7 @@ end
 
 namespace :convert do
   desc 'Run all conversions (for map and membership list)'
-  task :all => [:table_data, :checksums]
+  task :all => [:table_data, :members_map, :checksums]
 
   desc 'Create checksums for the documents directory'
   task :checksums do
