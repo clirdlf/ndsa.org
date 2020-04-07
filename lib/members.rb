@@ -23,12 +23,12 @@ module Members
   end
 
   def self.json_header
-    <<-YAML
-    ---
-    layout: null
-    permalink: /data/members.json
-    ---
-    YAML
+  <<-YAML
+  ---
+  layout: null
+  permalink: /data/members.json
+  ---
+  YAML
   end
 
   def self.feature(row, id)
