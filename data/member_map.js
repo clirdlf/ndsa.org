@@ -17,7 +17,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [, ]
+        "coordinates": [-84.1916069, 39.7589478]
       },
       "type": "Feature",
       "properties": {
@@ -29,7 +29,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [, ]
+        "coordinates": [-82.8364111, 34.6850749]
       },
       "type": "Feature",
       "properties": {
@@ -41,7 +41,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [, ]
+        "coordinates": [-87.6244212, 41.8755616]
       },
       "type": "Feature",
       "properties": {
