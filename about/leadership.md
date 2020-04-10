@@ -334,3 +334,14 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Trevor Owens" src="{{ '/images/coordinating-committee/trow-fullsize.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Aliya Reich</h3>
+        <p>Aliya Reich (CLIR/DLF representative) is CLIR/DLF’s Program Manager for Conferences and Events, where she leads the planning team that puts on the DLF Forum and its affiliated events, including support for NDSA’s Digital Preservation conference. She also works closely with IIIF, another CLIR affiliate, and their event management team. Aliya’s academic background is in art history and museums, and she’s held positions at Historic Annapolis, the Phillips Collection, the National Building Museum, the Walters Art Museum, and the National Gallery of Art. In her spare time she coaches running with Charm City Run, leads Pacing for Parkinson’s, a charity running team at the Baltimore Running Festival, and is a Big Sister through Big Brothers Big Sisters at the Y of Central Maryland. She earned her MA in Art History at Washington University in St. Louis and her BA in Art History and French from the University of Virginia.
+
+ </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Aliya Reich" src="{{ '/images/coordinating-committee/Reich2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
