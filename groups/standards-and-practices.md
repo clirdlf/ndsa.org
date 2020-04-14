@@ -5,15 +5,18 @@ permalink: /groups/standards-and-practices/
 redirect_from: /working-groups/standards-and-practices/
 ---
 
-**Standards and Practices Interest Group Co-Chairs**: Felicity Dykas, University of Missouri Libraries - dykasf [at] missouri [dot] edu; Aaron Collie, Federal Reserve Bank of St. Louis - aaron [dot] collie [at] stls [dot] frb[dot] org
-
-*Take me to the [Standards and Practices Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-STANDARDS)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, please contact the coordinators.*
+**Standards and Practices Interest Group Co-Chairs**: Felicity Dykas, University of Missouri Libraries - dykasf [at] missouri [dot] edu; Linda Reynolds, Stephen F. Austin State University - lreynolds [at] sfasu [dot] edu
 
 The Standards and Practices Interest Group works to facilitate a broad understanding of the role and benefit of standards in digital preservation and how to use them effectively to ensure durable and usable collections.
 
 In addition, the Interest Group seeks to identify, promote and widely disseminate practices found to be effective for selecting, organizing, describing, managing, preserving and serving digital content, in collaboration with other individuals and organizations where appropriate.
 
-Smaller working groups frequently emerge from the Standards and Practices Interest Group. Current activities include:
+Smaller working groups frequently emerge from the Standards and Practices Interest Group. 
+
+*Take me to the [Standards and Practices Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-STANDARDS)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, please contact the coordinators.*
+
+
+<!--Current activities include:
 
 - Conducting a survey to identify biggest challenges related to preserving video and creating action plans to address the survey results
 - Initiating an Email Preservation Interest Group to discuss issues, projects and workflows to preserve email
@@ -38,3 +41,4 @@ A [report](/documents/NDSA_PDF_A3_report_final022014.pdf) (pdf) created by the S
 ### Report: "Staffing for Effective Digital Preservation"
 
 A [report](/documents/NDSA-Staffing-Survey-Report-Final122013.pdf) (pdf) created by the Standards and Practices Interest Group, sharing what the group learned by surveying 85 institutions with a mandate to preserve digital content about how they staffed and organized their preservation functions. More information in a [12/16/13 blog post](http://blogs.loc.gov/digitalpreservation/2013/12/just-released-staffing-for-effective-digital-preservation-an-ndsa-report/) on the Signal.
+-->
