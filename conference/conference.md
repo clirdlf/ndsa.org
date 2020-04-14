@@ -7,7 +7,7 @@ redirect_from: /meetings/
 
 ### **November 11-12, 2020 in Baltimore, Maryland**
 
-<img alt="meetings" width="710" height="347" src='{{ "/images/FINAL DLF-Forum-2020_Baltimore v2-01.png" | prepend: site.baseurl }}'>
+<img alt="meetings" width="710" height="347" src='{{ "/images/DigiPres-2020.jpg" | prepend: site.baseurl }}'>
 
 ## [**2020 Call for Proposals is now live!**](https://ndsa.org/conference/digital-preservation-2020/cfp/)
 We are delighted to share the Call for Proposals for our 2020 event, **Get Active with Digital Preservation**. See it **[HERE](https://ndsa.org/conference/digital-preservation-2020/cfp/)** and submit your proposal by the deadline, **Monday, May 11, at 11:59pm Eastern Time.**
