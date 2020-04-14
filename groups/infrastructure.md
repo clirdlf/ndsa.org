@@ -6,9 +6,9 @@ redirect_from: /working-groups/infrastructure/
 ---
 **Infrastructure Interest Group Co-Chairs**: Leah Prescott - lp627 [at] georgetown [dot] edu and Matt Schultz - matt [at] educopia [dot] org 
 
-*Take me to the [Infrastructure Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-INFRASTRUCTURE)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, please contact the coordinators.*
+The Infrastructure Interest Group works to identify and share emerging practices around the development and maintenance of tools and systems for the curation, preservation, storage, hosting, migration, and similar activities supporting the long term preservation of digital content. Cloud storage and computing platforms are given special focus given their trends.
 
-The Infrastructure Interest Group works to identify and share emerging practices around the development and maintenance of tools and systems for the curation, preservation, storage, hosting, migration, and similar activities supporting the long term preservation of digital content.
+*Take me to the [Infrastructure Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-INFRASTRUCTURE)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, please contact the coordinators.*
 
 ## Meetings
   * The Infrastructure Interest Group meets the third Monday of each month at three pm. 
