@@ -14,9 +14,13 @@ The Content Interest Group will intentionally engage the priorities and importan
 
 ## Meetings
   * The Content Interest Group meets the first Wednesday of each month at 11am EST.
-  * You can join us online at [https://clirdlf.zoom.us/j/914204392](https://clirdlf.zoom.us/j/914204392) or via phone at US: +1 646 876 9923 or +1 669 900 6833 or +1 408 740 3766. Meeting ID: 914 204 392. [International numbers available](https://zoom.us/u/et3FAxDfy).
+  * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/1CTacIgWFuBRlYUS7ZDxdtp174Vcd8g5f2RiRVR8hhVk/edit). 
+  
   <!--* Agendas and notes for/from meetings held in 2020 are available at <!-- [https://bit.ly/30XnNWs](https://bit.ly/30XnNWs). <!--Our scheduled topics for 2020 are noted below.-->
   <!--* Meetings are generally recorded and posted to our YouTube Playlist at [https://bit.ly/2QRIMmO](https://bit.ly/2QRIMmO).-->
+
+
+  
 
 <!--
 **See below for information on the Web Archiving Survey working group.**
