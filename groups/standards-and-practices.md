@@ -15,7 +15,10 @@ Smaller working groups frequently emerge from the Standards and Practices Intere
 
 *Take me to the [Standards and Practices Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-STANDARDS)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, please contact the coordinators.*
 
-
+## Meetings
+  * The Standards and Practices Interest Group meets the second Monday of each month at 1pm EST.
+  * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/1fuoOb1vWGAfS-iHy5kB24tkHztMVKDIcnj71jpYeylk/edit). 
+ 
 <!--Current activities include:
 
 - Conducting a survey to identify biggest challenges related to preserving video and creating action plans to address the survey results
