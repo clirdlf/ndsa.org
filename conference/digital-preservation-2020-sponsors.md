@@ -17,4 +17,4 @@ redirect_from: /digital-preservation-2020-sponsors/
 
 
 ## **Adamantium**
-[<img src="JHU" width="250" src='{{ "/images/sponsors/sheridan-museums.logo.small.horizontal.blue.jpg"}}'>](https://www.library.jhu.edu/)
+[<img alt="Johns Hopkins University Sheridan Libraries" width="250" src='{{ "/images/sponsors/sheridan-museums.logo.small.horizontal.blue.jpg"}}'>](https://www.library.jhu.edu/)
