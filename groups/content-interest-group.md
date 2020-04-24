@@ -18,7 +18,7 @@ The Content Interest Group will intentionally engage the priorities and importan
 
 
 ## Activities
-The Content Interest Group has spun up the Web Archiving Survey Working Group multiple times over the years in an effort to establish a longitudinal review of web archiving practices.  The results of and reports produced from this work can be found on the [Web Archiving Survey] (https://osf.io/4ytb2/) Project page in OSF, including reports from 2011, 2013, 2016, and 2017.
+The Content Interest Group has spun up the Web Archiving Survey Working Group multiple times over the years in an effort to establish a longitudinal review of web archiving practices.  The results of and reports produced from this work can be found on the [Web Archiving Survey](https://osf.io/4ytb2/) Project page in OSF, including reports from 2011, 2013, 2016, and 2017.
 
  
   
