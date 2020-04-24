@@ -15,6 +15,12 @@ The Content Interest Group will intentionally engage the priorities and importan
 ## Meetings
   * The Content Interest Group meets the first Wednesday of each month at 11am EST.
   * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/1CTacIgWFuBRlYUS7ZDxdtp174Vcd8g5f2RiRVR8hhVk/edit). 
+
+
+## Activities
+The Content Interest Group has spun up the Web Archiving Survey Working Group multiple times over the years in an effort to establish a longitudinal review of web archiving practices.  The results of and reports produced from this work can be found on the [Web Archiving Survey] (https://osf.io/4ytb2/) Project page in OSF, including reports from 2011, 2013, 2016, and 2017.
+
+ 
   
   <!--* Agendas and notes for/from meetings held in 2020 are available at <!-- [https://bit.ly/30XnNWs](https://bit.ly/30XnNWs). <!--Our scheduled topics for 2020 are noted below.-->
   <!--* Meetings are generally recorded and posted to our YouTube Playlist at [https://bit.ly/2QRIMmO](https://bit.ly/2QRIMmO).-->
