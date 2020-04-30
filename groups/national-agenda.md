@@ -1,8 +1,10 @@
 ---
-title: National Agenda Working Group
+title: NDSA Agenda Working Group
 layout: page
-permalink: /groups/national-agenda/
-redirect_from: /national-agenda/
+permalink: /groups/NDSA-agenda/
+redirect_from: 
+  - /national-agenda/
+  - /groups/national-agenda/
 ---
 
 ### 2020 Update
