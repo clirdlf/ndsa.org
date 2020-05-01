@@ -5,7 +5,7 @@ permalink: /conference/digital-preservation-2020/cfp/
 redirect_from: /digital-preservation-2020-cfp/
 ---
 
-<img alt="2020 All Events Combo Banner" width="710" height="347" src='{{ "/images/Combo-Banner-2020-DHC.jpg" | prepend: site.baseurl }}'>
+<img alt="meetings" width="710" height="235" src='{{ "/images/DigiPres-2020.jpg" | prepend: site.baseurl }}'>
 
 ### **The National Digital Stewardship Alliance ([NDSA](http://ndsa.diglib.org/)) invites proposals for [Digital Preservation 2020: Get Active with Digital Preservation](https://ndsa.org/meetings/) to be held in Baltimore, Maryland, November 11-12, 2020.**
 
