@@ -7,7 +7,7 @@ redirect_from: /meetings/
 
 ### **November 11-12, 2020 in Baltimore, Maryland**
 
-<img alt="meetings" width="710" height="347" src='{{ "/images/DigiPres-2020.jpg" | prepend: site.baseurl }}'>
+<img alt="meetings" width="710" height="235" src='{{ "/images/DigiPres-2020.jpg" | prepend: site.baseurl }}'>
 
 ## [**2020 Call for Proposals is now live!**](https://ndsa.org/conference/digital-preservation-2020/cfp/)
 We are delighted to share the Call for Proposals for our 2020 event, **Get Active with Digital Preservation**. See it **[HERE](https://ndsa.org/conference/digital-preservation-2020/cfp/)** and submit your proposal by the deadline, **Monday, May 11, at 11:59pm Eastern Time.**
@@ -48,7 +48,8 @@ Thank you to our wonderful planning committee!
 -   **David Cirella**, Yale University Library
 -   **Greg Colati**, University of Connecticut
 -   **Stefan Elnabli**, UCSD Libraries
--   **Elizabeth England**, Johns Hopkins University
+-   **Elizabeth England**, US National Archives and Records Administration
+-   **Siobhan Hagan**, DC Public Library
 -   **Deirdre Joyce**, Syracuse University
 -   **Julia Kim**, Library of Congress
 -   **Alex Kinnaman**, Virginia Tech University Libraries
