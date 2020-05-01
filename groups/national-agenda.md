@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### 2020 Update
-The NDSA Agenda working group is in the process of completing the 2020 NDSA Agenda publicaion.  For questions, contact the working group chair Bradley Daigle at bradley [at] virginia [dot] edu.
+The NDSA Agenda working group completed the [2020 NDSA Agenda](https://osf.io/bcetd/) in April of 2020.  For questions, contact the working group chair Bradley Daigle at bradley [at] virginia [dot] edu.
 
 
 ### About the Agenda
