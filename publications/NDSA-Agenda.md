@@ -12,6 +12,6 @@ The NDSA Agenda is a comprehensive overview of the state of global  digital pres
 
 ### Publications
 All of the NDSA Agendas are linked below and can be found on the [NDSA Agenda OSF page](https://osf.io/3a7zn/).
-* 2020 Agenda (coming soon)
+* [2020](https://osf.io/bcetd/) Agenda
 * [2015](https://osf.io/23vph/) Agenda and Executive Summary
 * [2014](https://osf.io/4qsyb/) Agenda and Executive Summary
