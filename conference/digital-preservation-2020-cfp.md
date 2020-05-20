@@ -5,7 +5,7 @@ permalink: /conference/digital-preservation-2020/cfp/
 redirect_from: /digital-preservation-2020-cfp/
 ---
 
-<img alt="meetings" width="710" height="235" src='{{ "/images/DigiPres-2020.jpg" | prepend: site.baseurl }}'>
+<img alt="meetings" width="710" height="235" src='{{ "/images/DigiPres-2020-ONLINE.jpg" | prepend: site.baseurl }}'>
 
 ### **The Digital Preservation 2020 Call for Proposals closed May 11, 2020. You can see the text of the CFP below.**
 
