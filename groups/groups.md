@@ -5,18 +5,13 @@
  redirect_from: /working-groups/
 ---
 
-<p>The NDSA has established <strong>Interest Groups</strong> focusing on broad areas of digital preservation, out of which smaller <strong>Working Groups</strong> often emerge. All NDSA member organizations commit to providing participants for one or more
-    groups. Questions about which group you should join? Chat with the Interest Group chairs, or send an email to <a href="mailto:ndsa@diglib.org">ndsa@diglib.org</a>.</p>
+<p>The NDSA has established <strong>Interest Groups</strong> focusing on broad areas of digital preservation, out of which smaller <strong>Working Groups</strong> often emerge. All NDSA member organizations commit to providing participants for one or more groups. Questions about which group you should join? Chat with the Interest Group chairs, or send an email to <a href="mailto:ndsa.digipres@gmail.com">ndsa.digipres@gmail.com</a>.</p>
 
 <h3>Group Formation</h3>
-<p>NDSA participants may form Interest Groups (IGs) and Working Groups (WGs) at will, in order to discuss mutual interests, and advance joint projects. </p>
+<p>NDSA participants may form Interest Groups (IGs) and Working Groups (WGs) at will, in order to discuss mutual interests, and advance joint projects. <a style="font-weight:bold" href="/groups/formation/">Details</a> on the process for forming a new group, group requirements and expectations are provided by the NDSA Leadership team.</p>
 
-<p>This process is self-organizing and light-weight. NDSA requires only that groups must be documented publicly, be open to participation, be transparent in discussion and outputs, have a designated Facilitator, and garner the involvement of at least three
-    individual participants from different NDSA organizations. Interest Groups will remain the gateway for new members into NDSA activities. WGs and IGs are encouraged and authorized to share news, events, calls for comments, and draft outputs (with appropriate
-    NDSA branding and WG attribution) through the NDSA mailing lists and social media channels. Please contact the NDSA Host Organization at the <a href="https://www.diglib.org">Digital Library Federation</a> if you would like to form a new group:
-    <a
-        href="mailto:ndsa@diglib.org">ndsa@diglib.org</a>
-</p>
+<!--<p>This process is self-organizing and light-weight. NDSA requires only that groups must be documented publicly, be open to participation, be transparent in discussion and outputs, have a designated Facilitator, and garner the involvement of at least three individual participants from different NDSA organizations. Interest Groups will remain the gateway for new members into NDSA activities. WGs and IGs are encouraged and authorized to share news, events, calls for comments, and draft outputs (with appropriate NDSA branding and WG attribution) through the NDSA mailing lists and social media channels. Details on group requirements and formation process can Please contact the NDSA Leadership team if you would like to form a new group:<a href="mailto:ndsa.digipres@gmail.com">ndsa.digipres@gmail.com</a>
+</p>-->
 
 <h3>Interest Groups</h3>
 
@@ -79,3 +74,4 @@
     resources. The group worked to support the release of the 2014 National Agenda for Digital Stewardship, published the Digital Preservation in a Box outreach toolkit, supported regional NDSA meetings, and developed tools to make it easier for partners
     to share information about their work. The work done by this Interest Group is being done by other Working Groups and the NDSA Leadership Team. Please contact the <a href="http://ndsa.org/leadership/">Leadership Team</a> with ideas and suggestions.</p>
  
+<font size="1">[page last updated: June 2020]</font>
