@@ -7,7 +7,7 @@
 
 <p>The NDSA has established <strong>Interest Groups</strong> focusing on broad areas of digital preservation, out of which smaller <strong>Working Groups</strong> often emerge. All NDSA member organizations commit to providing participants for one or more groups. Questions about which group you should join? Chat with the Interest Group chairs, or send an email to <a href="mailto:ndsa.digipres@gmail.com">ndsa.digipres@gmail.com</a>.</p>
 <h3>Getting Involved</h3>
-<p>Anyone from an NDSA member organization is welcome to join one or more groups.  Opportunities are also available to help lead Interest Group and Working group activities.  For more information on the responsibilities and expectations of a co-chair review the <a href="/groups/co-chairing/">Co-Chairing an NDSA Group</a> page.</p>  
+<p>Anyone from an NDSA member organization is welcome to join one or more groups.  Opportunities are also available to help lead Interest Group and Working group activities.  For more information on the responsibilities and expectations of a co-chair review the <a style="font-weight:bold" href="/groups/co-chairing/">Co-Chairing an NDSA Group</a> page.</p>  
 <h3>Group Formation</h3>
 <p>NDSA participants may form Interest Groups (IGs) and Working Groups (WGs) at will, in order to discuss mutual interests, and advance joint projects. <a style="font-weight:bold" href="/groups/formation/">Details</a> on the process for forming a new group, group requirements and expectations are provided by the NDSA Leadership team.</p>
 
