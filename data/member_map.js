@@ -5,7 +5,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.2728639, 37.8708393]
+        "coordinates": [-122.259539, 37.872395]
       },
       "type": "Feature",
       "properties": {
@@ -17,7 +17,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.407723, 41.825872]
+        "coordinates": [-71.407683, 41.826054]
       },
       "type": "Feature",
       "properties": {
@@ -29,7 +29,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.179109, 39.742562]
+        "coordinates": [-84.179976, 39.73974]
       },
       "type": "Feature",
       "properties": {
@@ -41,7 +41,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.836769, 34.673914]
+        "coordinates": [-82.836546, 34.677019]
       },
       "type": "Feature",
       "properties": {
@@ -53,7 +53,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-87.627027, 41.834985]
+        "coordinates": [-87.628296, 41.834214]
       },
       "type": "Feature",
       "properties": {
@@ -65,7 +65,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.278629, 25.721266]
+        "coordinates": [-80.278725, 25.721411]
       },
       "type": "Feature",
       "properties": {
@@ -77,7 +77,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.23500898, 25.6905515]
+        "coordinates": [-76.481245, 42.443559]
       },
       "type": "Feature",
       "properties": {
@@ -89,7 +89,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.5124602, 39.1014537]
+        "coordinates": [-80.192048, 25.774809]
       },
       "type": "Feature",
       "properties": {
@@ -101,7 +101,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.2495231, 41.8084314]
+        "coordinates": [-84.383839, 33.755493]
       },
       "type": "Feature",
       "properties": {
@@ -113,7 +113,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.3300624, 47.6038321]
+        "coordinates": [-72.251783, 41.806863]
       },
       "type": "Feature",
       "properties": {
@@ -125,7 +125,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-85.759407, 38.2542376]
+        "coordinates": [-95.561507, 29.796939]
       },
       "type": "Feature",
       "properties": {
@@ -137,7 +137,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-85.760302, 38.217119]
       },
       "type": "Feature",
       "properties": {
@@ -149,7 +149,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [2.6500745, 39.5695818]
+        "coordinates": [-77.004735, 38.887104]
       },
       "type": "Feature",
       "properties": {
@@ -161,7 +161,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [6.3542075, 49.7225215]
+        "coordinates": [2.646428, 39.641205]
       },
       "type": "Feature",
       "properties": {
@@ -173,7 +173,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.1061639, 42.4184296]
+        "coordinates": [-105.270426, 40.009015]
       },
       "type": "Feature",
       "properties": {
@@ -185,7 +185,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.8136744, 39.52927]
+        "coordinates": [-71.118915, 42.4064]
       },
       "type": "Feature",
       "properties": {
@@ -197,7 +197,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.8904308, 40.7670126]
+        "coordinates": [-119.814768, 39.543638]
       },
       "type": "Feature",
       "properties": {
@@ -209,7 +209,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.376398, 33.9597677]
+        "coordinates": [-111.846268, 40.762762]
       },
       "type": "Feature",
       "properties": {
@@ -221,7 +221,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-96.667821, 40.8]
+        "coordinates": [-83.373737, 33.954329]
       },
       "type": "Feature",
       "properties": {
@@ -233,7 +233,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.4970393, 38.0464066]
+        "coordinates": [-96.700026, 40.81789]
       },
       "type": "Feature",
       "properties": {
@@ -245,7 +245,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.0582912, 42.3602534]
+        "coordinates": [-84.505729, 38.040896]
       },
       "type": "Feature",
       "properties": {
@@ -257,7 +257,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.6513229, 41.3747744]
+        "coordinates": [-71.098945, 42.338508]
       },
       "type": "Feature",
       "properties": {
@@ -269,7 +269,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-96.3271538, 30.6253463]
+        "coordinates": [-83.635086, 41.376753]
       },
       "type": "Feature",
       "properties": {
@@ -281,7 +281,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.7519753, 38.8165274]
+        "coordinates": [-96.338821, 30.617114]
       },
       "type": "Feature",
       "properties": {
@@ -293,7 +293,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.291158, 55.87306]
+        "coordinates": [-76.72875, 38.875199]
       },
       "type": "Feature",
       "properties": {
@@ -305,7 +305,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.3002556, 40.0139837]
+        "coordinates": [-4.291136, 55.873062]
       },
       "type": "Feature",
       "properties": {
@@ -317,7 +317,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-98.1624501, 26.3013982]
+        "coordinates": [-75.299639, 40.012147]
       },
       "type": "Feature",
       "properties": {
@@ -329,7 +329,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-97.7436995, 30.2711286]
+        "coordinates": [-98.161293, 26.303093]
       },
       "type": "Feature",
       "properties": {
@@ -341,7 +341,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-86.23822026, 41.70456775]
+        "coordinates": [-97.738186, 30.282898]
       },
       "type": "Feature",
       "properties": {
@@ -353,7 +353,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-86.234113, 41.70245]
       },
       "type": "Feature",
       "properties": {
@@ -365,7 +365,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.0007065, 39.9622601]
+        "coordinates": [-77.038237, 38.900074]
       },
       "type": "Feature",
       "properties": {
@@ -377,7 +377,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.015047, 39.99931]
+        "coordinates": [-83.015369, 39.999401]
       },
       "type": "Feature",
       "properties": {
@@ -389,7 +389,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.866125, 40.797772,]
+        "coordinates": [-77.866044, 40.798367]
       },
       "type": "Feature",
       "properties": {
@@ -401,7 +401,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-87.6244212, 41.8755616]
+        "coordinates": [-83.065126, 42.357056]
       },
       "type": "Feature",
       "properties": {
@@ -413,7 +413,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.1635262, 39.9527237]
+        "coordinates": [-87.651272, 41.898456]
       },
       "type": "Feature",
       "properties": {
@@ -425,7 +425,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.3481406, 42.5750869]
+        "coordinates": [-75.190571, 39.955691]
       },
       "type": "Feature",
       "properties": {
@@ -437,7 +437,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-123.1118379, 49.28845245]
+        "coordinates": [-71.170649, 42.334287]
       },
       "type": "Feature",
       "properties": {
@@ -449,7 +449,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-85.9536535, 42.9722455]
+        "coordinates": [-123.255051, 49.266824]
       },
       "type": "Feature",
       "properties": {
@@ -461,7 +461,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.173895, 46.7304268]
+        "coordinates": [-85.888674, 42.964033]
       },
       "type": "Feature",
       "properties": {
@@ -473,7 +473,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0060152, 40.7127281]
+        "coordinates": [-117.163648, 46.731483]
       },
       "type": "Feature",
       "properties": {
@@ -485,7 +485,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.9900861, 40.4416941]
+        "coordinates": [-73.990181, 40.756316]
       },
       "type": "Feature",
       "properties": {
@@ -497,7 +497,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-110.9262353, 32.2218917]
+        "coordinates": [-79.992034, 40.446949]
       },
       "type": "Feature",
       "properties": {
@@ -509,7 +509,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.3581284, 33.7877943]
+        "coordinates": [-110.94887, 32.231093]
       },
       "type": "Feature",
       "properties": {
@@ -521,7 +521,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.4766781, 38.029306]
+        "coordinates": [-118.372629, 33.771135]
       },
       "type": "Feature",
       "properties": {
@@ -533,7 +533,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-95.3676974, 29.7589382]
+        "coordinates": [-78.505777, 38.036406]
       },
       "type": "Feature",
       "properties": {
@@ -545,7 +545,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.0007065, 39.9622601]
+        "coordinates": [-95.34207, 29.721292]
       },
       "type": "Feature",
       "properties": {
@@ -557,7 +557,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0509725, 40.2962222]
+        "coordinates": [-83.039964, 40.000127]
       },
       "type": "Feature",
       "properties": {
@@ -569,7 +569,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.7145746, 41.0409305]
+        "coordinates": [-74.059379, 40.186104]
       },
       "type": "Feature",
       "properties": {
@@ -581,7 +581,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.1238767, 47.6694141]
+        "coordinates": [-73.696405, 41.039083]
       },
       "type": "Feature",
       "properties": {
@@ -593,7 +593,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.4965129, 34.0250724]
+        "coordinates": [-122.138845, 47.68467]
       },
       "type": "Feature",
       "properties": {
@@ -605,7 +605,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.31734069, 40.0238245]
+        "coordinates": [-118.242234, 34.061935]
       },
       "type": "Feature",
       "properties": {
@@ -617,7 +617,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.0832101, 37.3893889]
+        "coordinates": [-122.077253, 37.41469]
       },
       "type": "Feature",
       "properties": {
@@ -629,7 +629,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.32888594, 26.1482449]
+        "coordinates": [-80.273117, 26.190279]
       },
       "type": "Feature",
       "properties": {
@@ -641,7 +641,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.9900861, 40.4416941]
+        "coordinates": [-79.954156, 40.442775]
       },
       "type": "Feature",
       "properties": {
@@ -653,7 +653,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-76.994978, 38.879512]
       },
       "type": "Feature",
       "properties": {
@@ -665,7 +665,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.1627714, 32.7174209]
+        "coordinates": [-117.172069, 32.722036]
       },
       "type": "Feature",
       "properties": {
@@ -677,7 +677,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.200835, 43.61656]
+        "coordinates": [-116.214462, 43.620859]
       },
       "type": "Feature",
       "properties": {
@@ -689,7 +689,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.0582912, 42.3602534]
+        "coordinates": [-71.046213, 42.312959]
       },
       "type": "Feature",
       "properties": {
@@ -701,7 +701,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-157.7960716, 21.4055]
+        "coordinates": [-157.812342, 21.408461]
       },
       "type": "Feature",
       "properties": {
@@ -713,7 +713,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.4381069, 37.5289588]
+        "coordinates": [-77.453696, 37.548013]
       },
       "type": "Feature",
       "properties": {
@@ -725,7 +725,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.058426, 38.911686]
       },
       "type": "Feature",
       "properties": {
@@ -737,7 +737,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.8584684, 41.085652]
+        "coordinates": [-73.83515, 41.092049]
       },
       "type": "Feature",
       "properties": {
@@ -749,7 +749,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.1635262, 39.9527237]
+        "coordinates": [-75.20703, 40.076014]
       },
       "type": "Feature",
       "properties": {
@@ -761,7 +761,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.288666, 43.703622]
+        "coordinates": [-72.289605, 43.705978]
       },
       "type": "Feature",
       "properties": {
@@ -773,7 +773,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-93.1015026, 44.9504037]
+        "coordinates": [-93.162208, 44.97132]
       },
       "type": "Feature",
       "properties": {
@@ -785,7 +785,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.074867, 38.910235]
       },
       "type": "Feature",
       "properties": {
@@ -797,7 +797,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-97.7436995, 30.2711286]
+        "coordinates": [-97.738286, 30.274131]
       },
       "type": "Feature",
       "properties": {
@@ -809,7 +809,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.9250518, 41.3082138]
+        "coordinates": [-72.929055, 41.311476]
       },
       "type": "Feature",
       "properties": {
@@ -821,7 +821,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-96.5716694, 39.1836082]
+        "coordinates": [-96.580672, 39.190793]
       },
       "type": "Feature",
       "properties": {
@@ -833,7 +833,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.008527, 38.904455]
       },
       "type": "Feature",
       "properties": {
@@ -845,7 +845,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.75549721, 44.33712535]
+        "coordinates": [-72.754357, 44.336473]
       },
       "type": "Feature",
       "properties": {
@@ -857,7 +857,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-85.9536535, 42.9722455]
+        "coordinates": [-85.88871, 42.964239]
       },
       "type": "Feature",
       "properties": {
@@ -869,7 +869,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-86.3006485, 32.3669656]
+        "coordinates": [-86.300509, 32.375996]
       },
       "type": "Feature",
       "properties": {
@@ -881,7 +881,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.022902, 38.902883]
       },
       "type": "Feature",
       "properties": {
@@ -893,7 +893,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.9900861, 40.4416941]
+        "coordinates": [-79.943786, 40.441372]
       },
       "type": "Feature",
       "properties": {
@@ -905,7 +905,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.9900861, 40.4416941]
+        "coordinates": [-80.003425, 40.440094]
       },
       "type": "Feature",
       "properties": {
@@ -917,7 +917,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.1527573, 39.0840054]
+        "coordinates": [-77.148461, 39.087598]
       },
       "type": "Feature",
       "properties": {
@@ -929,7 +929,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.2433829, 40.1164205]
+        "coordinates": [-88.238712, 40.092546]
       },
       "type": "Feature",
       "properties": {
@@ -941,7 +941,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.62047464, 39.2847494]
+        "coordinates": [-76.621868, 39.309138]
       },
       "type": "Feature",
       "properties": {
@@ -953,7 +953,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.1635262, 39.9527237]
+        "coordinates": [-75.149929, 39.943301]
       },
       "type": "Feature",
       "properties": {
@@ -965,7 +965,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.7508289, 39.6852191]
+        "coordinates": [-75.752882, 39.6782]
       },
       "type": "Feature",
       "properties": {
@@ -977,7 +977,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.86054904, 40.738646]
+        "coordinates": [-74.657483, 40.351228]
       },
       "type": "Feature",
       "properties": {
@@ -989,7 +989,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-92.2895948, 34.7464809]
+        "coordinates": [-92.266574, 34.747518]
       },
       "type": "Feature",
       "properties": {
@@ -1001,7 +1001,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.2135472, 44.4762975]
+        "coordinates": [-73.213363, 44.476487]
       },
       "type": "Feature",
       "properties": {
@@ -1013,7 +1013,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.1916069, 39.7589478]
+        "coordinates": [-84.272836, 39.717317]
       },
       "type": "Feature",
       "properties": {
@@ -1025,7 +1025,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.62047464, 39.2847494]
+        "coordinates": [-76.617209, 39.294693]
       },
       "type": "Feature",
       "properties": {
@@ -1037,7 +1037,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.7258122, 33.5761376]
+        "coordinates": [-117.728117, 33.597239]
       },
       "type": "Feature",
       "properties": {
@@ -1049,7 +1049,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.9959133, 38.5017085]
+        "coordinates": [-123.003526, 38.517293]
       },
       "type": "Feature",
       "properties": {
@@ -1061,7 +1061,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-87.62452878, 41.70064135]
+        "coordinates": [-87.613331, 41.721358]
       },
       "type": "Feature",
       "properties": {
@@ -1073,7 +1073,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.036127, 38.904372]
       },
       "type": "Feature",
       "properties": {
@@ -1085,7 +1085,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.1444779, 34.1476452]
+        "coordinates": [-118.124888, 34.134523]
       },
       "type": "Feature",
       "properties": {
@@ -1097,7 +1097,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.0582912, 42.3602534]
+        "coordinates": [-71.107981, 42.351311]
       },
       "type": "Feature",
       "properties": {
@@ -1109,7 +1109,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-92.3337366, 38.951883]
+        "coordinates": [-92.326494, 38.944602]
       },
       "type": "Feature",
       "properties": {
@@ -1121,7 +1121,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0060152, 40.7127281]
+        "coordinates": [-73.99303, 40.748449]
       },
       "type": "Feature",
       "properties": {
@@ -1133,7 +1133,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-68.672791, 44.883607]
+        "coordinates": [-68.672375, 44.896512]
       },
       "type": "Feature",
       "properties": {
@@ -1145,7 +1145,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.7503647, 41.9294736]
+        "coordinates": [-88.766354, 41.934217]
       },
       "type": "Feature",
       "properties": {
@@ -1157,7 +1157,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.2035986, 42.712207]
+        "coordinates": [-73.198882, 42.715536]
       },
       "type": "Feature",
       "properties": {
@@ -1169,7 +1169,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.002833, 38.889621]
       },
       "type": "Feature",
       "properties": {
@@ -1181,7 +1181,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-97.7436995, 30.2711286]
+        "coordinates": [-97.73889, 30.287289]
       },
       "type": "Feature",
       "properties": {
@@ -1193,7 +1193,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.1056157, 42.3750997]
+        "coordinates": [-71.105519, 42.375155]
       },
       "type": "Feature",
       "properties": {
@@ -1205,7 +1205,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-87.6244212, 41.8755616]
+        "coordinates": [-87.622257, 41.885344]
       },
       "type": "Feature",
       "properties": {
@@ -1217,7 +1217,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.8300321, 35.824341]
+        "coordinates": [-78.815634, 35.8556]
       },
       "type": "Feature",
       "properties": {
@@ -1229,7 +1229,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-157.8556764, 21.304547]
+        "coordinates": [-157.783521, 21.266826]
       },
       "type": "Feature",
       "properties": {
@@ -1241,7 +1241,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.9447107, 34.2257282]
+        "coordinates": [-77.947327, 34.238938]
       },
       "type": "Feature",
       "properties": {
@@ -1253,7 +1253,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-105.3845843, 35.26548565]
+        "coordinates": [-105.361331, 35.266958]
       },
       "type": "Feature",
       "properties": {
@@ -1265,7 +1265,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.9900861, 40.4416941]
+        "coordinates": [-79.952712, 40.447675]
       },
       "type": "Feature",
       "properties": {
@@ -1277,7 +1277,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.043762, 38.90907]
       },
       "type": "Feature",
       "properties": {
@@ -1289,7 +1289,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-105.2705456, 40.0149856]
+        "coordinates": [-105.274952, 39.980552]
       },
       "type": "Feature",
       "properties": {
@@ -1301,7 +1301,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0060152, 40.7127281]
+        "coordinates": [-73.967122, 40.771673]
       },
       "type": "Feature",
       "properties": {
@@ -1313,7 +1313,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-101.8551665, 33.5778631]
+        "coordinates": [-101.875493, 33.579945]
       },
       "type": "Feature",
       "properties": {
@@ -1325,7 +1325,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.2713563, 37.8044557]
+        "coordinates": [-122.266053, 37.813563]
       },
       "type": "Feature",
       "properties": {
@@ -1337,7 +1337,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.4128343, 41.8239891]
+        "coordinates": [-71.400155, 41.827133]
       },
       "type": "Feature",
       "properties": {
@@ -1349,7 +1349,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.1056157, 42.3750997]
+        "coordinates": [-71.093171, 42.359359]
       },
       "type": "Feature",
       "properties": {
@@ -1361,7 +1361,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.6592958, 40.3492744]
+        "coordinates": [-74.666363, 40.346114]
       },
       "type": "Feature",
       "properties": {
@@ -1373,7 +1373,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-87.6244212, 41.8755616]
+        "coordinates": [-87.606434, 41.866545]
       },
       "type": "Feature",
       "properties": {
@@ -1385,7 +1385,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.3330573, 37.496904]
+        "coordinates": [-122.332406, 37.574216]
       },
       "type": "Feature",
       "properties": {
@@ -1397,7 +1397,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.8751582, 36.0181316]
+        "coordinates": [-78.949091, 36.025149]
       },
       "type": "Feature",
       "properties": {
@@ -1409,7 +1409,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-105.2705456, 40.0149856]
+        "coordinates": [-105.272792, 40.007911]
       },
       "type": "Feature",
       "properties": {
@@ -1421,7 +1421,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.8751582, 36.0181316]
+        "coordinates": [-78.9384, 36.003128]
       },
       "type": "Feature",
       "properties": {
@@ -1433,7 +1433,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.523143, 42.3803676]
+        "coordinates": [-72.514274, 42.374636]
       },
       "type": "Feature",
       "properties": {
@@ -1445,7 +1445,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.659168, 45.515739]
+        "coordinates": [-73.660179, 45.515504]
       },
       "type": "Feature",
       "properties": {
@@ -1457,7 +1457,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0060152, 40.7127281]
+        "coordinates": [-73.999076, 40.738218]
       },
       "type": "Feature",
       "properties": {
@@ -1469,7 +1469,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-87.6930459, 42.0447388]
+        "coordinates": [-87.674055, 42.053743]
       },
       "type": "Feature",
       "properties": {
@@ -1481,7 +1481,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.3258554, 34.1816482]
+        "coordinates": [-118.310581, 34.17993]
       },
       "type": "Feature",
       "properties": {
@@ -1493,7 +1493,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.2713563, 37.8044557]
+        "coordinates": [-122.252069, 37.826698]
       },
       "type": "Feature",
       "properties": {
@@ -1505,7 +1505,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.523143, 42.3803676]
+        "coordinates": [-72.532288, 42.32703]
       },
       "type": "Feature",
       "properties": {
@@ -1517,7 +1517,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.042281, 38.905391]
       },
       "type": "Feature",
       "properties": {
@@ -1529,7 +1529,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.083406, 42.0333608]
+        "coordinates": [-88.032521, 42.025916]
       },
       "type": "Feature",
       "properties": {
@@ -1541,7 +1541,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.4943996, 38.5815719]
+        "coordinates": [-121.495765, 38.574615]
       },
       "type": "Feature",
       "properties": {
@@ -1553,7 +1553,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2440518, 36.0998131]
+        "coordinates": [-80.27794, 36.132141]
       },
       "type": "Feature",
       "properties": {
@@ -1565,7 +1565,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4192363, 37.7792808]
+        "coordinates": [-122.418349, 37.754677]
       },
       "type": "Feature",
       "properties": {
@@ -1577,7 +1577,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.6390989, 35.7803977]
+        "coordinates": [-78.706753, 35.809576]
       },
       "type": "Feature",
       "properties": {
@@ -1589,7 +1589,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.0582912, 42.3602534]
+        "coordinates": [-71.063911, 42.35846]
       },
       "type": "Feature",
       "properties": {
@@ -1601,7 +1601,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.4766781, 38.029306]
+        "coordinates": [-78.506058, 38.036451]
       },
       "type": "Feature",
       "properties": {
@@ -1613,7 +1613,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.6486325, 30.4899024]
+        "coordinates": [-90.178759, 32.300788]
       },
       "type": "Feature",
       "properties": {
@@ -1625,7 +1625,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-92.0198427, 30.2240897]
+        "coordinates": [-92.020443, 30.211604]
       },
       "type": "Feature",
       "properties": {
@@ -1637,7 +1637,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.3790388, 28.5421097]
+        "coordinates": [-81.44145, 28.45827]
       },
       "type": "Feature",
       "properties": {
@@ -1649,7 +1649,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.0343313, 34.0007493]
+        "coordinates": [-81.028017, 33.995291]
       },
       "type": "Feature",
       "properties": {
@@ -1661,7 +1661,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.6995749, 40.7978787]
+        "coordinates": [-73.701998, 40.797365]
       },
       "type": "Feature",
       "properties": {
@@ -1673,7 +1673,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.1635262, 39.9527237]
+        "coordinates": [-75.163178, 39.948023]
       },
       "type": "Feature",
       "properties": {
@@ -1685,7 +1685,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0060152, 40.7127281]
+        "coordinates": [-73.983252, 40.772789]
       },
       "type": "Feature",
       "properties": {
@@ -1697,7 +1697,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.1408776, 42.65717]
+        "coordinates": [-71.145646, 42.67403]
       },
       "type": "Feature",
       "properties": {
@@ -1709,7 +1709,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.523143, 42.3803676]
+        "coordinates": [-72.52825, 42.390027]
       },
       "type": "Feature",
       "properties": {
@@ -1721,7 +1721,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.4965129, 34.0250724]
+        "coordinates": [-118.242234, 34.061935]
       },
       "type": "Feature",
       "properties": {
@@ -1733,7 +1733,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.804161, 39.4300996]
+        "coordinates": [-77.806749, 39.484452]
       },
       "type": "Feature",
       "properties": {
@@ -1745,7 +1745,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-105.084204, 39.6246085]
+        "coordinates": [-105.142665, 39.700762]
       },
       "type": "Feature",
       "properties": {
@@ -1757,7 +1757,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-86.1583502, 39.7683331]
+        "coordinates": [-86.165824, 39.768128]
       },
       "type": "Feature",
       "properties": {
@@ -1769,7 +1769,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.4852469, 42.7355416]
+        "coordinates": [-84.465696, 42.726773]
       },
       "type": "Feature",
       "properties": {
@@ -1781,7 +1781,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0060152, 40.7127281]
+        "coordinates": [-73.992452, 40.733337]
       },
       "type": "Feature",
       "properties": {
@@ -1793,7 +1793,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0060152, 40.7127281]
+        "coordinates": [-73.993249, 40.740714]
       },
       "type": "Feature",
       "properties": {
@@ -1805,7 +1805,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.2092214, 42.3370414]
+        "coordinates": [-71.186482, 42.357416]
       },
       "type": "Feature",
       "properties": {
@@ -1817,7 +1817,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-89.3837613, 43.074761]
+        "coordinates": [-89.307635, 43.067933]
       },
       "type": "Feature",
       "properties": {
@@ -1829,7 +1829,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-105.321458, 39.6361637]
+        "coordinates": [-105.353201, 39.663696]
       },
       "type": "Feature",
       "properties": {
@@ -1841,7 +1841,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.013095, 38.898905]
       },
       "type": "Feature",
       "properties": {
@@ -1853,7 +1853,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.3901849, 33.7490987]
+        "coordinates": [-84.322984, 33.790783]
       },
       "type": "Feature",
       "properties": {
@@ -1865,7 +1865,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0060152, 40.7127281]
+        "coordinates": [-73.992938, 40.722646]
       },
       "type": "Feature",
       "properties": {
@@ -1877,7 +1877,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.546589, 39.7459468]
+        "coordinates": [-75.581131, 39.788143]
       },
       "type": "Feature",
       "properties": {
@@ -1889,7 +1889,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-76.997977, 38.932926]
       },
       "type": "Feature",
       "properties": {
@@ -1901,7 +1901,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.754968, 42.6511674]
+        "coordinates": [-73.755, 42.65138]
       },
       "type": "Feature",
       "properties": {
@@ -1913,7 +1913,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.37626861, 28.6649055]
+        "coordinates": [-81.426149, 28.65651]
       },
       "type": "Feature",
       "properties": {
@@ -1925,7 +1925,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.4852469, 42.7355416]
+        "coordinates": [-84.483206, 42.73111]
       },
       "type": "Feature",
       "properties": {
@@ -1937,7 +1937,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-93.2654692, 44.9772995]
+        "coordinates": [-93.243556, 44.971036]
       },
       "type": "Feature",
       "properties": {
@@ -1949,7 +1949,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-157.8556764, 21.304547]
+        "coordinates": [-157.858744, 21.307047]
       },
       "type": "Feature",
       "properties": {
@@ -1961,7 +1961,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.754968, 42.6511674]
+        "coordinates": [-73.76019, 42.655946]
       },
       "type": "Feature",
       "properties": {
@@ -1973,7 +1973,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-86.5342881, 39.1670396]
+        "coordinates": [-86.516825, 39.171247]
       },
       "type": "Feature",
       "properties": {
@@ -1985,7 +1985,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-93.1015026, 44.9504037]
+        "coordinates": [-93.095366, 44.949254]
       },
       "type": "Feature",
       "properties": {
@@ -1997,7 +1997,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.036109, 46.592712]
+        "coordinates": [-112.016267, 46.585752]
       },
       "type": "Feature",
       "properties": {
@@ -2009,7 +2009,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-105.9377997, 35.6869996]
+        "coordinates": [-105.945476, 35.662599]
       },
       "type": "Feature",
       "properties": {
@@ -2021,7 +2021,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.2092214, 42.3370414]
+        "coordinates": [-71.21505, 42.310151]
       },
       "type": "Feature",
       "properties": {
@@ -2033,7 +2033,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.4136767, 37.2296566]
+        "coordinates": [-80.419245, 37.228902]
       },
       "type": "Feature",
       "properties": {
@@ -2045,7 +2045,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.3233746, 29.67357765]
+        "coordinates": [-82.40372, 29.689295]
       },
       "type": "Feature",
       "properties": {
@@ -2057,7 +2057,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.0466403, 42.3315509]
+        "coordinates": [-83.053327, 42.335019]
       },
       "type": "Feature",
       "properties": {
@@ -2069,7 +2069,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.4968019, 42.4396039]
+        "coordinates": [-76.484157, 42.448302]
       },
       "type": "Feature",
       "properties": {
@@ -2081,7 +2081,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-104.8253485, 38.8339578]
+        "coordinates": [-104.845746, 38.895086]
       },
       "type": "Feature",
       "properties": {
@@ -2093,7 +2093,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.1056157, 42.3750997]
+        "coordinates": [-71.125628, 42.379913]
       },
       "type": "Feature",
       "properties": {
@@ -2105,7 +2105,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.004129, 38.884693]
       },
       "type": "Feature",
       "properties": {
@@ -2117,7 +2117,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.2696449, 36.0103562]
+        "coordinates": [-84.21029, 36.043984]
       },
       "type": "Feature",
       "properties": {
@@ -2129,7 +2129,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.09024765, 38.8147596]
+        "coordinates": [-77.165414, 38.807968]
       },
       "type": "Feature",
       "properties": {
@@ -2141,7 +2141,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.039287, 38.904261]
       },
       "type": "Feature",
       "properties": {
@@ -2153,7 +2153,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-97.5170536, 35.4729886]
+        "coordinates": [-97.491138, 35.487965]
       },
       "type": "Feature",
       "properties": {
@@ -2165,7 +2165,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.032661, 38.886966]
       },
       "type": "Feature",
       "properties": {
@@ -2177,7 +2177,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.4968019, 42.4396039]
+        "coordinates": [-76.496775, 42.439673]
       },
       "type": "Feature",
       "properties": {
@@ -2189,7 +2189,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.1702445, 37.427467]
+        "coordinates": [-122.167095, 37.427301]
       },
       "type": "Feature",
       "properties": {
@@ -2201,7 +2201,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2427666, 34.0536909]
+        "coordinates": [-118.283737, 34.020384]
       },
       "type": "Feature",
       "properties": {
@@ -2213,7 +2213,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-95.677556, 39.049011]
+        "coordinates": [-95.774745, 39.056454]
       },
       "type": "Feature",
       "properties": {
@@ -2225,7 +2225,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.6605187, 38.7217837]
+        "coordinates": [-76.660653, 38.718601]
       },
       "type": "Feature",
       "properties": {
@@ -2237,7 +2237,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.027512, 38.894533]
       },
       "type": "Feature",
       "properties": {
@@ -2249,7 +2249,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-87.6244212, 41.8755616]
+        "coordinates": [-87.593563, 41.7849]
       },
       "type": "Feature",
       "properties": {
@@ -2261,7 +2261,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0060152, 40.7127281]
+        "coordinates": [-73.963294, 40.806733]
       },
       "type": "Feature",
       "properties": {
@@ -2273,7 +2273,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.62047464, 39.2847494]
+        "coordinates": [-76.619498, 39.328947]
       },
       "type": "Feature",
       "properties": {
@@ -2285,7 +2285,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.91346, 41.0111793]
+        "coordinates": [-73.908835, 41.004626]
       },
       "type": "Feature",
       "properties": {
@@ -2297,7 +2297,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.025973, 38.892347]
       },
       "type": "Feature",
       "properties": {
@@ -2309,7 +2309,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.009561, 38.900002]
       },
       "type": "Feature",
       "properties": {
@@ -2321,7 +2321,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.12333463, 38.98130835]
+        "coordinates": [-77.098843, 38.996134]
       },
       "type": "Feature",
       "properties": {
@@ -2333,7 +2333,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.023093, 38.892986]
       },
       "type": "Feature",
       "properties": {
@@ -2345,7 +2345,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-90.1994097, 38.6268039]
+        "coordinates": [-90.187727, 38.628981]
       },
       "type": "Feature",
       "properties": {
@@ -2357,7 +2357,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0841585, 38.8903961]
+        "coordinates": [-77.049722, 38.855346]
       },
       "type": "Feature",
       "properties": {
@@ -2369,7 +2369,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-89.3837613, 43.074761]
+        "coordinates": [-89.379615, 43.073719]
       },
       "type": "Feature",
       "properties": {
@@ -2381,7 +2381,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0365625, 38.8950092]
+        "coordinates": [-77.00481, 38.887129]
       },
       "type": "Feature",
       "properties": {
@@ -2393,7 +2393,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.7312291, 42.2681569]
+        "coordinates": [-83.738243, 42.27664]
       },
       "type": "Feature",
       "properties": {
@@ -2405,7 +2405,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.4943996, 38.5815719]
+        "coordinates": [-121.495846, 38.57676]
       },
       "type": "Feature",
       "properties": {
@@ -2417,7 +2417,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.2713563, 37.8044557]
+        "coordinates": [-122.267557, 37.808356]
       },
       "type": "Feature",
       "properties": {
@@ -2429,7 +2429,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4192363, 37.7792808]
+        "coordinates": [-122.47158, 37.78254]
       },
       "type": "Feature",
       "properties": {
@@ -2441,7 +2441,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0060152, 40.7127281]
+        "coordinates": [-73.997175, 40.729724]
       },
       "type": "Feature",
       "properties": {
@@ -2453,7 +2453,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.2495231, 41.8084314]
+        "coordinates": [-72.251742, 41.806754]
       },
       "type": "Feature",
       "properties": {
@@ -2465,7 +2465,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-97.1413417, 33.1838787]
+        "coordinates": [-97.147185, 33.21107]
       },
       "type": "Feature",
       "properties": {
@@ -2477,7 +2477,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-89.3837613, 43.074761]
+        "coordinates": [-89.400094, 43.075567]
       },
       "type": "Feature",
       "properties": {
@@ -2489,7 +2489,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.779663, 44.310583]
+        "coordinates": [-69.782884, 44.307438]
       },
       "type": "Feature",
       "properties": {
@@ -2501,7 +2501,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.492786, 38.9786401]
+        "coordinates": [-76.500872, 38.986573]
       },
       "type": "Feature",
       "properties": {
@@ -2513,7 +2513,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-123.033121, 44.9391565]
+        "coordinates": [-123.03094, 44.94003]
       },
       "type": "Feature",
       "properties": {
@@ -2525,7 +2525,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-72.575684, 44.260445]
+        "coordinates": [-72.581675, 44.262732]
       },
       "type": "Feature",
       "properties": {
@@ -2537,7 +2537,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-85.48827731, 32.6848205]
+        "coordinates": [-85.482675, 32.603359]
       },
       "type": "Feature",
       "properties": {
@@ -2549,7 +2549,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.3196124, 34.093214]
+        "coordinates": [-118.327343, 34.095265]
       },
       "type": "Feature",
       "properties": {
@@ -2561,7 +2561,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.6390989, 35.7803977]
+        "coordinates": [-78.637076, 35.783116]
       },
       "type": "Feature",
       "properties": {
@@ -2573,7 +2573,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.6390989, 35.7803977]
+        "coordinates": [-78.66942, 35.787743]
       },
       "type": "Feature",
       "properties": {
@@ -2585,7 +2585,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.7312291, 42.2681569]
+        "coordinates": [-83.745315, 42.274553]
       },
       "type": "Feature",
       "properties": {
@@ -2597,7 +2597,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.2809332, 30.4380832]
+        "coordinates": [-84.285012, 30.438257]
       },
       "type": "Feature",
       "properties": {
@@ -2609,7 +2609,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.200835, 43.61656]
+        "coordinates": [-116.195606, 43.615626]
       },
       "type": "Feature",
       "properties": {
@@ -2621,7 +2621,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.7312291, 42.2681569]
+        "coordinates": [-83.74377, 42.276768]
       },
       "type": "Feature",
       "properties": {
@@ -2633,7 +2633,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.2481624, 36.8889933]
+        "coordinates": [-76.307607, 36.884674]
       },
       "type": "Feature",
       "properties": {
@@ -2645,7 +2645,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-115.7390188, 43.9873519]
+        "coordinates": [-116.165974, 43.601099]
       },
       "type": "Feature",
       "properties": {
@@ -2657,7 +2657,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.0773456, 33.4485866]
+        "coordinates": [-112.097902, 33.448583]
       },
       "type": "Feature",
       "properties": {
@@ -2669,7 +2669,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.1056157, 42.3750997]
+        "coordinates": [-71.119893, 42.37244]
       },
       "type": "Feature",
       "properties": {
@@ -2681,7 +2681,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-104.9653271, 39.7348381]
+        "coordinates": [-104.895384, 39.722427]
       },
       "type": "Feature",
       "properties": {
@@ -2693,7 +2693,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.1140771, 40.0992294]
+        "coordinates": [-83.126971, 40.102796]
       },
       "type": "Feature",
       "properties": {
@@ -2705,7 +2705,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.6592958, 40.3492744]
+        "coordinates": [-74.638845, 40.325506]
       },
       "type": "Feature",
       "properties": {
@@ -2717,7 +2717,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.0343313, 34.0007493]
+        "coordinates": [-80.961439, 34.093098]
       },
       "type": "Feature",
       "properties": {
@@ -2729,7 +2729,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.9369189, 38.980666]
+        "coordinates": [-76.943438, 38.988817]
       },
       "type": "Feature",
       "properties": {
@@ -2741,7 +2741,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.9210261, 35.9603948]
+        "coordinates": [-83.927985, 35.954816]
       },
       "type": "Feature",
       "properties": {
@@ -2753,7 +2753,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.8904308, 40.7670126]
+        "coordinates": [-111.88775, 40.769452]
       },
       "type": "Feature",
       "properties": {
@@ -2765,7 +2765,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.8904308, 40.7670126]
+        "coordinates": [-111.904204, 40.762062]
       },
       "type": "Feature",
       "properties": {
@@ -2777,7 +2777,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0060152, 40.7127281]
+        "coordinates": [-73.999587, 40.752819]
       },
       "type": "Feature",
       "properties": {
@@ -2789,7 +2789,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.0060152, 40.7127281]
+        "coordinates": [-73.966558, 40.763603]
       },
       "type": "Feature",
       "properties": {
@@ -2801,7 +2801,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.2716839, 32.83259]
+        "coordinates": [-117.242679, 32.88042]
       },
       "type": "Feature",
       "properties": {
@@ -2813,7 +2813,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-96.667821, 40.8]
+        "coordinates": [-96.702211, 40.814633]
       },
       "type": "Feature",
       "properties": {
@@ -2825,7 +2825,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-93.1659179, 44.818173]
+        "coordinates": [-93.113475, 44.825605]
       },
       "type": "Feature",
       "properties": {
@@ -2837,7 +2837,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-93.1015026, 44.9504037]
+        "coordinates": [-93.105178, 44.949897]
       },
       "type": "Feature",
       "properties": {
@@ -2849,7 +2849,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.7670929, 39.163876]
+        "coordinates": [-119.764825, 39.164283]
       },
       "type": "Feature",
       "properties": {
@@ -2861,7 +2861,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.3901849, 33.7490987]
+        "coordinates": [-84.385196, 33.788236]
       },
       "type": "Feature",
       "properties": {
@@ -2873,7 +2873,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.8732836, 38.2009055]
+        "coordinates": [-84.864055, 38.175204]
       },
       "type": "Feature",
       "properties": {
@@ -2885,7 +2885,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.3063733, 38.8462236]
+        "coordinates": [-77.314727, 38.833898]
       },
       "type": "Feature",
       "properties": {
@@ -2897,7 +2897,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-106.2989958, 35.8814009]
+        "coordinates": [-106.356699, 35.844901]
       },
       "type": "Feature",
       "properties": {
@@ -2909,7 +2909,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-93.1015026, 44.9504037]
+        "coordinates": [-93.104716, 44.954617]
       },
       "type": "Feature",
       "properties": {
@@ -2921,7 +2921,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-95.6838963, 41.3294401]
+        "coordinates": [-95.668315, 41.326825]
       },
       "type": "Feature",
       "properties": {
@@ -2933,7 +2933,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.05578, 35.9131542]
+        "coordinates": [-79.04735, 35.906402]
       },
       "type": "Feature",
       "properties": {
@@ -2945,7 +2945,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-86.7743531, 36.1622296]
+        "coordinates": [-86.779269, 36.136434]
       },
       "type": "Feature",
       "properties": {
@@ -2957,7 +2957,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.0582912, 42.3602534]
+        "coordinates": [-71.148085, 42.357274]
       },
       "type": "Feature",
       "properties": {
@@ -2969,7 +2969,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.1635262, 39.9527237]
+        "coordinates": [-75.143279, 39.953424]
       },
       "type": "Feature",
       "properties": {
@@ -2981,7 +2981,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-91.5299106, 41.6612561]
+        "coordinates": [-91.538495, 41.659772]
       },
       "type": "Feature",
       "properties": {
