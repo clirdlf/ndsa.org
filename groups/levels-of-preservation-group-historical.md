@@ -25,7 +25,7 @@ A call for interest and participation was sent out in April 2018 and the communi
 
 
 ### Levels Reboot Team
-The Levels Reboot Team is mad up of the chair/co-chairs of the many sub-working groups of the 2019 Levels of Preservation Working Group 
+The Levels Reboot Team included the chair/co-chairs of the many sub-working groups of the 2019 Levels of Preservation Working Group 
 - Karen Cariani, The David O. Ives Executive Director of the WGBH Media Library and Archives
 - Aaron Collie, FRASER Digital Library Manager, Federal Reserve Bank of St. Louis
 - Bradley Daigle, Partnerships and Content Lead, Academic Preservation Trust (APTrust)
