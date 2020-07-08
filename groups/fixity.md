@@ -11,8 +11,8 @@ The Fixity Working Group was established May 31, 2016 as a joint collaboration o
 
 Please contact working group chair Aaron Collie of Michigan State University Libraries - collie at mail dot lib dot msu dot edu  - to get involved.
 
-## Current Activities
+## Activities
 
-- The Fixity Working Group met at *Digital Preservation 2016* to foster "a [next-level conversation](https://dlfforum2016.sched.org/event/8LHa/lunchtime-working-session-fixity-a-deep-dive-into-the-bits) on optimization, parameters, routines, resources & algorithms". Notes from the conversation are [available here](https://docs.google.com/document/d/1Xmyha6t4A92-P8fgpSsyICV8ufqf5KMWuk9AuxlK7A4/edit?ts=583495de).
+- The Fixity Working Group met at *Digital Preservation 2016* to foster "a [next-level conversation](http://dlfforum2016.sched.org/event/8LHa/lunchtime-working-session-fixity-a-deep-dive-into-the-bits) on optimization, parameters, routines, resources & algorithms". Notes from the conversation are [available here](https://docs.google.com/document/d/1vue4k39jJzW53yZHgYIVSn4bRbh7i1ngIWlyxzNe4pQ/edit?usp=sharing).
 
 
