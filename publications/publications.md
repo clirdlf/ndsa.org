@@ -17,7 +17,8 @@ New publications are announced on the [NDSA Blog](/news/), while links to a few 
 
 #### NDSA Agenda
 - Previously called the National Agenda, the NDSA Agenda integrates the persepctive of dozens of experts and hundreds of institutions to provide funders and executive decision‐makers insight into emerging technological trends, gaps in digital stewardship capacity, and key areas for funding, research and development to ensure that today’s valuable digital content remains accessible and comprehensible in the future, supporting a thriving economy, a robust democracy, and a rich cultural heritage.
-- The [National Agenda Working Group](/national-agenda/) provides background information on the work and links to previous versions.
+- 2020 NDSA Agenda Publication (<a href="https://osf.io/3a7zn/" target="_blank">OSF Repository <i class="fas fa-external-link-alt"></i></a>)
+- The [NDSA Agenda Working Group](/national-agenda/) page provides background information on the work over the years and links to all available previous versions.
 
 
 ### Selected Publications
