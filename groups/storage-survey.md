@@ -6,12 +6,15 @@ redirect_from: /working-groups/storage-survey/
 ---
 
 ## Background
-In [2011](http://www.dlib.org/dlib/may13/altman/05altman.html) and in [2013](http://www.dlib.org/dlib/july17/gallinger/07gallinger.html), members of the NDSA Infrastructure Interest Group conducted surveys on the preservation storage practices of NDSA member organizations. The goal of these surveys was “to develop a snapshot of storage practices within the organizations of the NDSA and insight into how those practices change over time.” 
+In [2011](http://www.dlib.org/dlib/may13/altman/05altman.html), [2013](http://www.dlib.org/dlib/july17/gallinger/07gallinger.html), and [2019](https://osf.io/uwsg7/) members of the NDSA Infrastructure Interest Group conducted surveys on the preservation storage practices of NDSA member organizations. The goal of these surveys was “to develop a snapshot of storage practices within the organizations of the NDSA and insight into how those practices change over time.” 
 
 ## Overview and Description
 The 2019 Storage Survey Working Group was convened in late 2018 to gather new data on preservation storage practices. The goal of the 2019 survey is not only to collect updated information in order to compare to the [2011](https://hdl.handle.net/1902.1/19768) and [2013](https://doi.org/10.7910/DVN/8NYC97) surveys, but to gather information on how new technologies or standards have impacted preservation storage. 
 
 ## Estimated Timeline and Deliverables
+
+The [2019 Storage Infrastructure Survey Report](https://osf.io/uwsg7/) was completed in February 2020 and available on the NDSA OSF page.  
+
 <figure><table>
 <thead>
 <tr><th><strong>Dates</strong></th><th>&nbsp;</th><th><strong>Deliverables</strong></th></tr></thead>
@@ -19,8 +22,9 @@ The 2019 Storage Survey Working Group was convened in late 2018 to gather new da
 </table></figure>
 
 
+
 ## Get Involved
-Please contact the working group chair, Laura Alagna (laura [dot] alagna [at] northwestern [dot] edu), if you are interested in participating.
+Please contact the past working group chair, Laura Alagna (laura [dot] alagna [at] northwestern [dot] edu), if you are interested in participating.
 
 ## 2019 Storage Survey Team
 - Laura Alagna, Chair, Northwestern University

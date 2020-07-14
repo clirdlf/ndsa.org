@@ -23,6 +23,9 @@ New publications are announced on the [NDSA Blog](/news/), while links to a few 
 
 ### Selected Publications
 
+#### 2019 Storage Infrastructure Survey Report
+- A [report](https://osf.io/uwsg7/) (PDF) written by the [Storage Survey Working Group](/groups/storage-survey/) provides a third look over time at the storage infrastructure being used across 89 institutions. 
+
 #### 2017 Fixity Survey Report
 - A [report](/documents/Report_2017NDSAFixitySurvery.pdf) (PDF, 977 KB) written by the [Fixity Working Group](/fixity) that addresses the “… clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements” raised in the 2015 NDSA National Agenda.
 
