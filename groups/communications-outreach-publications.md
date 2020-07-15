@@ -14,5 +14,5 @@ The Communications, Outreach, and Publications Working Group meets as needed bas
 - Updating the website
 - Posting blog posts
 - Reviewing reports and publishing them to the NDSA OSF site
-- Social media posts to Twitter and Facebook  *Currently looking for a volunteer to manage this particular activity*
+- Social media posts to Twitter
 
