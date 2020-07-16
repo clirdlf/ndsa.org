@@ -28,7 +28,7 @@ Working Groups originate with the goal to complete a task or project. Working Gr
 NDSA members join by completing a [membership application](https://docs.google.com/forms/d/e/1FAIpQLScAtyX61Rmnp0uxB7daaqnKEVSbgip2C7nO92C9Ybzox7LpEw/viewform), agreeing to our Foundational Principles and Membership Agreement and by participating in [Interest and Working Groups](/working-groups/). There are no fees to join the NDSA but members do commit to work collaboratively and share expertise. An elected [Coordinating Committee](/leadership/) provides strategic direction for the NDSA.
 
 ### What We Do
-The NDSA organizes a national network of collaborative partners to take stewardship action toward three primary objectives:
+The NDSA organizes a global network of collaborative partners to take stewardship action toward three primary objectives:
 
 - **Identifying, communicating and advocating** for common needs of member organizations.
 - **Convening and sustaining a national community** of practice for digital stewardship.
@@ -36,7 +36,7 @@ The NDSA organizes a national network of collaborative partners to take stewards
 
 We work toward those goals through three primary types of activities:
 
-- **Reports and Guidance Materials**: Interest Groups produce a range of [reports and guidance materials](/activities-overview/); for example, the [Levels of Digital Preservation](/activities/levels-of-digital-preservation/), the NDSA Storage Survey, and the NDSA Staffing Survey each serve to identify and communicate common needs of member organizations. In 2013, the NDSA published the inaugural [National Agenda for Digital Stewardship](/national-agenda/), a guiding document that outlines the challenges and opportunities related to digital preservation activities. 
+- **Reports and Guidance Materials**: Interest Groups produce a range of [reports and guidance materials](/activities-overview/); for example, the [Levels of Digital Preservation](/activities/levels-of-digital-preservation/), the NDSA Storage Survey, and the NDSA Staffing Survey each serve to identify and communicate common needs of member organizations. In 2014, the NDSA published the inaugural [NDSA Agenda for Digital Stewardship](/publications/NDSA-Agenda/), a guiding document that outlines the challenges and opportunities related to digital preservation activities. Subsequent Agendas were published in 2015 and 2020. 
 - **Meetings and Events**: Regional gatherings, meetups, and NDSA's annual *Digital Preservation* conference are particularly important as professional development opportunities and as a means to connect and network a national community of practice for digital stewardship. See the [NDSA Calendar](//about/calendar/) for a list of [NDSA meetings](/conference/) and upcoming presentations at conferences.
 - **Knowledge Exchange**:  Regular briefings, demos, and webinars on tools, techniques, and approaches to digital preservation serve as ongoing professional development opportunities for staff at member organizations, while disseminating information about the tools and services many NDSA member organizations are developing. For a calendar of upcoming events, including Interest Group calls and presentation dates, see the [NDSA Calendar](/about/calendar/).
 
@@ -45,7 +45,7 @@ You can read about past NDSA projects and activities on NDIIPP's [*The Signal*](
 ## Key Resources
 - [NDSA Calendar](/about/calendar/) (including Interest Group calls, upcoming presentation dates, and NDSA Regional Meetings)
 - [Interest Group](/working-groups) Projects and Activities
-- [The National Agenda for Digital Stewardship](/national-agenda/)
+- [The NDSA Agenda for Digital Stewardship](/publications/NDSA-Agenda/)
 - [Legacy Content](/about/legacy-content/) (Legacy working documentation from NDSA working and interest groups.)
 <!-- - [NDSA Experts Guide](/experts-guide/)-->
 - NDSA [Values Statement](/values/)
