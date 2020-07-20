@@ -9,8 +9,10 @@ redirect_from:
 
 Our annual Innovation Awards were established by the National Digital Stewardship Alliance (NDSA) to recognize and encourage innovation in the field of digital preservation stewardship. These awards highlight and commend creative individuals, projects, organizations, educators, and future stewards demonstrating originality and excellence in their contributions to the field of digital preservation.
 
-## About the Innovation Awards
+## 2020 NDSA Awards Call for Nominations
+[Nominations are now being accepted](https://ndsa.org/2020/07/20/now-accepting-nominations-for-ndsa-2020-innovation-awards.html) for the NDSA 2020 Innovation Awards and will remain open through Friday, September 4, 2020. 
 
+## About the Innovation Awards
 As a diverse international membership organization with a shared commitment to digital preservation, the NDSA understands the importance of innovation and risk-taking in developing and supporting a broad range of successful digital preservation activities.  Acknowledging that innovative digital stewardship can take many forms, eligibility for these awards has been left purposely broad.  Anyone or any project or institution acting in the context of the above categories can be nominated for an award.  Nominees do not have to be NDSA member institutions or individuals or project staff affiliated with member institutions, but must evidence innovative engagement with the theory and practice of long-term digital preservation stewardship at a level of national or international importance.  Nominators similarly do not need to be affiliated with NDSA member institutions.  Self-nomination is accepted and encouraged, as are submissions reflecting the needs and accomplishments of historically marginalized and underrepresented communities. More information on the awards, including previous awardees, is available on this page. This is your chance to help us highlight and reward novel, risk-taking and inventive approaches to the challenges of digital preservation.
 
 These awards focus on recognizing excellence in one or more of the following areas:
@@ -20,10 +22,6 @@ These awards focus on recognizing excellence in one or more of the following are
 - **Organizations** taking an innovative approach to providing support and guidance to the digital preservation community.
 - **Future stewards**, especially students, but including educators, trainers, or curricular endeavors taking a creative approach to advancing knowledge of digital preservation issues and practices.
 - **Educators**, including trainers or curricular endeavors, promoting innovative approaches and access to digital preservation through partnerships, professional development opportunities, and curriculum.
-
-## 2020 NDSA Awards Call for Nominations
-
-Nominations are now being accepted for the National Digital Stewardship Alliance (NDSA) 2020 Innovation Awards at this [form](https://www.surveymonkey.com/r/2020-ndsa-innovation-awards) and will remain open through Friday, September 4, 2020.
 
 ## Working Group Members
 - Stephen Abrams, co-chair (Harvard University) 
