@@ -5,7 +5,7 @@ permalink: /conference/
 redirect_from: /meetings/
 ---
 
-### **November 11-12, 2020 (now online)** 
+### **November 12, 2020, now online!** 
 <!-- in Baltimore, Maryland -->
 
 <img alt="meetings" width="710" height="235" src='{{ "images/DigiPres-2020-ONLINE-nov-12.jpg" | prepend: site.baseurl }}'>
