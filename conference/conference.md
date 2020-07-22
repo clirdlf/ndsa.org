@@ -6,9 +6,8 @@ redirect_from: /meetings/
 ---
 
 ### **November 12, 2020, now online!** 
-<!-- in Baltimore, Maryland -->
 
-<img alt="meetings" width="710" height="235" src='{{ "images/DigiPres-2020-ONLINE-nov-12.jpg" | prepend: site.baseurl }}'>
+<img alt="meetings" width="710" height="235" src='{{ "/images/DigiPres-2020-ONLINE-nov-12.jpg" | prepend: site.baseurl }}'>
 
 ### **About the NDSA and Digital Preservation 2020**
 
