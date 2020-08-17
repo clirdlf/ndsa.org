@@ -4,6 +4,31 @@ permalink: /data/members.json
 ---
 [
     {
+        "organization": "University of Pennsylvania Libraries",
+        "state": "PA",
+        "focus": "Data Transfer, Distributed Storage, Education & Training, Standards & Best Practices, Sustainability, Tools & Infrastructure, Web Archives"
+    },
+    {
+        "organization": "Preservica, Inc. ",
+        "state": "Massachusetts",
+        "focus": "Audiovisual, Data Transfer, Distributed Storage, Education & Training, Geospatial Data, Government Information, Legal Issues, Outreach, Standards & Best Practices, Sustainability, Text & Image, Tools & Infrastructure, Web Archives"
+    },
+    {
+        "organization": "University of Victoria Libraries",
+        "state": "BC Canada",
+        "focus": "Distributed Storage, Outreach, Sustainability, Text & Image, Tools & Infrastructure, Web Archives"
+    },
+    {
+        "organization": "Arkevist",
+        "state": "Nuevo León",
+        "focus": "Text & Image, Web Archives"
+    },
+    {
+        "organization": "Robert L. Bogomolny Library -University of Baltimore",
+        "state": "Maryland",
+        "focus": "Audiovisual, Education & Training, Standards & Best Practices, Sustainability, Text & Image, Tools & Infrastructure"
+    },
+    {
         "organization": "University of California, Berkeley Library",
         "state": "CA",
         "focus": "Audiovisual, Data Transfer, Education & Training, Geospatial Data, Government Information, Legal Issues, Outreach, Scientific Data, Standards & Best Practices, Sustainability, Text & Image, Tools & Infrastructure, Web Archives"
