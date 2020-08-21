@@ -6,7 +6,6 @@ redirect_from: /working-groups/content/
 ---
 **Content Interest Group Co-Chairs:** Matt Schultz - schultzm [at] gvsu [dot] edu; Deb Verhoff - deb [dot] verhoff [at] nyu [dot] edu
 
-**New Member Liaison:** Paige Walker - walkerpb at bc dot edu
 
 The Content Interest Group will intentionally engage the priorities and important resources promoted by the NDSA and the broader profession, and explore a broad array of topics related to preserving digital content, including: viable approaches to institutional collaboration; sharing strategies to address issues of scale and complexity; and the development of policies, practices, and community action to promote ethical and sustainable labor for digital stewardship.
 
