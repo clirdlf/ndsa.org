@@ -120,7 +120,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Courtney Mumma</h3>
-        <p>Courtney C. Mumma (1st Term, 2020-2023), is a an archivist and a librarian. She is the Deputy Director of the Texas Digital Library consortium, a collective of university libraries working towards open, sustainable, and secure digital heritage
+        <p>Courtney C. Mumma (1st Term, 2020-2022), is a an archivist and a librarian. She is the Deputy Director of the Texas Digital Library consortium, a collective of university libraries working towards open, sustainable, and secure digital heritage
             and scholarly communications. She has over a decade of experience in open source software development and maintenance, infrastructure support and digital preservation good practice and education.</p>
     </div>
     <div class="col-sm-2">
@@ -131,7 +131,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Daniel Noonan, 2020 Vice Chair</h3>
-        <p>Dan (1st Term, 2020-2023) is an Associate Professor and the Digital Preservation Librarian for The Ohio State University Libraries (OSUL). Reporting to the Associate Director for Distinctive Collections and Digital Programs, Dan plays a key role
+        <p>Dan (1st Term, 2020-2022) is an Associate Professor and the Digital Preservation Librarian for The Ohio State University Libraries (OSUL). Reporting to the Associate Director for Distinctive Collections and Digital Programs, Dan plays a key role
             in developing a trusted digital preservation ethos and infrastructure at OSUL. This position contributes strategy and expertise, and provides leadership through close collaboration with faculty, staff, and other leaders in OSUL’s Digital Programs,
             Preservation and Digitization, Distinctive Collections, Content and Access, Archival Description and Access, and Publishing and Repository Services groups. Previously, he was OSUL’s Electronic Records/Digital Resources Archivist and Electronic
             Records Manager/Archivist. Simultaneously, Dan was an adjunct faculty member for Kent State University, teaching an archives foundations course. Prior to joining OSUL, he was the Supervisor for Electronic Records Management for the State of
@@ -163,7 +163,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Linda Tadic</h3>
-        <p>Linda Tadic (1st Term, 2019-21) is founder and CEO of Digital Bedrock, a managed digital preservation service provider that serves any type of organization, and even individuals. She has 30 years’ experience in leading preservation, metadata,
+        <p>Linda Tadic (1st Term, 2019-20) is founder and CEO of Digital Bedrock, a managed digital preservation service provider that serves any type of organization, and even individuals. She has 30 years’ experience in leading preservation, metadata,
             and digital production operations at organizations such as ARTstor, HBO, the Media Archives and Peabody Awards Collection at the University of Georgia, and the Getty Research Institute. Currently an adjunct professor in UCLA’s Graduate School
             of Education and Information Studies teaching Digital Asset Management, she was previously an adjunct professor in NYU’s Moving Image Archiving and Preservation program (courses in collection management and cataloging and metadata). She consults
             and lectures on digital asset management, audiovisual and digital preservation, metadata, and copyright, with clients as diverse as WNET/Thirteen, the Academy of Motion Picture Arts and Sciences, SBS (Australia), Dunhuang Research Academy
@@ -177,7 +177,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Nathan Tallman</h3>
-        <p>Nathan Tallman (1st Term, 2020-2023) is Digital Preservation Librarian at Penn State University Libraries where he coordinates policies, workflows and best practices to ensure the long-term preservation and accessibility of PSU Libraries’ born-digital
+        <p>Nathan Tallman (1st Term, 2020-2022) is Digital Preservation Librarian at Penn State University Libraries where he coordinates policies, workflows and best practices to ensure the long-term preservation and accessibility of PSU Libraries’ born-digital
             and digitized collections. He is Product Owner for PSU Libraries digital collections repository. He also advises on equipment, infrastructure, and vendors for Penn State digital content. Prior to his arrival at Penn State, Nathan was the Digital
             Content Strategist at the University of Cincinnati and Associate Archivist at the American Jewish Archives. He is also an active member of Academic Preservation Trust where he chairs the Bagging Best Practices Interest Group.
         </p>
@@ -190,7 +190,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Paige Walker</h3>
-        <p>Paige Walker (1st Term, 2019-21) is the Digital Collections & Preservation Librarian at Boston College, where she guides digital preservation and digital archiving activities for born-digital and digitized content. She’s particularly interested
+        <p>Paige Walker (1st Term, 2019-20) is the Digital Collections & Preservation Librarian at Boston College, where she guides digital preservation and digital archiving activities for born-digital and digitized content. She’s particularly interested
             in information and network security as they pertain to privacy issues with digital forensics workflows. As an active member of the NDSA and DLF, Paige has participated in the NDSA Web Archiving Survey and the DLF Born-Digital Access working
             groups, and also co-leads the DLF Technologies of Surveillance Instruction & Outreach subgroup. Paige has a BA from UC Berkeley, an MSLIS from Simmons College, and is working on an MS in cybersecurity from Boston College. She spends her free
             time volunteering with the Cyber Civil Rights Initiative to combat online hate crime.
