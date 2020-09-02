@@ -79,11 +79,6 @@ permalink: /data/members.json
         "focus": "Audiovisual, Education & Training, Sustainability, Text & Image, Tools & Infrastructure"
     },
     {
-        "organization": "Nasir Ali Shamsi",
-        "state": "TX",
-        "focus": "Data Transfer, Distributed Storage, Education & Training, Scientific Data, Web Archives"
-    },
-    {
         "organization": "University of Louisville Libraries",
         "state": "KY",
         "focus": "Audiovisual, Distributed Storage, Legal Issues, Text & Image"
@@ -419,7 +414,7 @@ permalink: /data/members.json
         "focus": ""
     },
     {
-        "organization": "Maryland Digital Library, Decker Library",
+        "organization": "Maryland Institute College of Art",
         "state": "MD",
         "focus": ""
     },
@@ -457,11 +452,6 @@ permalink: /data/members.json
         "organization": "Enoch Pratt Free Library",
         "state": "MD",
         "focus": "Text & Image, Standards & Best Practices, Tools & Infrastructure"
-    },
-    {
-        "organization": "EVault, a Seagate Company",
-        "state": "CA",
-        "focus": ""
     },
     {
         "organization": "History of Computing in Learning and Education",
@@ -664,11 +654,6 @@ permalink: /data/members.json
         "focus": "Audiovisual, Standards & Best Practices, Sustainability, Education & Training"
     },
     {
-        "organization": "JVC Advanced Media USA, Inc",
-        "state": "IL",
-        "focus": "Tools & Infrastructure, Innovation, Standards & Best Practices"
-    },
-    {
         "organization": "California State Archives",
         "state": "CA",
         "focus": "Government Information"
@@ -742,11 +727,6 @@ permalink: /data/members.json
         "organization": "University of Massachusetts Amherst Libraries",
         "state": "MA",
         "focus": "Text & Image"
-    },
-    {
-        "organization": "Audiovisual Archive Network",
-        "state": "CA",
-        "focus": "Audiovisual, Education & Training"
     },
     {
         "organization": "U.S. Fish and Wildlife Service",
