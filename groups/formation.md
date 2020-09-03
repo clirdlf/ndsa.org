@@ -35,7 +35,7 @@ The Leadership team monitors activities of both Interest Groups and Working Grou
 ### Group Outputs
 * Groups looking to produce a report or similar shall work with the Communications, Outreach, and Publications Working Group on how to publish their work. Outputs are reviewed and copy-edited to ensure accuracy, style, and consistency across NDSA publications.
 * Reports will be reviewed by the Leadership team as well as the NDSA community as appropriate. 
-* Reports will use NDSA branding as determined by the Communications, Outreach, and Publications Working Group.
+* Reports will use NDSA branding as determined by the Communications and Publications Working Group.
 
 
 <font size="1">[page last updated: June 2020]</font>

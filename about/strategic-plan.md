@@ -6,7 +6,7 @@ permalink: /about/strategic-plan/
 ## NDSA Leadership 2020 Strategy Map
 The following outlines the strategic priorities of the NDSA in 2020.
 
-### Communications and Outreach
+### Communications and Publications
 *To promote community and raise public awareness.*
 
 1. Review Outreach and Marketing strategies

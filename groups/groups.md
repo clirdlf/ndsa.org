@@ -31,7 +31,7 @@
 <h3>Working Groups</h3>
 <p>Working Groups are created on an as needed basis.  Once formed, groups may perform a one-time activity, a cyclical activity, or an ongoing activity.  This activity level is listed after the Working Group name below.  Further details about each group is provided on their individual pages.</p>
 
-<h4><a href="/groups/communications-outreach-publications/">Communications, Outreach, and Publications (ongoing)</a></h4>
+<h4><a href="/groups/communications-publications/">Communications and Publications (ongoing)</a></h4>
 <ul><li><p>Working with the Coordinating Committee and Group Chairs to assist with internal and external communications, blog posts, website updates, and editing and publishing NDSA reports and other materials.</p></li></ul>
 
 <h4><a href="/conference/">Conference Planning Program Committee (annually)</a></h4>

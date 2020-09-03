@@ -18,7 +18,7 @@ The NDSA membership invests collaborative stewardship action towards three prima
 
 ## Strategies and Activities
 The NDSA’s specific strategic priorities and initiatives are articulated in the NDSA Stewardship Agenda.  In general, these divide into four high-level categories:
-* *Communications and outreach*, to promote community and raise public awareness
+* *Communications and publications*, to promote community and raise public awareness
 * *Reports and guidance*, to advocate standards, encourage sustainable infrastructure, and broaden access to and use of preserved digital materials
 * *Knowledge exchange*, to facilitate cooperation and promote innovation
 * *Sustainable Governance*, to maintain a clear, transparent, and accountable governance structure for the NDSA
