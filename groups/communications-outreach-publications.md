@@ -1,7 +1,8 @@
 ---
-title: Communications, Outreach, and Publications Working Group
+title: Communications and Publications Working Group
 layout: page
-permalink: /groups/communications-outreach-publications/
+permalink: /groups/communications-publications/
+redirect_from: /groups/communications-outreach-publications/
 ---
 
 **Group Chair**: Carol Kussmann - kussmann at umn dot edu
