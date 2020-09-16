@@ -23,9 +23,9 @@ After the completion of Version 2.0 of the Levels of Preservation, other support
 
 
 ### Version 2.0 
-Version 2.0 and all associted materials can be found on both the NDSA website and the NDSA OSF site.  
+**Version 2.0 of the Levels of Digital Preservation Matrix and all associted materials** can be found on both the NDSA website and the NDSA OSF site.  
 - NDSA Levels of Preservation Publication [Website](/publications/levels-of-digital-preservation/)
-- 2019 Levels of Preservation [OSF Project Page](https://ndsa.org/activities/levels-of-digital-preservation/)  
+- 2019 Levels of Preservation [OSF Project Page](https://osf.io/qgz98/)  
 
 
 ### Get Involved
