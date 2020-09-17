@@ -5,6 +5,7 @@ permalink: /conference/digital-preservation-2020/sponsors/
 redirect_from: /digital-preservation-2020-sponsors/
 ---
 
+**The Planning Committee wishes to thank our sponsors for their support.**
 
 ## **NDSA Mugs & Special Sponsor**
 
