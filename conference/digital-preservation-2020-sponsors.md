@@ -10,4 +10,4 @@ redirect_from: /digital-preservation-2020-sponsors/
 
 [<img alt="Digital Bedrock" width="250" src='{{ "/images/sponsors/Digital_Bedrock_logoB.jpg"}}'>](https://www.digitalbedrock.com/)
 
-**Interested in sponsoring [Digital Preservation 2020](https://ndsa.org/meetings/)? Check out the [2020 Sponsorship Opportunities](https://forum2020.diglib.org/sponsorship-opportunities/) and [contact us](mailto:lkwasigroch@clir.org).**
+**Interested in sponsoring [Digital Preservation 2020](https://ndsa.org/meetings/)? Check out the [2020 Sponsorship Opportunities](https://forum2020.diglib.org/sponsorship-opportunities/) and contact us at [lkwasigroch@clir.org](mailto:lkwasigroch@clir.org?subject=DigiPres Sponsorship).**
