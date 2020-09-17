@@ -16,4 +16,4 @@ redirect_from: /digital-preservation-2020-sponsors/
 
 ## **Mugs**
 
-[<img alt="Digital Bedrock" width="250" src='{{ "/images/sponsors/Digital_Bedrock_logob.jpg"}}'>](https://www.digitalbedrock.com/)
+[<img alt="Digital Bedrock" width="250" src='{{ "/images/sponsors/Digital_Bedrock_logoB.jpg"}}'>](https://www.digitalbedrock.com/)
