@@ -13,3 +13,7 @@ redirect_from: /digital-preservation-2020-sponsors/
 ## **Silver**
 
 [<img alt="Quartex" width="250" src='{{ "/images/sponsors/Quartex_pos_rgb - transparent 1000px w.png"}}'>](https://www.quartexcollections.com/)
+
+## **Mugs**
+
+[<img alt="Digital Bedrock" width="250" src='{{ "/images/sponsors/Digital_Bedrock_logob.jpg"}}'>](https://www.digitalbedrock.com/)
