@@ -9,7 +9,7 @@ redirect_from: /digital-preservation-2020-sponsors/
 
 ## **Silver Sponsor**
 
-[<img alt="Discovery Garden" width="250" src='{{ "/images/sponsors/DG+Coaster&Wordmark+Blue.png"}}'>](https://www.discoverygarden.ca/)
+[<img alt="Discovery Garden" width="250" src='{{ "/images/DG+Coaster&Wordmark+Blue.png"}}'>](https://www.discoverygarden.ca/)
 
 ## **NDSA Mugs & Special Sponsor**
 
