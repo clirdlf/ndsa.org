@@ -7,6 +7,10 @@ redirect_from: /digital-preservation-2020-sponsors/
 
 **The Planning Committee wishes to thank our sponsors for their support.**
 
+## **Silver Sponsor**
+
+[<img alt="Discovery Garden" width="250" src='{{ "/images/sponsors/DG+Coaster&Wordmark+Blue.png"}}'>](https://www.discoverygarden.ca/)
+
 ## **NDSA Mugs & Special Sponsor**
 
 [<img alt="Digital Bedrock" width="250" src='{{ "/images/sponsors/Digital_Bedrock_logoB.jpg"}}'>](https://www.digitalbedrock.com/)
