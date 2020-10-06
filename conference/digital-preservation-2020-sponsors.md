@@ -5,7 +5,7 @@ permalink: /conference/digital-preservation-2020/sponsors/
 redirect_from: /digital-preservation-2020-sponsors/
 ---
 
-**The Planning Committee wishes to thank our sponsors for their support.**
+**The Planning Committee wishes to thank our sponsors for their support. Check out their listings in the [Hall of Sponsors](https://forum2020.diglib.org/hall-of-sponsors/).**
 
 ## **Platinum Sponsor**
 
