@@ -34,7 +34,7 @@ Jennifer A. Ferretti (she/her) is an artist and Digital Initiatives Librarian at
 
 Is your organization interested in becoming a sponsor of #digipres20 or the [DLF Forum](https://forum2020.diglib.org)? Take a look at our [sponsorship opportunities](https://forum2020.diglib.org/sponsorship-opportunities/) and please contact [Louisa Kwasigroch](mailto:lkwasigroch@clir.org) if you would like more information.
 
-We are so grateful to our [2020 DLF Forum + Digital Preservation sponsors](https://ndsa.org/digital-preservation-2020-sponsors/)!
+We are so grateful to our [Digital Preservation 2020 sponsors](https://ndsa.org/digital-preservation-2020-sponsors/)!
 
 ### **2020 DigiPres Organizing Committee**
 
