@@ -9,13 +9,13 @@ redirect_from: /digital-preservation-2020-sponsors/
 
 ## **Platinum Sponsor**
 
-[<img alt="AVP" width="400" src='{{ "/images/DG+Coaster&Wordmark+Blue.png"}}'>](https://www.weareavp.com)
+[<img alt="AVP" width="400" src='{{ "/images/sponsors/AVP.png"}}'>](https://www.weareavp.com)
 
 ## **Silver Sponsors**
 
 [<img alt="Discovery Garden" width="250" src='{{ "/images/DG+Coaster&Wordmark+Blue.png"}}'>](https://www.discoverygarden.ca/)
 
-[<img alt="Quartex powered by Adam Matthew Digital" width="250" src='{{ "/images/DG+Coaster&Wordmark+Blue.png"}}'>](https://www.quartexcollections.com)
+[<img alt="Quartex powered by Adam Matthew Digital" width="250" src='{{ "images/sponsors/Quartex.png"}}'>](https://www.quartexcollections.com)
 
 
 ## **NDSA Mugs & Special Sponsor**
