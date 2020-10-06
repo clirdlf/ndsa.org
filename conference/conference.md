@@ -17,7 +17,7 @@ Registration for this year's events are FREE. [Register today!](https://www.conf
 
 ### **Keynote: Jennifer Ferretti**
 
-<img alt="Jennifer Ferretti" src='{{ "/images/ferretti_jennifer_l.jpg" }}'>
+<img alt="Jennifer Ferretti" width="500" height="535" src='{{ "/images/ferretti_jennifer_l.jpg" }}'>
 
 Jennifer Ferretti will open this year's Digital Preservation conference.
 
