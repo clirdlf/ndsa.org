@@ -9,6 +9,20 @@ redirect_from: /meetings/
 
 <img alt="meetings" width="710" height="235" src='{{ "/images/DigiPres-2020-ONLINE-nov-12.jpg" | prepend: site.baseurl }}'>
 
+### **Program is LIVE and registration is NOW OPEN!**
+
+The program for Digital Preservation 2020: Get Active With Digital Preservation is now available. [Browse the program here.](https://forum2020.diglib.org/schedule)
+
+Registration for this year's events are FREE. [Register today!](https://www.conftool.pro/dlf2020/)
+
+### **Keynote: Jennifer Ferretti**
+
+<img alt="Jennifer Ferretti" src='{{ "/images/ferretti_jennifer_l.jpg" }}'>
+
+Jennifer Ferretti will open this year's Digital Preservation conference.
+
+Jennifer A. Ferretti (she/her) is an artist and Digital Initiatives Librarian at the Maryland Institute College of Art on Piscataway Land (Baltimore, Maryland). She is a first-generation American Latina/Mestiza whose librarianship is guided by critical perspectives, not neutrality. With a firm belief that art is information, she is interested in the research methodologies of artists and non-Western forms of knowledge making and sharing. Jennifer is a [Library Journal 2018 Mover and Shaker](https://www.libraryjournal.com/?detailStory=jennifer-a-ferretti-movers-shakers-2018-community-builders), and founder and principal of [We Here](https://www.wehere.space/),™️ a community dedicated to supporting folks who identify as Black, Indigenous, and People of Color in libraries and archives.
+
 ### **About the NDSA and Digital Preservation 2020**
 
 The NDSA is a consortium of [more than 250 organizations](https://ndsa.org/members-list/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. Digital Preservation 2020 ([#digipres20](https://twitter.com/hashtag/digipres20)) will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
