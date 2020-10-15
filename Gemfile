@@ -16,7 +16,7 @@ gem "rake"
 gem 'html-proofer'
 gem 'ra11y'
 
-gem 'chronic' # parsing date times
-gem 'mail' # for generating email
-# gem 'mailjet'
-gem 'mailcatcher' # really just for development
+# gem 'chronic' # parsing date times
+# gem 'mail' # for generating email
+# # gem 'mailjet'
+# gem 'mailcatcher' # really just for development
