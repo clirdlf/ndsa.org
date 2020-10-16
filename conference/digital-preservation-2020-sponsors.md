@@ -17,6 +17,8 @@ redirect_from: /digital-preservation-2020-sponsors/
 
 [<img alt="Quartex powered by Adam Matthew Digital" width="250" src='{{ "/images/sponsors/Quartex.png"}}'>](https://www.quartexcollections.com)
 
+[<img alt="Picturae" width="400" src='{{ "/image/sponsors/Picturae_logo_inline.png"}}'>](https://picturae.com/en)
+
 
 ## **NDSA Mugs & Special Sponsor**
 
