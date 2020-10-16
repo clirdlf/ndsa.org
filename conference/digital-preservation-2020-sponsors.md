@@ -15,8 +15,6 @@ redirect_from: /digital-preservation-2020-sponsors/
 
 [<img alt="Discovery Garden" width="250" src='{{ "/images/DG+Coaster&Wordmark+Blue.png"}}'>](https://www.discoverygarden.ca/)
 
-[<img alt="Picturae" width="400" src='{{ "/image/sponsors/Picturae_logo_inline.png"}}'>](https://picturae.com/en)
-
 [<img alt="Quartex powered by Adam Matthew Digital" width="250" src='{{ "/images/sponsors/Quartex.png"}}'>](https://www.quartexcollections.com)
 
 
