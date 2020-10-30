@@ -23,7 +23,7 @@ redirect_from: /meetings/
  - When you get bingo, share in the #bingo Slack channel! Share a photo of your bingo card, if you wish.
  - There are no prizes, only enduring admiration.
  
- ### **2-D Virtual Lounge**
+### **2-D Virtual Lounge**
  
  Feeling that Zoom fatigue but interested in trying a new way to connect? Join fellow DigiPres attendees for an experimental, virtual gathering in a beta spatialized audio environment (think avatars exploring a 2-D space and having conversations with one another) from [High Fidelity](https://www.highfidelity.com/). Space is limited and requires advance registration. This gathering will take place between 12:30-1:00 PM EST/9:30-10:00 AM PST.
  
@@ -37,11 +37,11 @@ redirect_from: /meetings/
  
  [You can register here](https://www.eventbrite.com/e/ndsa-digipres-2-d-virtual-lounge-tickets-126585429427). The day of the conference, registrants will be sent a link to access the virtual room via email. Please do not share your link with others.
  
- ### **CLIR Events Photo Booth**
+### **CLIR Events Photo Booth**
  
  In partnership with Baltimore-based small business [Pixilated](https://www.pixilated.com/), CLIR will be offering a photo booth for attendees this year! PixiWeb is a virtual photo booth experience that helps keep everyone connected through shared event photo galleries and experiences…all accessible from a single link! The photo booth will be available to attendees of all three of this year’s events. Details may be found [here](https://forum2020.diglib.org/social-wellness-activities/).
  
- ### **Asynchronous Virtual Tours and Wellness Resources**
+### **Asynchronous Virtual Tours and Wellness Resources**
  Since we couldn’t welcome you to Baltimore in-person this year, the DLF Forum Community Committee and DigiPres volunteers put together some [virtual tours, exhibitions, activities, and wellness resources from some of our favorite Baltimore-based organizations and museums](https://forum2020.diglib.org/social-wellness-activities/wellness-resources/).
 
 
