@@ -22,6 +22,8 @@ The program for Digital Preservation 2020: Get Active With Digital Preservation 
 
 Registration for this year's events are FREE. [Register today!](https://www.conftool.pro/dlf2020/)
 
+See our [Social and Wellness Activities](https://ndsa.org/conference/social-and-wellness-activities/) to take a break from Zoom fatigue!
+
 ### **Keynote: Jennifer Ferretti**
 
 <img alt="Jennifer Ferretti" width="400" height="428" src='{{ "/images/ferretti_jennifer_l.jpg" }}'>
