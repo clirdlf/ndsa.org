@@ -1,8 +1,8 @@
 ---
 title: Social and Wellness Activities
 layout: page
-permalink: /social-and-wellness-activities/
-redirect_from: /conference/
+permalink: /conference/social-and-wellness-activities/
+redirect_from: /meetings/
 ---
 
 <img alt="meetings" width="710" height="235" src='{{ "/images/DigiPres-2020-ONLINE-nov-12.jpg" | prepend: site.baseurl }}'>
