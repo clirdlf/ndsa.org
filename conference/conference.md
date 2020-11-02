@@ -16,7 +16,7 @@ The NDSA is a consortium of [more than 250 organizations](https://ndsa.org/membe
 
 The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code).
 
-### **Registration is now closed. Thank you for your interest**
+### **Registration is now closed. Thank you for your interest.**
 
 The program for Digital Preservation 2020: Get Active With Digital Preservation is now available. [Browse the program.](https://forum2020.diglib.org/schedule)
 
