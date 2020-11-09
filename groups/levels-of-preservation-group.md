@@ -13,6 +13,10 @@ Due to the complexity of the activities of the Levels of Preservation Working Gr
 ### Current Work
 After the completion of Version 2.0 of the Levels of Preservation, other supporting materials are being created.  In addition to the supporting materials, the Steering Group is working with the NDSA Coordinating Committee to address future updates to the Levels.  
 
+[![Digital Preservation Award](/images/DPC_Award_Logo.jpg "Digital Preservation Award Logo"){:height="15%" width="15%" :style="float: right;margin-right: 7px;margin-top: 7px;"}](https://www.dpconline.org/events/digital-preservation-awards)
+
+On World Digital Preservation Day (Novemebr 5, 2020), the Levels of Digital Preservation Working Group became a [Digital Preservation Award](https://www.dpconline.org/events/digital-preservation-awards) winner when the group was awarded the [International Council on Archives](https://www.ica.org/en) Award for Collaboration and Cooperation! This award is not possible without the collaboration of hundreds of people over the course of the project!  Thank you to everyone who participated and for those just joining in the work.  
+
 
 ### Steering Group Members
 * Bradley Daigle (chair), Partnerships and Content Lead, Academic Preservation Trust (APTrust)
