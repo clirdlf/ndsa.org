@@ -42,3 +42,6 @@ This work was done by the Levels of Preservation Working Group.  It is expected 
 
 Find more information on the Levels of Preservation Working Group on their [webpage](https://ndsa.org/working-groups/levels-of-preservation/).
 
+[![Digital Preservation Award](/images/DPC_Award_Logo.jpg "Digital Preservation Award Logo"){:height="15%" width="15%"}](https://www.dpconline.org/events/digital-preservation-awards) 
+
+On World Digital Preservation Day (November 5, 2020), the Levels of Digital Preservation Working Group became a [Digital Preservation Award](https://www.dpconline.org/events/digital-preservation-awards) winner when the group was awarded the [International Council on Archives](https://www.ica.org/en) Award for Collaboration and Cooperation! This award is not possible without the collaboration of hundreds of people over the course of the project!  Thank you to everyone who participated and for those just joining in the work.  
