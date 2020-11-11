@@ -2,7 +2,10 @@
 title: Levels of Digital Preservation
 layout: page
 permalink: /publications/levels-of-digital-preservation/
-redirect_from: /activities/levels-of-digital-preservation/
+redirect_from: 
+  - /activities/levels-of-digital-preservation/
+  - /levels
+  - /levels/
 ---
 The Levels of Digital Preservation (LoP) is a resource for digital preservation practitioners when building or evaluating their digital preservation program.  Originally created in 2013, Version 2.0 was released in 2018 along with additional supporting documentation and resources. 
 
