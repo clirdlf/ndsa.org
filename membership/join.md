@@ -4,8 +4,8 @@ layout: page
 permalink: /membership/join/
 redirect_from:
   - /get-involved/
-  - /join/
   - /join
+  - /join/
 ---
 
 **Ready to join** the NDSA? Please submit a brief **[membership application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform)**. More information about the Membership application process is shared below.  
