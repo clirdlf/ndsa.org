@@ -66,8 +66,8 @@ Participants from member organizations share in the advantages of the NDSA, incl
 The application and vetting process is as follows:
 
 1. Prospective members submit an application through the [online form](https://docs.google.com/forms/d/e/1FAIpQLScAtyX61Rmnp0uxB7daaqnKEVSbgip2C7nO92C9Ybzox7LpEw/viewform).
-2. The Chair of the Coordinating Committee (CC) sends an email to the contacts listed in the application confirming receipt of application. 
+2. The Vice Chair of the Coordinating Committee (CC) sends an email to the contacts listed in the application confirming receipt of application. 
 3. Applications are reviewed by the [Leadership Group](/leadership/) during their monthly call.  Any objections/concerns are discussed and applicants may be contacted if additional information is needed. If necessary, CC members conduct a vote.
-   - If approved, the CC Chair sends a formal welcome to the applicant. Appropriate Interest Group (IG) and Working Group (WG) chairs are cc-ed so that they may welcome new members and add them to IG and WG lists/meeting invites. CC Chair or Communications WG Chair(s) adds new representatives to NDSA-All and updates website list/map. 
-   - If not approved, the CC Chair sends a formal notice to the applicant stating the reasons why membership was not approved.
+   - If approved, the CC Vice Chair sends a formal welcome to the applicant. Appropriate Interest Group (IG) and Working Group (WG) chairs are cc-ed so that they may welcome new members and add them to IG and WG lists/meeting invites. CC Vice Chair or Communications WG Chair(s) adds new representatives to NDSA-All and updates website list/map. 
+   - If not approved, the CC Vice Chair sends a formal notice to the applicant stating the reasons why membership was not approved.
 
