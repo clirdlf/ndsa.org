@@ -16,7 +16,7 @@ Although originally constituted as a US-centric organization, NDSA has since ope
 
 ### Who We Are
 
-Membership in the NDSA is at the institution level with currently over 250 [organizations](/members-list/) representing universities, government and non-profit organizations, commercial businesses and professional associations. Multiple individuals from each institution are encouraged to participate in NDSA activities.  
+Membership in the NDSA is at the institution level, with [{{ site.data.members.count }} members](/membership/members) representing universities, government and non-profit organizations, commercial businesses and professional associations. Multiple individuals from each institution are encouraged to participate in NDSA activities.  
 
 Activities of the NDSA most often take place through Interest and Working groups. Members of the NDSA are encouraged to join one or more [Interest and Working Groups](/working-groups/) and/or become chairs/co-chairs of the Groups.  
 
