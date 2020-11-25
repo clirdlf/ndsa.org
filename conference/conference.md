@@ -18,7 +18,7 @@ The NDSA strives to create a safe, accessible, welcoming, and inclusive event, a
 
 ### **Registration is now closed. Thank you for your interest.**
 
-The program for Digital Preservation 2020: Get Active With Digital Preservation is now available. [Browse the program.](https://forum2020.diglib.org/schedule)
+The program for Digital Preservation 2020: Get Active With Digital Preservation is now available. [Browse the program.](https://forum2020.diglib.org/schedule) [Slide decks are available on OSF.](https://osf.io/meetings/ndsa2020/)
 
 Registered for Digital Preservation 2020 and need to log in to your ConfTool account? You can do so by clicking [here](https://www.conftool.pro/dlf2020/).
 
