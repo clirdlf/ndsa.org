@@ -4,8 +4,8 @@ layout: page
 permalink: /publications/levels-of-digital-preservation/FAQ/
 ---
 Answers to frequently asked questions about the Levels of Digital Preservation are provided below. 
-### About the Levels
-- [About the Levels](#about-the-levels)
+### FAQ Questions about the Levels
+- [FAQ Questions about the Levels](#faq-questions-about-the-levels)
 - [Using the Levels](#using-the-levels)
 - [Questions and Answers](#questions-and-answers)
   - [What are the NDSA Levels of Preservation?](#what-are-the-ndsa-levels-of-preservation)
