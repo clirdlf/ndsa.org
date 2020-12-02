@@ -102,10 +102,11 @@ Tribesourceing Website Screenshot
 
 ## Past Award Recipients
 <!-- Innovation winners from [2012-2019](https://ndsa.org/groups/previous-innovation-awards/) are provided on a separate page. -->
-* [2019 Innovation Award Winners](https://ndsa.org//2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html)
+* [2020 Innovation Award Winners](https://ndsa.org/2020/11/12/ndsa-announces-winners-of-2020-innovation-awards.html)
+* [2019 Innovation Award Winners](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html)
 * [2018 Innovation Award Winners](https://ndsa.org/2018/10/17/announcing-the-2018-ndsa-award-winners.html)
-* [2017 Innovation Award Winners](http://localhost:4000/2017/10/25/announcing-the-2017-ndsa-award-winners.html)
-* [2016 Innovation Award Winners](https://ndsa.org//2016/11/09/announcing-the-2016-ndsa-award-winners.html)
+* [2017 Innovation Award Winners](http://ndsa.org/2017/10/25/announcing-the-2017-ndsa-award-winners.html)
+* [2016 Innovation Award Winners](https://ndsa.org/2016/11/09/announcing-the-2016-ndsa-award-winners.html)
 * [2015 Innovation Award Winners](http://blogs.loc.gov/digitalpreservation/2015/10/announcing-the-2015-innovation-award-winners/)
 * [2014 Innovation Award Winners](http://blogs.loc.gov/digitalpreservation/2014/05/software-digital-art-data-curation-archives-the-2014-ndsa-innovation-award-winners/?loclr=blogsig)
 * [2013 Innovation Award Winners](http://blogs.loc.gov/digitalpreservation/2013/06/and-the-winner-is-announcing-the-2013-ndsa-innovation-award-winners/)
