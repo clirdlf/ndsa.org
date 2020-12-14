@@ -24,7 +24,7 @@ The program for Digital Preservation 2020: Get Active With Digital Preservation 
 
 Registered for Digital Preservation 2020 and need to log in to your ConfTool account? You can do so by clicking [here](https://www.conftool.pro/dlf2020/).
 
-See our [Social and Wellness Activities](https://ndsa.org/conference/digital-preservation-2020/social-and-wellness/) to take a break from Zoom fatigue!
+See our [Social and Wellness Activities](/conference/digital-preservation-2020/social-and-wellness/) to take a break from Zoom fatigue!
 
 ### **Keynote: Jennifer Ferretti**
 
