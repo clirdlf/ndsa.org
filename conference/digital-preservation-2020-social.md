@@ -1,8 +1,8 @@
 ---
-title: Social and Wellness Activities
+title: Social and Wellness Activities for Digital Preservation 2020
 layout: page
-permalink: /conference/social-and-wellness-activities/
-redirect_from: /meetings/
+permalink: /conference/digital-preservation-2020/social-and-wellness/
+redirect_from: /conference/social-and-wellness-activities/
 ---
 
 <img alt="meetings" width="710" height="235" src='{{ "/images/DigiPres-2020-ONLINE-nov-12.jpg" | prepend: site.baseurl }}'>
