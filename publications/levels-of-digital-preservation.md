@@ -35,6 +35,9 @@ The Assessment Tool is available to help you use the Levels of Digital Preservat
 * [Assessment Tool Documentation and Resources](https://osf.io/m2fek/)
 * [Assessment Tool Template](https://osf.io/8ctpu/)
 
+### Curatorial Guidance
+A Digital Curation Decision Guide has been released that helps forms the basis of a series of decision points around collections and the implementation of a preservation strategy. The Guide has both a visual and prose version to explore from different angles the basic factors in complex infrastructure and collections management decisions. 
+* [Digital Curation Decision Guide](https://osf.io/q8c47/)
 
 ### Translations of the Levels of Digital Preservation
 Various documents from the Version 2.0 work have been translated into different languages by our partners.
