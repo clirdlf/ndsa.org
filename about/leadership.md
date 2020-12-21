@@ -130,7 +130,7 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Daniel Noonan, 2020 Vice Chair</h3>
+        <h3>Daniel Noonan, 2021 Chair</h3>
         <p>Dan (1st Term, 2020-2022) is an Associate Professor and the Digital Preservation Librarian for The Ohio State University Libraries (OSUL). Reporting to the Associate Director for Distinctive Collections and Digital Programs, Dan plays a key role
             in developing a trusted digital preservation ethos and infrastructure at OSUL. This position contributes strategy and expertise, and provides leadership through close collaboration with faculty, staff, and other leaders in OSUL’s Digital Programs,
             Preservation and Digitization, Distinctive Collections, Content and Access, Archival Description and Access, and Publishing and Repository Services groups. Previously, he was OSUL’s Electronic Records/Digital Resources Archivist and Electronic
@@ -176,7 +176,7 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Nathan Tallman</h3>
+        <h3>Nathan Tallman, 2021 Vice Chair</h3>
         <p>Nathan Tallman (1st Term, 2020-2022) is Digital Preservation Librarian at Penn State University Libraries where he coordinates policies, workflows and best practices to ensure the long-term preservation and accessibility of PSU Libraries’ born-digital
             and digitized collections. He is Product Owner for PSU Libraries digital collections repository. He also advises on equipment, infrastructure, and vendors for Penn State digital content. Prior to his arrival at Penn State, Nathan was the Digital
             Content Strategist at the University of Cincinnati and Associate Archivist at the American Jewish Archives. He is also an active member of Academic Preservation Trust where he chairs the Bagging Best Practices Interest Group.
@@ -204,18 +204,7 @@ redirect_from: /leadership/
 
 <h2>Interest and Working Group Chairs</h2>
 
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Laura Alagna</h3>
-        <p>Laura Alagna (Storage Survey Working Group Chair) is the Digital Preservation Librarian at Northwestern University Libraries, where she has developed and implemented policies and workflows for preserving born-digital and digitized content, and
-            serves as the subject matter expert in digital preservation on the Libraries' digital collections application development team. Prior to this, Laura managed the digital archiving program at the Special Collections Research Center of the University
-            of Chicago. She is an active member of the BitCurator Consortium, where she chairs the Program Committee and is on the Executive Council, and is an appointed member of the Illinois State Historical Records Advisory Board. She received her
-            MLIS from the University of Illinois School of Information Sciences.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Laura Alagna" src="{{ '/images/coordinating-committee/Alagna.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -246,6 +235,17 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Eric Lopatin</h3>
+        <p>Eric Lopatin (Infrastructure Interest Group Co-Chair) is Product Manager for the California Digital Library's digital preservation initiatives, including the Merritt repository that preserves library special collection content from libraries across all ten University of California campuses, as well as eScholarship publications, ETDs, and datasets submitted to Dryad from organizations worldwide. In this role, he leads the product development of Merritt and its integration with CDL systems, while also directly supporting campus-specific preservation efforts. Through ongoing UC-systemwide initiatives, he helps promote the adoption of digital preservation best practices and associated technologies. Prior to joining CDL, Eric worked at the Public Library of Science where he was product owner for a development team focused on bolstering editorial process efficiency across journal operations. His recent work in Open Access publishing, as well as a string of years spent at Adobe Systems enabling cross-application workflows and shared technology, have all contributed to his interests in the realms of preservation, publishing and software development.
+        </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Eric Lopatin" src="{{ '/images/coordinating-committee/ELopatin2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Krista Oldham</h3>
         <p>Krista Oldham (Innovations Award Working Group Co-Chair) is the University Archivist at Clemson University, where her responsibilities include overseeing the acquisition, description, and preservation of University records, as well as supporting
             and promoting their use. Additionally, Krista is responsible for assisting in developing and managing a comprehensive, institution-wide records management program. She earned a M.I.S. from the University of Tennessee, Knoxville and earned
@@ -262,7 +262,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Tricia Patterson</h3>
-        <p>Tricia Patterson (DigiPres 2020 Vice Chair/2021 Chair) is a Digital Preservation Analyst at Harvard Library, where she champions communication with the future by ensuring long-term stewardship and usability of Harvard’s digital historical assets. Centrally positioned, she supports programmatic activities for the digital repository, web and email archiving, digital forensics, and other related enterprises across the Library. Prior to joining Harvard University, she was a National Digital Stewardship Resident (NDSR) at MIT Libraries, where she researched and documented digital preservation workflows. Tricia has served as a coordinator for the SAA Research Forum, an inaugural NDSR Advisory Group member, and she co-developed and instructs an SAA DAS course on email archiving.</p>
+        <p>Tricia Patterson (DigiPres 2021 Chair) is a Digital Preservation Analyst at Harvard Library, where she champions communication with the future by ensuring long-term stewardship and usability of Harvard’s digital historical assets. Centrally positioned, she supports programmatic activities for the digital repository, web and email archiving, digital forensics, and other related enterprises across the Library. Prior to joining Harvard University, she was a National Digital Stewardship Resident (NDSR) at MIT Libraries, where she researched and documented digital preservation workflows. Tricia has served as a coordinator for the SAA Research Forum, an inaugural NDSR Advisory Group member, and she co-developed and instructs an SAA DAS course on email archiving.</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" class="img-responsive" alt="Tricia Patterson" src="{{ '/images/coordinating-committee/Patterson_T2020.JPG' | prepend: site.baseurl }}">
@@ -293,18 +293,7 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Matt Schultz</h3>
-        <p>Matt Schultz (Content Interest Group Co-Chair/Infrastructure Interest Group Co-Chair) is the Director of Digital Curation and Preservation Programs at the Educopia Institute where he provides facilitation for Educopia’s Affiliated Communities that are focused on curation and preservation. Schultz works with leaders in these Communities and the team at Educopia to develop services and engage in ongoing research, development, and documentation of best practices for their mutual benefit
-            and the advancement of the field. He holds a B.A. in History from GVSU (2007) and a Master of Science in Information (MSI) from the University of Michigan (2009). Schultz is also the founder of Fringe Digital, a research and program consultancy
-            that specializes in helping cultural institutions, content creators, and other organizations pursue sustainable and open source solutions in the digital age. As a proud member of the Nottawaseppi Huron Band of the Potawatomi, Schultz actively
-            seeks to advance projects aimed at decolonizing and indigenizing data, digital technologies, and the internet. He lives in West Michigan with his partner, two children, and their pit bull named Parker.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Matt Schultz" src="{{ '/images/coordinating-committee/Schultz.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -345,3 +334,27 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Aliya Reich" src="{{ '/images/coordinating-committee/Reich2020.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
+<!--<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Laura Alagna</h3>
+        <p>Laura Alagna (Storage Survey Working Group Chair) is the Digital Preservation Librarian at Northwestern University Libraries, where she has developed and implemented policies and workflows for preserving born-digital and digitized content, and
+            serves as the subject matter expert in digital preservation on the Libraries' digital collections application development team. Prior to this, Laura managed the digital archiving program at the Special Collections Research Center of the University
+            of Chicago. She is an active member of the BitCurator Consortium, where she chairs the Program Committee and is on the Executive Council, and is an appointed member of the Illinois State Historical Records Advisory Board. She received her
+            MLIS from the University of Illinois School of Information Sciences.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Laura Alagna" src="{{ '/images/coordinating-committee/Alagna.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>-->
+<!--<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Matt Schultz</h3>
+        <p>Matt Schultz (Content Interest Group Co-Chair/Infrastructure Interest Group Co-Chair) is the Director of Digital Curation and Preservation Programs at the Educopia Institute where he provides facilitation for Educopia’s Affiliated Communities that are focused on curation and preservation. Schultz works with leaders in these Communities and the team at Educopia to develop services and engage in ongoing research, development, and documentation of best practices for their mutual benefit
+            and the advancement of the field. He holds a B.A. in History from GVSU (2007) and a Master of Science in Information (MSI) from the University of Michigan (2009). Schultz is also the founder of Fringe Digital, a research and program consultancy
+            that specializes in helping cultural institutions, content creators, and other organizations pursue sustainable and open source solutions in the digital age. As a proud member of the Nottawaseppi Huron Band of the Potawatomi, Schultz actively
+            seeks to advance projects aimed at decolonizing and indigenizing data, digital technologies, and the internet. He lives in West Michigan with his partner, two children, and their pit bull named Parker.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Matt Schultz" src="{{ '/images/coordinating-committee/Schultz.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>-->
