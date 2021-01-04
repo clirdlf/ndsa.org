@@ -55,11 +55,17 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Bradley Daigle, 2020 Chair</h3>
-        <p>Bradley Daigle (1st term, 2016-20) (Levels of Preservation co-chair) is content and strategic expert for the Academic Preservation Trust and other external partnerships at the University of Virginia Library. He also works on copyright issues related to digital collections. Currently he is also Chair of the Virginia Heritage Governance Team. Having been in the library profession for over fifteen years, he has published and presented on a wide range of topics including mass digitization, digital curation and stewardship, sustaining digital scholarship, intellectual property issues, mentoring in libraries, and digital preservation. In addition to his professional field, his research interests also include the history of the book, natural history, and early modern British literature. He received his MA in literature from the University of Montreal and an MLS from Catholic University.</p>
+        <h3>Daniel Noonan, 2021 Chair</h3>
+        <p>Dan (1st Term, 2020-2022) is an Associate Professor and the Digital Preservation Librarian for The Ohio State University Libraries (OSUL). Reporting to the Associate Director for Distinctive Collections and Digital Programs, Dan plays a key role
+            in developing a trusted digital preservation ethos and infrastructure at OSUL. This position contributes strategy and expertise, and provides leadership through close collaboration with faculty, staff, and other leaders in OSUL’s Digital Programs,
+            Preservation and Digitization, Distinctive Collections, Content and Access, Archival Description and Access, and Publishing and Repository Services groups. Previously, he was OSUL’s Electronic Records/Digital Resources Archivist and Electronic
+            Records Manager/Archivist. Simultaneously, Dan was an adjunct faculty member for Kent State University, teaching an archives foundations course. Prior to joining OSUL, he was the Supervisor for Electronic Records Management for the State of
+            New Jersey, and the Digital Documents Librarian for the New Jersey Institute of Technology. Dan has an extensive service record including co-chairing NDSA's Levels of Preservation Revision Work Group, teaching for the Society of American Archivists'
+            Digital Archives Specialist program, and serving both as a faculty member (2012-2015 teaching digital strategies) and on the Steering Committee (2012-2018) of the Archives Leadership Institute.
+        </p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Bradley Daigle" src="{{ " /images/coordinating-committee/daigle.png " | prepend: site.baseurl }}">
+        <img class="img-responsive" class="img-responsive" alt="Dan Noonan" src="{{ '/images/coordinating-committee/Noonan2020.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
 
@@ -80,7 +86,7 @@ redirect_from: /leadership/
 </div>
 
 
-<div class="row coordinating-committee">
+<!-- <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Karen Cariani</h3>
         <p>Karen Cariani (1st term, 2017-20) is The David O. Ives Executive Director of the WGBH Media Library and Archives (MLA) and WGBH Project Director for the American Archive of Public Broadcasting (AAPB). The MLA provides access to the WGBH archives
@@ -96,7 +102,17 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Karen Cariani" src="{{ " /images/coordinating-committee/Cariani.JPG " | prepend: site.baseurl }}">
     </div>
 </div>
+ -->
 
+ <div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Elizabeth England</h3>
+        <p>Elizabeth England (1st term, 2021-2023).</p>
+    </div>
+    <div class="col-sm-2">
+        <!-- <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/Mumma2020.jpg' | prepend: site.baseurl }}"> -->
+    </div>
+</div>
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -114,13 +130,10 @@ redirect_from: /leadership/
     </div>
 </div>
 
-
-
-
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Courtney Mumma</h3>
-        <p>Courtney C. Mumma (1st Term, 2020-2022), is a an archivist and a librarian. She is the Deputy Director of the Texas Digital Library consortium, a collective of university libraries working towards open, sustainable, and secure digital heritage
+        <p>Courtney C. Mumma (1st term, 2020-2022), is a an archivist and a librarian. She is the Deputy Director of the Texas Digital Library consortium, a collective of university libraries working towards open, sustainable, and secure digital heritage
             and scholarly communications. She has over a decade of experience in open source software development and maintenance, infrastructure support and digital preservation good practice and education.</p>
     </div>
     <div class="col-sm-2">
@@ -130,22 +143,14 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Daniel Noonan, 2021 Chair</h3>
-        <p>Dan (1st Term, 2020-2022) is an Associate Professor and the Digital Preservation Librarian for The Ohio State University Libraries (OSUL). Reporting to the Associate Director for Distinctive Collections and Digital Programs, Dan plays a key role
-            in developing a trusted digital preservation ethos and infrastructure at OSUL. This position contributes strategy and expertise, and provides leadership through close collaboration with faculty, staff, and other leaders in OSUL’s Digital Programs,
-            Preservation and Digitization, Distinctive Collections, Content and Access, Archival Description and Access, and Publishing and Repository Services groups. Previously, he was OSUL’s Electronic Records/Digital Resources Archivist and Electronic
-            Records Manager/Archivist. Simultaneously, Dan was an adjunct faculty member for Kent State University, teaching an archives foundations course. Prior to joining OSUL, he was the Supervisor for Electronic Records Management for the State of
-            New Jersey, and the Digital Documents Librarian for the New Jersey Institute of Technology. Dan has an extensive service record including co-chairing NDSA's Levels of Preservation Revision Work Group, teaching for the Society of American Archivists'
-            Digital Archives Specialist program, and serving both as a faculty member (2012-2015 teaching digital strategies) and on the Steering Committee (2012-2018) of the Archives Leadership Institute.
-        </p>
+        <h3>Jessica Neal</h3>
+        <p>Jessica Neal (1st term, 2021-2023).</p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" class="img-responsive" alt="Dan Noonan" src="{{ '/images/coordinating-committee/Noonan2020.jpg' | prepend: site.baseurl }}">
+        <!-- <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/Mumma2020.jpg' | prepend: site.baseurl }}"> -->
     </div>
 </div>
-
-
-<div class="row coordinating-committee">
+<!-- <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Sibyl Schaefer</h3>
         <p>Sibyl Schaefer (1st Term, 2017-20) manages the Chronopolis program and digital preservation initiatives for the University of California, San Diego. She previously served as the Head of Digital Programs for the Rockefeller Archive Center where
@@ -157,13 +162,12 @@ redirect_from: /leadership/
     <div class="col-sm-2">
         <img class="img-responsive" alt="Sibyl Schaefer" src="{{ '/images/coordinating-committee/Schaefer.jpg' | prepend: site.baseurl }}">
     </div>
-</div>
-
+</div> -->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Linda Tadic</h3>
-        <p>Linda Tadic (1st Term, 2019-20) is founder and CEO of Digital Bedrock, a managed digital preservation service provider that serves any type of organization, and even individuals. She has 30 years’ experience in leading preservation, metadata,
+        <p>Linda Tadic (2nd term, 2021-2023) is founder and CEO of Digital Bedrock, a managed digital preservation service provider that serves any type of organization, and even individuals. She has 30 years’ experience in leading preservation, metadata,
             and digital production operations at organizations such as ARTstor, HBO, the Media Archives and Peabody Awards Collection at the University of Georgia, and the Getty Research Institute. Currently an adjunct professor in UCLA’s Graduate School
             of Education and Information Studies teaching Digital Asset Management, she was previously an adjunct professor in NYU’s Moving Image Archiving and Preservation program (courses in collection management and cataloging and metadata). She consults
             and lectures on digital asset management, audiovisual and digital preservation, metadata, and copyright, with clients as diverse as WNET/Thirteen, the Academy of Motion Picture Arts and Sciences, SBS (Australia), Dunhuang Research Academy
@@ -187,7 +191,7 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<div class="row coordinating-committee">
+<!-- <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Paige Walker</h3>
         <p>Paige Walker (1st Term, 2019-20) is the Digital Collections & Preservation Librarian at Boston College, where she guides digital preservation and digital archiving activities for born-digital and digitized content. She’s particularly interested
@@ -199,12 +203,20 @@ redirect_from: /leadership/
     <div class="col-sm-2">
         <img class="img-responsive" alt="Paige Walker" src="{{ '/images/coordinating-committee/walker.jpg' | prepend: site.baseurl }}">
     </div>
-</div>
+</div> -->
 
 
 <h2>Interest and Working Group Chairs</h2>
 
-
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Bradley Daigle</h3>
+        <p>Bradley Daigle (Levels of Preservation co-chair) is content and strategic expert for the Academic Preservation Trust and other external partnerships at the University of Virginia Library. He also works on copyright issues related to digital collections. Currently he is also Chair of the Virginia Heritage Governance Team. Having been in the library profession for over fifteen years, he has published and presented on a wide range of topics including mass digitization, digital curation and stewardship, sustaining digital scholarship, intellectual property issues, mentoring in libraries, and digital preservation. In addition to his professional field, his research interests also include the history of the book, natural history, and early modern British literature. He received his MA in literature from the University of Montreal and an MLS from Catholic University.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Bradley Daigle" src="{{ " /images/coordinating-committee/daigle.png " | prepend: site.baseurl }}">
+    </div>
+</div>
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
