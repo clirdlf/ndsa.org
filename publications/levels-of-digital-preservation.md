@@ -25,6 +25,7 @@ On World Digital Preservation Day (November 5, 2020), the Levels of Digital Pres
 The Levels of Digital Preservation Matrix, shown above in color, is available in both color and black and white on the OSF site. The Matrix should be used in association with the working definitions document which gives further explanation on terms used within the grid.   
 * [Levels of Digital Preservation Matrix](https://osf.io/2mkwx/)
 * [Working Definitions of Terms](https://osf.io/rynmf/)
+* [Levels of Digital Preservation FAQ](https://docs.google.com/document/d/1jxj7hlV9LNO0grucz88CSyk_WHrc_uAQB-EYJjJvexY/edit?usp=sharing)
 
 ### Implementation Guidelines
 The Implementation Guidelines provide background information on the Levels of Digital Preservation project from 2013 and 2018, the thinkings of the group on changes that were made, working definitions of terms, and recommendations for implementing the LOP. 
