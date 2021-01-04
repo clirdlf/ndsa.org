@@ -85,32 +85,13 @@ redirect_from: /leadership/
     </div>
 </div>
 
-
-<!-- <div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Karen Cariani</h3>
-        <p>Karen Cariani (1st term, 2017-20) is The David O. Ives Executive Director of the WGBH Media Library and Archives (MLA) and WGBH Project Director for the American Archive of Public Broadcasting (AAPB). The MLA provides access to the WGBH archives
-            by providing circulation, accessioning, and preservation activities, in addition to licensing services. Karen has 30 plus years of television production and project management experience. She has been project director for numerous project
-            including: WGBH’s Teachers’ Domain, now PBS Learning Media; WGBH Open Vault, the Boston Local TV News Digital Library project and for development of a digital media preservation system utilizing the Hydra/Samvera technology in partnership
-            with Indiana University. She served two terms (2001-2005) on the Board of Directors of Association of Moving Image Archivists (AMIA). She was co-chair of the AMIA Local Television Task Force, and Project Director of the guidebook “Local Television:
-            A Guide To Saving Our Heritage,” funded by the NHPRC and co-chair of the AMIA Copyright and AMIA Open Source Committees. She was co-chair of the LOC National Stewardship Digital Alliance for the Infrastructure working group, and served as
-            president of Digital Commonwealth. Recent projects include WGBH Project Director for the American Archive for Public Broadcasting in partnership with the Library of Congress. She is active in the archive community and professional organizations
-            and passionate about the use of media archives and digital library collections for learning and education, but has a particular affinity for science.
-        </p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Karen Cariani" src="{{ " /images/coordinating-committee/Cariani.JPG " | prepend: site.baseurl }}">
-    </div>
-</div>
- -->
-
  <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Elizabeth England</h3>
-        <p>Elizabeth England (1st term, 2021-2023).</p>
+        <p>Elizabeth England (1st term, 2021-2023) is a Digital Preservation Specialist at the U.S. National Archives and Records Administration, where she participates in strategic and operational initiatives and services for the preservation of born-digital and digitized records of the federal government. In addition, she teaches an introduction to digital preservation continuing education course for the University of Wisconsin iSchool. Prior to joining NARA, Elizabeth was the Digital Archivist and a National Digital Stewardship Resident (NDSR) at Johns Hopkins University. Elizabeth currently serves on the NDSA Communications and Publications Working Group and has previously served on the Ivy Plus Libraries Consortium Web Collecting Advisory Group and NDSR Advisory Group.</p>
     </div>
     <div class="col-sm-2">
-        <!-- <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/Mumma2020.jpg' | prepend: site.baseurl }}"> -->
+         <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/England2020.jpg' | prepend: site.baseurl }}"> 
     </div>
 </div>
 
