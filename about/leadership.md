@@ -73,7 +73,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Stephen Abrams</h3>
-        <p>Stephen Abrams (1st term, 2019-21) (Innovation Award Working Group co-chair) is head of digital preservation at the Harvard Library, with responsibility for policy, strategy, and innovation regarding long-term stewardship of Harvard’s rich digital collections. He was project leader and
+        <p>Stephen Abrams (1st term, 2019-21; <a href="/groups/innovation-awards/">Innovation Award Working Group</a> co-chair) is head of digital preservation at the Harvard Library, with responsibility for policy, strategy, and innovation regarding long-term stewardship of Harvard’s rich digital collections. He was project leader and
             editor for the ISO 19005 PDF/A standard, project manager for the JHOVE and JHOVE2 format characterization systems, and principal investigator for the California state government web archive, Cobweb collaborative collection development, and
             Make Data Count data metric projects. His research interests are in cost and business models for sustainable digital library services, new modes of post-custodial curation, and metrics for evaluating digital preservation efficacy. Mr. Abrams
             was previously associate director of the UC Curation Center at the California Digital Library. He holds a BA in Mathematics from Boston University, an ALM in the History of Art and Architecture from Harvard University, and is pursuing a PhD
@@ -125,25 +125,12 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Jessica Neal</h3>
-        <p>Jessica Neal (1st term, 2021-2023).</p>
+        <p>Jessica C. Neal (1st term, 2021-2023; <a href="/conference/">2021 DigiPres</a> Vice Chair) is an archivist, records manager, and memory worker. She is currently the Sterling A. Brown Archivist at Williams College and Records Management Program Assistant at the Massachusetts Institute of Technology. Jes’ work centers archives, preservation, data management, and developing ethical frameworks to better steward digital collections and projects that specifically focus on Black led and created social movements, oral histories, and literary history and culture. Jes received her B.A. in African World Studies from Dillard University and her M.L.I.S in Archival Studies from the University of Wisconsin-Milwaukee. </p>
     </div>
     <div class="col-sm-2">
-        <!-- <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/Mumma2020.jpg' | prepend: site.baseurl }}"> -->
+        <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/Jes2020.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
-<!-- <div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Sibyl Schaefer</h3>
-        <p>Sibyl Schaefer (1st Term, 2017-20) manages the Chronopolis program and digital preservation initiatives for the University of California, San Diego. She previously served as the Head of Digital Programs for the Rockefeller Archive Center where
-            she worked to fully integrate digital and traditional archival practices, including policy development, forensic and accessioning workflows, and training initiatives to support the long-term stewardship of digitized and born digital materials.
-            Schaefer previously served as the Metadata Librarian for the University of Vermont’s Center for Digital Initiatives and as the User Services Liaison on the Archivists’ Toolkit project out of New York University. She has been recognized an
-            Emerging Leader by the American Library Association and has participated in the Archival Leadership Institute. She is a member of the Society of American Archivists’ Digital Archives Specialist (DAS) Committee, and was previously elected to
-            co-chair for the ALA Digital Preservation Interest Group. </p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Sibyl Schaefer" src="{{ '/images/coordinating-committee/Schaefer.jpg' | prepend: site.baseurl }}">
-    </div>
-</div> -->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -172,27 +159,12 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<!-- <div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Paige Walker</h3>
-        <p>Paige Walker (1st Term, 2019-20) is the Digital Collections & Preservation Librarian at Boston College, where she guides digital preservation and digital archiving activities for born-digital and digitized content. She’s particularly interested
-            in information and network security as they pertain to privacy issues with digital forensics workflows. As an active member of the NDSA and DLF, Paige has participated in the NDSA Web Archiving Survey and the DLF Born-Digital Access working
-            groups, and also co-leads the DLF Technologies of Surveillance Instruction & Outreach subgroup. Paige has a BA from UC Berkeley, an MSLIS from Simmons College, and is working on an MS in cybersecurity from Boston College. She spends her free
-            time volunteering with the Cyber Civil Rights Initiative to combat online hate crime.
-        </p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Paige Walker" src="{{ '/images/coordinating-committee/walker.jpg' | prepend: site.baseurl }}">
-    </div>
-</div> -->
-
-
 <h2>Interest and Working Group Chairs</h2>
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Bradley Daigle</h3>
-        <p>Bradley Daigle (Levels of Preservation co-chair) is content and strategic expert for the Academic Preservation Trust and other external partnerships at the University of Virginia Library. He also works on copyright issues related to digital collections. Currently he is also Chair of the Virginia Heritage Governance Team. Having been in the library profession for over fifteen years, he has published and presented on a wide range of topics including mass digitization, digital curation and stewardship, sustaining digital scholarship, intellectual property issues, mentoring in libraries, and digital preservation. In addition to his professional field, his research interests also include the history of the book, natural history, and early modern British literature. He received his MA in literature from the University of Montreal and an MLS from Catholic University.</p>
+        <p>Bradley Daigle (<a href="/groups/levels-of-preservation/">Levels of Digital Preservation</a> co-chair) is content and strategic expert for the Academic Preservation Trust and other external partnerships at the University of Virginia Library. He also works on copyright issues related to digital collections. Currently he is also Chair of the Virginia Heritage Governance Team. Having been in the library profession for over fifteen years, he has published and presented on a wide range of topics including mass digitization, digital curation and stewardship, sustaining digital scholarship, intellectual property issues, mentoring in libraries, and digital preservation. In addition to his professional field, his research interests also include the history of the book, natural history, and early modern British literature. He received his MA in literature from the University of Montreal and an MLS from Catholic University.</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Bradley Daigle" src="{{ " /images/coordinating-committee/daigle.png " | prepend: site.baseurl }}">
@@ -202,7 +174,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Felicity Dykas</h3>
-        <p>Felicity Dykas (Standards and Practices Interest Group Co-Chair) is Head of Digital Services at the University of Missouri (MU). In this role she oversees the work of MOspace, the University of Missouri institutional repository, the MU Digital Library, and digitization work. Prior roles include Cataloger and Head of the Catalog Department. Her current work interests include providing online access to information resources (now and into the future) by focusing on the development and use of international, national, and local standards for digital objects and metadata that enhances discoverability. Collaborating with others on digital projects also is a priority. As a mantra, Felicity frequently quotes the IFLA Library Reference Model user tasks: Our goal is to help our users Find, Identify, Select, Obtain, and Explore information resources. Felicity is active in ALA, with current membership on the Association of Library Collections and Technical Services Continuing Education Committee.</p>
+        <p>Felicity Dykas (<a href="/groups/standards-and-practices/">Standards and Practices Interest Group</a> Co-Chair) is Head of Digital Services at the University of Missouri (MU). In this role she oversees the work of MOspace, the University of Missouri institutional repository, the MU Digital Library, and digitization work. Prior roles include Cataloger and Head of the Catalog Department. Her current work interests include providing online access to information resources (now and into the future) by focusing on the development and use of international, national, and local standards for digital objects and metadata that enhances discoverability. Collaborating with others on digital projects also is a priority. As a mantra, Felicity frequently quotes the IFLA Library Reference Model user tasks: Our goal is to help our users Find, Identify, Select, Obtain, and Explore information resources. Felicity is active in ALA, with current membership on the Association of Library Collections and Technical Services Continuing Education Committee.</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Felicity Dykas" src="{{ '/images/coordinating-committee/Dykas2020.jpg' | prepend: site.baseurl }}">
@@ -213,7 +185,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Carol Kussmann</h3>
-        <p>Carol Kussmann (Communications and Publications Working Group Chair) is the Digital Preservation Analyst at the University of Minnesota Libraries. In this role, she works across many departments within the Libraries, as well as outside
+        <p>Carol Kussmann (<a href="/groups/communications-publications/">Communications and Publications Working Group</a> Chair) is the Digital Preservation Analyst at the University of Minnesota Libraries. In this role, she works across many departments within the Libraries, as well as outside
             the Libraries including through the statewide Minnesota Digital Library Program. She addresses current and future requirements for the long-term preservation of electronic records in the areas of archives and special collections, information
             and data repositories, and journal publishing. As co-chair of the Libraries Electronic Records Task Force her efforts focus on developing and implementing workflows for ingesting, processing, and providing access to incoming electronic materials
             that are part of the Archives and Special Collections units. As an inaugural Digital Preservation Outreach and Education (DPOE) trainer, she works with Minitex to provide digital preservation training in the region on a regular basis. After
@@ -229,7 +201,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Eric Lopatin</h3>
-        <p>Eric Lopatin (Infrastructure Interest Group Co-Chair) is Product Manager for the California Digital Library's digital preservation initiatives, including the Merritt repository that preserves library special collection content from libraries across all ten University of California campuses, as well as eScholarship publications, ETDs, and datasets submitted to Dryad from organizations worldwide. In this role, he leads the product development of Merritt and its integration with CDL systems, while also directly supporting campus-specific preservation efforts. Through ongoing UC-systemwide initiatives, he helps promote the adoption of digital preservation best practices and associated technologies. Prior to joining CDL, Eric worked at the Public Library of Science where he was product owner for a development team focused on bolstering editorial process efficiency across journal operations. His recent work in Open Access publishing, as well as a string of years spent at Adobe Systems enabling cross-application workflows and shared technology, have all contributed to his interests in the realms of preservation, publishing and software development.
+        <p>Eric Lopatin (<a href="/groups/infrastructure/">Infrastructure Interest Group</a> Co-Chair) is Product Manager for the California Digital Library's digital preservation initiatives, including the Merritt repository that preserves library special collection content from libraries across all ten University of California campuses, as well as eScholarship publications, ETDs, and datasets submitted to Dryad from organizations worldwide. In this role, he leads the product development of Merritt and its integration with CDL systems, while also directly supporting campus-specific preservation efforts. Through ongoing UC-systemwide initiatives, he helps promote the adoption of digital preservation best practices and associated technologies. Prior to joining CDL, Eric worked at the Public Library of Science where he was product owner for a development team focused on bolstering editorial process efficiency across journal operations. His recent work in Open Access publishing, as well as a string of years spent at Adobe Systems enabling cross-application workflows and shared technology, have all contributed to his interests in the realms of preservation, publishing and software development.
         </p>
     </div>
     <div class="col-sm-2">
@@ -240,7 +212,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Krista Oldham</h3>
-        <p>Krista Oldham (Innovations Award Working Group Co-Chair) is the University Archivist at Clemson University, where her responsibilities include overseeing the acquisition, description, and preservation of University records, as well as supporting
+        <p>Krista Oldham (<a href="/groups/innovation-awards/">Innovations Award Working Group</a> Co-Chair) is the University Archivist at Clemson University, where her responsibilities include overseeing the acquisition, description, and preservation of University records, as well as supporting
             and promoting their use. Additionally, Krista is responsible for assisting in developing and managing a comprehensive, institution-wide records management program. She earned a M.I.S. from the University of Tennessee, Knoxville and earned
             both a M.A. in History and a B.A. in History from the University of Arkansas, Fayetteville. Prior to starting her position at Clemson, Krista worked at Haverford College as the College Archivist/Records Manager for Quaker and Special Collections
             and at the University of Arkansas, Fayetteville Special Collections as the Senior Archivist and the Senior Archives Manager. In addition to her archival work, Krista served as Co-Director of the Arkansas Delta Oral History Project, an initiative
@@ -255,7 +227,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Tricia Patterson</h3>
-        <p>Tricia Patterson (DigiPres 2021 Chair) is a Digital Preservation Analyst at Harvard Library, where she champions communication with the future by ensuring long-term stewardship and usability of Harvard’s digital historical assets. Centrally positioned, she supports programmatic activities for the digital repository, web and email archiving, digital forensics, and other related enterprises across the Library. Prior to joining Harvard University, she was a National Digital Stewardship Resident (NDSR) at MIT Libraries, where she researched and documented digital preservation workflows. Tricia has served as a coordinator for the SAA Research Forum, an inaugural NDSR Advisory Group member, and she co-developed and instructs an SAA DAS course on email archiving.</p>
+        <p>Tricia Patterson (<a href="/conference/">2021 DigiPres</a> Chair) is a Digital Preservation Analyst at Harvard Library, where she champions communication with the future by ensuring long-term stewardship and usability of Harvard’s digital historical assets. Centrally positioned, she supports programmatic activities for the digital repository, web and email archiving, digital forensics, and other related enterprises across the Library. Prior to joining Harvard University, she was a National Digital Stewardship Resident (NDSR) at MIT Libraries, where she researched and documented digital preservation workflows. Tricia has served as a coordinator for the SAA Research Forum, an inaugural NDSR Advisory Group member, and she co-developed and instructs an SAA DAS course on email archiving.</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" class="img-responsive" alt="Tricia Patterson" src="{{ '/images/coordinating-committee/Patterson_T2020.JPG' | prepend: site.baseurl }}">
@@ -265,7 +237,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Leah Prescott</h3>
-        <p>Leah Prescott (Infrastructure Interest Group Co-Chair) is the Associate Director for Digital Initiatives and Special Collections at Georgetown University Law Library, where she is responsible for the digital curation lifecycle, from the development
+        <p>Leah Prescott (<a href="/groups/infrastructure/">Infrastructure Interest Group</a> Co-Chair) is the Associate Director for Digital Initiatives and Special Collections at Georgetown University Law Library, where she is responsible for the digital curation lifecycle, from the development
             of a production digitization program for all types of library media, to providing access to digital materials in multiple repositories, to the implementation of a preservation strategy that is in-line with best practices. She is also responsible
             for Conservation staff at the library, and for the Special Collections Department with collections that include manuscripts, archives, rare books and the specialized National Equal Justice Library. Previously Leah was the Digital Projects
             Coordinator at the Getty Research Institute in Los Angeles, where she participated in research and development of digital solutions, including digital repositories for access and preservation, mass digitization projects, and initiatives to
@@ -279,7 +251,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Linda Reynolds</h3>
-        <p>Linda Reynolds (Standards and Practices Interest Group Co-Chair) is the Director of the East Texas Research Center at Stephen F. Austin State University (SFA) in Nacogdoches, Texas.  She is responsible for overseeing all aspects of archival work from paper processing to digital preservation.  Since there is no digital archivist at SFA, she has taken on that responsibility.  She is a one woman digital show and has thrown herself into the deep end of the digital pool to bring SFA’s chaotic digital assets into a manageable system. She advises and works with many cultural heritage institutions and community members in the east Texas area on processing, preservation, and providing access of digital and non-digital material.</p>
+        <p>Linda Reynolds (<a href="/groups/standards-and-practices/">Standards and Practices Interest Group</a> Co-Chair) is the Director of the East Texas Research Center at Stephen F. Austin State University (SFA) in Nacogdoches, Texas.  She is responsible for overseeing all aspects of archival work from paper processing to digital preservation.  Since there is no digital archivist at SFA, she has taken on that responsibility.  She is a one woman digital show and has thrown herself into the deep end of the digital pool to bring SFA’s chaotic digital assets into a manageable system. She advises and works with many cultural heritage institutions and community members in the east Texas area on processing, preservation, and providing access of digital and non-digital material.</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Linda Reynolds" src="{{ '/images/coordinating-committee/ReynoldsLinda2020.jpg' | prepend: site.baseurl }}">
@@ -291,7 +263,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Deb Verhoff</h3>
-        <p>Deb Verhoff (Content Interest Group Co-Chair) is the digital collections manager for NYU Libraries with responsibility for planning repository services. In her role within the digital library technology services team, she guides digital preservation activities for born digital and digitized content. Prior to joining NYU, Deb worked as an arts librarian and led a digital library project for Robert Wilson's Watermill Center. She holds a Masters in Fine Arts from the School of the Museum of Fine Arts, Boston and a Masters in Library and Information Science from Simmons College. 
+        <p>Deb Verhoff (<a href="/groups/content/">Content Interest Group</a> Co-Chair) is the digital collections manager for NYU Libraries with responsibility for planning repository services. In her role within the digital library technology services team, she guides digital preservation activities for born digital and digitized content. Prior to joining NYU, Deb worked as an arts librarian and led a digital library project for Robert Wilson's Watermill Center. She holds a Masters in Fine Arts from the School of the Museum of Fine Arts, Boston and a Masters in Library and Information Science from Simmons College. 
         </p>
     </div>
     <div class="col-sm-2">
@@ -306,7 +278,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Trevor Owens</h3>
-        <p>Dr. Trevor Owens (Coordinating Committee, DLF representative) is a librarian, researcher, policy maker, and educator working on digital infrastructure for libraries. Owens serves as the first Head of Digital Content Management for Library Services
+        <p>Dr. Trevor Owens (Coordinating Committee, <a href="https://www.diglib.org/">DLF</a> representative) is a librarian, researcher, policy maker, and educator working on digital infrastructure for libraries. Owens serves as the first Head of Digital Content Management for Library Services
             at the Library of Congress. In addition, he teaches graduate seminars in digital history for American University’s History Department and graduate seminars and digital preservation for the University of Maryland’s College of Information, where
             he is also a Research Affiliate with the Digital Curation Innovation Center. Owens is the author of three books, including The Theory and Craft of Digital Preservation and Designing Online Communities: How Designers, Developers, Community
             Managers, and Software Structure Discourse and Knowledge Production on the Web. His research and writing has been featured in: Curator: The Museum Journal, Digital Humanities Quarterly, The Journal of Digital Humanities, D-Lib, Simulation
@@ -319,7 +291,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Aliya Reich</h3>
-        <p>Aliya Reich (CLIR/DLF representative) is CLIR/DLF’s Program Manager for Conferences and Events, where she leads the planning team that puts on the DLF Forum and its affiliated events, including support for NDSA’s Digital Preservation conference. She also works closely with IIIF, another CLIR affiliate, and their event management team. Aliya’s academic background is in art history and museums, and she’s held positions at Historic Annapolis, the Phillips Collection, the National Building Museum, the Walters Art Museum, and the National Gallery of Art. In her spare time she coaches running with Charm City Run, leads Pacing for Parkinson’s, a charity running team at the Baltimore Running Festival, and is a Big Sister through Big Brothers Big Sisters at the Y of Central Maryland. She earned her MA in Art History at Washington University in St. Louis and her BA in Art History and French from the University of Virginia.
+        <p>Aliya Reich (<a href="https://www.clir.org/">CLIR</a>/<a href="https://www.diglib.org/">DLF</a> representative) is CLIR/DLF’s Program Manager for Conferences and Events, where she leads the planning team that puts on the DLF Forum and its affiliated events, including support for NDSA’s Digital Preservation conference. She also works closely with IIIF, another CLIR affiliate, and their event management team. Aliya’s academic background is in art history and museums, and she’s held positions at Historic Annapolis, the Phillips Collection, the National Building Museum, the Walters Art Museum, and the National Gallery of Art. In her spare time she coaches running with Charm City Run, leads Pacing for Parkinson’s, a charity running team at the Baltimore Running Festival, and is a Big Sister through Big Brothers Big Sisters at the Y of Central Maryland. She earned her MA in Art History at Washington University in St. Louis and her BA in Art History and French from the University of Virginia.
 
  </p>
     </div>
@@ -327,27 +299,3 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Aliya Reich" src="{{ '/images/coordinating-committee/Reich2020.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
-<!--<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Laura Alagna</h3>
-        <p>Laura Alagna (Storage Survey Working Group Chair) is the Digital Preservation Librarian at Northwestern University Libraries, where she has developed and implemented policies and workflows for preserving born-digital and digitized content, and
-            serves as the subject matter expert in digital preservation on the Libraries' digital collections application development team. Prior to this, Laura managed the digital archiving program at the Special Collections Research Center of the University
-            of Chicago. She is an active member of the BitCurator Consortium, where she chairs the Program Committee and is on the Executive Council, and is an appointed member of the Illinois State Historical Records Advisory Board. She received her
-            MLIS from the University of Illinois School of Information Sciences.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Laura Alagna" src="{{ '/images/coordinating-committee/Alagna.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>-->
-<!--<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Matt Schultz</h3>
-        <p>Matt Schultz (Content Interest Group Co-Chair/Infrastructure Interest Group Co-Chair) is the Director of Digital Curation and Preservation Programs at the Educopia Institute where he provides facilitation for Educopia’s Affiliated Communities that are focused on curation and preservation. Schultz works with leaders in these Communities and the team at Educopia to develop services and engage in ongoing research, development, and documentation of best practices for their mutual benefit
-            and the advancement of the field. He holds a B.A. in History from GVSU (2007) and a Master of Science in Information (MSI) from the University of Michigan (2009). Schultz is also the founder of Fringe Digital, a research and program consultancy
-            that specializes in helping cultural institutions, content creators, and other organizations pursue sustainable and open source solutions in the digital age. As a proud member of the Nottawaseppi Huron Band of the Potawatomi, Schultz actively
-            seeks to advance projects aimed at decolonizing and indigenizing data, digital technologies, and the internet. He lives in West Michigan with his partner, two children, and their pit bull named Parker.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Matt Schultz" src="{{ '/images/coordinating-committee/Schultz.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>-->
