@@ -81,7 +81,7 @@ redirect_from: /leadership/
         </p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Stephen Abrams" src="{{ " /images/coordinating-committee/Abrams.jpg " | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Stephen Abrams" src="{{ '/images/coordinating-committee/Abrams.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
 
@@ -160,7 +160,15 @@ redirect_from: /leadership/
 </div>
 
 <h2>Interest and Working Group Chairs</h2>
-
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Brenda Burk</h3>
+        <p>Brenda Burk (<a href="/groups/content/">Content Interest Group</a> Co-Chair) joined Clemson University Libraries in 2014 as the Head of Special Collections.  As part of the Clemson University Libraries, the Special Collections and Archives houses the University Archives, Records Management, Manuscript Collections, and Rare Books.  Previously she was the Philanthropic Studies Archivist at IUPUI University Library and Public Records Archivist at the Wisconsin Historical Society.  In her current position, she continues to build a premier research collection that supports the university and creates an environment encouraging scholarly inquiry, creative thinking, and lifelong learning.  Her research interests include information seeking behaviors of users, course-integrated instruction, public awareness and perceptions of archives.  Brenda graduated from the University of Wisconsin-Madison with a BA in History and a MA in Library and Information Studies with an emphasis in archival administration.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Brenda Burk" src="{{ '/images/coordinating-committee/Burk2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Bradley Daigle</h3>
@@ -267,7 +275,7 @@ redirect_from: /leadership/
         </p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Nathan Tallman" src="{{ '/images/coordinating-committee/verhoff2020.jpg' | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Deb Verhoff" src="{{ '/images/coordinating-committee/verhoff2020.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
 
