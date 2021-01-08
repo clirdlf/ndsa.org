@@ -149,9 +149,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Nathan Tallman, 2021 Vice Chair</h3>
-        <p>Nathan Tallman (1st Term, 2020-2022) is Digital Preservation Librarian at Penn State University Libraries where he coordinates policies, workflows and best practices to ensure the long-term preservation and accessibility of PSU Libraries’ born-digital
-            and digitized collections. He is Product Owner for PSU Libraries digital collections repository. He also advises on equipment, infrastructure, and vendors for Penn State digital content. Prior to his arrival at Penn State, Nathan was the Digital
-            Content Strategist at the University of Cincinnati and Associate Archivist at the American Jewish Archives. He is also an active member of Academic Preservation Trust where he chairs the Bagging Best Practices Interest Group.
+        <p>Nathan Tallman (1st Term, 2020-2022) is Digital Preservation Librarian at Penn State University Libraries where he coordinates policies, workflows and best practices to ensure the long-term preservation and accessibility of PSU Libraries’ born-digital and digitized collections. He also advises on equipment, infrastructure, and vendors for Penn State digital content. Nathan serves on the APTrust Governing Board and MetaArchive Cooperative Steering Committee. Prior to his arrival at Penn State, Nathan was the Digital Content Strategist at the University of Cincinnati and Associate Archivist at the American Jewish Archives.
         </p>
     </div>
     <div class="col-sm-2">
