@@ -22,6 +22,8 @@ On World Digital Preservation Day (November 5, 2020), the Levels of Digital Pres
 * Bradley Daigle (chair), Partnerships and Content Lead, Academic Preservation Trust (APTrust)
 * Karen Cariani, The David O. Ives Executive Director of the WGBH Media Library and Archives
 * Carol Kussmann, Digital Preservation Analyst, University of Minnesota Libraries
+* Nancy McGovern, Director Digital Preservation, MIT Libraries
+* Jenny Mitcham, Head of Good Practice and Standards, Digital Preservation Coalition
 * Nathan Tallman, Digital Preservation Librarian, Penn State University Libraries
 * Lauren Work, Digital Preservation Librarian, University of Virginia Libraries
 
