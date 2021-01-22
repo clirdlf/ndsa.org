@@ -43,6 +43,7 @@ A Digital Curation Decision Guide has been released that helps forms the basis o
 ### Translations of the Levels of Digital Preservation
 Various documents from the Version 2.0 work have been translated into different languages by our partners.
 
+* FINNISH: Translations have been done for the Matrix and Assessment Tool.  Both can be found [here](https://www.digitalpreservation.fi/specifications/ndsalevels) or linked from the NDSA [OSF site](https://osf.io/69gpf/).
 * FRENCH: Translations have been done for the Matrix, Implementation Guidelines and Assessment Tool Documentation.  Translations are available from the [Bibliotheque nationale de France](https://hal-bnf.archives-ouvertes.fr/hal-02162334) or on the [OSF site](https://osf.io/9ya8c/).  Translations for Version 1 are also available.  
 * PORTUGUESE: A Portuguese translation has been made of the [Matrix](https://osf.io/3amnu/).
 * TURKISH: A Turkish translation has been made of the [Matrix](https://osf.io/c7ge3/) and [Implementation Guide](https://osf.io/fje6v/).
