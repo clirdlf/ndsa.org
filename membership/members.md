@@ -12,8 +12,7 @@ javascript:
 - /js/map.js
 - https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table.min.js
 ---
-<p>Browse
-  <!--geographically, -->or search and sort below!</p>
+<p>Browse geographically, or search and sort below!</p>
 <style>
   #map {
     height: 400px;
