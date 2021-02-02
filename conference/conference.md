@@ -11,9 +11,29 @@ The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membe
 The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code).
 
 ### 2021 DigiPres Organizing Committee
-A [call for volunteers for the 2021 Digital Preservation Conference](/2020/12/14/calls-for-volunteers-for-2021-digital-preservation-conference.html) has been issued.
-- Jes Neal (Vice-Chair)
-- Tricia Patterson (Chair)
+- Tricia Patterson, Harvard University (2021 Chair)
+- Jes Neal, Williams College (2021 Vice-Chair, 2022 Chair)
+- Rachel Appel, University of Pennsylvania Libraries
+- Heather Barnes, Wake Forest University
+- Moriah Caruso, University of Washington Libraries
+- Greg Colati, University of Connecticut
+- Chelsea Denault, Michigan Digital Preservation Network
+- Stacey Erdman, Arizona State University
+- Angela Fritz, University of Notre Dame
+- Deirdre Joyce, Syracuse University
+- Alex Kinnaman, Virginia Tech University Libraries
+- Monique Lassere, Houghton Library at Harvard University
+- Ruby Lorraine Martinez, University of Illinois at Urbana-Champaign
+- Krista Oldham, Clemson
+- Patrice-Andre "Max" Prud'homme, Oklahoma State University
+- Thomas Pulhamus, University of Delaware
+- Aliya Reich, CLIR/DLF
+- Amy Rudersdorf, AVP
+- Kim Schroeder, Wayne State University
+- Beth Shields, Oregon State University
+- Lance Stuchell, University of Michigan Library
+- Kristen Weischedel, IIT
+- Frederick Zarndt, Global Connexions
 
 ### Calendar and Past Meetings
 **Future Events:** For the latest on upcoming events, see our [NDSA calendar](/calendar). More events relevant to the NDSA's mission are to be found on the [DLF Community Calendar](https://www.diglib.org/opportunities/calendar/).
