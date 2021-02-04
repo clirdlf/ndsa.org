@@ -5,7 +5,7 @@
 ---
 
 
-The following is provided as a resource for interested members to know how to become a co-chair of an Interest or Working group and understand the responsibilties of being a co-chair.  
+The following is provided as a resource for interested members to know how to become a co-chair of an Interest or Working group and understand the responsibilities of being a co-chair.  
 
 ### What are my responsibilities?
 Co-chairs lead monthly calls around topics of interest to NDSA members and the digital curation community, contribute to the strategic planning for NDSA, participate in Leadership calls, update the group webpage, maintain group documentation, and may lead or collaborate on Working Group projects. Co-chairs are also expected to help create an annual roadmap of what the group hopes to accomplish during a given calendar year. It’s a great way to collaborate and contribute to the digital preservation and stewardship community.

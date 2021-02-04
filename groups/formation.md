@@ -9,7 +9,7 @@
 The Leadership team monitors activities of both Interest Groups and Working Groups to limit duplication of efforts and to suggest collaborations when groups start to discuss the same types of topics.
 * **Interest Group**: A group for discussion, idea sharing, activity sharing, and community building.  
 
-* **Working Group**: A group created to work on a particular project that produces a specific result, such as a report, usually time-bound. 
+* **Working Group**: A group created to work on a particular project that produces a specific result, such as a report. They can be one-time, cyclical, or ongoing. 
   
 ### Requirements
 * Groups must have at least one chair to help organize and facilitate the meetings, calls, and work to be done. For the sake of continuity, two co-chairs should be in place for each group.

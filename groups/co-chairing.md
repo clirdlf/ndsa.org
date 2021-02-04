@@ -25,7 +25,7 @@ Interest Groups or the NDSA Leadership may create new working groups as needs em
 
 Generally, most Interest Group co-chairs serve for two years, though some have served for more. Ideally, co-chair terms are staggered when possible so replacement for both chairs doesn’t happen in the same year. However, NDSA keeps the co-chair appointment time length flexible (read: no hard term limits or commitments) to allow for both leadership change and longevity of co-chair leadership as desired by community and Interest Group members.
 
-Working Group co-chairs usually serve throughout the duration of the Working Group, until it achieves the specific objectives or returns the relevant deliverables. Working groups that regularly activate and deactivate (e.g. Storage Survey Working Group) may have different co-chairs each time.
+Working Group co-chairs usually serve throughout the duration of the Working Group, until it achieves the specific objectives or returns the relevant deliverables. Working groups that regularly activate and deactivate (e.g. Storage Survey Working Group) may have different co-chairs each time. If a Working Group is ongoing, such as the Communications and Publication Group, the group should revisit their leadership annually.
 
 ## What is the time commitment?
 
