@@ -4,7 +4,7 @@ layout: page
 permalink: /groups/content/
 redirect_from: /working-groups/content/
 ---
-**Content Interest Group Co-Chairs:** Matt Schultz - schultzm [at] gvsu [dot] edu; Deb Verhoff - deb [dot] verhoff [at] nyu [dot] edu
+**Content Interest Group Co-Chairs:** Brenda Burk - bburk [at] clemson [dot] edu; Deb Verhoff - deb [dot] verhoff [at] nyu [dot] edu
 
 
 The Content Interest Group will intentionally engage the priorities and important resources promoted by the NDSA and the broader profession, and explore a broad array of topics related to preserving digital content, including: viable approaches to institutional collaboration; sharing strategies to address issues of scale and complexity; and the development of policies, practices, and community action to promote ethical and sustainable labor for digital stewardship.
@@ -12,8 +12,8 @@ The Content Interest Group will intentionally engage the priorities and importan
 *Take me to the [Content Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-CONTENT)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, please contact the coordinators.*
 
 ## Meetings
-  * The Content Interest Group meets the first Wednesday of each month at 11am EST.
-  * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/1CTacIgWFuBRlYUS7ZDxdtp174Vcd8g5f2RiRVR8hhVk/edit). 
+  * The Content Interest Group meets the first Wednesday of each month at 1pm EST.
+  * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/1ew5Ahid9eNto3T9Yk6pLWOko53rhIdTeJ_LbHItXVbE/edit). 
 
 
 ## Activities
