@@ -193,10 +193,9 @@ redirect_from: /leadership/
         <h3>Carol Kussmann</h3>
         <p>Carol Kussmann (<a href="/groups/communications-publications/">Communications and Publications Working Group</a> Chair) is the Digital Preservation Analyst at the University of Minnesota Libraries. In this role, she works across many departments within the Libraries, as well as outside
             the Libraries including through the statewide Minnesota Digital Library Program. She addresses current and future requirements for the long-term preservation of electronic records in the areas of archives and special collections, information
-            and data repositories, and journal publishing. As co-chair of the Libraries Electronic Records Task Force her efforts focus on developing and implementing workflows for ingesting, processing, and providing access to incoming electronic materials
+            and data repositories, and journal publishing. As co-chair of the Libraries Electronic Records Management Group her efforts focus on developing and implementing workflows for ingesting, processing, and providing access to incoming electronic materials
             that are part of the Archives and Special Collections units. As an inaugural Digital Preservation Outreach and Education (DPOE) trainer, she works with Minitex to provide digital preservation training in the region on a regular basis. After
-            completing the initial implementation work for the Council of State Archivists’ (CoSA) Electronic Records Resource Center she remains a member of CoSA’s Tools and Resources Subcommittee. Other current activities include serving on the Steering
-            Committee of the Electronic Records Section of the Society of American Archivists (SAA) and teaching Digital Archives Specialist courses for SAA.
+            completing the initial implementation work for the Council of State Archivists’ (CoSA) Electronic Records Resource Center she remains a member of CoSA’s Tools and Resources Subcommittee. Other current activities include teaching Digital Archives Specialist courses for the Society of American Archivists.
         </p>
     </div>
     <div class="col-sm-2">
