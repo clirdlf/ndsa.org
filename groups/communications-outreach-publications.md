@@ -18,3 +18,11 @@ The Communications and Publications Working Group generally meets monthly but al
 - Social media posts to Twitter
 - Assisting NDSA Leadership with internal documentation
 
+## Group Members
+- Carol Kussmann, Digital Preservation Analyst, University of Minnesota Libraries (co-chair)
+- Elizabeth England, Digital Preservation Specialist, U.S National Archives and Records Administration (NARA) (social media specialist)
+- Grete Graf, Digital Preservation Librarian, Yale University Library
+- Sadie Menchen, Digital Strategist, Smith College Libraries
+- Kathryn Michaelis, Digital Preservation Program Manager, Emory University Libraries (publication specialist)
+- Nathan Tallman, Digital Preservation Librarian, Penn State 
+- Lauren Work, Digital Preservation Librarian, University of Virginia Library
