@@ -37,8 +37,8 @@
 <h4><a href="/conference/">Conference Planning Program Committee (annually)</a></h4>
 <ul><li><p>Working to plan all aspects of the DigiPres Conference.  Including: choosing theme, reviewing conference proposals, selecting keynotes and more.</p></li></ul>
 
-<h4><a href="/groups/fixity/">Fixity (2016-2017)</a></h4>
-<ul><li><p>Created to address the “… clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements” raised in the 2015 NDSA National Agenda. This group produced the 2017 Fixity Survey Report as a result of their work.</p></li></ul>
+<h4><a href="/groups/fixity/">Fixity (cyclical)</a></h4>
+<ul><li><p>Created to address the “… clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements” raised in the 2015 NDSA National Agenda. This group produced the 2017 Fixity Survey Report as a result of their work. A 2021 survey is in progress.</p></li></ul>
 
 <h4><a href="/groups/innovation-awards/">Innovation Awards (annually)</a></h4>
 <ul><li><p>Administering awards that highlight and commend creative individuals, projects, organizations, and future stewards demonstrating originality and excellence in their contributions to the field of digital preservation. Awards are given out at the DigiPres conference.</p></li></ul>
