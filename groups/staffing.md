@@ -5,7 +5,7 @@ permalink: /groups/staffing/
 redirect_from: /working-groups/staffing/
 ---
 
-The Staffing Survey Working Group is re-forming in 2021 to work to gather new data on staffing practices. This survey will build off the previous 2012 and 2017 surveys, with redesign of the survey to incorporate new areas for data collection. As was the case after the 2012 and 2017 surveys, a report will be published with the results. The goal is to better understand current staffing levels, needs, and demographics around the area of digital preservation, and changes over time.
+The Staffing Survey Working Group is re-forming in 2021 to work to gather new data on staffing practices. This survey will build off the previous 2012 and 2017 surveys, with redesign  of the survey to incorporate new areas for data collection. As was the case after the 2012 and 2017 surveys, a report will be published with the results. The goal is to better understand current staffing levels, needs, and demographics around the area of digital preservation, and changes over time.
 
 ## Get Involved
 Please contact the current working group co-chairs Elizabeth England (elizabeth dot england at nara dot gov) or Lauren Work (lauren dot work at virginia dot edu) with any questions or to get involved.
