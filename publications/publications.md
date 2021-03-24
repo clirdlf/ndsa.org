@@ -23,6 +23,9 @@ New publications are announced on the [NDSA Blog](/news/), while links to a few 
 
 ### Selected Publications
 
+#### Good Migrations: A Checklist for Migrating Your Digital Preservation Infrastructure
+- A [checklist](https://osf.io/zmy65/) (PDF) written by the NDSA Good Migrations Working Group that provides guidance for practitioners migrating all or components of their infrastrucutre.
+
 #### 2019 Storage Infrastructure Survey Report
 - A [report](https://osf.io/uwsg7/) (PDF) written by the [Storage Survey Working Group](/groups/storage-survey/) provides a third look over time at the storage infrastructure being used across 89 institutions. 
 
