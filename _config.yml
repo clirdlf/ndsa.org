@@ -15,6 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ndsa.org/" # the base hostname & protocol for your site
 twitter_username: ndsa2
 github_username:  clirdlf
+timezone: America/New_York
 
 google-tracking-id: UA-9461551-2
 
