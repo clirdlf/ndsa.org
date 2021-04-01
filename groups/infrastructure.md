@@ -11,7 +11,7 @@ The Infrastructure Interest Group works to identify and share emerging practices
 *Take me to the [Infrastructure Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-INFRASTRUCTURE)! If you are already a member of this Interest Group, you can always access the Listserv (including its archives) at that link. To join this Interest Group, please contact the coordinators.*
 
 ## Meetings
-  * The Infrastructure Interest Group meets the third Monday of each month at 3pm EST. 
+  * The Infrastructure Interest Group meets the third Monday of each month at 3pm Eastern. 
   * Call in information is available on the running [meeting agenda/notes document](https://bit.ly/3phT6Xa).
   * Meetings are generally recorded and posted to our YouTube Playlist at [https://bit.ly/2QRIMmO](https://bit.ly/2QRIMmO).
   <!--Our scheduled topics for 2020 are noted below.-->
