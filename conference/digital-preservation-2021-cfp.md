@@ -4,7 +4,7 @@ layout: page
 permalink: /conference/digital-preservation-2021/cfp/
 redirect_from: /digital-preservation-2021-cfp/
 ---
-<img alt="meetings" width="710" height="312" src='{{ "/images/DigiPres-2021-820x312.jpg" | prepend: site.baseurl }}'>
+<img alt="meetings" width="820" height="312" src='{{ "/images/DigiPres-2021-820x312.jpg" | prepend: site.baseurl }}'>
 
 The National Digital Stewardship Alliance ([NDSA](http://ndsa.diglib.org/)) invites proposals for **Digital Preservation 2021: Embracing Digitality (#DigiPres21) to be held ONLINE this year on November 4th.** 
 
