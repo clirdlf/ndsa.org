@@ -4,7 +4,7 @@ layout: page
 permalink: /conference/digital-preservation-2021/cfp/
 redirect_from: /digital-preservation-2021-cfp/
 ---
-<img alt="meetings" width="710" height="235" src='{{ "/images/DigiPres-2021-820x312.jpg" | prepend: site.baseurl }}'>
+<img alt="meetings" width="710" height="312" src='{{ "/images/DigiPres-2021-820x312.jpg" | prepend: site.baseurl }}'>
 
 The National Digital Stewardship Alliance ([NDSA](http://ndsa.diglib.org/)) invites proposals for **Digital Preservation 2021: Embracing Digitality (#DigiPres21) to be held ONLINE this year on November 4th.** 
 
@@ -32,18 +32,22 @@ Submissions are invited in the following lengths and formats:
 - **Solution Rooms:** Looking to connect with colleagues and brainstorm solutions to a preservation problem? Propose it for the Solution Room! These will be 25-minute breakout rooms in Zoom where you can receive peer support on answers to a digital stewardship challenge.
 
 **Submission Requirements:**
-- Title
-- Presenters’ full names, email addresses, and affiliations (if applicable)
-- Abstract (50 words)
-- Proposal (250 words; 500 words for 45-minute panels)
+- Proposal title
+- Submission format and event: Varies by event
+- First and last names, organizational affiliations, and email addresses for all authors / presenters
+- Abstract (50 words max)
+- Proposal (250 works max for all formats except for panels, up to 500 words)
+- Five keywords for your proposal
+
 
 ### **[Proposals are due by MONDAY, MAY 17, 2021 AT 11:59pm EST.](http://bit.ly/2021CLIRcfps)**
 
 All submissions will be peer-reviewed by [NDSA’s Digital Preservation 2021 Program Committee](https://ndsa.org/conference/). The DigiPres Planning Committee will give strong preference to programming that is fully inclusive and reflects a wide range of expression and identity. Presenters will be notified of their acceptance in June and guaranteed a registration slot. **Accepted presentations, panels, and lightning talks will be delivered via pre-recorded video that will “go live” at specific times during the conference,** to avoid technology challenges and to provide a more accessible format to all of our attendees. Presenters will be expected to be in attendance and available during their presentation time for live Q&A. Presenters will receive support in the form of tutorials, resources, and individual assistance.
 
 ## About the NDSA and Digital Preservation 2021
-[The NDSA is a consortium of over 250 organizations](https://ndsa.org/about/) committed to the long-term preservation and stewardship of digital information and cultural heritage. Digital Preservation is the major meeting and conference of the NDSA. Open to members and non-members alike, it highlights the theory and practice of digital stewardship and preservation, data curation, the digital object lifecycle, and related issues. 
-Digital Preservation 2021 (#DigiPres21) is held in partnership with our host organization, the Council on Library and Information Resources’ (CLIR) [Digital Library Federation](https://www.diglib.org/). Separate calls are being issued for CLIR+DLF’s 2021 events, the 2021 DLF Forum (November 1-3) and associated workshop seriesLearn@DLF (November 8-10). NDSA strives to create a safe, accessible, welcoming, and inclusive event, and adheres to the [DLF Forum’s Code of Conduct](https://www.diglib.org/about/code-of-conduct/). 
+[The NDSA is a consortium of over 250 organizations](https://ndsa.org/about/) committed to the long-term preservation and stewardship of digital information and cultural heritage. Digital Preservation is the major meeting and conference of the NDSA. Open to members and non-members alike, it highlights the theory and practice of digital stewardship and preservation, data curation, the digital object lifecycle, and related issues.
+
+Digital Preservation 2021 (#DigiPres21) is held in partnership with our host organization, the Council on Library and Information Resources’ (CLIR) [Digital Library Federation](https://www.diglib.org/). Separate calls are being issued for CLIR+DLF’s 2021 events, the [2021 DLF Forum](https://forum2021.diglib.org) (November 1-3) and associated workshop series [Learn@DLF](https://forum2021.diglib.org/learnatdlf) (November 8-10). NDSA strives to create a safe, accessible, welcoming, and inclusive event, and adheres to the [DLF Forum’s Code of Conduct](https://www.diglib.org/about/code-of-conduct/). 
 
 **Questions?** Feel free to reach out to [ndsa-digipres@lists.clir.org](mailto:ndsa-digipres@lists.clir.org) and someone will get back to you as soon as possible.
 
