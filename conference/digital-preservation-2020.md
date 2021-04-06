@@ -9,7 +9,7 @@ redirect_from:
 
 <!--### **November 12, 2020, online!** -->
 
-<img alt="meetings" width="710" height="235" src='{{ "/images/DigiPres-2020-ONLINE-nov-12.jpg" | prepend: site.baseurl }}'>
+<img alt="meetings" width="820" height="312" src='{{ "/images/DigiPres-2021-820x312.jpg" | prepend: site.baseurl }}'>
 
 
 ### **About the NDSA and Digital Preservation 2020**
