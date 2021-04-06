@@ -1,5 +1,5 @@
 ---
-title: Digital Preservation 2021 Call for Proposals
+title: Digital Preservation 2021: Embracing Digitality - Call for Proposals
 layout: page
 permalink: /conference/digital-preservation-2021/cfp/
 redirect_from: /digital-preservation-2021-cfp/
@@ -7,8 +7,6 @@ redirect_from: /digital-preservation-2021-cfp/
 <img alt="meetings" width="820" height="312" src='{{ "/images/DigiPres-2021-820x312.jpg" | prepend: site.baseurl }}'>
 
 The National Digital Stewardship Alliance ([NDSA](http://ndsa.diglib.org/)) invites proposals for **Digital Preservation 2021: Embracing Digitality (#DigiPres21) to be held ONLINE this year on November 4th.** 
-
-### **[Proposals are due by MONDAY, MAY 17, 2021 AT 11:59pm EST.](https://clir.users.membersuite.com/community/competitions/competition-details/b909aef5-00aa-c2bc-d848-6d2068522ce7s)**
 
 Digitality - the experience of living in a digital culture - has been accelerated by the global pandemic, shifting how we think, work, and exist in digital spaces. Digital stewardship professionals have demonstrated that we are able to respond creatively to the preservation, discovery, and access of information beyond the physical environment. How does the advancement of digitality expand the landscape of possibilities for people, systems, the environment, and the world? What opportunities have we gained, and what must we be wary of losing? How can we best position our profession to embrace digitality and intentionally develop strategies, tools, and practices that move us forward as a community? How can we foster partnerships with other professional backgrounds to join us in this effort?
 
@@ -21,6 +19,8 @@ Digitality - the experience of living in a digital culture - has been accelerate
 - Envisioning a roadmap for the future of our profession or *“Where do we go from here, and who are we going with?”*
 
 Because of the virtual format and our interest in minimizing screen fatigue but still facilitating community connection, we will be offering a reduced number of sessions than are typically offered during the in-person Digital Preservation conference. **To make space for as many voices as possible, individuals may present only once on the conference program,** though names may be listed more than once in affiliation with awards and/or projects. We will offer additional ways for community members to share content and resources whether conference proposals are accepted or not.
+
+### **[Proposals are due by MONDAY, MAY 17, 2021 AT 11:59pm EST.](https://clir.users.membersuite.com/community/competitions/competition-details/b909aef5-00aa-c2bc-d848-6d2068522ce7s)**
 
 ## Submission length and format
 
@@ -39,10 +39,9 @@ Submissions are invited in the following lengths and formats:
 - Proposal (250 works max for all formats except for panels, up to 500 words)
 - Five keywords for your proposal
 
+All submissions will be peer-reviewed by [NDSA’s Digital Preservation 2021 Program Committee](https://ndsa.org/conference/). The DigiPres Planning Committee will give strong preference to programming that is fully inclusive and reflects a wide range of expression and identity. Presenters will be notified of their acceptance in June and guaranteed a registration slot. **Accepted presentations, panels, and lightning talks will be delivered via pre-recorded video that will “go live” at specific times during the conference,** to avoid technology challenges and to provide a more accessible format to all of our attendees. Presenters will be expected to be in attendance and available during their presentation time for live Q&A. Presenters will receive support in the form of tutorials, resources, and individual assistance.
 
 ### **[Proposals are due by MONDAY, MAY 17, 2021 AT 11:59pm EST.](https://clir.users.membersuite.com/community/competitions/competition-details/b909aef5-00aa-c2bc-d848-6d2068522ce7)**
-
-All submissions will be peer-reviewed by [NDSA’s Digital Preservation 2021 Program Committee](https://ndsa.org/conference/). The DigiPres Planning Committee will give strong preference to programming that is fully inclusive and reflects a wide range of expression and identity. Presenters will be notified of their acceptance in June and guaranteed a registration slot. **Accepted presentations, panels, and lightning talks will be delivered via pre-recorded video that will “go live” at specific times during the conference,** to avoid technology challenges and to provide a more accessible format to all of our attendees. Presenters will be expected to be in attendance and available during their presentation time for live Q&A. Presenters will receive support in the form of tutorials, resources, and individual assistance.
 
 ## About the NDSA and Digital Preservation 2021
 [The NDSA is a consortium of over 250 organizations](https://ndsa.org/about/) committed to the long-term preservation and stewardship of digital information and cultural heritage. Digital Preservation is the major meeting and conference of the NDSA. Open to members and non-members alike, it highlights the theory and practice of digital stewardship and preservation, data curation, the digital object lifecycle, and related issues.
