@@ -1,5 +1,5 @@
 ---
-title: Digital Preservation 2021: Embracing Digitality - Call for Proposals
+title: Digital Preservation 2021 Embracing Digitality - Call for Proposals
 layout: page
 permalink: /conference/digital-preservation-2021/cfp/
 redirect_from: /digital-preservation-2021-cfp/
