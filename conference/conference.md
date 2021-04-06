@@ -5,6 +5,8 @@ permalink: /conference/
 redirect_from: /meetings/
 ---
 
+<img alt="meetings" width="820" height="312" src='{{ "/images/DigiPres-2021-820x312.jpg" | prepend: site.baseurl }}'>
+
 ### About the NDSA and Digital Preservation 2021
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. Digital Preservation 2021 will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
 
