@@ -25,7 +25,7 @@ The NDSA invites proposals for **Digital Preservation 2021: Embracing Digitality
 - **Greg Colati**, University of Connecticut
 - **Chelsea Denault**, Michigan Digital Preservation Network
 - **Stacey Erdman**, Arizona State University
-- **Angela Fritz**, University of Notre Dame
+- **Angela Fritz**, Wisconsin Historical Society
 - **Deirdre Joyce**, Syracuse University
 - **Alex Kinnaman**, Virginia Tech University Libraries
 - **Monique Lassere**, Houghton Library at Harvard University
