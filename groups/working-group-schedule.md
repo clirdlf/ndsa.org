@@ -1,5 +1,5 @@
 ---
-title: Working Groups Schedule
+title: Working Group Schedule
 layout: page
 permalink: /groups/schedule/
 redirect_from: 
@@ -24,7 +24,7 @@ th, td {
 
 </style>
 
-| Year 	| Fixity 	| Levels of Preservation 	| Agenda 	| Staffing Survey 	| Storage Survey 	| Web Archiving 	|
+| Year 	| Fixity Survey	| Levels of Preservation 	| Agenda 	| Staffing Survey 	| Storage Survey 	| Web Archiving Survey	|
 |:----:	|:------:	|:----------------------:	|:------:	|:---------------:	|:--------------:	|:-------------:	|
 | 2021 	|    X   	|                        	|        	|        X        	|                	|       X       	|
 | 2022 	|        	|                        	|    X   	|                 	|                	|               	|
