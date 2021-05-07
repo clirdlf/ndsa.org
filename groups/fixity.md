@@ -5,13 +5,12 @@ permalink: /groups/fixity/
 redirect_from: /fixity/
 ---
 
-The Fixity Working Group was established May 31, 2016 as a joint collaboration of the [Standards & Practices Interest Group](http://ndsa.org/working-groups/standards-and-practices/) and the [Infrastructure Interest Group](http://ndsa.org/working-groups/infrastructure/) in order to move forward with reccomendations from the [Fixity Guidance Report](http://ndsa.org/documents/NDSA-Fixity-Guidance-Report-final100214.pdf) and the [NDSA National Agenda](http://ndsa.org/national-agenda/). The Fixity Working Group created the Fixity Survey as a way to address the "... clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements" raised in the 2015 NDSA National Agenda.  The survey set a baseline for activities being done in 2016.  Future work will build off of these initial results. 
+The Fixity Working Group was originally established May 31, 2016 as a joint collaboration of the [Standards & Practices Interest Group](http://ndsa.org/working-groups/standards-and-practices/) and the [Infrastructure Interest Group](http://ndsa.org/working-groups/infrastructure/) in order to move forward with reccomendations from the [Fixity Guidance Report](http://ndsa.org/documents/NDSA-Fixity-Guidance-Report-final100214.pdf) and the [NDSA National Agenda](http://ndsa.org/national-agenda/). The Fixity Working Group created the Fixity Survey as a way to address the "... clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements" raised in the 2015 NDSA National Agenda.  The survey set a baseline for activities being done in 2016.  Future work will build off of these initial results and work towards developing longitudinal studies.   
+
+The Fixity Working Group started new work in April of 2021.
 
 ## Get Involved
-
-This working group will be spinning back up in the Spring of 2021.  If you are interested in participating please contact Carol Kussmann at kussmann [@] umn.edu.    
-
-The group was interested in producing case studies on fixity practices at various institutions. Please contact NDSA at ndsa.digipres [@] gmail.com if interested in contributing.  You could also fill out this [interest survey](https://docs.google.com/forms/d/e/1FAIpQLScGgHnPesMzJoZWQ0bmfXpOjnsONNeYCKTPC0gy2VBgdwYvCA/viewform?usp=sf_link).
+While the main work of the group has begun, the group is interested in producing case studies on fixity practices at various institutions. Please contact the Fixity Working Group at NDSA-Fixity [@] lists [dot] clir [dot] org if interested in contributing.  You could also fill out this [interest survey](https://docs.google.com/forms/d/e/1FAIpQLScGgHnPesMzJoZWQ0bmfXpOjnsONNeYCKTPC0gy2VBgdwYvCA/viewform?usp=sf_link).
 
 ## 2021 Scope of Work
 - Review 2017 Fixity Survey report and survey questions
@@ -19,6 +18,19 @@ The group was interested in producing case studies on fixity practices at variou
 - Deploy 2021 survey
 - Review and analyze results
 - Write a final report based off of the 2021 survey responses
+
+
+## 2021 Working Group Members
+- Carol Kussmann (co-chair)
+- Sibyl Schaefer (co-chair)
+- Robin Dean
+- Katherine Fischer
+- Martin Gengenbach
+- Kimberly Gianfrancesco
+- Nick Karbbenhoeft
+- Jenny Mitcham
+- Max Prud'homme
+  
 
 ## 2016-2017 Activities
 
