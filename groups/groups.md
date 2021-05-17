@@ -29,10 +29,10 @@ Working Groups are created on an as needed basis.  Once formed, groups may perfo
 
 #### [Conference Planning Program Committee](/conference/) (annually)
 - Working to plan all aspects of the DigiPres Conference.  Including: choosing theme, reviewing conference proposals, selecting keynotes and more.
-- 
+  
 #### [Excellence Awards](/groups/excellence-awards/) (annually)
 - Administering awards that highlight and commend creative individuals, projects, organizations, and future stewards demonstrating originality and excellence in their contributions to the field of digital preservation. Awards are given out at the DigiPres conference.
-- 
+  
 #### [Fixity](/groups/fixity/) (cyclical)
 - Created to address the “...clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements” raised in the 2015 NDSA National Agenda. This group produced the 2017 Fixity Survey Report as a result of their work. A 2021 survey is in progress.
 
