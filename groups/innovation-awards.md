@@ -1,25 +1,27 @@
 ---
-title: Innovation Awards
+title: Excellence Awards
 layout: page
-permalink: /groups/innovation-awards/
+permalink: /groups/excellence-awards/
 redirect_from: 
   - /awards/
   - /groups/awards/
   - /groups/previous-innovation-awards/
+  - /groups/innovation-awards/
 ---
 
-Our annual Innovation Awards were established by the National Digital Stewardship Alliance (NDSA) to recognize and encourage innovation in the field of digital preservation stewardship. These awards highlight and commend creative individuals, projects, organizations, educators, and future stewards demonstrating originality and excellence in their contributions to the field of digital preservation.
+The annual NDSA Innovation Awards were established in 2012 to recognize and encourage exemplary achievement in the field of digital preservation stewardship. Beginning in 2021, the awards were renamed as the Excellence Awards to highlight and commend all forms of creative and meaningful contributions by individuals, projects, sustainability activities, organizations, future stewards, and educators to the field of digital preservation. 
 
-## About the Innovation Awards
-As a diverse international membership organization with a shared commitment to digital preservation, the NDSA understands the importance of innovation and risk-taking in developing and supporting a broad range of successful digital preservation activities.  Acknowledging that innovative digital stewardship can take many forms, eligibility for these awards has been left purposely broad.  Anyone or any project or institution acting in the context of the above categories can be nominated for an award.  Nominees do not have to be NDSA member institutions or individuals or project staff affiliated with member institutions, but must evidence innovative engagement with the theory and practice of long-term digital preservation stewardship at a level of national or international importance.  Nominators similarly do not need to be affiliated with NDSA member institutions.  Self-nomination is accepted and encouraged, as are submissions reflecting the needs and accomplishments of historically marginalized and underrepresented communities. More information on the awards, including previous awardees, is available on this page. This is your chance to help us highlight and reward novel, risk-taking and inventive approaches to the challenges of digital preservation.
+## About the Excellence Awards
+As a diverse international membership organization with a shared commitment to digital preservation, the NDSA understands the importance of innovation and risk-taking in developing and supporting a broad range of successful digital preservation activities.  Acknowledging that excellent digital stewardship can take many forms, eligibility for these awards has been left purposely broad.  Anyone or any project or institution acting in the context of the above categories can be nominated for an award.  Nominees do not have to be NDSA member institutions or individuals or project staff affiliated with member institutions, but must evidence innovative engagement with the theory and practice of long-term digital preservation stewardship at a level of national or international importance.  Nominators similarly do not need to be affiliated with NDSA member institutions.  Self-nomination is accepted and encouraged, as are submissions reflecting the needs and accomplishments of historically marginalized and underrepresented communities. More information on the awards, including previous awardees, is available on this page. This is your chance to help us highlight and reward novel, risk-taking and inventive approaches to the challenges of digital preservation.
 
-These awards focus on recognizing excellence in one or more of the following areas:
+These awards focus on recognizing excellence in the following areas:
 
-- **Individuals** making a significant, innovative contribution to the digital preservation community.
-- **Projects** whose goals or outcomes represent an inventive, meaningful addition to the understanding or processes required for successful, sustainable digital preservation stewardship.
-- **Organizations** taking an innovative approach to providing support and guidance to the digital preservation community.
-- **Future stewards**, especially students, but including educators, trainers, or curricular endeavors taking a creative approach to advancing knowledge of digital preservation issues and practices.
-- **Educators**, including trainers or curricular endeavors, promoting innovative approaches and access to digital preservation through partnerships, professional development opportunities, and curriculum.
+- **Individual Award:**  Recognizing those individuals making a significant contribution to the digital preservation community through advances in theory or practice.
+- **Project Award:**  Recognizing those activities whose goals or outcomes make a significant contribution to strategic or conceptual understanding necessary for successful digital preservation stewardship.
+- **Sustainability Award:**  Recognizing those activities whose goals or outcomes make a significant contribution to operational trustworthiness, monitoring, maintenance, or intervention necessary for sustainable digital preservation stewardship.
+- **Organization Award:**  Recognizing those organizations providing significant support, guidance, advocacy, or leadership for the digital preservation community.
+- **Future Steward Award:**  Recognizing students and early-career professionals making an impact on advancing knowledge and practice of digital preservation stewardship.
+- **Educator Award:**  Recognizing academics, trainers, and curricular endeavors promoting effective and inventive approaches to digital preservation education through academic programs, partnerships, professional development opportunities, and curriculum development.
 
 ## Working Group Members
 - Stephen Abrams, co-chair (Harvard University) 
@@ -29,14 +31,15 @@ These awards focus on recognizing excellence in one or more of the following are
 - Grete Graf (Yale University)
 - Kari May (University of Pittsburgh)
 
+<!-- ## 2021 NDSA Innovation Awards Call for Nominations
+[Nominations for the 2021 NDSA Excellence Awards are now open at LINK and will remain open through DATE. -->
+
 <!-- ## 2019 NDSA Innovation Awards: Nominations Open & Join Our Working Group! 
 The NDSA is looking for participants in the 2019 NDSA Innovation Awards Working Group. Working group members encourage nominations during the nominations period and get together on a conference call early in September to talk about and get consensus on the award selections. 
 Past experience has shown this to be a wonderful opportunity to see the wide range of innovative people and projects in the NDSA community. 
 If you’re interested in participating in the working group, or have any questions about the awards or the awards process, please reply to the list or to Sheila Morrissey at sheila dot morrissey at ithaka dot org.
 A reminder also to be sure to post your [nominations for the 2018 NDSA Innovation Awards](https://ndsa.org//2018/06/14/nominations-open-for-ndsa-2018-innovation-awards.html) by August 31. -->
 
-## 2020 NDSA Innovation Awards Call for Nominations
-[Nominations are now closed](https://ndsa.org/2020/07/20/now-accepting-nominations-for-ndsa-2020-innovation-awards.html) for the NDSA 2020 Innovation Awards, nominations closed on 4 September 2020.
 
 ## 2020 NDSA Innovation Award Winners
 The 2020 Innovation Awards were [announced](https://ndsa.org/2020/11/12/ndsa-announces-winners-of-2020-innovation-awards.html) at [Digital Preservation 2020](https://ndsa.org/conference/). The 2020 NDSA Innovation Awards Working Group was led by co-chairs Stephen Abrams (Harvard University) and Krista Oldham (Clemson University), with members Samantha Abrams (Ivy Plus Libraries Confederation), Lauren Goodley (Texas State University), Grete Graf (Yale University), and Kari May (University of Pittsburgh). Aliya Reich at CLIR provided administrative support for the entire awards process.
