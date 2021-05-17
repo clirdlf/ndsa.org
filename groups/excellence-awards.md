@@ -26,7 +26,7 @@ These awards focus on recognizing excellence in the following areas:
 ## Working Group Members
 - Stephen Abrams, co-chair (Harvard University) 
 - Krista Oldham, co-chair (Clemson University)
-- Samantha Abrams (Ivy Plus Libraries Confederation)
+- Samantha Abrams (Center for Research Libraries)
 - Lauren Goodley (Texas State University)
 - Grete Graf (Yale University)
 - Kari May (University of Pittsburgh)
