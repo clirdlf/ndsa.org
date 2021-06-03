@@ -257,6 +257,16 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Deb Verhoff" src="{{ '/images/coordinating-committee/verhoff2020.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Lauren Work</h3>
+        <p>Lauren Work (<a href="/groups/staffing/">Staffing Survey Working Group</a> Co-Chair) is the Digital Preservation Librarian at the University of Virginia, where she is responsible for the implementation and maintenance of preservation strategy and systems for university digital resources. She also helps to lead digital stewardship collaboration within communities such as the Academic Preservation Trust, the National Digital Stewardship Alliance, the Software Preservation Network, and the BitCurator Consortium. She earned her Master of Library and Information Science degree from the University of Washington. 
+        </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Lauren Work" src="{{ '/images/coordinating-committee/Work.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
 
 <h2>Host Organization</h2>
 
