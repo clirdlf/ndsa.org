@@ -40,6 +40,10 @@ The Assessment Tool is available to help you use the Levels of Digital Preservat
 A Digital Curation Decision Guide has been released that helps forms the basis of a series of decision points around collections and the implementation of a preservation strategy. The Guide has both a visual and prose version to explore from different angles the basic factors in complex infrastructure and collections management decisions. 
 * [Digital Curation Decision Guide](https://osf.io/q8c47/)
 
+### Training Slide Deck
+A slide deck and accompanying instructions are provided for use if you would like to talk about the Levels of Preservation to an audience.  Slides could be used for a full day workshop, a webinar, or just a quick infomercial like presentation.  The guide helps break down which slides may be most useful for each type of presentation, however feel free to use the slides that work for your purpose or audience.  
+* [Training Slides and Instructions](https://osf.io/je439/)
+
 ### Translations of the Levels of Digital Preservation
 Various documents from the Version 2.0 work have been translated into different languages by our partners.
 
