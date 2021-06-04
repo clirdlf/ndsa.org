@@ -39,6 +39,9 @@ Working Groups are created on an as needed basis.  Once formed, groups may perfo
 #### [Levels of Preservation](/groups/levels-of-preservation/) (ongoing)
 - Working to provide the methodology by which the important NDSA Levels of Digital Preservation document can be adapted more readily—taking in the broadest possible feedback in the process. Created the Levels of Digital Preservation V2.0 in October 2019. Work continues.
 
+#### [Task Force on Membership Engagement and Recruitment](/groups/membership/)
+- The Task Force on Membership Engagement and Recruitment was assembled to explore the questions of membership and engagement raised by the NDSA’s evolving scope and role within the global digital preservation ecosystem. 
+
 #### [NDSA Agenda](/groups/national-agenda/) (cyclical)
 - Revising and updating the NDSA Agenda to integrate the perspective of dozens of experts and hundreds of institutions to provide funders and executive decision‐makers insight into emerging technological trends, gaps in digital stewardship capacity, and key areas for funding, research and development to ensure that today’s valuable digital content remains accessible and comprehensible in the future, supporting a thriving economy, a robust democracy, and a rich cultural heritage.
 
