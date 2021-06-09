@@ -9,7 +9,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://N/a\">Matthew Breitbart</a></h2><p>Partner since <strong>June 2021</strong></p><p>Washington, DC</p>"
+        "popupContent": "<h2>Matthew Breitbart</h2><p>Partner since <strong>June 2021</strong></p><p>Washington, DC</p>"
       },
       "id": 1
     },
