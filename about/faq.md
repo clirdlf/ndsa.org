@@ -34,7 +34,7 @@ javascript:
 
 ### Should my organization join the NDSA?
 
-If your organization has an active digital preservation program and wants to work with other experts in the field, then yes, your organization should join the NDSA. Members will share the [stated values](/about/foundational-principles/) of the NDSA. Consortia, non profits, commercial entities and international organizations are all welcome to [apply for membership](/get-involved/) or join as an [Affiliate](/membership/join/).  
+If your organization has an active digital preservation program and wants to work with other experts in the field, then yes, your organization should join the NDSA. Members will share the [stated values](/about/foundational-principles/) of the NDSA. Consortia, nonprofits, commercial entities and international organizations are all welcome to [apply for membership](/get-involved/) or join as an [Affiliate](/membership/join/).  
 
 ### How can my organization check the status of our application?
 
@@ -54,7 +54,7 @@ The NDSA does not provide funding for projects or building tools and infrastruct
 
 ### How does NDSA relate to the DLF? To CLIR?
 
-CLIR and the [Digital Library Federation](https://www.diglib.org/) believe strongly in NDSA's mission and [foundational principles](/about/foundational-principles/). NDSA is financially supported by the DLF, which also provides communications infrastructure, staff time, and provides a represenative who participates in [Leadership](/about/leadership/) calls. [CLIR](https://www.clir.org/) is the parent organization of the DLF, but DLF itself runs on independent membership fees. If you like what the Digital Library Federation is doing to support digital stewardship at no cost to NDSA members, please [join DLF](https://www.diglib.org/members/join/) and contribute!
+The Council on Library and Information Resources (CLIR) and the [Digital Library Federation(DLF)](https://www.diglib.org/) believe strongly in NDSA's mission and [foundational principles](/about/foundational-principles/). NDSA is financially supported by the DLF, which also provides communications infrastructure, staff time, and provides a representative who participates in [Leadership](/about/leadership/) calls. [CLIR](https://www.clir.org/) is the parent organization of the DLF, but DLF itself runs on independent membership fees. If you like what DLF is doing to support digital stewardship at no cost to NDSA members, please [join DLF](https://www.diglib.org/members/join/) and contribute!
 
 ## Participation
 

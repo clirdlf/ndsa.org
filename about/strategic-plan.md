@@ -10,20 +10,20 @@ The following outlines the strategic priorities of the NDSA in 2020.
 *To promote community and raise public awareness.*
 
 1. Review Outreach and Marketing strategies
-- Evaluate the role of OSF and for NDSA publications.
+- Evaluate the role of OSF for NDSA publications.
 - Highlight publications more effectively (high value to community)
 2. Plan and host annual DigiPres Conference
 - Explore holding DigiPres internationally / co-sponsor with another org
 
 ### Reports and Guidance
 *To advocate standards, encourage sustainable infrastructure, and broaden access to preserved digital materials.*
-1. Advocate for international digital preservation through cooperative projects and best practice documents.
+1. Advocate for international digital preservation through cooperative projects and best practice documents
 - Explore broadening the international reach of the NDSA (short term)
   - Review past communications with international organizations (eg: DPC)
 1. Continue to publish and update the NDSA Agenda
 2. Continue to publish and update Levels of Preservation
 3. Provide documented timelines for surveys and other reports that are cyclical. (e.g. Storage, Staffing)
-4. Establish Interest and Working Groups to pursue research and develop NDSA recommendations for standards and good practice guidelines.
+4. Establish Interest and Working Groups to pursue research and develop NDSA recommendations for standards and good practice guidelines
 
 ### Knowledge Exchange
 *To facilitate cooperation and promote innovation.*
