@@ -32,7 +32,7 @@ These awards focus on recognizing excellence in the following areas:
 - Kari May (University of Pittsburgh)
 
 ## 2021 NDSA Innovation Awards Call for Nominations
-[Nominations for the 2021 NDSA Excellence Awards are now [open](https://forms.gle/ZXqLaGuqeUyHhTwp9) and will remain open through Friday, July 30, 2021. -->
+Nominations for the 2021 NDSA Excellence Awards are now [open](https://forms.gle/ZXqLaGuqeUyHhTwp9) and will remain open through Friday, July 30, 2021.
 
 <!-- ## 2019 NDSA Innovation Awards: Nominations Open & Join Our Working Group! 
 The NDSA is looking for participants in the 2019 NDSA Innovation Awards Working Group. Working group members encourage nominations during the nominations period and get together on a conference call early in September to talk about and get consensus on the award selections. 
