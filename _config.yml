@@ -34,3 +34,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
+
+github:
+  repository_url: https://github.com/clirdlf/ndsa.org
