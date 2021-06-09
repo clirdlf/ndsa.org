@@ -31,7 +31,7 @@ These awards focus on recognizing excellence in the following areas:
 - Grete Graf (Yale University)
 - Kari May (University of Pittsburgh)
 
-## 2021 NDSA Innovation Awards Call for Nominations
+## 2021 NDSA Excellence Awards Call for Nominations
 Nominations for the 2021 NDSA Excellence Awards are now [open](https://forms.gle/ZXqLaGuqeUyHhTwp9) and will remain open through Friday, July 30, 2021.
 
 <!-- ## 2019 NDSA Innovation Awards: Nominations Open & Join Our Working Group! 
