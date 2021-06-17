@@ -9,7 +9,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2>Matthew Breitbart</h2><p>Partner since <strong>June 2021</strong></p><p>Washington, DC</p>"
+        "popupContent": "<h2><a href=\"http://N/a\">Matthew Breitbart</a></h2><p>Partner since <strong>June 2021</strong></p><p>Washington, DC</p>"
       },
       "id": 1
     },
@@ -45,7 +45,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"https://www.uwp.edu/learn/library/archives/\">Univeristy of Wisconsin -Parkside</a></h2><p>Partner since <strong>February 2021</strong></p><p>Kenosha, Wisconsin</p>"
+        "popupContent": "<h2><a href=\"https://www.uwp.edu/learn/library/archives/\">University of Wisconsin - Parkside</a></h2><p>Partner since <strong>February 2021</strong></p><p>Kenosha, Wisconsin</p>"
       },
       "id": 4
     },
@@ -897,7 +897,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://www.marineband.marines.mil\">\"The President's Own\" United States Marine Band</a></h2><p>Partner since <strong>March 2015</strong></p><p>Washington, DC</p>"
+        "popupContent": "<h2><a href=\"http://www.marineband.marines.mil\">&#34;The President's Own&#34; United States Marine Band</a></h2><p>Partner since <strong>March 2015</strong></p><p>Washington, DC</p>"
       },
       "id": 75
     },
@@ -1221,7 +1221,7 @@ var members = {
       },
       "type": "Feature",
       "properties": {
-        "popupContent": "<h2><a href=\"http://library.princeton.edu\">Princeton University Library</a></h2><p>Partner since <strong>January 2014</strong></p><p>Princeton, NY</p>"
+        "popupContent": "<h2><a href=\"http://library.princeton.edu\">Princeton University Library</a></h2><p>Partner since <strong>January 2014</strong></p><p>Princeton, NJ</p>"
       },
       "id": 102
     },
