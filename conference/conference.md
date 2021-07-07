@@ -14,7 +14,7 @@ The NDSA strives to create a safe, accessible, welcoming, and inclusive event, a
 
 ### [Call for Proposals](https://ndsa.org/conference/digital-preservation-2021/cfp/)
 
-The NDSA invites proposals for **Digital Preservation 2021: Embracing Digitality** (#DigiPres21) to be held ONLINE this year on November 4th. See the **[2021 CFP](https://ndsa.org/conference/digital-preservation-2021/cfp/)** for more information.
+The 2021 Digital Preservation Call for Proposals closed on May 17, 2021. You can review the CFP [here](https://ndsa.org/conference/digital-preservation-2021/cfp/).
 
 ### 2021 DigiPres Organizing Committee
 - **Tricia Patterson**, Harvard University (2021 Chair)
