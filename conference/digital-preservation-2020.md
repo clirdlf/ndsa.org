@@ -78,8 +78,8 @@ Thank you to our wonderful planning committee!
 -   **Kristen Weischedel**, Illinois Institute of Technology
 -   **Frederick Zarndt**, Digital Divide Data
 
-<!-- ### **DigiPres Call for Proposals**
-The 2020 DigiPres Call for Proposals closed on May 11. You can review the CFP [here](https://ndsa.org/conference/digital-preservation-2020/cfp/).-->
+### **DigiPres Call for Proposals**
+The 2020 DigiPres Call for Proposals closed on May 11, 2020. You can review the CFP [here](https://ndsa.org/conference/digital-preservation-2020/cfp/).
 
 ### **Calendar and Past Meetings**
 
