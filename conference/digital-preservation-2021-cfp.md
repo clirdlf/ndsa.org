@@ -20,7 +20,7 @@ Digitality - the experience of living in a digital culture - has been accelerate
 
 Because of the virtual format and our interest in minimizing screen fatigue but still facilitating community connection, we will be offering a reduced number of sessions than are typically offered during the in-person Digital Preservation conference. **To make space for as many voices as possible, individuals may present only once on the conference program,** though names may be listed more than once in affiliation with awards and/or projects. We will offer additional ways for community members to share content and resources whether conference proposals are accepted or not.
 
-### **[Submit here! Proposals are due by MONDAY, MAY 17, 2021 AT 11:59pm EST.](https://clir.users.membersuite.com/community/competitions/competition-details/b909aef5-00aa-c2bc-d848-6d2068522ce7)**
+**The 2021 Call for Proposals closed on May 17, 2021.**
 
 ## Submission length and format
 
@@ -50,7 +50,7 @@ All submissions will be peer-reviewed by [NDSA’s Digital Preservation 2021 Pro
 
 Presenters will be notified of their acceptance in June and guaranteed a registration slot. **Accepted presentations, panels, and lightning talks will be delivered via pre-recorded video that will “go live” at specific times during the conference,** to avoid technology challenges and to provide a more accessible format to all of our attendees. Presenters will be expected to be in attendance and available during their presentation time for live Q&A. Presenters will receive support in the form of tutorials, resources, and individual assistance.
 
-### **[Submit here! Proposals are due by MONDAY, MAY 17, 2021 AT 11:59pm EST.](https://clir.users.membersuite.com/community/competitions/competition-details/b909aef5-00aa-c2bc-d848-6d2068522ce7)**
+**The 2021 Call for Proposals closed on May 17, 2021.**
 
 ## About the NDSA and Digital Preservation 2021
 [The NDSA is a consortium of over 250 organizations](https://ndsa.org/about/) committed to the long-term preservation and stewardship of digital information and cultural heritage. Digital Preservation is the major meeting and conference of the NDSA. Open to members and non-members alike, it highlights the theory and practice of digital stewardship and preservation, data curation, the digital object lifecycle, and related issues.
