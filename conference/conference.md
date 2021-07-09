@@ -18,7 +18,6 @@ The NDSA strives to create a safe, accessible, welcoming, and inclusive event, a
 - **Rachel Appel**, University of Pennsylvania Libraries
 - **Heather Barnes**, Wake Forest University
 - **Moriah Caruso**, University of Washington Libraries
-- **Greg Colati**, University of Connecticut
 - **Chelsea Denault**, Michigan Digital Preservation Network
 - **Stacey Erdman**, Arizona State University
 - **Angela Fritz**, Wisconsin Historical Society
