@@ -17,6 +17,21 @@ Please contact the current working group co-chairs Elizabeth England (elizabeth 
 * Review and analyze results
 * Write a final report based off of the 2021 survey responses
 
+## 2021 Working Group Members
+- Elizabeth England (co-chair)
+- Lauren Work (co-chair)
+- Rachel Appel
+- Brenna Edwards
+- Heather Heckman
+- Déirdre Joyce
+- Margaret Kidd
+- Julia Kim
+- Sharon McMeekin
+- Krista Oldham
+- Shira Peltzman
+- Jessica Venlet
+- Hannah Wang
+
 ## Past Surveys
 * [2017 Report and Survey Results](https://osf.io/mbcxt/) 
 * [2017 Blog Post](https://ndsa.org//2017/10/17/announcing-publication-of-the-ndsa-digital-preservation-staffing-survey-report.html) with background information
