@@ -77,9 +77,14 @@ YAML
       }
 
       table_data << row_data
+
+
     end
 
     file_contents = json_header + table_data.to_json.to_s
     File.open('data/members.json', 'w') { |f| f.write(file_contents) }
+
+    count = table_data.count.to_s
+    File.open("_data/members.yml", "w") { |f| f.write("count: " + count) }
   end
 end
