@@ -144,6 +144,29 @@ redirect_from: /leadership/
     </div>
 </div>
 
+
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Samantha Abrams</h3>
+        <p>Samantha Abrams (she/her/hers) (<a href="/groups/web-archiving/">Web Archiving</a> Co-Chair) is the Head of Collections at the Center for Research Libraries where she plays a key role in the development of collections, partnerships, and community engagement policy, strategy, and operations. As the Head of Collections, Samantha leads a team whose functional responsibilities span area studies, and digital and distinctive collections, with a focus on forming and managing forward-thinking partnerships that advance expanded forms of engagement with cultural heritage collections. She is also an Associate Lecturer at the University of Wisconsin-Madison's iSchool. Before joining the Center for Research Libraries, Samantha worked for the Ivy Plus Libraries Confederation as their Web Resources Collection Librarian, and at StoryCorps, as their Community Archivist. In addition to her role as co-chair of the Web Archiving Survey Working Group, Samantha serves on the Excellence Awards Working Group and the Membership Task Force. Samantha has a Master’s degree in Library and Information Studies from the University of Wisconsin-Madison and lives in Brooklyn, New York.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Samantha Abrams" src="{{ ' /images/coordinating-committee/AbramsSam2021.JPG' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Zakiya Collier</h3>
+        <p>Zakiya Collier (she/they) (<a href="/groups/web-archiving/">Web Archiving</a> Co-Chair) is the Digital Archivist at the Schomburg Center for Research in Black Culture where she uses web archiving tools to ethically expand the nature of archival collections to reflect 21st-century Black life and experiences. She is also the Project Archivist for the Weeksville Heritage Center and Semantic Lab at Pratt Linking Lost Jazz Shrines project, which seeks to apply linked open data principles to a jazz oral history collection. She is a Certified Archivist through the Academy of Certified Archivists (ACA) in 2020 and she holds an MA in Media, Culture, and Communication from New York University, an MLIS from Long Island University, and a BA in Anthropology from the University of South Carolina. Zakiya is an affiliate of the Center for Critical Race and Digital Studies (CR+DS) at New York University, an Interim Board Member of the Archival Education and Research Initiative (AERI), and a guest editor of a forthcoming special issue of The Black Scholar on Black Archival Practice.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Zakiya Collier" src="{{ ' /images/coordinating-committee/CollierZ2021.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Bradley Daigle</h3>
