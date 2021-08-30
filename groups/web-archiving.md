@@ -5,7 +5,7 @@ permalink: /groups/web-archiving/
 ---
 
 
-The Web Archving Working Group was originally established October 2011 by the [Content Interest Group](content-interest-group.md). The Web Archiving Survey produced reports in 2011, 2013, 2016, and 2017.  All reports can be found on the [NDSA OSF](https://osf.io/4ytb2/) page.  
+The Web Archiving Working Group was originally established October 2011 by the [Content Interest Group](content-interest-group.md). The Web Archiving Survey produced reports in 2011, 2013, 2016, and 2017.  All reports can be found on the [NDSA OSF](https://osf.io/4ytb2/) page.  
    
 The Web Archiving Working Group started new work in September of 2021.
 
