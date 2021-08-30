@@ -27,7 +27,7 @@ While the main work of the group has begun, the group is interested in producing
 - Katherine Fischer
 - Martin Gengenbach
 - Kimberly Gianfrancesco
-- Nick Karbbenhoeft
+- Nick Krabbenhoeft
 - Jenny Mitcham
 - Max Prud'homme
   
