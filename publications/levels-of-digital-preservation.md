@@ -11,7 +11,7 @@ The Levels of Digital Preservation (LoP) is a resource for digital preservation 
 
 The LoP Matrix, documentation, and supporting resources are provided on this page as well as in the [NDSA's OSF repository](https://osf.io/4d567/).  
 
-This work was carried out by the Levels of Preservation Working Group.  Find more information or questions, please contact a member of the [LOP Working Group](/groups/levels-of-preservation/). 
+This work was carried out by the Levels of Digital Preservation Working Group.  Find more information or questions, please contact a member of the [LOP Working Group](/groups/levels-of-preservation/). 
 
 ### Award Winners
 [![Digital Preservation Award](/images/DPC_Award_Logo.jpg "Digital Preservation Award Logo"){:height="10%" width="10%"}](https://www.dpconline.org/events/digital-preservation-awards) 
@@ -41,7 +41,7 @@ A Digital Curation Decision Guide has been released that helps forms the basis o
 * [Digital Curation Decision Guide](https://osf.io/q8c47/)
 
 ### Training Slide Deck
-A slide deck and accompanying instructions are provided for use if you would like to talk about the Levels of Preservation to an audience.  Slides could be used for a full day workshop, a webinar, or just a quick infomercial like presentation.  The guide helps break down which slides may be most useful for each type of presentation, however feel free to use the slides that work for your purpose or audience.  
+A slide deck and accompanying instructions are provided for use if you would like to talk about the Levels of Digital Preservation to an audience.  Slides could be used for a full day workshop, a webinar, or just a quick infomercial like presentation.  The guide helps break down which slides may be most useful for each type of presentation, however feel free to use the slides that work for your purpose or audience.  
 * [Training Slides and Instructions](https://osf.io/je439/)
 
 ### Translations of the Levels of Digital Preservation
