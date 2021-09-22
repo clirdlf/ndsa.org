@@ -15,21 +15,23 @@ The conference will be held **online from 11am - 6pm Eastern Time on Thursday, N
 
 **[PROGRAM SCHEDULE](https://forum2021.diglib.org/schedule/)**
 
-## Registration
+### Registration
 Registration for ALL events (DigiPres, DLF Forum, Learn@DLF) is open through October 25th or until the event sells out. Registration is limited across all events this year. DigiPres and the DLF Forum are free with the option to donate; Learn@DLF is $35 per workshop.
 
 **[REGISTER HERE TODAY!](https://forum2021.diglib.org/registration/)**
 
+### Keynote Speaker: Dr. Tonia Sutherland
 
-## About the NDSA and Digital Preservation 2021
+<img alt="Dr. Tonia Sutherland" src = '{{/images/Sutherland_photo.tiff"}}'>
+
+Dr. Tonia Sutherland will give her keynote talk, "After the Archives: On Living and Dying in Digital Culture," halfway through the Digital Preservation 2021 program. Dr. Sutherland is an Assistant Professor in the Library and Information Sciences Program at the University of Hawaiʻi at Mānoa where her work focuses on memory, community, and technology. Dr. Sutherland’s book _Digital Remains_ is forthcoming from the University of California Press.
+
+### About the NDSA and Digital Preservation 2021
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code).
-
-## Keynote Speaker: TBA soon!
-The DigiPres 2021 keynote speaker will soon be announced. Stay tuned for updates.
 
 ## Conference Navigator Program
 Are you new to the NDSA? Is this your first time attending Digital Preservation? Or are you a veteran member who would like to help welcome someone new to the NDSA/DigiPres? If so, our Conference Navigator Program may be for you! 
-The NDSA Conference Navigator Program is meant to be lightweight, collegial, and is focused around the annual Digital Preservation conference. It is a reconfiguration of the previous mentorship program focused specifically on the conference experience.
+The NDSA Conference Navigator Program is meant to be lightweight, collegial, and is focused around the annual Digital Preservation conference. It is a reconfiguration of the previous mentorship program focused specifically on the conference experience. The NDSA is looking at options for longer-term mentorship opportunities, that would not be limited to the annual conference.
 NDSA facilitates the matching, based on expertise and new attendee requests. Navigators agree to:
 - Exchange emails and/or set up a phone/video chat to get to know each other before the conference
 - Meet up as early as possible at Digital Preservation (virtually), to be a friendly face, help make introductions, and generally advise on how to make the most of the conference
