@@ -22,7 +22,7 @@ Registration for ALL events (DigiPres, DLF Forum, Learn@DLF) is open through Oct
 
 ### Keynote Speaker: Dr. Tonia Sutherland
 
-<img alt="Dr. Tonia Sutherland" width="300" height="3361"src = '{{/images/Sutherland_photo.tiff"}}'>
+<img alt="Dr. Tonia Sutherland" width="300" height="361" src='{{/images/Sutherland_photo.tiff"}}'>
 
 Dr. Tonia Sutherland will give her keynote talk, "After the Archives: On Living and Dying in Digital Culture," halfway through the Digital Preservation 2021 program. Dr. Sutherland is an Assistant Professor in the Library and Information Sciences Program at the University of Hawaiʻi at Mānoa where her work focuses on memory, community, and technology. Dr. Sutherland’s book _Digital Remains_ is forthcoming from the University of California Press.
 
