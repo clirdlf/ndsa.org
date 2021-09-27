@@ -70,8 +70,7 @@ NDSA membership applications are **reviewed quarterly** using the following proc
        - announce new members on NDSA-ALL and the [NDSA News blog](https://ndsa.org/news/),
        - announce new members on social media.
    - If not approved, the CC Vice Chair sends a formal notice to the applicant stating the reasons why membership was not approved.
-<br/>
-<br/>
+
 ### [Membership Contacts](#membership-contacts)
 NDSA defines the following type of membership contacts. The membership application will ask for both a *program representative* and an *authorized signatory*.
 
@@ -80,3 +79,6 @@ NDSA defines the following type of membership contacts. The membership applicati
 **Authorized Signatory**: This person is empowered to agree to membership on behalf of your organization, and is in a position to commit time of the organization's employees for participation in NDSA interest groups. This person will be copied on application communications.
 
 **Other Contacts**: Other contacts can be added if responsibilities for voting and responding to other official NDSA Leadership inquiries will fall to someone outside of the program representative or authorized signatory.  These contacts also act as backup contacts for the organization if the others leave without updating the records.  
+
+## Updating Membership Contacts
+If you need to update your member contacts, you can complete the [**Membership Contact Update Form**](https://forms.gle/C7YiS13xVDfsyM9Z6).  More information can be found on the [Update Your NDSA Contacts](https://ndsa.org/membership/orientation/#update-your-ndsa-contacts) section of the Membership Orientation page.

@@ -36,14 +36,14 @@ New Working Groups can be formed at any time based on the interest of NDSA parti
 <!-- - [NDSA Experts Guide](/experts-guide/)-->
 <!-- - [New Member Orientation Information](/new-members/)-->
 
-## Update Your NDSA Contacts
+## [Update Your NDSA Contacts](#update-your-ndsa-contacts)
 Help us keep your records up to date! NDSA membership contacts are the main point of contact if questions arise about the NDSA membership.  These people also receive emails about the annual Coordinating Committee election and any other official correspondence the NDSA Leadership may have.  
 
-- Contacts provided on the original membership application are added to NDSA’s member database.  If there are any changes, please use the [Membership Contact Update Form](https://forms.gle/C7YiS13xVDfsyM9Z6) to let us know.  You can use this form to add new people as well as let us know who to remove.  We need to have at least two contacts per organization.  
+- Contacts provided on the original membership application are added to NDSA’s member database.  If there are any changes, please use the [**Membership Contact Update Form**](https://forms.gle/C7YiS13xVDfsyM9Z6) to let us know.  You can use this form to add new people as well as let us know who to remove.  We need to have at least two contacts per organization.  
 
 - If you don’t know who your contacts are please contact ndsa.digipres [at] gmail.com and we will be happy to assist you.  
 
-- The Membership Contact Update Form allows for updates to the Program Representative, Authorized Signatory and Other contacts.  More information about these contacts can be found on the [Join NDSA](https://ndsa.org/membership/join/#membership-contacts) page.  There is also a place to let us know who to remove from the list as well as a comment section if you have any questions, concerns or comments for us to review.  
+- The Membership Contact Update Form allows for updates to the Program Representative, Authorized Signatory and Other contacts.  More information about these contacts can be found on the [Membership Contacts](https://ndsa.org/membership/join/#membership-contacts) section of the Join the NDSA page.  There is also a place to let us know who to remove from the list as well as a comment section if you have any questions, concerns or comments for us to review.  
 
 **Important**
 - Emails from contacts that bounce back more than once from organizations with multiple contacts will be automatically removed from the membership contact list. Effort will be made to reach out to organizations whose emails from contacts that bounce back more than once from organizations without multiple contacts, however **if no response is received NDSA reserves the right to remove this organization from the current membership list until such time as the organization is able to provide new contacts.**  
