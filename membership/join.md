@@ -43,6 +43,7 @@ Representatives may further contribute by:
 Voting (done by the authorized signatory representative only)
 - When votes are called for, each member organization has a single vote.  
 - Voting occurs for the annual Coordinating Committee election but may also be requested for other organizational and governance matters affecting the NDSA.
+  
 ## Benefits of Membership
 Participants from member organizations share in the advantages of the NDSA, including:
 - Learning about and contributing to digital preservation practices through community knowledge-sharing with active practitioners. 
@@ -51,8 +52,10 @@ Participants from member organizations share in the advantages of the NDSA, incl
 - Taking part in outreach and advocacy to build public awareness around digital preservation.
 - Partnering with major organizations, including premier cultural heritage institutions and nonprofit organizations.
 - Help develop community based, durable solutions to a dynamically changing preservation landscape. 
+  
 ## Join the NDSA
 **Ready to become an NDSA member?** Please submit a brief [ application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform) on behalf of your organization.
+
 ### Membership Application Process
 NDSA membership applications are **reviewed quarterly** using the following process:
 
