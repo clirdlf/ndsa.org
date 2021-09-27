@@ -7,7 +7,7 @@ redirect_from:
   - /join
   - /join/
 ---
-**Ready to join** the NDSA? Please submit a brief **[membership application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform)**. More information about the Membership application process is shared below.  
+**Ready to join** the NDSA? Please submit a brief **[membership application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform)** ([PDF preview](/documents/ndsaMembershipApplication_2021-09-27.pdf)). More information about the Membership application process is shared below.  
 ## Membership Information
 NDSA member organizations are committed to long-term digital stewardship. Individuals from member organizations share expertise, tools, and practices to benefit local efforts while contributing to the stewardship of a growing collective collection of diverse digital content. Our members collaborate in many ways that benefit the digital preservation community and their organizations. NDSA depends on members contributing their efforts in a variety of ways such as participation in our Interest and Working Groups, in order to develop, expand, and share their knowledge and expertise. Learn more [about the NDSA](/about/).
 
@@ -70,3 +70,12 @@ NDSA membership applications are **reviewed quarterly** using the following proc
        - announce new members on NDSA-ALL and the [NDSA News blog](https://ndsa.org/news/),
        - announce new members on social media.
    - If not approved, the CC Vice Chair sends a formal notice to the applicant stating the reasons why membership was not approved.
+
+### Membership Contacts
+NDSA defines the following type of membership contacts. The membership application will ask for both a *program representative* and an *authorized signatory*.
+
+**Program representatives**: Your Program Representative is the main contact for your organization's participation in the NDSA. Responsibilities may be shared among colleagues (for example, to serve as interest group representatives or respond to NDSA surveys), but this person functions as our main, working contact with your organization.
+
+**Authorized Signatory**: This person is empowered to agree to membership on behalf of your organization, and is in a position to commit time of the organization's employees for participation in NDSA interest groups. This person will be copied on application communications.
+
+**Other Contacts**: Other contacts can be added if responsibilities for voting and responding to other official NDSA Leadership inquiries will fall to someone outside of the program representative or authorized signatory.  These contacts also act as backup contacts for the organization if the others leave without updating the records.  

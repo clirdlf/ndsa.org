@@ -26,7 +26,7 @@ javascript:
     <tr>
       <th data-field="organization" data-sortable="true">Organization</th>
       <th data-field="state" data-sortable="true">
-        State
+        Region
       </th>
       <th data-field="focus" data-sortable="true">
         Digital Preservation Focus
