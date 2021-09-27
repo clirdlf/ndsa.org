@@ -81,4 +81,4 @@ NDSA defines the following type of membership contacts. The membership applicati
 **Other Contacts**: Other contacts can be added if responsibilities for voting and responding to other official NDSA Leadership inquiries will fall to someone outside of the program representative or authorized signatory.  These contacts also act as backup contacts for the organization if the others leave without updating the records.  
 
 ## Updating Membership Contacts
-If you need to update your member contacts, you can complete the [**Membership Contact Update Form**](https://forms.gle/C7YiS13xVDfsyM9Z6).  More information can be found on the [Update Your NDSA Contacts](https://ndsa.org/membership/orientation/#update-your-ndsa-contacts) section of the Membership Orientation page.
+If you need to update your member contacts, you can complete the [**Membership Contact Update Form**](https://forms.gle/C7YiS13xVDfsyM9Z6) ([PDF Preview](/documents/NDSA_MembershipContacts_UpdateForm.pdf)).  More information can be found on the [Update Your NDSA Contacts](https://ndsa.org/membership/orientation/#update-your-ndsa-contacts) section of the Membership Orientation page.
