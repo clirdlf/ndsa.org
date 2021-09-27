@@ -36,7 +36,8 @@ New Working Groups can be formed at any time based on the interest of NDSA parti
 <!-- - [NDSA Experts Guide](/experts-guide/)-->
 <!-- - [New Member Orientation Information](/new-members/)-->
 
-## Update Your NDSA Contacts[](#update-your-ndsa-contacts)
+[](#update-your-ndsa-contacts)
+## Update Your NDSA Contacts
 Help us keep your records up to date! NDSA membership contacts are the main point of contact if questions arise about the NDSA membership.  These people also receive emails about the annual Coordinating Committee election and any other official correspondence the NDSA Leadership may have.  
 
 - Contacts provided on the original membership application are added to NDSA’s member database.  If there are any changes, please use the [**Membership Contact Update Form**](https://forms.gle/C7YiS13xVDfsyM9Z6) ([PDF Preview](/documents/NDSA_MembershipContacts_UpdateForm.pdf)) to let us know.  You can use this form to add new people as well as let us know who to remove.  We need to have at least two contacts per organization.  
