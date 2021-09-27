@@ -70,7 +70,8 @@ NDSA membership applications are **reviewed quarterly** using the following proc
        - announce new members on NDSA-ALL and the [NDSA News blog](https://ndsa.org/news/),
        - announce new members on social media.
    - If not approved, the CC Vice Chair sends a formal notice to the applicant stating the reasons why membership was not approved.
-
+<br/>
+<br/>
 ### [Membership Contacts](#membership-contacts)
 NDSA defines the following type of membership contacts. The membership application will ask for both a *program representative* and an *authorized signatory*.
 
