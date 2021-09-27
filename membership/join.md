@@ -71,7 +71,7 @@ NDSA membership applications are **reviewed quarterly** using the following proc
        - announce new members on social media.
    - If not approved, the CC Vice Chair sends a formal notice to the applicant stating the reasons why membership was not approved.
 
-### Membership Contacts
+### [Membership Contacts](#membership-contacts)
 NDSA defines the following type of membership contacts. The membership application will ask for both a *program representative* and an *authorized signatory*.
 
 **Program representatives**: Your Program Representative is the main contact for your organization's participation in the NDSA. Responsibilities may be shared among colleagues (for example, to serve as interest group representatives or respond to NDSA surveys), but this person functions as our main, working contact with your organization.
