@@ -16,9 +16,8 @@ The conference will be held **online from 11am - 6pm Eastern Time on Thursday, N
 **[PROGRAM SCHEDULE](https://forum2021.diglib.org/schedule/)**
 
 ### Registration
-Registration for ALL events (DigiPres, DLF Forum, Learn@DLF) is open through October 25th or until the event sells out. Registration is limited across all events this year. DigiPres and the DLF Forum are free with the option to donate; Learn@DLF is $35 per workshop.
 
-**[REGISTER HERE TODAY!](https://forum2021.diglib.org/registration/)**
+Registration for ALL events (DigiPres, DLF Forum, Learn@DLF) is now closed. See you at DigiPres!
 
 ### Keynote Speaker: Dr. Tonia Sutherland
 
