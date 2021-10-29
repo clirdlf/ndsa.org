@@ -13,6 +13,7 @@ The Content Interest Group will intentionally engage the priorities and importan
 
 ## Meetings
   * The Content Interest Group meets the first Wednesday of each month at 1pm EST.
+    * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below.
   * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/1ew5Ahid9eNto3T9Yk6pLWOko53rhIdTeJ_LbHItXVbE/edit). 
 
 
