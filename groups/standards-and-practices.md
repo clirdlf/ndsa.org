@@ -5,7 +5,7 @@ permalink: /groups/standards-and-practices/
 redirect_from: /working-groups/standards-and-practices/
 ---
 
-**Standards and Practices Interest Group Co-Chairs**: Felicity Dykas, University of Missouri Libraries - dykasf [at] missouri [dot] edu; Linda Reynolds, Stephen F. Austin State University - lreynolds [at] sfasu [dot] edu
+**Standards and Practices Interest Group Co-Chairs**: Felicity Dykas, University of Missouri Libraries - dykasf [at] missouri [dot] edu; **Open Position** (contact Felicity if interested)
 
 The Standards and Practices Interest Group works to facilitate a broad understanding of the role and benefit of standards in digital preservation and how to use them effectively to ensure durable and usable collections.
 
