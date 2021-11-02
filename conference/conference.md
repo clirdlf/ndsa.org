@@ -33,14 +33,17 @@ Join us in virtual social and wellness activities all day!
 
 ### DigiPres Lightning Trivia
 **10-10:45 am ET**
+
 Join us for a round of Lightning Trivia on all things DigiPres! Your hosts, DigiPres Program Committee members Ruby Martinez and Alex Kinnaman, will host a live event to provide some opening icebreakers to get us warmed up before a round of Lightning Trivia that will get us ready for a day of DigiPres! Come show off your knowledge and gain fake internet points with us! Links to the trivia will be shared during the event, no account required.
 
 ### DigiPres Collaborative Banner
 **Ongoing**
+
 As a way to celebrate DigiPres2021, we invite you all to contribute to a Collaborative Art Work – DigiPres 2021 Banner! Using Jamboard, you can add your favorite quotations, hashtags, images, logos, links, and thoughts about #DigiPres21! The completed project will be captured and featured on the NDSA Conference page after the conference. As always, be respectful with your additions, and also be creative! Run out of space? Go to the next page on Jamboard and keep the celebration going! The link to the banner is in Midspace.
 
 ### DigiPres Coffee Lounge
 **Ongoing**
+
 Catch up with old friends, or make new ones, as you take a coffee break in between DigiPres sessions! Coffee not required.
 
 ## Conference Navigator Program
