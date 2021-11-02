@@ -28,6 +28,21 @@ Dr. Tonia Sutherland will give her keynote talk, "After the Archives: On Living 
 ### About the NDSA and Digital Preservation 2021
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code).
 
+## Social and Wellness Activities
+Join us in virtual social and wellness activities all day!
+
+### DigiPres Lightning Trivia
+**10-10:45 am ET**
+Join us for a round of Lightning Trivia on all things DigiPres! Your hosts, DigiPres Program Committee members Ruby Martinez and Alex Kinnaman, will host a live event to provide some opening icebreakers to get us warmed up before a round of Lightning Trivia that will get us ready for a day of DigiPres! Come show off your knowledge and gain fake internet points with us! Links to the trivia will be shared during the event, no account required.
+
+### DigiPres Collaborative Banner
+**Ongoing**
+As a way to celebrate DigiPres2021, we invite you all to contribute to a Collaborative Art Work – DigiPres 2021 Banner! Using Jamboard, you can add your favorite quotations, hashtags, images, logos, links, and thoughts about #DigiPres21! The completed project will be captured and featured on the NDSA Conference page after the conference. As always, be respectful with your additions, and also be creative! Run out of space? Go to the next page on Jamboard and keep the celebration going! The link to the banner is in Midspace.
+
+### DigiPres Coffee Lounge
+**Ongoing**
+Catch up with old friends, or make new ones, as you take a coffee break in between DigiPres sessions! Coffee not required.
+
 ## Conference Navigator Program
 Are you new to the NDSA? Is this your first time attending Digital Preservation? Or are you a veteran member who would like to help welcome someone new to the NDSA/DigiPres? If so, our Conference Navigator Program may be for you! 
 The NDSA Conference Navigator Program is meant to be lightweight, collegial, and is focused around the annual Digital Preservation conference. It is a reconfiguration of the previous mentorship program focused specifically on the conference experience. The NDSA is looking at options for longer-term mentorship opportunities, that would not be limited to the annual conference.
