@@ -25,7 +25,7 @@ These awards focus on recognizing excellence in the following areas:
 
 ## Working Group Members
 - Stephen Abrams, co-chair (Harvard University) 
-- Krista Oldham, co-chair (Clemson University)
+- Krista Oldham, co-chair (Texas A&M University Libraries)
 - Samantha Abrams (Center for Research Libraries)
 - Lauren Goodley (Texas State University)
 - Grete Graf (Yale University)
@@ -34,13 +34,7 @@ These awards focus on recognizing excellence in the following areas:
 <!-- ## ## 2021 NDSA Excellence Awards Call for Nominations
 Nominations for the 2021 NDSA Excellence Awards are now [open](https://forms.gle/ZXqLaGuqeUyHhTwp9) and will remain open through Friday, July 30, 2021.-->
 
-<!-- ## 2019 NDSA Innovation Awards: Nominations Open & Join Our Working Group! 
-The NDSA is looking for participants in the 2019 NDSA Innovation Awards Working Group. Working group members encourage nominations during the nominations period and get together on a conference call early in September to talk about and get consensus on the award selections. 
-Past experience has shown this to be a wonderful opportunity to see the wide range of innovative people and projects in the NDSA community. 
-If you’re interested in participating in the working group, or have any questions about the awards or the awards process, please reply to the list or to Sheila Morrissey at sheila dot morrissey at ithaka dot org.
-A reminder also to be sure to post your [nominations for the 2018 NDSA Innovation Awards](https://ndsa.org//2018/06/14/nominations-open-for-ndsa-2018-innovation-awards.html) by August 31. -->
-
-
+<!--
 ## 2020 NDSA Innovation Award Winners
 The 2020 Innovation Awards were [announced](https://ndsa.org/2020/11/12/ndsa-announces-winners-of-2020-innovation-awards.html) at [Digital Preservation 2020](https://ndsa.org/conference/). The 2020 NDSA Innovation Awards Working Group was led by co-chairs Stephen Abrams (Harvard University) and Krista Oldham (Clemson University), with members Samantha Abrams (Ivy Plus Libraries Confederation), Lauren Goodley (Texas State University), Grete Graf (Yale University), and Kari May (University of Pittsburgh). Aliya Reich at CLIR provided administrative support for the entire awards process.
 
@@ -101,7 +95,7 @@ Project Electron Logo
 
 ![Tribesourceing Website Screenshot](https://i2.wp.com/www.diglib.org/wp-content/uploads/sites/3/2020/10/NDSA-2020-Tribesourcing-photo.jpg?resize=1024%2C589)<br>
 Tribesourceing Website Screenshot
-
+-->
 
 ## Past Award Recipients
 <!-- Innovation winners from [2012-2019](https://ndsa.org/groups/previous-innovation-awards/) are provided on a separate page. -->
