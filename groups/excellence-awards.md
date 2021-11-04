@@ -30,6 +30,7 @@ These awards focus on recognizing excellence in the following areas:
 - Lauren Goodley (Texas State University)
 - Grete Graf (Yale University)
 - Kari May (University of Pittsburgh)
+- Sharon McMeekin (Digital Preservation Coalition)
 
 <!-- ## ## 2021 NDSA Excellence Awards Call for Nominations
 Nominations for the 2021 NDSA Excellence Awards are now [open](https://forms.gle/ZXqLaGuqeUyHhTwp9) and will remain open through Friday, July 30, 2021.-->
