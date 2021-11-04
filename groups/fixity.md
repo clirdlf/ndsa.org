@@ -12,18 +12,19 @@ The Fixity Working Group started up for the second time in April of 2021 and com
 ## Contact Us
 While the most recent survey work is complete, if you have any questions or are interested in working on the next iteration of this survey in a few years, please contact the Fixity Working Group at NDSA-Fixity [@] lists [dot] clir [dot] org.  
 
-## 2021 Products and Activities
+## 2021 Activities and Products
+The 2021 Fixity Working group:
+- Reviewed the 2017 Fixity Survey report and survey questions
+- Developed a set of survey questions for 2021
+- Deployed the 2021 survey
+- Reviewed and analyzed the results
+- Wrote case studies after interviewing interested organizations 
+- Wrote a final report based off of the 2021 survey responses, including the case studies
+
+The group produced:
 - The [2021 Fixity Survey Report](https://osf.io/2qkea/) documents the results of the 2021 survey and compares these with the 2017 results when applicable.  In addition, the 2021 Report includes case studies documenting how fixity is used with each organization building on the findings of the survey itself.  
 - Case studies documenting how various instutions handle fixity are included in the report.  
 - The survey data and a crosswalk between the 2017 and 2021 survey questions is also on the [NDSA OSF](https://osf.io/2qkea/) page.
-
-
-## 2021 Scope of Work
-- Review 2017 Fixity Survey report and survey questions
-- Develop a set of survey questions for 2021
-- Deploy 2021 survey
-- Review and analyze results
-- Write a final report based off of the 2021 survey responses
 
 
 ## 2021 Working Group Members
