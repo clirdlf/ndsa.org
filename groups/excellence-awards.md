@@ -37,7 +37,7 @@ Nominations for the 2021 NDSA Excellence Awards are now [open](https://forms.gle
 
 
 ## 2021 NDSA Excellence Award Winners
-The 2021 Excellence Awards were announced at [Digital Preservation 2021](https://ndsa.org/conference/). The 2021 NDSA Excellence Awards Working Group was led by co-chairs Stephen Abrams (Harvard University) and Krista Oldham (Texas A&M University Libraries), with members Samantha Abrams (Center for Research Libraries), Lauren Goodley (Texas State University), Grete Graf (Yale University), and Kari May (University of Pittsburgh). Aliya Reich at CLIR provided administrative support for the entire awards process.
+The 2021 Excellence Awards were announced at [Digital Preservation 2021](https://ndsa.org/conference/). The 2021 NDSA Excellence Awards Working Group was led by co-chairs Stephen Abrams (Harvard University) and Krista Oldham (Texas A&M University Libraries), with members Samantha Abrams (Center for Research Libraries), Lauren Goodley (Texas State University), Grete Graf (Yale University), Kari May (University of Pittsburgh), and Sharon McMeekin (Digital Preservation Coalition). Aliya Reich at CLIR provided administrative support for the entire awards process.
 
 **Future Stewards** are recognized as students and early-career professionals or academics taking a creative approach to advancing knowledge of digital preservation issues and practices. This year’s awardee in the Future Stewards category is:
 
