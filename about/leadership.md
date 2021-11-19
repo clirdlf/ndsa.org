@@ -246,15 +246,6 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Linda Reynolds</h3>
-        <p>Linda Reynolds (<a href="/groups/standards-and-practices/">Standards and Practices Interest Group</a> Co-Chair; 1st term, 2020-2022) is the Director of the East Texas Research Center at Stephen F. Austin State University (SFA) in Nacogdoches, Texas.  She is responsible for overseeing all aspects of archival work from paper processing to digital preservation.  Since there is no digital archivist at SFA, she has taken on that responsibility.  She is a one woman digital show and has thrown herself into the deep end of the digital pool to bring SFA’s chaotic digital assets into a manageable system. She advises and works with many cultural heritage institutions and community members in the east Texas area on processing, preservation of, and providing access to digital and non-digital material.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Linda Reynolds" src="{{ '/images/coordinating-committee/ReynoldsLinda2020.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
         <h3>Sibyl Schaefer</h3>
         <p>Sibyl Schaefer (<a href="/groups/fixity/">Fixity Survey Working Group</a> 2021 co-chair) is the Chronopolis Program Manager and Digital Preservation Analyst for Research Data Curation at the University of California, San Diego. In addition to working with national digital preservation efforts like the National Digital Stewardship Alliance (NDSA), she helps define long-term digital preservation solutions for the UCSD campus. She previously served as the Head of Digital Programs for the Rockefeller Archive Center where she worked to fully integrate digital and traditional archival practices, including policy development, forensic and accessioning workflows, and training initiatives to support the long-term stewardship of digitized and born digital materials. She has been recognized as an Emerging Leader by the American Library Association and has participated in the Archival Leadership Institute. Schaefer holds an MLIS with a specialization in Archival Studies from the University of California, Los Angeles.</p>
     </div>
@@ -297,3 +288,12 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Louisa Kwasigroch" src="{{ '/images/coordinating-committee/kwasigroch2021.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
+<!--<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Linda Reynolds</h3>
+        <p>Linda Reynolds (<a href="/groups/standards-and-practices/">Standards and Practices Interest Group</a> Co-Chair; 1st term, 2020-2022) is the Director of the East Texas Research Center at Stephen F. Austin State University (SFA) in Nacogdoches, Texas.  She is responsible for overseeing all aspects of archival work from paper processing to digital preservation.  Since there is no digital archivist at SFA, she has taken on that responsibility.  She is a one woman digital show and has thrown herself into the deep end of the digital pool to bring SFA’s chaotic digital assets into a manageable system. She advises and works with many cultural heritage institutions and community members in the east Texas area on processing, preservation of, and providing access to digital and non-digital material.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Linda Reynolds" src="{{ '/images/coordinating-committee/ReynoldsLinda2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>-->
