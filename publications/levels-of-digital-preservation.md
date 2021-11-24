@@ -47,11 +47,13 @@ A slide deck and accompanying instructions are provided for use if you would lik
 ### Translations of the Levels of Digital Preservation
 Various documents from the Version 2.0 work have been translated into different languages by our partners.
 
+* ARABIC: Translations have been done for the Matrix and Implementation guide.  Both can be found on the NDSA [OSF site](https://osf.io/qgz98/).
 * FINNISH: Translations have been done for the Matrix and Assessment Tool.  Both can be found [here](https://www.digitalpreservation.fi/specifications/ndsalevels) or linked from the NDSA [OSF site](https://osf.io/69gpf/).
 * FRENCH: Translations have been done for the Matrix, Implementation Guidelines and Assessment Tool Documentation.  Translations are available from the [Bibliotheque nationale de France](https://hal-bnf.archives-ouvertes.fr/hal-02162334) or on the [OSF site](https://osf.io/9ya8c/).  Translations for Version 1 are also available.  
+* GERMAN: A German translation has been made of the [Matrix](https://osf.io/3na96/).
 * PORTUGUESE: A Portuguese translation has been made of the [Matrix](https://osf.io/3amnu/).
-* TURKISH: A Turkish translation has been made of the [Matrix](https://osf.io/c7ge3/) and [Implementation Guide](https://osf.io/fje6v/).
 * SPANISH: Spanish translations have been made for Version 2 of the Matrix.  Translations are available in NDSA's OSF repository ([Version 2.0](https://osf.io/aqh63/)) as well as in APREDIG (Ibero-American association for digital preservation) ([Version 2.0](http://www.apredig.org/npdndsa2019/)).  Translations for Version 1 are also available.  
+* TURKISH: A Turkish translation has been made of the [Matrix](https://osf.io/c7ge3/) and [Implementation Guide](https://osf.io/fje6v/).
   
 ### Feedback
 It is expected that the Levels of Digital Preservation will continue to be updated over time as additional feedback is received, experience is gained implementing its recommendations, and as empirical research provides detailed information about data loss.  For this reason, each iteration of the Levels will be versiond. 
