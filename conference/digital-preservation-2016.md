@@ -17,7 +17,7 @@ The 2016 conference was the first organized in partnership with our new host org
 
 You can find information and news about the event at [@NDSA2](https://twitter.com/ndsa2) and [#digipres16](https://twitter.com/search?q=%23digipres16&src=typd) on Twitter, and at the [DLF Forum website](https://www.diglib.org/dlf-events/2016forum/).
 
-More information and selected presentations may be accessed here and here.
+More information and selected presentations may be accessed [here](https://osf.io/qbevc/) and [here](https://osf.io/meetings/DLF2016).
 
 ### Keynote and Plenary
 
