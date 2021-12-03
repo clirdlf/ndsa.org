@@ -20,7 +20,6 @@ Held online November 4, 2021, the slide decks of the presentations for Digital P
 
 *Collaborative art banner from attendees at #DigiPres21*
 
-**[PROGRAM SCHEDULE](https://forum2021.diglib.org/schedule/)**
 
 ### Keynote Speaker: Dr. Tonia Sutherland
 
