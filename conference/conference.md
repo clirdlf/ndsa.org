@@ -16,7 +16,7 @@ Held online November 4, 2021, the slide decks of the presentations for Digital P
 - Recordings will be posted on the [NDSA YouTube Channel](https://www.youtube.com/channel/UC3WdMHeOtusuNiYrOrM5USA/videos) by early 2022
 - We are so grateful to our [2021 CLIR events sponsors](https://forum2021.diglib.org/sponsorship-opportunities/sponsors/)!
 
-<img alt="NDSA 2021 Collaborative Banner" src='{{/images/NDSA-2021-CollaborativeBanner.png" }}'>
+<img alt="NDSA 2021 Collaborative Banner" width='750' height='420' src='{{ "/images/NDSA-2021-CollaborativeBanner.png" }}'>
 *Collaborative art banner from attendees at #DigiPres21*
 
 **[PROGRAM SCHEDULE](https://forum2021.diglib.org/schedule/)**
