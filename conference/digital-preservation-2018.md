@@ -40,9 +40,9 @@ Having trouble find something? Get in touch at <mailto:forum@diglib.org>.
 ### Keynote: Snowden Becker
 [Snowden Becker](https://snowdenbecker.com/) will open Digital Preservation 2018 with a talk entitled “**To See Ourselves as Others See Us: On Archives, Visibility, and Value**.”
 
-Becker manages the graduate degree program in audiovisual archiving and preservation in the [Department of Information Studies](https://is.gseis.ucla.edu/programs/graduate-degree-programs/mlis-specializations) at UCLA, where she also [teaches](https://snowdenbecker.com/courses-and-syllabi/) courses in preservation and archival administration. She previously worked at Academy Film Archive, J. Paul Getty Museum, and Japanese American National Museum. Becker is pursuing a PhD in Information Science at University of Texas at Austin. She has an MLIS from UCLA Graduate School of Education & Information Studies and a BFA from Maryland Institute, College of Art.
+Becker manages the graduate degree program in audiovisual archiving and preservation in the [Department of Information Studies](https://seis.ucla.edu/departments-and-degrees/department-of-information-studies) at UCLA, where she also [teaches](https://snowdenbecker.com/courses-and-syllabi/) courses in preservation and archival administration. She previously worked at Academy Film Archive, J. Paul Getty Museum, and Japanese American National Museum. Becker is pursuing a PhD in Information Science at University of Texas at Austin. She has an MLIS from UCLA Graduate School of Education & Information Studies and a BFA from Maryland Institute, College of Art.
 
-Snowden Becker’s research interests focus on how audiovisual materials are integrated into, accessed, and preserved as part of our larger cultural heritage. Her forthcoming dissertation, Keeping the Pieces: Evidence management and archival practice in law enforcement, addresses the property room as a type of archive, and examines how audiovisual recordings and file-based media are managed alongside material evidence in law enforcement organizations. That work has led into additional research projects related to the creation, management, and preservation of audiovisual evidence, including an [IMLS-funded National Forum](https://www.imls.gov/grants/awarded/re-43-16-0053-16) on data management needs arising from large-scale video recording programs such as police body-worn cameras.
+Snowden Becker’s research interests focus on how audiovisual materials are integrated into, accessed, and preserved as part of our larger cultural heritage. Her forthcoming dissertation, Keeping the Pieces: Evidence management and archival practice in law enforcement, addresses the property room as a type of archive, and examines how audiovisual recordings and file-based media are managed alongside material evidence in law enforcement organizations. That work has led into additional research projects related to the creation, management, and preservation of audiovisual evidence, including an [IMLS-funded National Forum](https://www.imls.gov/grants/awarded/re-43-16-0053-16-0) on data management needs arising from large-scale video recording programs such as police body-worn cameras.
 
 
 ### #DigiPres18 Planning Committee Members
@@ -73,7 +73,7 @@ Thank you to our 2018 DigiPres Planning Committee Members!
 
 The National Digital Stewardship Alliance (NDSA) invites proposals for **Digital Preservation 2018: “In/visible Work”** to be held in Henderson, NV, October 17-18, 2018.
 
-250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected. Submit proposals online: [https://conftool.pro/dlf2018/](https://conftool.pro/dlf2018/).
+250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected. Submit proposals online.
 
 We especially encourage proposals that speak to our conference theme, **“In/visible Work.”**
 
