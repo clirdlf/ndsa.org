@@ -9,45 +9,47 @@ redirect_from: /digital-preservation-2016/
 ## Digital Preservation 2016: "Building Communities of Practice"
 
 ### Program and Information  
-Digital Preservation 2016 was held in Milwaukee, Wisconsin, from November 9-10, 2016, just after the closing of the [2016 DLF Forum](https://www.diglib.org/dlf-events/past/2016forum/). **[The full program](https://www.conftool.pro/dlf2016/index.php?page=browseSessions&presentations=show&form_tracks=2) is available to browse.**
+Digital Preservation 2016 was held in Milwaukee, Wisconsin, from November 9-10, 2016, just after the closing of the [2016 DLF Forum](https://www.diglib.org/dlf-events/2016forum/). **[The full program](https://www.conftool.pro/dlf2016/index.php?page=browseSessions&presentations=show&form_tracks=2) is available to browse.**
 
-([Browse the programs](https://www.conftool.pro/dlf2016/sessions.php) for the 2016 DLF Forum and Liberal Arts Colleges Pre-Conference here as well.)
+([Browse the programs](https://web.archive.org/web/20170314225544/https://www.conftool.pro/dlf2016/index.php?page=browseSessions&presentations=show&form_tracks=2) for the 2016 DLF Forum and Liberal Arts Colleges Pre-Conference here as well.)
 
 The 2016 conference was the first organized in partnership with our new host organization, the [Digital Library Federation](https://www.diglib.org/) (DLF). *Digital Preservation* is the major meeting of the NDSA—open to [NDSA members](http://ndsa.org/members-list/) and non-members alike—focusing on tools, techniques, theories and methodologies for digital stewardship and preservation, data curation, the content lifecycle, and related issues.  
 
-You can find information and news about the event at [@NDSA2](https://twitter.com/ndsa2) and [#digipres16](https://twitter.com/search?q=%23digipres16&src=typd) on Twitter, and at the [DLF Forum website](https://www.diglib.org/dlf-events/past/2016forum/ndsa-digipres16/).
+You can find information and news about the event at [@NDSA2](https://twitter.com/ndsa2) and [#digipres16](https://twitter.com/search?q=%23digipres16&src=typd) on Twitter, and at the [DLF Forum website](https://www.diglib.org/dlf-events/2016forum/).
+
+More information and selected presentations may be accessed here and here.
 
 ### Keynote and Plenary
 
-Our Digital Preservation 2016 keynote speaker was **Bergis Jules**, University and Political Papers Archivist at the University of California, Riverside library, and his talk focused on the power and promise of diversity and inclusivity in digital preservation work. Read the full announcement [here](https://www.diglib.org/archives/11840/).
+Our Digital Preservation 2016 keynote speaker was **Bergis Jules**, University and Political Papers Archivist at the University of California, Riverside library, and his talk focused on the power and promise of diversity and inclusivity in digital preservation work. Read the full announcement [here](https://www.diglib.org/digital-preservation-2016-keynoter-is-bergis-jules/).
 
 We closed with a final plenary talk by **Allison Druin**, Special Advisor for National Digital Strategy at the NPS, who took up the conference theme, “building communities of practice,” in the context of “communities of innovation” and her work with America’s National Park Service.
 
-Learn more [here](https://www.diglib.org/dlf-events/past/2016forum/keynotes/). The recordings of the keynote and final plenary presentations are available [here](https://www.diglib.org/dlf-events/past/2016forum/livestream-schedule/).
+Learn more [here](https://www.diglib.org/dlf-events/2016forum/keynotes/). The recordings of the keynote and final plenary presentations are available [here](https://www.diglib.org/dlf-events/2016forum/livestream-schedule/).
 
 
 ### Travel and Registration - **CLOSED October 17, 2016.**
 
-[Registration](https://www.conftool.pro/dlf2016/) includes a continental breakfast, hot lunch, coffee breaks, and the NDSA reception. The conference will run from Wednesday mid-afternoon through Thursday evening, November 9-10.
+Registration includes a continental breakfast, hot lunch, coffee breaks, and the NDSA reception. The conference will run from Wednesday mid-afternoon through Thursday evening, November 9-10.
 
 - Regular: $200
 - Student rate: $150
 
-Conference registration and [room bookings are available](https://www.diglib.org/dlf-events/past/2016forum/hotel-travel/) at Milwaukee's historic [Pfister Hotel](http://www.thepfisterhotel.com/) are open now. (We encourage early registration and room reservations!) Information on registration for the 2016 DLF Forum and Liberal Arts Colleges Pre-Conference is [also available](https://www.diglib.org/dlf-events/past/2016forum/registration/).
+Conference registration and [room bookings are available](https://www.diglib.org/dlf-events/2016forum/hotel-travel/) at Milwaukee's historic [Pfister Hotel](http://www.thepfisterhotel.com/) are open now. (We encourage early registration and room reservations!) Information on registration for the 2016 DLF Forum and Liberal Arts Colleges Pre-Conference is [also available](https://www.diglib.org/dlf-events/2016forum/registration/).
 
 
 ### More About the Conference
 
 The National Digital Stewardship Alliance is a consortium of [more than 160 organizations](http://ndsa.org/members-list/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. Digital Preservation 2016 ([#digipres16](https://twitter.com/search?q=%23digipres16&src=typd)) will help to chart future directions for both the NDSA and digital stewardship, and is expected to be a crucial venue for intellectual exchange, community-building, development of best practices, and national-level agenda-setting in the field.
 
-Our revived conference will be held at the historic [Pfister Hotel](http://www.thepfisterhotel.com/), just blocks from Lake Michigan, the [Milwaukee Art Museum](http://mam.org/), restaurants, and nightlife. The hotel has an incredible Victorian art collection, an artist-in-residence program, and a spa. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/dlf-events/past/2016forum/code-of-conduct/). Childcare subsidies for DLF Forum attendees also participating in Digital Preservation 2016 may be extended upon request. Contact <ndsa@diglib.org> for more information or indicate your needs on registration.
+Our revived conference will be held at the historic [Pfister Hotel](http://www.thepfisterhotel.com/), just blocks from Lake Michigan, the [Milwaukee Art Museum](http://mam.org/), restaurants, and nightlife. The hotel has an incredible Victorian art collection, an artist-in-residence program, and a spa. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and will operate under the DLF Forum’s [Code of Conduct](https://www.diglib.org/dlf-events/2016forum/code-of-conduct/). Childcare subsidies for DLF Forum attendees also participating in Digital Preservation 2016 may be extended upon request. Contact <ndsa@diglib.org> for more information or indicate your needs on registration.
 
 ### Sponsors
 
 We gratefully acknowledge the support of the following conference sponsors:
 
 - DLF, the [Digital Library Federation](https://www.diglib.org/)
-- DPN, the [Digital Preservation Network](http://dpn.org)
+- DPN, the [Digital Preservation Network](https://web.archive.org/web/20161022034023/http://dpn.org/)
 - LIPA, the [Legal Information Preservation Alliance](http://lipalliance.org/)
 
 <section id="sponsors">
@@ -90,9 +92,9 @@ ___
 
 ### Call for Proposals - **CLOSED May 23, 2016.**
 
-Thank you for your contributions! All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified later this summer and guaranteed a registration slot at the conference. From June 8 - 20, proposals were open to [community voting](http://voting.diglib.org/) to help inform selection decisions.
+Thank you for your contributions! All submissions will be peer-reviewed by NDSA’s volunteer Program Committee. Presenters will be notified later this summer and guaranteed a registration slot at the conference. From June 8 - 20, proposals were open to [community voting](https://www.diglib.org/community-voting-for-dlf-forum-dlf-lac-pre-conference-and-digital-preservation-2016/) to help inform selection decisions.
 
- **The CFP CLOSED May 23rd, 2016.** [Browse the conference program here.](https://www.conftool.pro/dlf2016/sessions.php)
+ **The CFP CLOSED May 23rd, 2016.** [Browse the conference program here.](https://web.archive.org/web/20170314225544/https://www.conftool.pro/dlf2016/index.php?page=browseSessions&presentations=show&form_tracks=2)
 
 250-word proposals describing the presentation/demo/poster are invited (500 words for full panel sessions). Please also include a 50-word short abstract for the program if your submission is selected.
 
