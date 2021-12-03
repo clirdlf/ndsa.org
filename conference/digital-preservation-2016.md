@@ -9,7 +9,7 @@ redirect_from: /digital-preservation-2016/
 ## Digital Preservation 2016: "Building Communities of Practice"
 
 ### Program and Information  
-Digital Preservation 2016 was held in Milwaukee, Wisconsin, from November 9-10, 2016, just after the closing of the [2016 DLF Forum](https://www.diglib.org/dlf-events/2016forum/). **[The full program](https://www.conftool.pro/dlf2016/index.php?page=browseSessions&presentations=show&form_tracks=2) is available to browse.**
+Digital Preservation 2016 was held in Milwaukee, Wisconsin, from November 9-10, 2016, just after the closing of the [2016 DLF Forum](https://www.diglib.org/dlf-events/2016forum/). **[The full program](https://web.archive.org/web/20170314225544/https://www.conftool.pro/dlf2016/index.php?page=browseSessions&presentations=show&form_tracks=2) is available to browse.**
 
 ([Browse the programs](https://web.archive.org/web/20170314225544/https://www.conftool.pro/dlf2016/index.php?page=browseSessions&presentations=show&form_tracks=2) for the 2016 DLF Forum and Liberal Arts Colleges Pre-Conference here as well.)
 
