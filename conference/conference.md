@@ -7,17 +7,19 @@ redirect_from: /meetings/
 
 <img alt="meetings" width="820" height="312" src='{{ "/images/DigiPres-2021-820x312.jpg" | prepend: site.baseurl }}'>
 
-# Digital Preservation 2021: Embracing Digitality
-Digital Preservation 2021: Embracing Digitality (#DigiPres21) is the annual meeting of the NDSA and helps chart future directions for both the NDSA and the greater digital stewardship field. It is a crucial venue for intellectual exchange, community building, development of good practices, and agenda-setting in the digital stewardship field.
+# Thank you for attending Digital Preservation 2021: Embracing Digitality!
+The NDSA Digital Preservation conference is the annual meeting of the NDSA and helps chart future directions for both the NDSA and the greater digital stewardship field. It is a crucial venue for intellectual exchange, community building, development of good practices, and agenda-setting in the digital stewardship field. **Digital Preservation 2021: Embracing Digitality (#DigiPres21) was held online on Thursday, November 4 2021** on World Digital Preservation Day and in concert with the [Council on Library and Information Resources (CLIR)](https://www.clir.org/) events [DLF Forum](https://forum2021.diglib.org/) (November 1-3) and [Learn@DLF](https://forum2021.diglib.org/learndlf/) (November 8-10)
 
-## Conference Program
-The conference will be held **online from 11am - 6pm Eastern Time on Thursday, November 4th, 2021** ([World Digital Preservation Day](https://www.dpconline.org/events/world-digital-preservation-day)!). It is held in concert with the [Council on Library and Information Resources (CLIR)](https://www.clir.org/) events [DLF Forum](https://forum2021.diglib.org/) (November 1-3) and [Learn@DLF](https://forum2021.diglib.org/learndlf/) (November 8-10). The full schedule for all events can be viewed below.
+## Conference Program and Proceedings
+Held online November 4, 2021, the slide decks of the presentations for Digital Preservation 2021: Embracing Digitality are available, and recordings will be forthcoming.
+- Slide decks are available on the [Open Science Framework (OSF)](https://osf.io/meetings/ndsa2021)
+- Recordings will be posted on the [NDSA YouTube Channel](https://www.youtube.com/channel/UC3WdMHeOtusuNiYrOrM5USA/videos) by early 2022
+- We are so grateful to our [2021 CLIR events sponsors](https://forum2021.diglib.org/sponsorship-opportunities/sponsors/)!
+
+<img alt="NDSA 2021 Collaborative Banner" src='{{/images/NDSA-2021-CollaborativeBanner.png" }}'>
+*Collaborative art banner from attendees at #DigiPres21*
 
 **[PROGRAM SCHEDULE](https://forum2021.diglib.org/schedule/)**
-
-### Registration
-
-Registration for ALL events (DigiPres, DLF Forum, Learn@DLF) is now closed. See you at DigiPres!
 
 ### Keynote Speaker: Dr. Tonia Sutherland
 
