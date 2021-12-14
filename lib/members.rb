@@ -38,8 +38,8 @@ YAML
       organization: @ws[row, 2], # there are multime :name columns
       street: @ws[row, headers[:street_address]],
       city: @ws[row, headers[:city]],
-      state: @ws[row, headers[:state]],
-      zip: @ws[row, headers[:zip_code]],
+      state: @ws[row, headers[:region]],
+      zip: @ws[row, headers[:postal_code]],
       website: Utils.clean_website(@ws[row, headers[:website]]),
       longitude: @ws[row, headers[:longitude]],
       latitude: @ws[row, headers[:latitude]]
@@ -72,7 +72,7 @@ YAML
 
       row_data = {
         organization: @ws[row, 2], # there are two name fields
-        state: @ws[row, headers[:state]],
+        state: @ws[row, headers[:region]],
         focus: @ws[row, headers[:digital_preservation_focus]]
       }
 
