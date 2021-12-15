@@ -5,7 +5,7 @@ permalink: /conference/
 redirect_from: /meetings/
 ---
 
-<!--<img alt="meetings" width="600" height="200" src='{{ "/images/DigiPres_2022_600x200.jpeg" | prepend: site.baseurl }}'>-->
+<!--<img alt="meetings" width="600" height="337" src='{{ "/images/conferences/DLF-2022-banner-final.jpg"  | prepend: site.baseurl }}'>-->
 
 <img alt="meetings" width="820" height="312" src='{{ "/images/DigiPres-2021-820x312.jpg" | prepend: site.baseurl }}'>
 
@@ -18,14 +18,14 @@ Held online November 4, 2021, the slide decks of the presentations for Digital P
 - Recordings will be posted on the [NDSA YouTube Channel](https://www.youtube.com/channel/UC3WdMHeOtusuNiYrOrM5USA/videos) by early 2022
 - We are so grateful to our [2021 CLIR events sponsors](https://forum2021.diglib.org/sponsorship-opportunities/sponsors/)!
 
-<img alt="NDSA 2021 Collaborative Banner" width='750' height='420' src='{{ "/images/NDSA-2021-CollaborativeBanner.png" }}'>
+<img alt="NDSA 2021 Collaborative Banner" width='750' height='420' src='{{ "/images/conferences/NDSA-2021-CollaborativeBanner.png" }}'>
 
 *Collaborative art banner from attendees at #DigiPres21*
 
 
 ### Keynote Speaker: Dr. Tonia Sutherland
 
-<img alt="Dr. Tonia Sutherland" width="300" height="361" src='{{ "/images/Sutherland_photo.png" }}'>
+<img alt="Dr. Tonia Sutherland" width="300" height="361" src='{{ "/images/conferences/Sutherland_photo.png" }}'>
 
 Dr. Tonia Sutherland will give her keynote talk, "After the Archives: On Living and Dying in Digital Culture," halfway through the Digital Preservation 2021 program. Dr. Sutherland is an Assistant Professor in the Library and Information Sciences Program at the University of Hawaiʻi at Mānoa where her work focuses on memory, community, and technology. Dr. Sutherland’s book _Digital Remains_ is forthcoming from the University of California Press.
 
