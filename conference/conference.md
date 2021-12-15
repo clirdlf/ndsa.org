@@ -5,6 +5,8 @@ permalink: /conference/
 redirect_from: /meetings/
 ---
 
+<!--<img alt="meetings" width="600" height="200" src='{{ "/images/DigiPres_2022_600x200.jpeg" | prepend: site.baseurl }}'>-->
+
 <img alt="meetings" width="820" height="312" src='{{ "/images/DigiPres-2021-820x312.jpg" | prepend: site.baseurl }}'>
 
 # Thank you for attending Digital Preservation 2021: Embracing Digitality!
