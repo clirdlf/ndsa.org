@@ -79,9 +79,19 @@ redirect_from: /leadership/
         <p>Elizabeth England (1st term, 2021-2023; <a href="/groups/staffing/">Staffing Survey Working Group</a> 2021 co-chair) is a Digital Preservation Specialist at the U.S. National Archives and Records Administration, where she participates in strategic and operational initiatives and services for the preservation of born-digital and digitized records of the federal government. In addition, she teaches an introduction to digital preservation continuing education course for the University of Wisconsin iSchool. Prior to joining NARA, Elizabeth was the Digital Archivist and a National Digital Stewardship Resident (NDSR) at Johns Hopkins University. Elizabeth currently serves on the NDSA Communications and Publications Working Group and has previously served on the Ivy Plus Libraries Consortium Web Collecting Advisory Group and NDSR Advisory Group.</p>
     </div>
     <div class="col-sm-2">
-         <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/England2020.jpg' | prepend: site.baseurl }}"> 
+         <img class="img-responsive" class="img-responsive" alt="Elizabeth England" src="{{ '/images/coordinating-committee/England2020.jpg' | prepend: site.baseurl }}"> 
     </div>
 </div>
+
+ <!--<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Stacey Erdman</h3>
+        <p>Stacey Erdman (1st term, 2022-2024) is the Digital Preservation & Curation Officer at Arizona State University. In this position, she has responsibility for designing and leading the digital preservation and curation program for ASU Library. She also currently serves as the Acting Digital Repository Manager at ASU, where she coordinated the repository team’s recent efforts migrating repository platforms to Islandora. She is the former Digital Archivist at Beloit College; and Digital Collections Curator at Northern Illinois University. She has been a part of the Digital POWRR Project since its inception in 2012, and is serving as Principal Investigator for the recently funded IMLS initiative, the Digital POWRR Peer Assessment Program. Stacey currently serves on the 2021 NDSA Program Committee, the Membership Task Force, and was previously part of the Levels of Preservation Assessment subgroup. She received her MA in Library & Information Studies, with a concentration in Archival Administration from UW-Madison, and holds a Digital Archives Specialist certificate from the SAA.</p>
+    </div>
+    <div class="col-sm-2">
+         <img class="img-responsive" class="img-responsive" alt="Stacey Erdman" src="{{ '/images/coordinating-committee/Erdman.jpg' | prepend: site.baseurl }}"> 
+    </div>
+</div>-->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -92,6 +102,16 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Salwa Ismail" src="{{ '/images/coordinating-committee/Ismail.png' | prepend: site.baseurl }}">
     </div>
 </div>
+
+<!--<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Jen Mitcham</h3>
+        <p>Jen Mitcham (1st Term, 2022-2024) is Head of Good Practice and Standards at the Digital Preservation Coalition (DPC), an international membership organization with charitable status based in the UK. In her role at the DPC, Jenny is responsible for promoting and maintaining the DPC's maturity model for digital preservation the Rapid Assessment Model (DPC RAM) and leads a digital preservation project with the UK's Nuclear Decommissioning Authority. She has recently led the DPC's taskforce on EDRMS preservation which has resulted in the publication of an online resource. She is involved in the organization of events and commissioning publications on digital preservation issues and provides support to DPC Members in a variety of different areas. Jenny was previously a digital archivist at the Archaeology Data Service and the University of York and has been working in the field of digital preservation since 2003. She has been involved in several initiatives with the NDSA over the last few years, including the revision of the NDSA Levels of Preservation and the 2021 Fixity Survey.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Jen Mitcham" src="{{ '/images/coordinating-committee/XXXXXX.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>-->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -132,6 +152,16 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Nathan Tallman" src="{{ '/images/coordinating-committee/Tallman.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
+
+<!--<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Hannah Wang, 2022 Vice Chair</h3>
+        <p>Hannah Wang (1st Term, 2022-2024) works at Educopia Institute, where she is the Community Facilitator for the MetaArchive Cooperative and the Project Manager for the BitCuratorEdu project. Her work and research focuses on digital archives pedagogy and amplifying and coordinating the work of digital preservation practitioners through communities of practice. She currently serves on the NDSA Staffing Survey Working Group. Hannah was previously the Electronic Records & Digital Preservation Archivist at the Wisconsin Historical Society, and has taught graduate-level archives classes as an Associate Lecturer at the University of Wisconsin-Madison iSchool. She received her MSIS from University of North Carolina-Chapel Hill and lives in Sheboygan, Wisconsin.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Hannah Wang" src="{{ '/images/coordinating-committee/XXXXXX.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>-->
 
 <h2>Interest and Working Group Chairs</h2>
 <div class="row coordinating-committee">
