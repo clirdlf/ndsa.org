@@ -109,7 +109,7 @@ redirect_from: /leadership/
         <p>Jen Mitcham (1st Term, 2022-2024) is Head of Good Practice and Standards at the Digital Preservation Coalition (DPC), an international membership organization with charitable status based in the UK. In her role at the DPC, Jenny is responsible for promoting and maintaining the DPC's maturity model for digital preservation the Rapid Assessment Model (DPC RAM) and leads a digital preservation project with the UK's Nuclear Decommissioning Authority. She has recently led the DPC's taskforce on EDRMS preservation which has resulted in the publication of an online resource. She is involved in the organization of events and commissioning publications on digital preservation issues and provides support to DPC Members in a variety of different areas. Jenny was previously a digital archivist at the Archaeology Data Service and the University of York and has been working in the field of digital preservation since 2003. She has been involved in several initiatives with the NDSA over the last few years, including the revision of the NDSA Levels of Preservation and the 2021 Fixity Survey.</p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Jen Mitcham" src="{{ '/images/coordinating-committee/XXXXXX.jpg' | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Jen Mitcham" src="{{ '/images/coordinating-committee/Mitcham2022.jpg' | prepend: site.baseurl }}">
     </div>
 </div>-->
 

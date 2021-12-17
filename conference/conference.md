@@ -5,21 +5,23 @@ permalink: /conference/
 redirect_from: /meetings/
 ---
 
-<img alt="meetings" width="600" height="337" src='{{ "/images/conferences/DLF-2022-banner-final.jpg"  | prepend: site.baseurl }}'>
+<img alt="meetings" width="820" height="421" class="center" src='{{ "/images/conferences/DLF-2022-banner-final.jpg"  | prepend: site.baseurl }}'>
 
-# Planning for Digital Preservation 2022
-Efforts are underway for planning Digital Preservation 2022 which will be held October 12-13, 2022 in Baltimore, Maryland.  
-
-A call for participation in the organizing committee is open until January 14, 2022.  Please complete the interest [form](https://forms.gle/rJgf9n5MSS2RRDTr8) if you are interested.  We look forward to working with you. 
 
 ### About the NDSA and Digital Preservation 2022
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code).
 
+Efforts are underway for planning Digital Preservation 2022 which will be held October 12-13, 2022 in Baltimore, Maryland.  
+
+Digital Preservation 2022 (#digipres22) will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
+
 
 ## 2022 DigiPres Organizing Committee
-- **Jes Neal**, Williams College (2022 Chair)
+A call for participation in the organizing committee is open until January 14, 2022. Please complete the call for volunteer [form](https://forms.gle/rJgf9n5MSS2RRDTr8) if you are interested. We look forward to working with you!
 
-A call for participation is currently underway.  Please complete the interest [form](https://forms.gle/rJgf9n5MSS2RRDTr8) by January 14, 2022.  We look forward to working with you. 
+- **Jes Neal**, Williams College (2022 Chair)
+- **Stacey Erdman**, Arizona State University (2022 Vice-Chair/2023 Chair)
+
 
 
 <!--## Sponsor Opportunities
