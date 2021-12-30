@@ -53,26 +53,6 @@ redirect_from: /leadership/
 <p></p>
 <h2>Coordinating Committee Members</h2>
 
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Daniel Noonan, 2021 Chair</h3>
-        <p>Dan (1st Term, 2020-2022) is an Associate Professor and the Digital Preservation Librarian for The Ohio State University Libraries (OSUL). Reporting to the Associate Director for Distinctive Collections and Digital Programs, Dan plays a key role in developing a trusted digital preservation ethos and infrastructure at OSUL. This position contributes strategy and expertise, and provides leadership through close collaboration with faculty, staff, and other leaders in OSUL’s Digital Programs, Preservation and Digitization, Distinctive Collections, Content and Access, Archival Description and Access, and Publishing and Repository Services groups. Previously, he was OSUL’s Electronic Records/Digital Resources Archivist and Electronic Records Manager/Archivist. Simultaneously, Dan was an adjunct faculty member for Kent State University, teaching an archives foundations course. Prior to joining OSUL, he was the Supervisor for Electronic Records Management for the State of New Jersey, and the Digital Documents Librarian for the New Jersey Institute of Technology. Dan has an extensive service record including co-chairing NDSA's Levels of Preservation Revision Work Group, teaching for the Society of American Archivists' Digital Archives Specialist program, and serving both as a faculty member (2012-2015 teaching digital strategies) and on the Steering Committee (2012-2018) of the Archives Leadership Institute.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" class="img-responsive" alt="Dan Noonan" src="{{ '/images/coordinating-committee/Noonan2020.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
-
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Stephen Abrams</h3>
-        <p>Stephen Abrams (1st term, 2019-2021) is also Co-Chair of the <a href="/groups/innovation-awards/">Excellence Awards Working Group</a> in his 2nd term, 2021-2023. Mr. Abrams is head of digital preservation at the Harvard Library, with responsibility for policy, strategy, and innovation regarding long-term stewardship of Harvard’s rich digital collections. He was project leader and editor for the ISO 19005 PDF/A standard, project manager for the JHOVE and JHOVE2 format characterization systems, and principal investigator for the California state government web archive, Cobweb collaborative collection development, and Make Data Count data metric projects. His research interests are in cost and business models for sustainable digital library services, new modes of post-custodial curation, and metrics for evaluating digital preservation efficacy. Mr. Abrams was previously associate director of the UC Curation Center at the California Digital Library. He holds a BA in Mathematics from Boston University, an ALM in the History of Art and Architecture from Harvard University, and is pursuing a PhD in Information Science from Queensland University of Technology.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Stephen Abrams" src="{{ '/images/coordinating-committee/Abrams.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
-
  <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Elizabeth England</h3>
@@ -83,7 +63,7 @@ redirect_from: /leadership/
     </div>
 </div>
 
- <!--<div class="row coordinating-committee">
+<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Stacey Erdman</h3>
         <p>Stacey Erdman (1st term, 2022-2024) is the Digital Preservation & Curation Officer at Arizona State University. In this position, she has responsibility for designing and leading the digital preservation and curation program for ASU Library. She also currently serves as the Acting Digital Repository Manager at ASU, where she coordinated the repository team’s recent efforts migrating repository platforms to Islandora. She is the former Digital Archivist at Beloit College; and Digital Collections Curator at Northern Illinois University. She has been a part of the Digital POWRR Project since its inception in 2012, and is serving as Principal Investigator for the recently funded IMLS initiative, the Digital POWRR Peer Assessment Program. Stacey currently serves on the 2021 NDSA Program Committee, the Membership Task Force, and was previously part of the Levels of Preservation Assessment subgroup. She received her MA in Library & Information Studies, with a concentration in Archival Administration from UW-Madison, and holds a Digital Archives Specialist certificate from the SAA.</p>
@@ -91,19 +71,10 @@ redirect_from: /leadership/
     <div class="col-sm-2">
          <img class="img-responsive" class="img-responsive" alt="Stacey Erdman" src="{{ '/images/coordinating-committee/Erdman.jpg' | prepend: site.baseurl }}"> 
     </div>
-</div>-->
-
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Salwa Ismail</h3>
-        <p>Salwa Ismail (1st term, 2019-2021) is the Associate University Librarian for Digital Initiatives and Information Technology and the Associate CIO for UC Berkeley Library. Prior to coming to UC Berkeley Library, Ms. Ismail was the Head of Library Technologies at Georgetown University Library for eight years and prior to that the Head of the Digital Library at Florida Atlantic University Libraries for five years. Her current portfolio includes Library-wide support and leadership for digital services including digital scholarship, data services, and programs, computing, innovative technology spaces, interface and web design, and infrastructure services following a user-centric, service-oriented philosophy.   In 2014, she was listed by E-campus News as “11 leaders shaping the future of higher education.” In 2015, she was named a Library Mover and Shaker by Library Journal for being a digital driver. She has chaired and been elected to several international and national committees on digital infrastructure, design, and services in libraries. In 2017, she was responsible for bringing to her institution the coveted National Digital Stewardship Residency (NDSR) program residency. She is very passionate about how libraries, through the innovation of library technology and digital services, can play a role as agents of research and scholarship in institutions of higher education. Her research interests include applying computational social science methodologies and agent-based modeling to the study of leadership, educational learning, and pedagogy in complex adaptive systems. She earned her B.S. in Computer Engineering and an MBA from Florida Atlantic University and her MSLIS degree from Florida State University. She is currently a Ph.D. candidate in the Computational Social Science program at George Mason University.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Salwa Ismail" src="{{ '/images/coordinating-committee/Ismail.png' | prepend: site.baseurl }}">
-    </div>
 </div>
 
-<!--<div class="row coordinating-committee">
+
+<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Jen Mitcham</h3>
         <p>Jen Mitcham (1st Term, 2022-2024) is Head of Good Practice and Standards at the Digital Preservation Coalition (DPC), an international membership organization with charitable status based in the UK. In her role at the DPC, Jenny is responsible for promoting and maintaining the DPC's maturity model for digital preservation the Rapid Assessment Model (DPC RAM) and leads a digital preservation project with the UK's Nuclear Decommissioning Authority. She has recently led the DPC's taskforce on EDRMS preservation which has resulted in the publication of an online resource. She is involved in the organization of events and commissioning publications on digital preservation issues and provides support to DPC Members in a variety of different areas. Jenny was previously a digital archivist at the Archaeology Data Service and the University of York and has been working in the field of digital preservation since 2003. She has been involved in several initiatives with the NDSA over the last few years, including the revision of the NDSA Levels of Preservation and the 2021 Fixity Survey.</p>
@@ -111,7 +82,7 @@ redirect_from: /leadership/
     <div class="col-sm-2">
         <img class="img-responsive" alt="Jen Mitcham" src="{{ '/images/coordinating-committee/Mitcham2022.jpg' | prepend: site.baseurl }}">
     </div>
-</div>-->
+</div>
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -135,6 +106,16 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Daniel Noonan</h3>
+        <p>Dan (1st Term, 2020-2022) is an Associate Professor and the Digital Preservation Librarian for The Ohio State University Libraries (OSUL). Reporting to the Associate Director for Distinctive Collections and Digital Programs, Dan plays a key role in developing a trusted digital preservation ethos and infrastructure at OSUL. This position contributes strategy and expertise, and provides leadership through close collaboration with faculty, staff, and other leaders in OSUL’s Digital Programs, Preservation and Digitization, Distinctive Collections, Content and Access, Archival Description and Access, and Publishing and Repository Services groups. Previously, he was OSUL’s Electronic Records/Digital Resources Archivist and Electronic Records Manager/Archivist. Simultaneously, Dan was an adjunct faculty member for Kent State University, teaching an archives foundations course. Prior to joining OSUL, he was the Supervisor for Electronic Records Management for the State of New Jersey, and the Digital Documents Librarian for the New Jersey Institute of Technology. Dan has an extensive service record including co-chairing NDSA's Levels of Preservation Revision Work Group, teaching for the Society of American Archivists' Digital Archives Specialist program, and serving both as a faculty member (2012-2015 teaching digital strategies) and on the Steering Committee (2012-2018) of the Archives Leadership Institute. Dan served as NDSA Chair in 2021.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" class="img-responsive" alt="Dan Noonan" src="{{ '/images/coordinating-committee/Noonan2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Linda Tadic</h3>
         <p>Linda Tadic (2nd term, 2021-2023) is founder and CEO of Digital Bedrock, a managed digital preservation service provider that serves any type of organization, and even individuals. She has 30 years’ experience in leading preservation, metadata, and digital production operations at organizations such as ARTstor, HBO, the Media Archives and Peabody Awards Collection at the University of Georgia, and the Getty Research Institute. Currently an adjunct professor in UCLA’s Graduate School of Education and Information Studies teaching Digital Asset Management, she was previously an adjunct professor in NYU’s Moving Image Archiving and Preservation program (courses in collection management and cataloging and metadata). She consults and lectures on digital asset management, audiovisual and digital preservation, metadata, and copyright, with clients as diverse as WNET/Thirteen, the Academy of Motion Picture Arts and Sciences, SBS (Australia), Dunhuang Research Academy (China), ESPN, and the Missouri History Museum. She is a founding member and former President of the Association of Moving Image Archivists (AMIA).</p>
     </div>
@@ -145,7 +126,7 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Nathan Tallman, 2021 Vice Chair</h3>
+        <h3>Nathan Tallman, 2022 Chair</h3>
         <p>Nathan Tallman (1st Term, 2020-2022) is Digital Preservation Librarian at Penn State University Libraries where he coordinates policies, workflows and best practices to ensure the long-term preservation and accessibility of PSU Libraries’ born-digital and digitized collections. He also advises on equipment, infrastructure, and vendors for Penn State digital content. Nathan serves on the APTrust Governing Board and MetaArchive Cooperative Steering Committee. Prior to his arrival at Penn State, Nathan was the Digital Content Strategist at the University of Cincinnati and Associate Archivist at the American Jewish Archives.</p>
     </div>
     <div class="col-sm-2">
@@ -153,15 +134,15 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<!--<div class="row coordinating-committee">
+<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Hannah Wang, 2022 Vice Chair</h3>
         <p>Hannah Wang (1st Term, 2022-2024) works at Educopia Institute, where she is the Community Facilitator for the MetaArchive Cooperative and the Project Manager for the BitCuratorEdu project. Her work and research focuses on digital archives pedagogy and amplifying and coordinating the work of digital preservation practitioners through communities of practice. She currently serves on the NDSA Staffing Survey Working Group. Hannah was previously the Electronic Records & Digital Preservation Archivist at the Wisconsin Historical Society, and has taught graduate-level archives classes as an Associate Lecturer at the University of Wisconsin-Madison iSchool. She received her MSIS from University of North Carolina-Chapel Hill and lives in Sheboygan, Wisconsin.</p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Hannah Wang" src="{{ '/images/coordinating-committee/XXXXXX.jpg' | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Hannah Wang" src="{{ '/images/coordinating-committee/wang.jpg' | prepend: site.baseurl }}">
     </div>
-</div>-->
+</div>
 
 <h2>Interest and Working Group Chairs</h2>
 <div class="row coordinating-committee">
