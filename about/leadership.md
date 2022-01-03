@@ -66,7 +66,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Stacey Erdman</h3>
-        <p>Stacey Erdman (1st term, 2022-2024) is the Digital Preservation & Curation Officer at Arizona State University. In this position, she has responsibility for designing and leading the digital preservation and curation program for ASU Library. She also currently serves as the Acting Digital Repository Manager at ASU, where she coordinated the repository team’s recent efforts migrating repository platforms to Islandora. She is the former Digital Archivist at Beloit College; and Digital Collections Curator at Northern Illinois University. She has been a part of the Digital POWRR Project since its inception in 2012, and is serving as Principal Investigator for the recently funded IMLS initiative, the Digital POWRR Peer Assessment Program. Stacey currently serves on the 2021 NDSA Program Committee, the Membership Task Force, and was previously part of the Levels of Preservation Assessment subgroup. She received her MA in Library & Information Studies, with a concentration in Archival Administration from UW-Madison, and holds a Digital Archives Specialist certificate from the SAA.</p>
+        <p>Stacey Erdman (1st term, 2022-2024; <a href="/conference/">2022 DigiPres</a> Vice Chair) is the Digital Preservation & Curation Officer at Arizona State University. In this position, she has responsibility for designing and leading the digital preservation and curation program for ASU Library. She also currently serves as the Acting Digital Repository Manager at ASU, where she coordinated the repository team’s recent efforts migrating repository platforms to Islandora. She is the former Digital Archivist at Beloit College; and Digital Collections Curator at Northern Illinois University. She has been a part of the Digital POWRR Project since its inception in 2012, and is serving as Principal Investigator for the recently funded IMLS initiative, the Digital POWRR Peer Assessment Program. Stacey currently serves on the 2021 NDSA Program Committee, the Membership Task Force, and was previously part of the Levels of Preservation Assessment subgroup. She received her MA in Library & Information Studies, with a concentration in Archival Administration from UW-Madison, and holds a Digital Archives Specialist certificate from the SAA.</p>
     </div>
     <div class="col-sm-2">
          <img class="img-responsive" class="img-responsive" alt="Stacey Erdman" src="{{ '/images/coordinating-committee/Erdman.jpg' | prepend: site.baseurl }}"> 
@@ -97,7 +97,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Jessica Neal</h3>
-        <p>Jessica C. Neal (1st term, 2021-2023; <a href="/conference/">2021 DigiPres</a> Vice Chair) is an archivist, records manager, and memory worker. She is currently the Sterling A. Brown Archivist at Williams College and Records Management Program Assistant at the Massachusetts Institute of Technology. Jes’s work centers archives, preservation, data management, and developing ethical frameworks to better steward digital collections and projects that specifically focus on Black-led and -created social movements, oral histories, and literary history and culture. Jes received her B.A. in African World Studies from Dillard University and her M.L.I.S in Archival Studies from the University of Wisconsin-Milwaukee.</p>
+        <p>Jessica C. Neal (1st term, 2021-2023; <a href="/conference/">2022 DigiPres</a> Chair) is an archivist, records manager, and memory worker. She is currently the Sterling A. Brown Archivist at Williams College and Records Management Program Assistant at the Massachusetts Institute of Technology. Jes’s work centers archives, preservation, data management, and developing ethical frameworks to better steward digital collections and projects that specifically focus on Black-led and -created social movements, oral histories, and literary history and culture. Jes received her B.A. in African World Studies from Dillard University and her M.L.I.S in Archival Studies from the University of Wisconsin-Milwaukee.</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/Jes2020.jpg' | prepend: site.baseurl }}">
@@ -202,7 +202,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Carol Kussmann</h3>
-        <p>Carol Kussmann (<a href="/groups/communications-publications/">Communications and Publications Working Group</a> Chair; 1st term, 2020-2022 and <a href="/groups/fixity/">Fixity Survey Working Group</a> 2021 co-chair) is the Digital Preservation Analyst at the University of Minnesota Libraries. In this role, she works across many departments within the Libraries, as well as outside the Libraries including through the statewide Minnesota Digital Library Program. She addresses current and future requirements for the long-term preservation of electronic records in the areas of archives and special collections, information and data repositories, and journal publishing. As co-chair of the Libraries Electronic Records Management Group her efforts focus on developing and implementing workflows for ingesting, processing, and providing access to incoming electronic materials that are part of the Archives and Special Collections units. As an inaugural Digital Preservation Outreach and Education (DPOE) trainer, she works with Minitex to provide digital preservation training in the region on a regular basis. After completing the initial implementation work for the Council of State Archivists’ (CoSA) Electronic Records Resource Center she remains a member of CoSA’s Tools and Resources Subcommittee. Other current activities include teaching Digital Archives Specialist courses for the Society of American Archivists.
+        <p>Carol Kussmann (<a href="/groups/communications-publications/">Communications and Publications Working Group</a> Chair; 1st term, 2020-2022) is the Digital Preservation Analyst at the University of Minnesota Libraries. In this role, she works across many departments within the Libraries, as well as outside the Libraries including through the statewide Minnesota Digital Library Program. She addresses current and future requirements for the long-term preservation of electronic records in the areas of archives and special collections, information and data repositories, and journal publishing. As co-chair of the Libraries Electronic Records Management Group her efforts focus on developing and implementing workflows for ingesting, processing, and providing access to incoming electronic materials that are part of the Archives and Special Collections units. As an inaugural Digital Preservation Outreach and Education (DPOE) trainer, she works with Minitex to provide digital preservation training in the region on a regular basis. After completing the initial implementation work for the Council of State Archivists’ (CoSA) Electronic Records Resource Center she remains a member of CoSA’s Tools and Resources Subcommittee. Other current activities include teaching Digital Archives Specialist courses for the Society of American Archivists.
         </p>
     </div>
     <div class="col-sm-2">
@@ -233,16 +233,6 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Tricia Patterson</h3>
-        <p>Tricia Patterson (<a href="/conference/">2021 DigiPres</a> Chair) is a Digital Preservation Analyst at Harvard Library, where she champions communication with the future by ensuring long-term stewardship and usability of Harvard’s digital historical assets. Centrally positioned, she supports programmatic activities for the digital repository, web and email archiving, digital forensics, and other related enterprises across the Library. Prior to joining Harvard University, she was a National Digital Stewardship Resident (NDSR) at MIT Libraries, where she researched and documented digital preservation workflows. Tricia has served as a coordinator for the SAA Research Forum, an inaugural NDSR Advisory Group member, and she co-developed and instructs an SAA DAS course on email archiving.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" class="img-responsive" alt="Tricia Patterson" src="{{ '/images/coordinating-committee/Patterson_T2020.JPG' | prepend: site.baseurl }}">
-    </div>
-</div>
-
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
         <h3>Leah Prescott</h3>
         <p>Leah Prescott (<a href="/groups/infrastructure/">Infrastructure Interest Group</a> Co-Chair; 1st term, 2020-2022) is the Associate Director for Digital Initiatives and Special Collections at Georgetown University Law Library, where she is responsible for the digital curation lifecycle, from the development
             of a production digitization program for all types of library media, to providing access to digital materials in multiple repositories, to the implementation of a preservation strategy that is in-line with best practices. She is also responsible
@@ -254,18 +244,6 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Leah Prescott" src="{{ '/images/coordinating-committee/Prescott2020.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
-
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Sibyl Schaefer</h3>
-        <p>Sibyl Schaefer (<a href="/groups/fixity/">Fixity Survey Working Group</a> 2021 co-chair) is the Chronopolis Program Manager and Digital Preservation Analyst for Research Data Curation at the University of California, San Diego. In addition to working with national digital preservation efforts like the National Digital Stewardship Alliance (NDSA), she helps define long-term digital preservation solutions for the UCSD campus. She previously served as the Head of Digital Programs for the Rockefeller Archive Center where she worked to fully integrate digital and traditional archival practices, including policy development, forensic and accessioning workflows, and training initiatives to support the long-term stewardship of digitized and born digital materials. She has been recognized as an Emerging Leader by the American Library Association and has participated in the Archival Leadership Institute. Schaefer holds an MLIS with a specialization in Archival Studies from the University of California, Los Angeles.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Sibyl Schaefer" src="{{ '/images/coordinating-committee/Schaefer.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
-
-
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -306,5 +284,23 @@ redirect_from: /leadership/
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Linda Reynolds" src="{{ '/images/coordinating-committee/ReynoldsLinda2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Tricia Patterson</h3>
+        <p>Tricia Patterson (<a href="/conference/">2021 DigiPres</a> Chair) is a Digital Preservation Analyst at Harvard Library, where she champions communication with the future by ensuring long-term stewardship and usability of Harvard’s digital historical assets. Centrally positioned, she supports programmatic activities for the digital repository, web and email archiving, digital forensics, and other related enterprises across the Library. Prior to joining Harvard University, she was a National Digital Stewardship Resident (NDSR) at MIT Libraries, where she researched and documented digital preservation workflows. Tricia has served as a coordinator for the SAA Research Forum, an inaugural NDSR Advisory Group member, and she co-developed and instructs an SAA DAS course on email archiving.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" class="img-responsive" alt="Tricia Patterson" src="{{ '/images/coordinating-committee/Patterson_T2020.JPG' | prepend: site.baseurl }}">
+    </div>
+</div>
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Sibyl Schaefer</h3>
+        <p>Sibyl Schaefer (<a href="/groups/fixity/">Fixity Survey Working Group</a> 2021 co-chair) is the Chronopolis Program Manager and Digital Preservation Analyst for Research Data Curation at the University of California, San Diego. In addition to working with national digital preservation efforts like the National Digital Stewardship Alliance (NDSA), she helps define long-term digital preservation solutions for the UCSD campus. She previously served as the Head of Digital Programs for the Rockefeller Archive Center where she worked to fully integrate digital and traditional archival practices, including policy development, forensic and accessioning workflows, and training initiatives to support the long-term stewardship of digitized and born digital materials. She has been recognized as an Emerging Leader by the American Library Association and has participated in the Archival Leadership Institute. Schaefer holds an MLIS with a specialization in Archival Studies from the University of California, Los Angeles.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Sibyl Schaefer" src="{{ '/images/coordinating-committee/Schaefer.jpg' | prepend: site.baseurl }}">
     </div>
 </div>-->
