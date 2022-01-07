@@ -233,15 +233,11 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Leah Prescott</h3>
-        <p>Leah Prescott (<a href="/groups/infrastructure/">Infrastructure Interest Group</a> Co-Chair; 1st term, 2020-2022) is the Associate Director for Digital Initiatives and Special Collections at Georgetown University Law Library, where she is responsible for the digital curation lifecycle, from the development
-            of a production digitization program for all types of library media, to providing access to digital materials in multiple repositories, to the implementation of a preservation strategy that is in-line with best practices. She is also responsible
-            for Conservation staff at the library, and for the Special Collections Department with collections that include manuscripts, archives, rare books and the specialized National Equal Justice Library. Previously Leah was the Digital Projects
-            Coordinator at the Getty Research Institute in Los Angeles, where she participated in research and development of digital solutions, including digital repositories for access and preservation, mass digitization projects, and initiatives to
-            create new avenues for scholarly collaboration in art history. She has a B.A. degree in History from the University of Connecticut, an M.L.S. degree from Syracuse University, and has been certified as an archivist since 2005.</p>
+        <h3>Robin Ruggaber</h3>
+        <p>Robin Ruggaber (<a href="/groups/infrastructure/">Infrastructure Interest Group</a> Co-Chair; 1st term, 2022-2024). Robin is the Director for Strategic Technology Partnerships & Initiatives for the University of Virginia Library. As a founding member of the Fedora, Blacklight, Samvera and Academic Preservation Trust communities, UVa has a long standing commitment to evolving digital stewardship technologies and practices. Robin serves in a strategic or technical advisory capacity in these types of technical collaborations, forges new partnerships, and serves as a technology consultant within UVa and across higher education. Robin is drawn to work in digital stewardship due to the complex challenges facing the community and the opportunity to protect availability and open access to intellectual and cultural knowledge.</p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Leah Prescott" src="{{ '/images/coordinating-committee/Prescott2020.jpg' | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Robin Ruggaber" src="{{ '/images/coordinating-committee/Ruggaber.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
 

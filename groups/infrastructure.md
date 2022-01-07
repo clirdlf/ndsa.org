@@ -4,7 +4,7 @@ layout: page
 permalink: /groups/infrastructure/
 redirect_from: /working-groups/infrastructure/
 ---
-**Infrastructure Interest Group Co-Chairs**: Leah Prescott - lp627 [at] georgetown [dot] edu and Eric Lopatin - Eric [dot] Lopatin [at] ucop [dot] edu
+**Infrastructure Interest Group Co-Chairs**: Eric Lopatin - Eric [dot] Lopatin [at] ucop [dot] edu and Robin Ruggaber - rsl6m [at] virginia [dot] edu
 
 The Infrastructure Interest Group works to identify and share emerging practices around the development and maintenance of tools and systems for the curation, preservation, storage, hosting, migration, and similar activities supporting the long term preservation of digital content. Cloud storage and computing platforms are given special focus given their trends.
 
