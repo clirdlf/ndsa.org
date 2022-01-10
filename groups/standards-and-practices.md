@@ -18,7 +18,7 @@ Smaller working groups frequently emerge from the Standards and Practices Intere
 ## Meetings
   * The Standards and Practices Interest Group meets the second Monday of each month at 1pm EST.
     * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below.
-  * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/1fuoOb1vWGAfS-iHy5kB24tkHztMVKDIcnj71jpYeylk/edit). 
+  * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/13mvPbJ3bNUDMyvuQHac0YryiRPEnwHQY7Tk_x_e3n4c/edit). 
  
 <!--Current activities include:
 
