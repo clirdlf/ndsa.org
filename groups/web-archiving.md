@@ -37,10 +37,10 @@ The Web Archiving Survey Working Group will conduct a survey of organizations in
 ## 2022 Working Group Members
 - Samantha Abrams, Center for Research Libraries (Co-Chair)
 - Zakiya Collier, Documenting the Now, Shift Collective (Co-Chair)
-- Amy Wicknes, University of Maryland Libraries
+- Amy Wickner, University of Maryland Libraries
 - Elana Colon-Marrero, University of Michigan, Bentley Historical Library
 - keondra bills freemyn, Project STAND, University of Maryland
-- Melissa Werteimer, Library of Congress
+- Melissa Wertheimer, Library of Congress
 - Nick Krabbenhoeft, New York Public Library
   
 
