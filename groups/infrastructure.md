@@ -15,6 +15,14 @@ The Infrastructure Interest Group works to identify and share emerging practices
     * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below. 
   * Call in information is available on the running [meeting agenda/notes document](https://bit.ly/3ffGuMR).
   * Meetings are generally recorded and posted to our YouTube Playlist at [https://bit.ly/2QRIMmO](https://bit.ly/2QRIMmO).
+
+
+## Past Meetings
+  * Agendas and notes for 2021 are available at [https://bit.ly/31SVJZj](https://bit.ly/31SVJZj)
+  * Agendas and notes for 2020 are available at [https://bit.ly/30XnNWs](https://bit.ly/30XnNWs).
+  * Agendas and notes for 2019 are available at [https://bit.ly/2FyZzt6](https://bit.ly/2FyZzt6). 
+   
+ 
   <!--Our scheduled topics for 2020 are noted below.-->
   
 <!--| **Date**      	|   	| **Topic**                                  	|
@@ -32,6 +40,3 @@ The Infrastructure Interest Group works to identify and share emerging practices
 | 2019-11-18    	|   	| Advocating for Resources                   	|
 | 2019-12-16    	|   	| Economies of Scale                         	|-->
 
-## Past Meetings
-  * Agendas and notes for 2019 are available at [https://bit.ly/2FyZzt6](https://bit.ly/2FyZzt6). 
-  * Agendas and notes for 2020 are available at [https://bit.ly/30XnNWs](https://bit.ly/30XnNWs).
