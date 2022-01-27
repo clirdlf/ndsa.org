@@ -9,6 +9,10 @@ The NDSA has established **Interest Groups** focusing on broad areas of digital 
 ### Getting Involved
 Anyone from an NDSA member organization is welcome to join one or more groups.  Opportunities are also available to help lead Interest Group and Working group activities.  For more information on the responsibilities and expectations of a co-chair review [Co-Chairing an NDSA Group](/groups/co-chairing/).
 
+#### Join NDSA Slack
+Join the NDSA Slack workspace to communicate and collaborate with NDSA.  Each Interest Group has it's own public channel. 
+- [Join](https://bit.ly/3fV8tBR) the [NDSA Slack Workspace](https://ndsa2.slack.com)
+
 ### Group Formation
 NDSA participants may form Interest Groups (IGs) and Working Groups (WGs) at will, in order to discuss mutual interests, and advance joint projects. [Details on the process for forming a new group](/groups/formation/), group requirements and expectations are provided by the NDSA Leadership team.
 ### Interest Groups
