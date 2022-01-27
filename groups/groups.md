@@ -12,6 +12,7 @@ Anyone from an NDSA member organization is welcome to join one or more groups.  
 #### Join NDSA Slack
 Join the NDSA Slack workspace to communicate and collaborate with NDSA.  Each Interest Group has it's own public channel. 
 - [Join](https://bit.ly/3fV8tBR) the [NDSA Slack Workspace](https://ndsa2.slack.com)
+- [NDSA Slack User Guide](https://docs.google.com/document/d/1EomyQfXIur301P4b826wHO0mMeFlR7VEOMCjMz0zu_w/edit#heading=h.ihxkg9llgeh2)
 
 ### Group Formation
 NDSA participants may form Interest Groups (IGs) and Working Groups (WGs) at will, in order to discuss mutual interests, and advance joint projects. [Details on the process for forming a new group](/groups/formation/), group requirements and expectations are provided by the NDSA Leadership team.

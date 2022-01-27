@@ -44,7 +44,9 @@ You can read about past NDSA projects and activities on NDIIPP's [*The Signal*](
 
 ## Key Resources
 - [NDSA Calendar](/about/calendar/) (including Interest Group calls, upcoming presentation dates, and NDSA Regional Meetings)
-- [NDSA Slack Workspace](https://ndsa2.slack.com) (Not a member yet, use this [join link](https://bit.ly/3fV8tBR))
+- [NDSA Slack Workspace](https://ndsa2.slack.com) 
+  - Not a member yet, use this [join link](https://bit.ly/3fV8tBR)
+  - [NDSA Slack User Guide](https://docs.google.com/document/d/1EomyQfXIur301P4b826wHO0mMeFlR7VEOMCjMz0zu_w/edit#heading=h.ihxkg9llgeh2) 
 - [Interest and Working Group](/working-groups) Projects and Activities
 - [The NDSA Agenda for Digital Stewardship](/publications/NDSA-Agenda/)
 - [Legacy Content](/about/legacy-content/) (Legacy working documentation from NDSA working and interest groups.)
