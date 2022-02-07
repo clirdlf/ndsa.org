@@ -21,6 +21,29 @@ A call for participation in the organizing committee is open until January 14, 2
 
 - **Jes Neal**, Williams College (2022 Chair)
 - **Stacey Erdman**, Arizona State University (2022 Vice-Chair/2023 Chair)
+- **Heather Barnes**, Wake Forest University
+- **Natalie Baur**, Independent
+- **Patrick Daglaris**, Oklahoma State University
+- **Chelsea Denault**, Michigan Digital Preservation Network
+- **Brenna Edwards**, Harry Ransom Center
+- **Katherine Fisher**, Emory University
+- **Tracee Haupt**, Library of Congress
+- **Kevin Hsu**, Stanford University
+- **Deirdre Joyce**, Syracuse University
+- **Kari May**, University of Pittsburgh
+- **Patrice-Andre "Max" Prud'homme**, Oaklahoma State University
+- **Thomas Pulhamus**, University of Delaware
+- **Robin Ruggaber**, University of Virginia
+- **Tory Schendel-Vyvoda**, Evansville African American Museum
+- **Deon Schutte**, University of Cape Town (MPhil canidate)
+- **Winnie Schwaid-Lindner**, Louisiana State University
+- **Rebeccah Swerdlow**, Pixel Acuity, Society of American Archivists
+- **Tammy Tran**, Northern Virginia Community College
+- **Michelle Trumbo**, Legal Information Preservation Alliance
+- **James Tuttle**, Virginia Tech
+- **Rebecca van Kniest**, Fontbonne University
+- **Elaine Walker**, Mississippi University for Women
+  
 
 
 
