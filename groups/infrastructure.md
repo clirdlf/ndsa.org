@@ -14,7 +14,7 @@ The Infrastructure Interest Group works to identify and share emerging practices
   * As of February 2022, all three Interest Groups will be on a [rotating schedule](https://ndsa.org//2022/02/10/scheduling-changes-for-ndsa-interest-groups.html) with one per month to help members who have wanted to participate in multiple groups but didn't have the time for two or more calls a month.  
   * The meetings are held the third Monday of the months listed below at 3pm EST:
     * March 21st
-    * June 20th
+    * June 27th
     * September 19th
     * December 19th
  
