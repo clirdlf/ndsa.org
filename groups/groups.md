@@ -17,7 +17,7 @@ Join the NDSA Slack workspace to communicate and collaborate with NDSA.  Each In
 ### Group Formation
 NDSA participants may form Interest Groups (IGs) and Working Groups (WGs) at will, in order to discuss mutual interests, and advance joint projects. [Details on the process for forming a new group](/groups/formation/), group requirements and expectations are provided by the NDSA Leadership team.
 ### Interest Groups
-The schedule for each of the Interest Groups is provided on their webpages.  Due to the changing nature of the group membership lists, calendar invites are not sent out. We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document for the group you are interested in.
+There is one Interest Group meeting a month, with the three groups working on a rotating schedule. The schedule for each of the Interest Groups is provided on their webpages. Due to the changing nature of the group membership lists, calendar invites are not sent out. We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document for the group you are interested in.
 #### [Content](/groups/content/)
 - Focusing on the selection, discovery and preservation of digital content. For example, the group members are conducting surveys around US web archiving practices and developing case studies around a variety of types of content to share compelling stories that demonstrate the value of digital preservation in our communities.
 

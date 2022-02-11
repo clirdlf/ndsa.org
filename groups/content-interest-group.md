@@ -12,8 +12,13 @@ The Content Interest Group will intentionally engage the priorities and importan
 *Take me to the [Content Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-CONTENT)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, please contact the coordinators.*
 
 ## Meetings
-  * The Content Interest Group meets the first Wednesday of each month at 1pm EST.
-    * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below.
+  * As of February 2022, all three Interest Groups will be on a [rotating schedule](https://ndsa.org//2022/02/10/scheduling-changes-for-ndsa-interest-groups.html) with one per month to help members who have wanted to participate in multiple groups but didn't have the time for two or more calls a month.  
+  * The meetings are held the first Wednesday of the months listed below at 1pm EST:
+    * February 2nd
+    * May 4th
+    * August 3rd
+    * November 5th
+  * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below.
   * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/120yQwnmLQYEYRTmNVU9qkkxBM1SS_21G84P5i89Ycp0/edit#). 
 
 
