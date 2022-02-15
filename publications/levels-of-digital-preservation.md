@@ -48,6 +48,7 @@ A slide deck and accompanying instructions are provided for use if you would lik
 Various documents from the Version 2.0 work have been translated into different languages by our partners.
 
 * ARABIC: Translations have been done for the Matrix and Implementation guide.  Both can be found on the NDSA [OSF site](https://osf.io/qgz98/).
+* DUTCH: A Dutch translation has been made for Version 2 of the [Matrix](https://osf.io/brqga/).
 * FINNISH: Translations have been done for the Matrix and Assessment Tool.  Both can be found [here](https://www.digitalpreservation.fi/specifications/ndsalevels) or linked from the NDSA [OSF site](https://osf.io/69gpf/).
 * FRENCH: Translations have been done for the Matrix, Implementation Guidelines and Assessment Tool Documentation.  Translations are available from the [Bibliotheque nationale de France](https://hal-bnf.archives-ouvertes.fr/hal-02162334) or on the [OSF site](https://osf.io/9ya8c/).  Translations for Version 1 are also available.  
 * GERMAN: A German translation has been made of the [Matrix](https://osf.io/3na96/).
