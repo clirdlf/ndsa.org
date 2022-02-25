@@ -1,11 +1,11 @@
 ---
-title: Digital Preservation Conference
+title: Digital Preservation 2022 Preserving Legacy
 layout: page
 permalink: /conference/
 redirect_from: /meetings/
 ---
 
-<img alt="meetings" width="820" height="421" class="center" src='{{ "/images/conferences/DLF-2022-banner-final.jpg"  | prepend: site.baseurl }}'>
+<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres-2022-820x400.jpg"  | prepend: site.baseurl }}'>
 
 
 ### About the NDSA and Digital Preservation 2022
