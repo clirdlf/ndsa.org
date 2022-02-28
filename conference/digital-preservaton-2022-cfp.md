@@ -51,6 +51,7 @@ Submissions are invited in the following lengths and formats:
 - Abstract (50 words max)
 - Proposal (250 works max for all formats except for panels, up to 500 words)
 - Five keywords for your proposal
+- All submissions are under a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/), which allows for sharing and adaptation of content but which requires appropriate credit and an indication of any changes made by others. Presenters must agree to share their work under this license in the submission form.
 
 
 **Evaluation Criteria**
