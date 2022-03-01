@@ -15,6 +15,8 @@ Efforts are underway for planning Digital Preservation 2022 which will be held O
 
 Digital Preservation 2022 (#digipres22) will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
 
+### 2022 Call for Proposals
+The [Call for Proposals](/conference/digital-preservation-2022/cfp/) for Digital Preservation: Preserving Legacy is now open.  The call will close on April 25, 2022.
 
 ## 2022 DigiPres Organizing Committee
 A call for participation in the organizing committee is open until January 14, 2022. Please complete the call for volunteer [form](https://forms.gle/rJgf9n5MSS2RRDTr8) if you are interested. We look forward to working with you!
