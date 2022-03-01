@@ -8,8 +8,6 @@ permalink: /conference/digital-preservation-2022/cfp/
 
 
 The National Digital Stewardship Alliance ([NDSA](http://ndsa.diglib.org/)) invites proposals for **[Digital Preservation 2022: Preserving Legacy (#DigiPres22)](https://ndsa.org/conference/).** 
-<p><b>The 2022 Call for Proposals close on April 25, 2022.</b></p>
-
 
 How users experience digital spaces is essential to their ability to reflect and build on their digital legacy. In digital preservation work in the cultural heritage sector, it is important to think of the architects and contributors (traditionally humans but also, increasingly, AI) within digital environments. With emerging technologies, how can our work best support a more user-centric approach to digital preservation? How do we use digital preservation to critically address oppression, racism, inequity, injustice, and societal violence and, at the same time, critique digital preservation’s contribution to these contexts? Further, with the advent of blockchain technologies, what is the role of storytelling in digital preservation practice? How do we adapt to, document, and preserve an entirely new sensory environment? What role does digital preservation play for varying mediums of storytelling (film, music, oral history, etc.)?
 
@@ -65,8 +63,9 @@ Broader community input will also be solicited through an open community voting 
 
 Presenters will be notified of their acceptance in June. Presenters will receive support in the form of tutorials, resources, and individual assistance.
 
+### [SUBMIT YOUR PROPOSAL](https://www.conftool.pro/clir2022/)
 
-**THE SUBMISSION DEADLINE FOR ALL EVENTS IS MONDAY, APRIL 25, 2022, AT 11:59PM EASTERN TIME.**
+#### **The submission deadline for all events is Monday, April 25, 2022 at 11:59pm Eastern Time.**
 
 ## About the NDSA and Digital Preservation 2022
 [The NDSA is a consortium of over 250 organizations](https://ndsa.org/about/) committed to the long-term preservation and stewardship of digital information and cultural heritage. Digital Preservation is the major meeting and conference of the NDSA. Open to members and non-members alike, it highlights the theory and practice of digital stewardship and preservation, data curation, the digital object lifecycle, and related issues.
