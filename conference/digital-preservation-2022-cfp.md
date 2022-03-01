@@ -63,9 +63,11 @@ Broader community input will also be solicited through an open community voting 
 
 Presenters will be notified of their acceptance in June. Presenters will receive support in the form of tutorials, resources, and individual assistance.
 
+
 ### [SUBMIT YOUR PROPOSAL](https://www.conftool.pro/clir2022/)
 
 #### **The submission deadline for all events is Monday, April 25, 2022 at 11:59pm Eastern Time.**
+
 
 ## About the NDSA and Digital Preservation 2022
 [The NDSA is a consortium of over 250 organizations](https://ndsa.org/about/) committed to the long-term preservation and stewardship of digital information and cultural heritage. Digital Preservation is the major meeting and conference of the NDSA. Open to members and non-members alike, it highlights the theory and practice of digital stewardship and preservation, data curation, the digital object lifecycle, and related issues.
