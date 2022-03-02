@@ -12,7 +12,7 @@ The NDSA Digital Preservation conference is the annual meeting of the NDSA and h
 
 ## Conference Program and Proceedings
 Held online November 4, 2021, the slide decks and recordings of the presentations for Digital Preservation 2021: Embracing Digitality are available.
-- Slide decks are available on the [Open Science Framework (OSF)](https://osf.io/meetings/ndsa2021)
+- Slide decks are available on the [Open Science Framework (OSF)](https://osf.io/meetings/ndsa2021).
 - A playlist of the conference recordings are available on the  [NDSA YouTube Channel](https://www.youtube.com/watch?v=9ltmUTGAfp4&list=PLbrnSo90UuHgN3xkHMDSdU7NzxdvgwPHY).
 - We are so grateful to our [2021 CLIR events sponsors](https://forum2021.diglib.org/sponsorship-opportunities/sponsors/)!
 
@@ -91,7 +91,7 @@ The 2021 Digital Preservation Call for Proposals closed on May 17, 2021. You can
 ## Calendar and Past Meetings
 **Future Events:** For the latest on upcoming events, see our [NDSA calendar](/calendar). More events relevant to the NDSA's mission are to be found on the [DLF Community Calendar](https://www.diglib.org/opportunities/calendar/).
 
-**Past Meetings:** An archive of _Digital Preservation_ meetings from 2011-2021 can be found on the [Past Digital Preservation Conference](/conference/digital-preservation/past/) page.  
+**Past Meetings:** An archive of _Digital Preservation_ meetings from 2011-2021 can be found on the [Past Digital Preservation Conferences](/conference/digital-preservation/past/) page.  
 
 ## Questions?
 Feel free to reach out to ndsa-digipres@lists.clir.org and someone will get back to you as soon as possible.
