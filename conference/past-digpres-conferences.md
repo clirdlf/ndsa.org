@@ -3,7 +3,7 @@ title: Past Digital Preservation Conferences
 layout: page
 permalink: /conference/digital-preservation/past/
 ---
-An archive of _Digital Preservation_ meetings from 2016-2020, hosted by DLF: <!--Links to information about the _Digital Preservation_ meetings from 2016-:-->
+An archive of _Digital Preservation_ meetings from 2016-2021, hosted by DLF: <!--Links to information about the _Digital Preservation_ meetings from 2016-:-->
 
 - [Digital Preservation 2016](/conference/digital-preservation-2016)
 - [Digital Preservation 2017](/conference/digital-preservation-2017)
