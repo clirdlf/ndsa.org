@@ -33,7 +33,7 @@ If you weren't able to join us in Tampa or if you'd like to review event happeni
 
 **Catch up with shared notes.** Shared notes for all sessions (including [Learn@DLF](https://forum2019.diglib.org/learnatdlf/) and the [DLF Forum](https://forum2019.diglib.org/)) are available here: <http://bit.ly/2019DLF>
 
-**Check out presentations in the OSF Repository.** All presenters were encouraged to share their presentations in our OSF Repository, available here <https://osf.io/view/ndsa2019/>.
+**Check out presentations in the OSF Repository.** All presenters were encouraged to share their presentations in our OSF Repository, available here <https://osf.io/meetings/NDSA2019>.
 
 Having trouble find something? Get in touch at <mailto:forum@diglib.org>.
 
@@ -80,7 +80,7 @@ The 2019 Digital Preservation Call for Proposals closed on April 28. You can rev
 
 An archive of past _Digital Preservation_ meetings (which from 2011-2014 was a combined NDIIPP-NDSA conference for the digital preservation community) can be found on the [Digital Preservation Meetings page](http://www.digitalpreservation.gov/meetings/) at the Library of Congress.
 
-Information of past _Digital Preservation_ meetings from 2016- can be found below:
+Information regarding past _Digital Preservation_ meetings from 2016- can be found below:
 
 -   [Digital Preservation 2016](/digital-preservation-2016)
 -   [Digital Preservation 2017](/digital-preservation-2017)
