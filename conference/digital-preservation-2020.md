@@ -22,7 +22,7 @@ The NDSA strives to create a safe, accessible, welcoming, and inclusive event, a
 
 Held November 12, 2020, the program, slide decks, and recordings of the presentations for Digital Preservation 2020: Get Active With Digital Preservation are now all available. 
 -  [Browse the program.](https://forum2020.diglib.org/schedule) 
--  [Slide decks are available on OSF.](https://osf.io/meetings/ndsa2020/) 
+-  [Slide decks are available on OSF.](https://osf.io/meetings/NDSA2020) 
 -  Recordings are available as a [playlist](https://www.youtube.com/playlist?list=PLbrnSo90UuHiN1Xthm-giq6tcxtwktqd1) on the NDSA YouTube Channel.  
 
 We are so grateful to our [Digital Preservation 2020 sponsors](https://ndsa.org/digital-preservation-2020-sponsors/)!
@@ -85,4 +85,4 @@ The 2020 DigiPres Call for Proposals closed on May 11, 2020. You can review the 
 
 **Future Events:** For the latest on upcoming events, see our [NDSA calendar](/calendar). More events relevant to the NDSA's mission are to be found on the [DLF Community Calendar](https://www.diglib.org/opportunities/calendar/).
 
-**Past Meetings:** An archive of _Digital Preservation_ meetings from 2011-2020 can be found on the [Past Digital Preservation Conference](/conference/digital-preservation/past/) page.  
+**Past Meetings:** An archive of _Digital Preservation_ meetings from 2011-2020 can be found on the [Past Digital Preservation Conferences](/conference/digital-preservation/past/) page.  
