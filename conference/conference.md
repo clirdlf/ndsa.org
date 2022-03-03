@@ -33,11 +33,11 @@ A call for participation in the organizing committee is open until January 14, 2
 - **Kevin Hsu**, Stanford University
 - **Deirdre Joyce**, Syracuse University
 - **Kari May**, University of Pittsburgh
-- **Patrice-Andre "Max" Prud'homme**, Oaklahoma State University
+- **Patrice-Andre "Max" Prud'homme**, Oklahoma State University
 - **Thomas Pulhamus**, University of Delaware
 - **Robin Ruggaber**, University of Virginia
 - **Tory Schendel-Vyvoda**, Evansville African American Museum
-- **Deon Schutte**, University of Cape Town (MPhil canidate)
+- **Deon Schutte**, University of Cape Town (MPhil candidate)
 - **Winnie Schwaid-Lindner**, Louisiana State University
 - **Rebeccah Swerdlow**, Pixel Acuity, Society of American Archivists
 - **Tammy Tran**, Northern Virginia Community College
