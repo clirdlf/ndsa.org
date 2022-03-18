@@ -5,7 +5,7 @@ var members = {
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [18.46099525, -33.95781216319450418.460995249829356]
+        "coordinates": [18.46115618, -33.95765198]
       },
       "type": "Feature",
       "properties": {
