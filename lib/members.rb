@@ -72,7 +72,7 @@ YAML
 
       row_data = {
         organization: @ws[row, 2], # there are two name fields
-        state: @ws[row, headers[:region]],
+        region: @ws[row, headers[:region]],
         focus: @ws[row, headers[:digital_preservation_focus]]
       }
 
