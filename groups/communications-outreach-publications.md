@@ -14,7 +14,7 @@ The Communications and Publications Working Group generally meets monthly but al
 ## Activities
 - Updating the website
 - Posting blog posts
-- Reviewing reports and publishing them to the NDSA OSF site
+- Reviewing reports and assisting with the publishing process <!--publishing them to the NDSA OSF site-->
 - Social media posts to Twitter
 - Assisting NDSA Leadership with internal documentation
 
