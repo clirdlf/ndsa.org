@@ -66,7 +66,7 @@ Presenters will be notified of their acceptance in June. Presenters will receive
 
 ### [SUBMIT YOUR PROPOSAL](https://www.conftool.pro/clir2022/)
 
-#### **The submission deadline for all events is Monday, April 25, 2022 at 11:59pm Eastern Time.**
+#### **DEADLINE EXTENDED: The submission deadline for all events is Monday, May 9, 2022 at 11:59pm Eastern Time.**
 
 
 ## About the NDSA and Digital Preservation 2022
