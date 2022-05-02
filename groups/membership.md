@@ -20,6 +20,6 @@ Questions please contact the Group Chair: Jessica C. Neal: jcn1 [at] williams [d
 - Samantha Abrams, Collections & Partnership Coordinator, Center for Research Libraries (CRL) 
 - Rachel Appel, Digital Preservation Librarian, University of Pennsylvania  
 - Chianta Dorsey, University Archivist and Manager of Archives & Special Collections, UT Southwestern Medical Center
-- Stacey Erdman, Digital Preservation & Curation Officer, Arizona State
+- Stacey Erdman, Digital Preservation Librarian, University of Arizona
 
 
