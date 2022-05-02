@@ -22,7 +22,7 @@ The [Call for Proposals](/conference/digital-preservation-2022/cfp/) for Digital
 A call for participation in the organizing committee is open until January 14, 2022. Please complete the call for volunteer [form](https://forms.gle/rJgf9n5MSS2RRDTr8) if you are interested. We look forward to working with you!
 
 - **Jes Neal**, Williams College (2022 Chair)
-- **Stacey Erdman**, Arizona State University (2022 Vice-Chair/2023 Chair)
+- **Stacey Erdman**, University of Arizona (2022 Vice-Chair/2023 Chair)
 - **Heather Barnes**, Wake Forest University
 - **Natalie Baur**, Independent
 - **Patrick Daglaris**, Oklahoma State University
