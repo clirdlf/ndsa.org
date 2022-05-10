@@ -64,9 +64,7 @@ Broader community input will also be solicited through an open community voting 
 Presenters will be notified of their acceptance in June. Presenters will receive support in the form of tutorials, resources, and individual assistance.
 
 
-### [SUBMIT YOUR PROPOSAL](https://www.conftool.pro/clir2022/)
-
-#### **DEADLINE EXTENDED: The submission deadline for all events is Monday, May 9, 2022 at 11:59pm Eastern Time.**
+**The 2022 Call for Proposals closed on May 9, 2022.**
 
 
 ## About the NDSA and Digital Preservation 2022
