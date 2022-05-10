@@ -15,11 +15,7 @@ Efforts are underway for planning Digital Preservation 2022 which will be held O
 
 Digital Preservation 2022 (#digipres22) will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
 
-### 2022 Call for Proposals
-The [Call for Proposals](/conference/digital-preservation-2022/cfp/) for Digital Preservation: Preserving Legacy is now open. The deadline has been extended and call will now close on May 9, 2022.
-
 ## 2022 DigiPres Organizing Committee
-A call for participation in the organizing committee is open until January 14, 2022. Please complete the call for volunteer [form](https://forms.gle/rJgf9n5MSS2RRDTr8) if you are interested. We look forward to working with you!
 
 - **Jes Neal**, Williams College (2022 Chair)
 - **Stacey Erdman**, University of Arizona (2022 Vice-Chair/2023 Chair)
@@ -52,6 +48,9 @@ A call for participation in the organizing committee is open until January 14, 2
 <!--## Sponsor Opportunities
 As a [Digital Preservation and DLF Forum sponsor](https://forum2021.diglib.org/sponsorship-opportunities/) you will be part of the premier digital stewardship conference that fosters leadership, builds community, sets grassroots agendas, and organizes for action. Sponsorship options are limited and will go quickly! The 2022 sponsorhip opportunities are forthcoming.-->
 
+### 2022 Call for Proposals
+The 2022 Digital preservation Call for Proposals closed on May 9, 2022. You can view the CFP [here](/conference/digital-preservation-2022/cfp/).
+ 
 ## Calendar and Past Meetings
 **Future Events:** For the latest on upcoming events, see our [NDSA calendar](/calendar). More events relevant to the NDSA's mission are to be found on the [DLF Community Calendar](https://www.diglib.org/opportunities/calendar/).
 
