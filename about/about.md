@@ -59,4 +59,4 @@ You can read about past NDSA projects and activities on NDIIPP's [*The Signal*](
 ## Questions?
 - See our [FAQs](/faq/)
 
-For additional questions about the NDSA, its relationship to the [DLF](https://www.diglib.org/), or how to support either organization, write to [ndsa@diglib.org](mailto:ndsa@diglib.org).
+For additional questions about the NDSA, its relationship to the [DLF](https://www.diglib.org/), or how to support either organization, write to [ndsa.digipres@gmail.com](mailto:ndsa.digipres@gmail.com).
