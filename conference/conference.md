@@ -17,7 +17,7 @@ Digital Preservation 2022 (#digipres22) will be a crucial venue for intellectual
 
 ## 2022 DigiPres Organizing Committee
 
-- **Jes Neal**, Williams College (2022 Chair)
+- **Jessica C. Neal**, Center for Research Lirbaries (2022 Chair)
 - **Stacey Erdman**, University of Arizona (2022 Vice-Chair/2023 Chair)
 - **Heather Barnes**, Wake Forest University
 - **Natalie Baur**, Independent
