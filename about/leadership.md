@@ -66,7 +66,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Stacey Erdman</h3>
-        <p>Stacey Erdman (1st term, 2022-2024; <a href="/conference/">2022 DigiPres</a> Vice Chair) is the Digital Preservation Librarian at University of Arizona Library. In this position, she has responsibility for designing and leading the digital preservation and curation program for UA Library. She is the former Digital Preservation Officer at Arizona State University; Digital Archivist at Beloit College; and Digital Collections Curator at Northern Illinois University. She has been a part of the Digital POWRR Project since its inception in 2012, and is serving as Principal Investigator for the recently funded IMLS initiative, the Digital POWRR Peer Assessment Program. Stacey currently serves on the 2021 NDSA Program Committee, the Membership Task Force, and was previously part of the Levels of Preservation Assessment subgroup. She received her MA in Library & Information Studies, with a concentration in Archival Administration from UW-Madison, and holds a Digital Archives Specialist certificate from the SAA.</p>
+        <p>Stacey Erdman (1st term, 2022-2024; <a href="/conference/">2022 DigiPres</a> Vice Chair; Membership Working Group Co-chair) is the Digital Preservation Librarian at University of Arizona Library. In this position, she has responsibility for designing and leading the digital preservation and curation program for UA Library. She is the former Digital Preservation Officer at Arizona State University; Digital Archivist at Beloit College; and Digital Collections Curator at Northern Illinois University. She has been a part of the Digital POWRR Project since its inception in 2012, and is serving as Principal Investigator for the recently funded IMLS initiative, the Digital POWRR Peer Assessment Program. Stacey currently serves on the 2021 NDSA Program Committee, the Membership Task Force, and was previously part of the Levels of Preservation Assessment subgroup. She received her MA in Library & Information Studies, with a concentration in Archival Administration from UW-Madison, and holds a Digital Archives Specialist certificate from the SAA.</p>
     </div>
     <div class="col-sm-2">
          <img class="img-responsive" class="img-responsive" alt="Stacey Erdman" src="{{ '/images/coordinating-committee/Erdman.jpg' | prepend: site.baseurl }}"> 
@@ -145,6 +145,16 @@ redirect_from: /leadership/
 </div>
 
 <h2>Interest and Working Group Chairs</h2>
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Rachel Appel</h3>
+        <p>Rachel Appel (Membership Working Group Co-Chair; 1st term, 2022-2024) is the Digital Preservation Librarian at the University of Pennsylvania where she develops, documents, implements and oversees preservation workflows, procedures and policies for the Penn Libraries' digital collections and assets, both digitized and born-digital. Prior to this role, Rachel was the Digital Projects and Services Librarian at Temple University, coordinating digital collections, implementing metadata projects related to cultural heritage and scholarly communication, and managing ongoing services. Rachel holds a Bachelor of Arts in Film Studies from Smith College and a Master of Science in Information Studies with a specialization in Digital Archives and Preservation from the University of Texas at Austin.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Rachel Appel" src="{{ '/images/coordinating-committee/appelRachel.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Brenda Burk</h3>
