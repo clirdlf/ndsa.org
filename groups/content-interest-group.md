@@ -4,7 +4,7 @@ layout: page
 permalink: /groups/content/
 redirect_from: /working-groups/content/
 ---
-**Content Interest Group Co-Chairs:** Brenda Burk - bburk [at] clemson [dot] edu; Deb Verhoff - deb [dot] verhoff [at] nyu [dot] edu
+**Content Interest Group Co-Chairs:** Brenda Burk - bburk [at] clemson [dot] edu; Deon Schutte- ddpschutte [at] gmail [dot] com
 
 
 The Content Interest Group will intentionally engage the priorities and important resources promoted by the NDSA and the broader profession, and explore a broad array of topics related to preserving digital content, including: viable approaches to institutional collaboration; sharing strategies to address issues of scale and complexity; and the development of policies, practices, and community action to promote ethical and sustainable labor for digital stewardship.
