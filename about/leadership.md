@@ -145,6 +145,17 @@ redirect_from: /leadership/
 </div>
 
 <h2>Interest and Working Group Chairs</h2>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Samantha Abrams</h3>
+        <p>Samantha Abrams (she/her/hers) (<a href="/groups/web-archiving/">Web Archiving</a> Co-Chair) is the Head of Collections at the Center for Research Libraries where she plays a key role in the development of collections, partnerships, and community engagement policy, strategy, and operations. As the Head of Collections, Samantha leads a team whose functional responsibilities span area studies, and digital and distinctive collections, with a focus on forming and managing forward-thinking partnerships that advance expanded forms of engagement with cultural heritage collections. She is also an Associate Lecturer at the University of Wisconsin-Madison's iSchool. Before joining the Center for Research Libraries, Samantha worked for the Ivy Plus Libraries Confederation as their Web Resources Collection Librarian, and at StoryCorps, as their Community Archivist. In addition to her role as co-chair of the Web Archiving Survey Working Group, Samantha serves on the Excellence Awards Working Group and the Membership Task Force. Samantha has a Master’s degree in Library and Information Studies from the University of Wisconsin-Madison and lives in Brooklyn, New York.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Samantha Abrams" src="{{ ' /images/coordinating-committee/AbramsSam2021.JPG' | prepend: site.baseurl }}">
+    </div>
+</div>
+
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Rachel Appel</h3>
@@ -167,15 +178,7 @@ redirect_from: /leadership/
 
 
 
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Samantha Abrams</h3>
-        <p>Samantha Abrams (she/her/hers) (<a href="/groups/web-archiving/">Web Archiving</a> Co-Chair) is the Head of Collections at the Center for Research Libraries where she plays a key role in the development of collections, partnerships, and community engagement policy, strategy, and operations. As the Head of Collections, Samantha leads a team whose functional responsibilities span area studies, and digital and distinctive collections, with a focus on forming and managing forward-thinking partnerships that advance expanded forms of engagement with cultural heritage collections. She is also an Associate Lecturer at the University of Wisconsin-Madison's iSchool. Before joining the Center for Research Libraries, Samantha worked for the Ivy Plus Libraries Confederation as their Web Resources Collection Librarian, and at StoryCorps, as their Community Archivist. In addition to her role as co-chair of the Web Archiving Survey Working Group, Samantha serves on the Excellence Awards Working Group and the Membership Task Force. Samantha has a Master’s degree in Library and Information Studies from the University of Wisconsin-Madison and lives in Brooklyn, New York.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Samantha Abrams" src="{{ ' /images/coordinating-committee/AbramsSam2021.JPG' | prepend: site.baseurl }}">
-    </div>
-</div>
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -250,6 +253,21 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Robin Ruggaber" src="{{ '/images/coordinating-committee/Ruggaber.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
+
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Deon Schutte</h3>
+        <p>Deon Schutte (<a href="/groups/content/">Content Interest Group</a> Co-Chair; 1st term, 2022-2024) worked as a freelance typesetter in the educational publishing industry in South Africa for many years. In 2018 he completed his B.INF (Bachelor of Information Science) through the University of South Africa and his B.INF Honours in 2019. Deon is a MPhil (Master of Philosophy, specialising in Digital Curation) candidate at the University of Cape Town (the first African member of the NDSA). He serves as the Chair of the Association of Southern African Indexers and Bibliographers and is a Fellow of the South African Chefs Association. He works at Africa Media Online in the production team that is busy arranging and digitising the extensive archive of one of the prominent politicians of the anti-Apartheid struggle. He resides in Pietermaritzburg, South Africa. 
+        </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Deon Schutte" src="{{ '/images/coordinating-committee/schutte2022.jpeg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
