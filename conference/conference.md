@@ -56,6 +56,9 @@ The 2022 Digital preservation Call for Proposals closed on May 9, 2022. You can 
 
 **Past Meetings:** An archive of _Digital Preservation_ meetings from 2011-2021 can be found on the [Past Digital Preservation Conference](/conference/digital-preservation/past/) page.  
 
+## Registration & Logistics
+Please see the [DLF Forum's page on registration,](https://forum2022.diglib.org/registration/) for more information on registration and the cost of attendance.
+
 ## Questions?
 Feel free to reach out to ndsa-digipres@lists.clir.org and someone will get back to you as soon as possible.
 
