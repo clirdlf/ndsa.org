@@ -49,7 +49,7 @@ Digital Preservation 2022 (#digipres22) will be a crucial venue for intellectual
 As a [Digital Preservation and DLF Forum sponsor](https://forum2021.diglib.org/sponsorship-opportunities/) you will be part of the premier digital stewardship conference that fosters leadership, builds community, sets grassroots agendas, and organizes for action. Sponsorship options are limited and will go quickly! The 2022 sponsorhip opportunities are forthcoming.-->
 
 ### 2022 Call for Proposals
-The 2022 Digital preservation Call for Proposals closed on May 9, 2022. You can view the CFP [here](/conference/digital-preservation-2022/cfp/).
+The 2022 Digital Preservation Call for Proposals closed on May 9, 2022. You can view the CFP [here](/conference/digital-preservation-2022/cfp/).
  
 ## Calendar and Past Meetings
 **Future Events:** For the latest on upcoming events, see our [NDSA calendar](/calendar). More events relevant to the NDSA's mission are to be found on the [DLF Community Calendar](https://www.diglib.org/opportunities/calendar/).
