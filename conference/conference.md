@@ -15,6 +15,15 @@ Efforts are underway for planning Digital Preservation 2022 which will be held O
 
 Digital Preservation 2022 (#digipres22) will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
 
+### Keynote Speaker: Dorothy Berry
+
+<img alt="Dorothy Berry" width="300" height="361" src='{{ "/images/conferences/berry.jpg" }}'>
+
+Dorothy will give her keynote talk, "Keeping Whose History, For Whom: Writing the Stories Digital Preservation Tells," during the Digital Preservation 2022 plenary session. Dorothy is the Digital Curator at the Smithsonian National Museum of African American History and Culture. Her work focuses on enhancing public access to digitized cultural hertiage materials and on creating new virtual environments for exploring Black history. She lead the Slavery, Abolition, Emancipation, and Freedom: Primary Sources at Houghton Library initative that led Harvard University's largest special collections repository through its first large scale project dedicated to Black history as that library's Digital Collections Program Manager. A popular writer and speaker on topics around description, discovery, and digitization of special collections materials, her writings can be found at up//root, JSTOR Daily, Lapham's Quarterly, and The Public Domain Review.
+
+## Registration & Logistics
+Please see the [DLF Forum's page on registration,](https://forum2022.diglib.org/registration/) for more information on registration and the cost of attendance.
+
 ## 2022 DigiPres Organizing Committee
 
 - **Jes Neal**, Williams College (2022 Chair)
@@ -41,10 +50,7 @@ Digital Preservation 2022 (#digipres22) will be a crucial venue for intellectual
 - **James Tuttle**, Virginia Tech
 - **Rebecca van Kniest**, Fontbonne University
 - **Elaine Walker**, Mississippi University for Women
-  
-
-
-
+ 
 <!--## Sponsor Opportunities
 As a [Digital Preservation and DLF Forum sponsor](https://forum2021.diglib.org/sponsorship-opportunities/) you will be part of the premier digital stewardship conference that fosters leadership, builds community, sets grassroots agendas, and organizes for action. Sponsorship options are limited and will go quickly! The 2022 sponsorhip opportunities are forthcoming.-->
 
@@ -55,9 +61,6 @@ The 2022 Digital Preservation Call for Proposals closed on May 9, 2022. You can 
 **Future Events:** For the latest on upcoming events, see our [NDSA calendar](/calendar). More events relevant to the NDSA's mission are to be found on the [DLF Community Calendar](https://www.diglib.org/opportunities/calendar/).
 
 **Past Meetings:** An archive of _Digital Preservation_ meetings from 2011-2021 can be found on the [Past Digital Preservation Conference](/conference/digital-preservation/past/) page.  
-
-## Registration & Logistics
-Please see the [DLF Forum's page on registration,](https://forum2022.diglib.org/registration/) for more information on registration and the cost of attendance.
 
 ## Questions?
 Feel free to reach out to ndsa-digipres@lists.clir.org and someone will get back to you as soon as possible.
