@@ -20,6 +20,7 @@ Registration is now open! Please see the [DLF Forum's page on registration,](htt
 
 ### Keynote Speaker: Dorothy Berry
 <img alt="Dorothy Berry" width="400" height="300"  src='{{ "/images/conferences/berry.jpg" }}'>
+
 Dorothy will give her keynote talk, "Keeping Whose History, For Whom: Writing the Stories Digital Preservation Tells," during the Digital Preservation 2022 plenary session. Dorothy is the Digital Curator at the Smithsonian National Museum of African American History and Culture. Her work focuses on enhancing public access to digitized cultural hertiage materials and on creating new virtual environments for exploring Black history. She lead the Slavery, Abolition, Emancipation, and Freedom: Primary Sources at Houghton Library initative that led Harvard University's largest special collections repository through its first large scale project dedicated to Black history as that library's Digital Collections Program Manager. A popular writer and speaker on topics around description, discovery, and digitization of special collections materials, her writings can be found at up//root, JSTOR Daily, Lapham's Quarterly, and The Public Domain Review.
 
 ## 2022 DigiPres Organizing Committee
