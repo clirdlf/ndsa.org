@@ -24,6 +24,7 @@ On World Digital Preservation Day (November 5, 2020), the Levels of Digital Pres
 * Heather Barnes, Digital Curation Librarian, Wake Forest University
 * Karen Cariani, The David O. Ives Executive Director of the WGBH Media Library and Archives
 * Bradley Daigle, Executive Director of Academic Preservation Trust (APTrust)
+* Corey Davis, Digital Preservation Librarian, University of Victoria
 * Carol Kussmann, Digital Preservation Analyst, University of Minnesota Libraries
 * Nancy McGovern, Associate for Digital Preservation Instruction and Practice, Global Archivist
 * Nathan Tallman, Digital Preservation Librarian, Penn State University Libraries
