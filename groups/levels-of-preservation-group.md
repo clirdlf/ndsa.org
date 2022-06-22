@@ -19,12 +19,12 @@ On World Digital Preservation Day (November 5, 2020), the Levels of Digital Pres
 
 
 ### Steering Group Members
-* Angela Beking (co-chair), Data Policy and Research Analyst / Analyste des politiques et de la recherche en les données, Privy Council Office | Government of Canada
+* Angela Beking (co-chair), Data Policy and Research Analyst / Analyste des politiques et de la recherche en les données, Privy Council Office; Government of Canada
 * Jenny Mitcham (co-chair), Head of Good Practice and Standards, Digital Preservation Coalition
 * Heather Barnes, Digital Curation Librarian, Wake Forest University
 * Karen Cariani, The David O. Ives Executive Director of the WGBH Media Library and Archives
 * Bradley Daigle, Executive Director of Academic Preservation Trust (APTrust)
-* Corey Davis, Digital Preservation Librarian, University of Victoria
+* Corey Davis, Digital Preservation Librarian, University of Victoria  
 * Carol Kussmann, Digital Preservation Analyst, University of Minnesota Libraries
 * Nancy McGovern, Associate for Digital Preservation Instruction and Practice, Global Archivist
 * Nathan Tallman, Digital Preservation Librarian, Penn State University Libraries
