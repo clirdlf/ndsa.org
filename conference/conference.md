@@ -18,6 +18,10 @@ Digital Preservation 2022 (#digipres22) will be a crucial venue for intellectual
 ## Registration & Logistics
 Registration is now open! Please see the [DLF Forum's page on registration,](https://forum2022.diglib.org/registration/) for more information on registration categories, and to claim your spot. 
 
+### Conference Program
+The conference will be held at the Renaissance Baltimore Harborplace Hotel, in Baltimore, Maryland on Wednesday October 12th and Thursday, October 13th. It is held in concert with the [Council on Library and Information Resources (CLIR)](https://www.clir.org/) events [DLF Forum](https://forum2022.diglib.org/) (October 10-12), [Learn@DLF](https://forum2022.diglib.org/affiliated-events/learndlf/) (October 9) and [CLIR's Digitizing Hidden Collections Symposium](https://www.clir.org/hiddencollections/events/2022-symposium/) (October 12-13). The full schedule for all events can be viewed below.
+[PROGRAM SCHEDULE](https://clirevents2022.sched.com/)
+
 ### Keynote Speaker: Dorothy Berry
 <img alt="Dorothy Berry" width="400" height="300"  src='{{ "/images/conferences/berry.jpg" }}'>
 
