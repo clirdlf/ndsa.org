@@ -73,6 +73,15 @@ redirect_from: /leadership/
     </div>
 </div>
 
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Louisa Kwasigroch</h3>
+        <p>Louisa Kwasigroch (<a href="https://www.clir.org/">CLIR</a> representative) is the director of outreach and engagement for the Council on Library and Information Resources (CLIR) and Interim Senior Program Officer for the Digital Library Federation (DLF). Her mission at CLIR centers around working with members, funders, affiliates, and the overlapping library/information communities to find places to collaborate and further the field. Louisa’s experience spans organizational design, marketing, business development, nonprofit management, fundraising, and communications. She is a Kodak Portfolio award-winning photographer and part of the Beta Phi Mu International Library & Information Studies Honor Society. Her work in higher education and library and information science is dedicated to breaking down barriers via cross-industry collaboration. Louisa holds a Master of Business Administration and a Master of Science in Library and Information Science from the University of Illinois at Urbana-Champaign, and a Bachelor of Arts in photography from Columbia College Chicago.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Louisa Kwasigroch" src="{{ '/images/coordinating-committee/kwasigroch2021.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -168,6 +177,16 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Angela Beking</h3>
+        <p>Angela Beking (<a href="/groups/levels-of-preservation/">Levels of Digital Preservation</a> Co-Chair) is the Manager of Information and Data Management Policy at Privy Council Office, Canada. Formerly a Senior Digital Archivist at Library and Archives Canada, Angela's research interests include the alignment of information and data management policies and procedures with those of digital preservation, with an eye to the overall advancement of digital curation.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Angela Beking" src="{{ '/images/coordinating-committee/BekingA.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Brenda Burk</h3>
         <p>Brenda Burk (<a href="/groups/content/">Content Interest Group</a> Co-Chair; 1st term, 2020-2022) joined Clemson University Libraries in 2014 as the Head of Special Collections.  As part of the Clemson University Libraries, the Special Collections and Archives houses the University Archives, Records Management, Manuscript Collections, and Rare Books.  Previously she was the Philanthropic Studies Archivist at IUPUI University Library and Public Records Archivist at the Wisconsin Historical Society.  In her current position, she continues to build a premier research collection that supports the university and creates an environment encouraging scholarly inquiry, creative thinking, and lifelong learning.  Her research interests include information-seeking behaviors of users, course-integrated instruction, public awareness and perceptions of archives.  Brenda graduated from the University of Wisconsin-Madison with a BA in History and a MA in Library and Information Studies with an emphasis in archival administration.</p>
     </div>
@@ -175,10 +194,6 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Brenda Burk" src="{{ '/images/coordinating-committee/Burk2020.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
-
-
-
-
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -268,17 +283,6 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<h2>Host Organization</h2>
-
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Louisa Kwasigroch</h3>
-        <p>Louisa Kwasigroch (<a href="https://www.clir.org/">CLIR</a> representative) is the director of outreach and engagement for the Council on Library and Information Resources (CLIR) and Interim Senior Program Officer for the Digital Library Federation (DLF). Her mission at CLIR centers around working with members, funders, affiliates, and the overlapping library/information communities to find places to collaborate and further the field. Louisa’s experience spans organizational design, marketing, business development, nonprofit management, fundraising, and communications. She is a Kodak Portfolio award-winning photographer and part of the Beta Phi Mu International Library & Information Studies Honor Society. Her work in higher education and library and information science is dedicated to breaking down barriers via cross-industry collaboration. Louisa holds a Master of Business Administration and a Master of Science in Library and Information Science from the University of Illinois at Urbana-Champaign, and a Bachelor of Arts in photography from Columbia College Chicago.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Louisa Kwasigroch" src="{{ '/images/coordinating-committee/kwasigroch2021.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
 <!--<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Linda Reynolds</h3>
