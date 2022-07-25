@@ -217,6 +217,16 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Ann Hanlon</h3>
+        <p>Ann Hanlon (<a href="/groups/standards-and-practices/">Standards and Practices Interest Group</a> Co-Chair; 1st term, 2022-2024) is the Head of Digital Collections and Initiatives at the University of Wisconsin-Milwaukee. She also co-founded and leads the UWM Libraries Digital Humanities Lab.  Ms. Hanlon has over twenty years of experience working with digital collections, including positions at the University of Maryland, Marquette University, and since 2012 at UWM. She has led projects to build digital archival collections of all shapes and sizes, and also works in the areas of digital preservation and digital scholarship. She has published and presented in the fields of digital collections and scholarship, digital preservation, and digital humanities. Ann has an MA in History from the University of Maryland and her MSLIS from the University of Illinois.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Ann Hanlon" src="{{ '/images/coordinating-committee/hanlon-2022.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Carol Kussmann</h3>
         <p>Carol Kussmann (<a href="/groups/communications-publications/">Communications and Publications Working Group</a> Chair; 1st term, 2020-2022) is the Digital Preservation Analyst at the University of Minnesota Libraries. In this role, she works across many departments within the Libraries, as well as outside the Libraries including through the statewide Minnesota Digital Library Program. She addresses current and future requirements for the long-term preservation of electronic records in the areas of archives and special collections, information and data repositories, and journal publishing. As co-chair of the Libraries Electronic Records Management Group her efforts focus on developing and implementing workflows for ingesting, processing, and providing access to incoming electronic materials that are part of the Archives and Special Collections units. As an inaugural Digital Preservation Outreach and Education (DPOE) trainer, she works with Minitex to provide digital preservation training in the region on a regular basis. After completing the initial implementation work for the Council of State Archivists’ (CoSA) Electronic Records Resource Center she remains a member of CoSA’s Tools and Resources Subcommittee. Other current activities include teaching Digital Archives Specialist courses for the Society of American Archivists.
         </p>
