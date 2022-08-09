@@ -62,3 +62,4 @@ If an incident occurs on an NDSA mailing list please use the method below that i
 - Report the Code of Conduct concern/violations using the [anonymous form](https://forms.gle/73TPEDDfUjSd3aXC6).  This form is received by the Chair and Vice Chair of the Coordinating Committee.
 
 
+*The NDSA Code of Conduct Workflow was inspired by the Bit Curator Consortium Code of Conduct Workflow procedures document. NDSA would also like to thank members of the BCC CoC Committee for overall guidance.* 
