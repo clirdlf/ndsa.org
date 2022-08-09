@@ -10,9 +10,9 @@ This website documents the procedures for reporting Code of Conduct violations o
 
 
 ## Reporting Code of Conduct Violations
-Review the information below for options on reporting any Code of Conduct Violations.  Reporting mechanisms may vary depending on the location or environment of the enfraction.  
+Review the information below for options on reporting any Code of Conduct Violations.  Reporting mechanisms may vary depending on the location or environment of the infraction.  
 
-When reporting a violation, please consider including the following information (as apporprate/as comfortable):
+When reporting a violation, please consider including the following information (as appropriate/as comfortable):
 - What happened, where, and when, including any supporting information you may have
 - Who was involved
 - What you would like to see happen, including follow-up from NDSA Leadership and/or CLIR
