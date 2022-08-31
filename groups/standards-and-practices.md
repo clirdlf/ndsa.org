@@ -21,7 +21,7 @@ Smaller working groups frequently emerge from the Standards and Practices Intere
     * January 10th
     * April 11th
     * July 11th
-    * October 10th
+    * October 17th (date change)
   * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below.
   * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/13mvPbJ3bNUDMyvuQHac0YryiRPEnwHQY7Tk_x_e3n4c/edit). 
  

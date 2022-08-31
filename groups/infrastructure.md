@@ -15,7 +15,7 @@ The Infrastructure Interest Group works to identify and share emerging practices
   * The meetings are held the third Monday of the months listed below at 3pm EST:
     * March 21st
     * June 27th
-    * September 19th
+    * September 29th (date change)
     * December 19th
  
   * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below. 
