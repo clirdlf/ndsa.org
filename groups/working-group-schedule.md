@@ -24,19 +24,19 @@ th, td {
 
 </style>
 
-| Year 	| Fixity Survey	| Levels of Preservation 	| Agenda 	| Staffing Survey 	| Storage Survey 	| Web Archiving Survey	|
+| Year 	| Fixity Survey	| Levels of Preservation 	| Agenda	| Staffing Survey 	| Storage Survey 	| Web Archiving Survey	|
 |:----:	|:------:	|:----------------------:	|:------:	|:---------------:	|:--------------:	|:-------------:	|
-| 2021 	|    X   	|                        	|        	|        X        	|                	|       X       	|
-| 2022 	|        	|                        	|    X   	|                 	|                	|               	|
+| 2021 	|    [Completed](https://osf.io/2qkea/)   	|                        	|        	|        [Completed](https://osf.io/emwy4/)        	|                	|           	|
+| 2022 	|        	|                        	|    Schedule under review   	|                 	|                	|  [In progress](https://ndsa.org/groups/web-archiving/)             	|
 | 2023 	|        	|                        	|        	|                 	|        X       	|               	|
-| 2024 	|        	|            X           	|    X   	|        X        	|                	|       X       	|
-| 2025 	|    X   	|                        	|        	|                 	|                	|               	|
-| 2026 	|        	|                        	|    X   	|                 	|        X       	|               	|
-| 2027 	|        	|                        	|        	|        X        	|                	|       X       	|
-| 2028 	|        	|                        	|    X   	|                 	|                	|               	|
+| 2024 	|        	|            X           	|       	|        X        	|                	|              	|
+| 2025 	|    X   	|                        	|        	|                 	|                	|       X       	|
+| 2026 	|        	|                        	|       	|                 	|        X       	|               	|
+| 2027 	|        	|                        	|        	|        X        	|                	|              	|
+| 2028 	|        	|                        	|       	|                 	|                	|       X        	|
 | 2029 	|    X   	|            X           	|        	|                 	|        X       	|               	|
-| 2030 	|        	|                        	|    X   	|        X        	|                	|       X       	|
-| 2031 	|        	|                        	|        	|                 	|                	|               	|
-| 2032 	|        	|                        	|    X   	|                 	|        X       	|               	|
-| 2033 	|    X   	|                        	|        	|        X        	|                	|       X       	|
-| 2034 	|        	|            X           	|    X   	|                 	|                	|               	|
+| 2030 	|        	|                        	|       	|        X        	|                	|              	|
+| 2031 	|        	|                        	|        	|                 	|                	|       X        	|
+| 2032 	|        	|                        	|       	|                 	|        X       	|               	|
+| 2033 	|    X   	|                        	|        	|        X        	|                	|             	|
+| 2034 	|        	|            X           	|       	|                 	|                	|       X        	|
