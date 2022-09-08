@@ -5,7 +5,7 @@ permalink: /groups/staffing/
 redirect_from: /working-groups/staffing/
 ---
 
-The Staffing Survey Working Group reformed in 2021 to gather updated data on staffing practices. The 2021 survey builds off the previous 2012 and 2017 surveys, with a redesign of the survey to incorporate new areas for data collection. The goal of the 2021 survey was to better understand current staffing levels, needs, and demographics around the area of digital preservation, and changes over time.
+The Staffing Survey Working Group reformed in 2021 to gather updated data on staffing practices. The 2021 survey built off the previous 2012 and 2017 surveys, with a redesign of the survey to incorporate new areas for data collection. The goal of the 2021 survey was to better understand current staffing levels, needs, and demographics around the area of digital preservation, and changes over time.
 
 The results of the survey and a report were published in August of 2022.  
 
