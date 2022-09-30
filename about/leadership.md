@@ -56,7 +56,7 @@ redirect_from: /leadership/
  <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Elizabeth England</h3>
-        <p>Elizabeth England (1st term, 2021-2023; <a href="/groups/staffing/">Staffing Survey Working Group</a> 2021 co-chair) is a Digital Preservation Specialist at the U.S. National Archives and Records Administration, where she participates in strategic and operational initiatives and services for the preservation of born-digital and digitized records of the federal government. In addition, she teaches an introduction to digital preservation continuing education course for the University of Wisconsin iSchool. Prior to joining NARA, Elizabeth was the Digital Archivist and a National Digital Stewardship Resident (NDSR) at Johns Hopkins University. Elizabeth currently serves on the NDSA Communications and Publications Working Group and has previously served on the Ivy Plus Libraries Consortium Web Collecting Advisory Group and NDSR Advisory Group.</p>
+        <p>Elizabeth England (1st term, 2021-2023) is a Digital Preservation Specialist at the U.S. National Archives and Records Administration, where she participates in strategic and operational initiatives and services for the preservation of born-digital and digitized records of the federal government. In addition, she teaches an introduction to digital preservation continuing education course for the University of Wisconsin iSchool. Prior to joining NARA, Elizabeth was the Digital Archivist and a National Digital Stewardship Resident (NDSR) at Johns Hopkins University. Elizabeth currently serves on the NDSA Communications and Publications Working Group and has previously served on the Ivy Plus Libraries Consortium Web Collecting Advisory Group and NDSR Advisory Group.</p>
     </div>
     <div class="col-sm-2">
          <img class="img-responsive" class="img-responsive" alt="Elizabeth England" src="{{ '/images/coordinating-committee/England2020.jpg' | prepend: site.baseurl }}"> 
@@ -122,6 +122,38 @@ redirect_from: /leadership/
         <img class="img-responsive" class="img-responsive" alt="Dan Noonan" src="{{ '/images/coordinating-committee/Noonan2020.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
+
+<!-- REMEMBER TO REMOVE DEON FROM THE LEADERSHIP SECTION BELOW WHEN THIS GOES LIVE
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Shira Peltzman</h3>
+        <p>Shira Pelztman (1st term, 2023-2025) is the Digital Archivist for UCLA Library Special Collections where she works with stakeholders on an enterprise-wide basis to preserve and make LSC’s born-digital material accessible to the widest possible audience. As a current member of the NDSA Staffing Survey Working Group, she has seen firsthand the importance of undertaking this work collectively and the impact that it has on the field. Shira is interested in serving as a member of the NDSA Coordinating Committee because she would like to help guide and coordinate this work to maximize the quality, relevance, consistency, and overall effectiveness of the publications that come out of all Interest and Working Groups.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" class="img-responsive" alt="Shira Peltzman" src="{{ '/images/coordinating-committee/Peltzman2023.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Deon Schutte</h3>
+        <p>Deon Schutte (1st term, 2023-2025; <a href="/groups/content/">Content Interest Group</a> Co-Chair; 1st term, 2022-2024) worked as a freelance typesetter in the educational publishing industry in South Africa for many years. In 2018 he completed his B.INF (Bachelor of Information Science) through the University of South Africa and his B.INF Honours in 2019. Deon is a MPhil (Master of Philosophy, specialising in Digital Curation) candidate at the University of Cape Town (the first African member of the NDSA). He serves as the Chair of the Association of Southern African Indexers and Bibliographers and is a Fellow of the South African Chefs Association. He works at Africa Media Online in the production team that is busy arranging and digitising the extensive archive of one of the prominent politicians of the anti-Apartheid struggle. He resides in Pietermaritzburg, South Africa. 
+        </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Deon Schutte" src="{{ '/images/coordinating-committee/schutte2022.jpeg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Bethany Scott</h3>
+        <p>Bethany Scott (1st term, 2023-2025) is the Head of Preservation & Reformatting at the University of Houston Libraries. In this role she provides strategic leadership for the Libraries’ physical and digital preservation programs, and digitization and reformatting services for the Libraries and its patrons. Bethany also serves as Product Owner of the Libraries' open-source digital access and preservation ecosystem, which incorporates Avalon, Hyrax, Archivematica, and ArchivesSpace. Her areas of expertise include digital preservation, born-digital archives, scanning and imaging, and reuse of archival metadata.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Bethany Scott" src="{{ '/images/coordinating-committee/Scott2023.jpg' | prepend: site.baseurl }}">
+    </div>
+</div> -->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
