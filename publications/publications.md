@@ -22,7 +22,7 @@ New publications are announced on the [NDSA Blog](/news/), while links to a few 
 
 ### Highlighted Publication
 
-#### 2021 NDSA Staffing Survey
+#### [2021 Staffing Survey](https://osf.io/emwy4/)
 The NDSA Staffing Survey is designed to gain insight into current staffing realities for digital preservation programs, and was substantially redesigned in 2021 based on feedback from previous surveys and changes in the field over the past decade.  
 
 Completed by 269 individuals, the report documents the survey responses related to the following areas of focus: 1) Background Information, 2) Digital Preservation Activities and Planning, 3) Digital Preservation Organization and Staffing, 4) Staffing Qualifications and Training, and 5) Final Thoughts about Digital Preservation Staffing and Organization.
