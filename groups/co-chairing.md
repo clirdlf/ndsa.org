@@ -22,7 +22,6 @@ Since most Working Groups are targeted and time-bound, there may be less opportu
 Interest Groups or the NDSA Leadership may create new working groups as needs emerge. Attend regular Interest Group meetings and subscribe to the NDSA-ALL mailing list to watch for opportunities. Members are also free to propose new Working Groups by contacting the current NDSA Coordinating Committee Chair.
 
 ## How long is the appointment?
-
 Generally, most Interest Group co-chairs serve for two years, though some have served for more. Ideally, co-chair terms are staggered when possible so replacement for both chairs doesn’t happen in the same year. However, NDSA keeps the co-chair appointment time length flexible (read: no hard term limits or commitments) to allow for both leadership change and longevity of co-chair leadership as desired by community and Interest Group members.
 
 Working Group co-chairs usually serve throughout the duration of the Working Group, until it achieves the specific objectives or returns the relevant deliverables. Working groups that regularly activate and deactivate (e.g. Storage Survey Working Group) may have different co-chairs each time. If a Working Group is ongoing, such as the Communications and Publication Group, the group should revisit their leadership annually.
@@ -31,14 +30,15 @@ Working Group co-chairs usually serve throughout the duration of the Working Gro
 
 ### Interest Groups
 - Approximately a half hour to an hour a month (average) planning, contacting speakers, coordinating presentations, welcoming new members to the group, and writing reminder emails to the group about calls
-- Approximately 1 hour a month co-leading Interest Group calls
+- Approximately 1 hour a quarter co-leading Interest Group calls
   - Often co-chairs trade responsibility for leading Interest Group calls, which can consist of leading a topic-based discussion or hosting a presenter on a topic 
 - Approximately 1 hour a month on NDSA Leadership calls
   - The Leadership calls consist of the Coordinating Committee, Interest Group co-chairs, a member from our host organization, CLIR/DLF, and any current Working Group chairs. 
   - There may be swells when additional time is needed to complete NDSA Leadership work, such as strategic planning.
+- Approximately 1 hour a quarter attending the NDSA group co-chairs call.
 - In-person meeting at Digital Preservation conference
   - For the last several years, Leadership has held a meeting sometime during the Digital Preservation conference to allow for in-person strategic planning and review. Attendance is highly encouraged, but not mandatory.
 
 ### Working Groups
-Time commitments for Working Groups varies by the objectives or deliverables of the group. In general, Working Group co-chairs commit as much as or more time than Interest Group co-chairs and this may vary through the lifecycle.
+Time commitments for Working Groups varies by the objectives or deliverables of the group. In general, Working Group co-chairs commit as much as or more time than Interest Group co-chairs and this may vary through the lifecycle. Working group co-chairs attend the quarterly NDSA group co-chairs  meeting.
 
