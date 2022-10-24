@@ -23,6 +23,8 @@ The conference will be held at the Renaissance Baltimore Harborplace Hotel, on W
 
 [PROGRAM SCHEDULE](https://clirevents2022.sched.com/)
 
+Slide decks, if provided, are available on the [Open Science Framework (OSF)](https://osf.io/meetings/NDSA2022)
+
 ### Keynote Speaker: Dorothy Berry
 <img alt="Dorothy Berry" width="400" height="300"  src='{{ "/images/conferences/berry.jpg" }}'>
 
