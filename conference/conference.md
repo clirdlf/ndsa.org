@@ -5,7 +5,7 @@ permalink: /conference/
 redirect_from: /meetings/
 ---
 
-<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres-2022-820x400.jpg"  | prepend: site.baseurl }}'>
+<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres2023.png"  | prepend: site.baseurl }}'>
 
 ###Planning for Digital Preservation 2023
 Efforts are underway for planning Digital Preservation 2022 which will be held November 15th-16th in St. Louis, Missouri. 
