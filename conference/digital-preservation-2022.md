@@ -10,24 +10,17 @@ permalink: /conference/digital-preservation-2022/
 ### About the NDSA and Digital Preservation 2022
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code).
 
-Efforts are underway for planning Digital Preservation 2022 which will be held October 12-13, 2022 in Baltimore, Maryland.  
-
-Digital Preservation 2022 (#digipres22) will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
-
-## Registration & Logistics
-Registration is now open! Please see the [DLF Forum's page on registration,](https://forum2022.diglib.org/registration/) for more information on registration categories, and to claim your spot. 
-
-### Conference Program
-The conference will be held at the Renaissance Baltimore Harborplace Hotel, on Wednesday, October 12th and Thursday, October 13th. It is held in concert with the [Council on Library and Information Resources (CLIR)](https://www.clir.org/) events [DLF Forum](https://forum2022.diglib.org/) (October 10-12), [Learn@DLF](https://forum2022.diglib.org/affiliated-events/learndlf/) (October 9) and [CLIR's Digitizing Hidden Collections Symposium](https://www.clir.org/hiddencollections/events/2022-symposium/) (October 12-13). The full schedule for all events can be viewed below.
+### Conference Program and Proceedings
+The conference was held at the Renaissance Baltimore Harborplace Hotel, on Wednesday, October 12th and Thursday, October 13th, 2022, in concert with the [Council on Library and Information Resources (CLIR)](https://www.clir.org/) events [DLF Forum](https://forum2022.diglib.org/) (October 10-12), [Learn@DLF](https://forum2022.diglib.org/affiliated-events/learndlf/) (October 9) and [CLIR's Digitizing Hidden Collections Symposium](https://www.clir.org/hiddencollections/events/2022-symposium/) (October 12-13). The full schedule for all events can be viewed below.
 
 [PROGRAM SCHEDULE](https://clirevents2022.sched.com/)
 
-Slide decks, if provided, are available on the [Open Science Framework (OSF)](https://osf.io/meetings/NDSA2022)
+Slide decks, if provided by presenters, are available on the [Open Science Framework (OSF)](https://osf.io/meetings/NDSA2022)
 
 ### Keynote Speaker: Dorothy Berry
 <img alt="Dorothy Berry" width="400" height="300"  src='{{ "/images/conferences/berry.jpg" }}'>
 
-Dorothy will give her keynote talk, "Keeping Whose History, For Whom: Writing the Stories Digital Preservation Tells," during the Digital Preservation 2022 plenary session. Dorothy is the Digital Curator at the Smithsonian National Museum of African American History and Culture. Her work focuses on enhancing public access to digitized cultural hertiage materials and on creating new virtual environments for exploring Black history. She lead the Slavery, Abolition, Emancipation, and Freedom: Primary Sources at Houghton Library initative that led Harvard University's largest special collections repository through its first large scale project dedicated to Black history as that library's Digital Collections Program Manager. A popular writer and speaker on topics around description, discovery, and digitization of special collections materials, her writings can be found at up//root, JSTOR Daily, Lapham's Quarterly, and The Public Domain Review.
+Dorothy will gave her keynote talk, "Keeping Whose History, For Whom: Writing the Stories Digital Preservation Tells," during the Digital Preservation 2022 plenary session. Dorothy is the Digital Curator at the Smithsonian National Museum of African American History and Culture. Her work focuses on enhancing public access to digitized cultural hertiage materials and on creating new virtual environments for exploring Black history. She lead the Slavery, Abolition, Emancipation, and Freedom: Primary Sources at Houghton Library initative that led Harvard University's largest special collections repository through its first large scale project dedicated to Black history as that library's Digital Collections Program Manager. A popular writer and speaker on topics around description, discovery, and digitization of special collections materials, her writings can be found at up//root, JSTOR Daily, Lapham's Quarterly, and The Public Domain Review.
 
 ## 2022 DigiPres Organizing Committee
 
