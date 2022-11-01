@@ -7,7 +7,7 @@ redirect_from: /meetings/
 
 <img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres2023.png"  | prepend: site.baseurl }}'>
 
-###Planning for Digital Preservation 2023
+### Planning for Digital Preservation 2023
 Efforts are underway for planning Digital Preservation 2022 which will be held November 15th-16th in St. Louis, Missouri. 
 
 A call for participation on the Program Committee will be announced soon.
