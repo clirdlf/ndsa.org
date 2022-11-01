@@ -1,5 +1,5 @@
 ---
-title: Digital Preservation 2022 Preserving Legacy
+title: Digital Preservation 2023 
 layout: page
 permalink: /conference/
 redirect_from: /meetings/
