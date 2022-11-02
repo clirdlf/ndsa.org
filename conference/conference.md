@@ -12,10 +12,10 @@ Efforts are underway for planning Digital Preservation 2022 which will be held N
 
 A call for participation on the Program Committee will be announced soon.
 
-### About the NDSA and Digital Preservation 2022
+### About the NDSA and Digital Preservation Conference
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code). 
 
-Digital Preservation 2023 (#digipres22) will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
+Digital Preservation 2023 (#digipres23) will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
 
 <!--## Registration & Logistics
 Registration is now open! Please see the [DLF Forum's page on registration,](https://forum2022.diglib.org/registration/) for more information on registration categories, and to claim your spot. 
@@ -45,7 +45,7 @@ The 2022 Digital Preservation Call for Proposals closed on May 9, 2022. You can 
 ## Calendar and Past Meetings
 **Future Events:** For the latest on upcoming events, see our [NDSA calendar](/calendar). More events relevant to the NDSA's mission are to be found on the [DLF Community Calendar](https://www.diglib.org/opportunities/calendar/).
 
-**Past Meetings:** An archive of _Digital Preservation_ meetings from 2011-2021 can be found on the [Past Digital Preservation Conference](/conference/digital-preservation/past/) page.  
+**Past Meetings:** An archive of _Digital Preservation_ meetings from 2011-2022 can be found on the [Past Digital Preservation Conference](/conference/digital-preservation/past/) page.  
 
 ## Questions?
 Feel free to reach out to ndsa-digipres@lists.clir.org and someone will get back to you as soon as possible.
