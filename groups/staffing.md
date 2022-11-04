@@ -9,8 +9,11 @@ The Staffing Survey Working Group reformed in 2021 to gather updated data on sta
 
 The results of the survey and a report were published in August of 2022.  
 
-## Published Surveys
+## 2021 Published Survey
 * [2021 Report and Survey Results](https://osf.io/emwy4/)
+* [CNI Project Subject Briefing](https://www.cni.org/topics/digital-preservation/staffing-for-digital) about the 2021 Staffing Survey
+
+## Previously Published Surveys
 * [2017 Report and Survey Results](https://osf.io/mbcxt/) 
 * [2017 Blog Post](https://ndsa.org//2017/10/17/announcing-publication-of-the-ndsa-digital-preservation-staffing-survey-report.html) with background information
 * [2012 Report and Survey Results](http://ndsa.org/documents/NDSA-Staffing-Survey-Report-Final122013.pdf)
