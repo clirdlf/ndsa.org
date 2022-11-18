@@ -25,7 +25,7 @@ Smaller working groups frequently emerge from the Standards and Practices Intere
     * October 16th (date change)
   * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below.
   
-  * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/13mvPbJ3bNUDMyvuQHac0YryiRPEnwHQY7Tk_x_e3n4c/edit). 
+  * Call in information is available on the 2023 running [meeting agenda/notes document](https://docs.google.com/document/d/1uZTLsrxG1UX4tWSK1Gd_rVcbDG0qw1x5rR2DTHSMImw/edit#).  The 2022 [meeting agenda/notes](https://docs.google.com/document/d/13mvPbJ3bNUDMyvuQHac0YryiRPEnwHQY7Tk_x_e3n4c/edit) are also available.
  
 <!--Current activities include:
 
