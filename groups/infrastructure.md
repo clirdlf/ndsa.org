@@ -11,12 +11,16 @@ The Infrastructure Interest Group works to identify and share emerging practices
 *Take me to the [Infrastructure Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-INFRASTRUCTURE)! If you are already a member of this Interest Group, you can always access the Listserv (including its archives) at that link. To join this Interest Group, please contact the coordinators.*
 
 ## Meetings
-  * As of February 2022, all three Interest Groups will be on a [rotating schedule](https://ndsa.org//2022/02/10/scheduling-changes-for-ndsa-interest-groups.html) with one per month to help members who have wanted to participate in multiple groups but didn't have the time for two or more calls a month.  
-  * The meetings are held the third Monday of the months listed below at 3pm EST:
-    * March 21st
-    * June 27th
-    * September 29th (date change)
-    * December 19th
+
+ * NDSA Interest Groups now meet on a [rotating schedule](https://ndsa.org//2022/02/10/scheduling-changes-for-ndsa-interest-groups.html) with one per month to help members who have wanted to participate in multiple groups but didn't have the time for two or more calls a month.
+  * All NDSA events can be found on the [NDSA Calendar](https://ndsa.org/about/calendar/)  
+  * The meetings for the Infrastructure Interest Group are held the third Monday of the month at 3pm EST.  
+  * The last 2022 meeting of the year is December 19th.
+  * The 2023 dates are listed below:
+    * March 20th
+    * June 26th (date change)
+    * September 18th
+    * December 18th
  
   * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below. 
   * Call in information is available on the running [meeting agenda/notes document](https://bit.ly/3ffGuMR).
