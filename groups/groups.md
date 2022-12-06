@@ -45,8 +45,8 @@ Working Groups are created on an as needed basis.  Once formed, groups may perfo
 #### [Levels of Preservation](/groups/levels-of-preservation/) (ongoing)
 - Working to provide the methodology by which the important NDSA Levels of Digital Preservation document can be adapted more readily—taking in the broadest possible feedback in the process. Created the Levels of Digital Preservation V2.0 in October 2019. Work continues.
 
-#### [Task Force on Membership Engagement and Recruitment](/groups/membership/)
-- The Task Force on Membership Engagement and Recruitment was assembled to explore the questions of membership and engagement raised by the NDSA’s evolving scope and role within the global digital preservation ecosystem. 
+#### [Membership Working Group](/groups/membership/)
+- The Membership Working Group was created to address the results of the Membership Task Force with the goal of addressing the findings.  
 
 #### [NDSA Agenda](/groups/national-agenda/) (cyclical)
 - Revising and updating the NDSA Agenda to integrate the perspective of dozens of experts and hundreds of institutions to provide funders and executive decision‐makers insight into emerging technological trends, gaps in digital stewardship capacity, and key areas for funding, research and development to ensure that today’s valuable digital content remains accessible and comprehensible in the future, supporting a thriving economy, a robust democracy, and a rich cultural heritage.
@@ -69,4 +69,10 @@ These Interest Groups were retired by NDSA Leadership and are no longer active. 
 #### [Outreach](/groups/outreach/)
 - **The Outreach Interest Group is no longer active.** Activities of this working group were suspended in 2014. Its focus was on building relationships with stakeholder communities and preparing and sharing digital preservation information resources. The group worked to support the release of the 2014 National Agenda for Digital Stewardship, published the Digital Preservation in a Box outreach toolkit, supported regional NDSA meetings, and developed tools to make it easier for partners to share information about their work. The work done by this Interest Group is being done by other Working Groups and the NDSA Leadership Team. Please contact the [Leadership Team](/leadership/) with ideas and suggestions.
  
-<font size="1">[page last updated: May 2021]</font>
+### Former Groups
+The groups listed below were retired by NDSA Leadership and are no longer active.  Their pages are provided as reference to past activities.
+#### [Task Force on Membership Engagement and Recruitment](/groups/membership-task-force/)
+- The Task Force on Membership Engagement and Recruitment was assembled to explore the questions of membership and engagement raised by the NDSA’s evolving scope and role within the global digital preservation ecosystem. 
+
+
+<font size="1">[page last updated: December 2022]</font>
