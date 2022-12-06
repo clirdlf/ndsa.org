@@ -60,19 +60,17 @@ Working Groups are created on an as needed basis.  Once formed, groups may perfo
 #### [Web Archiving](/groups/web-archiving/) (cyclical)
 - Conducts a survey about web archiving activities to organizations engaged in web archiving or in the process of planning a web archive to take the NDSA Web Archiving Survey. Reports have been published in 2011, 2013, and 2017.
 
-### Former Interest Groups
-These Interest Groups were retired by NDSA Leadership and are no longer active.  Their pages are provided as reference to past activities.
 
-#### [Innovation](/groups/innovation/)
-- **The Innovation Interest Group is no longer active.** Activities of this working group were suspended in 2016. The Innovation Interest Group has a more than six-year history of activity under the umbrella of NDSA. Its focus involved encouraging and sharing innovative methods of digital preservation practices and technologies. For example, the innovation group highlighted innovative projects and practitioners through a series of published interviews. The group also developed and ran an awards program to recognize groundbreaking work in digital stewardship, which is now administered by the [Innovation Awards Working Group](/groups/innovation-awards/).
-
-#### [Outreach](/groups/outreach/)
-- **The Outreach Interest Group is no longer active.** Activities of this working group were suspended in 2014. Its focus was on building relationships with stakeholder communities and preparing and sharing digital preservation information resources. The group worked to support the release of the 2014 National Agenda for Digital Stewardship, published the Digital Preservation in a Box outreach toolkit, supported regional NDSA meetings, and developed tools to make it easier for partners to share information about their work. The work done by this Interest Group is being done by other Working Groups and the NDSA Leadership Team. Please contact the [Leadership Team](/leadership/) with ideas and suggestions.
- 
 ### Former Groups
 The groups listed below were retired by NDSA Leadership and are no longer active.  Their pages are provided as reference to past activities.
+#### [Innovation Interest Group](/groups/innovation/)
+- **The Innovation Interest Group is no longer active.** Activities of this working group were suspended in 2016. The Innovation Interest Group has a more than six-year history of activity under the umbrella of NDSA. Its focus involved encouraging and sharing innovative methods of digital preservation practices and technologies. For example, the innovation group highlighted innovative projects and practitioners through a series of published interviews. The group also developed and ran an awards program to recognize groundbreaking work in digital stewardship, which is now administered by the [Innovation Awards Working Group](/groups/innovation-awards/).
+
+#### [Outreach Interest Group](/groups/outreach/)
+- **The Outreach Interest Group is no longer active.** Activities of this working group were suspended in 2014. Its focus was on building relationships with stakeholder communities and preparing and sharing digital preservation information resources. The group worked to support the release of the 2014 National Agenda for Digital Stewardship, published the Digital Preservation in a Box outreach toolkit, supported regional NDSA meetings, and developed tools to make it easier for partners to share information about their work. The work done by this Interest Group is being done by other Working Groups and the NDSA Leadership Team. Please contact the [Leadership Team](/leadership/) with ideas and suggestions.
+ 
 #### [Task Force on Membership Engagement and Recruitment](/groups/membership-task-force/)
-- The Task Force on Membership Engagement and Recruitment was assembled to explore the questions of membership and engagement raised by the NDSA’s evolving scope and role within the global digital preservation ecosystem. 
+- **The Task Force on Membership Engagement and Recruitment Task Force is no longer active.**The Task Force on Membership Engagement and Recruitment was assembled to explore the questions of membership and engagement raised by the NDSA’s evolving scope and role within the global digital preservation ecosystem. This group was active in 2021. 
 
 
 <font size="1">[page last updated: December 2022]</font>
