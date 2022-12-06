@@ -6,7 +6,7 @@ permalink: /groups/membership/
 
 The Membership Working Group focuses on making recommendations to enhance recruitment and engagement with more diverse partners while also improving offerings to members. The Group has a two-year charge with the possibility of renewal.  
 
-This group is the result of the [Membership Engagement Task Force](membership-task-force.md)() which conducted a survey and presented its findings and recommendations in the [2021 NDSA Membership Survey Report](https://osf.io/y4kpu/?view_only=). 
+This group is the result of the [Membership Engagement Task Force](membership-task-force.md) which conducted a survey and presented its findings and recommendations in the [2021 NDSA Membership Survey Report](https://osf.io/y4kpu/?view_only=). 
 
 Contact the co-chairs with questions: Rachel Appel, rappel [at] upenn [dot] edu); Stacey Erdman, staceyerdman [at] arizona [dot] edu. 
 
