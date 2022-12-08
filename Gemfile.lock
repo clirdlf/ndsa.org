@@ -98,7 +98,7 @@ GEM
     mini_portile2 (2.8.0)
     multi_json (1.15.0)
     multipart-post (2.1.1)
-    nokogiri (1.13.9)
+    nokogiri (1.13.10)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     nokogumbo (2.0.2)
@@ -111,7 +111,7 @@ GEM
     ra11y (0.0.1)
       colorator
       parallel
-    racc (1.6.0)
+    racc (1.6.1)
     rainbow (3.0.0)
     rake (13.0.6)
     rb-fsevent (0.10.4)
