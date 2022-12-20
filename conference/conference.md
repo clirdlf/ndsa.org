@@ -10,7 +10,7 @@ redirect_from: /meetings/
 ### Planning for Digital Preservation 2023
 Efforts are underway for planning Digital Preservation 2023 which will be held November 15th-16th in St. Louis, Missouri. 
 
-A call for participation on the Program Committee will be announced soon.
+We are currently looking for volunteers to join the 2023 Planning Committee, which will convene in early 2023. If you would like to volunteer, [please fill out this form,](https://forms.gle/Za91A14ojA8WtKnj9) and we will be in touch soon.
 
 ### About the NDSA and Digital Preservation Conference
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code). 
