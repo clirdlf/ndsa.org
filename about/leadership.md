@@ -311,6 +311,16 @@ redirect_from: /leadership/
     </div>
 </div>
 
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Lance Stuchell</h3>
+        <p>Lance Stuchell (<a href="/groups/content/">Long Term Confence Planning Working Group</a> Co-Chair) is Head of the Digital Preservation Unit at the University of Michigan Library where he advises the library and campus communities and leads the continued development, implementation, and management of a comprehensive digital preservation program aimed at providing long-term access to the library’s digital collections. Work in this area often includes policy development and assessment, building and implementing workflows for the preservation of digital assets, and consulting with campus partners on how to incorporate digital preservation practice into research and publishing projects.
+        </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Lance Stuchell" src="{{ '/images/coordinating-committee/stuchell2022.jpeg' | prepend: site.baseurl }}">
+    </div>
+</div>
 
 
 
