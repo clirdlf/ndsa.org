@@ -18,7 +18,7 @@ The Infrastructure Interest Group works to identify and share emerging practices
   * The 2023 dates are listed below:
     * March 20th
     * June 26th (date change)
-    * September 18th
+    * September 12th (date change)
     * December 18th
  
   * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below. 
