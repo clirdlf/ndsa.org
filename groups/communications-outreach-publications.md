@@ -5,7 +5,7 @@ permalink: /groups/communications-publications/
 redirect_from: /groups/communications-outreach-publications/
 ---
 
-**Group Chair**: Carol Kussmann - kussmann at umn dot edu
+**Group Chairs**: Carol Kussmann (kussmann at umn dot edu) and Dan Noonan (noonan dot 37 at osu dot edu) 
 
 The Communications and Publication Working Group works with the Leadership team to schedule the publication activities of the Interest and Working groups, update the NDSA website, post social media and blog posts, and finalize NDSA publications and make them available.  *To join this Working Group, please contact the coordinators.*
 
