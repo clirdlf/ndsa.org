@@ -21,9 +21,10 @@ The Communications and Publications Working Group generally meets monthly but al
 ## Group Members
 - Carol Kussmann, Digital Preservation Analyst, University of Minnesota Libraries (co-chair)
 <!--- Elizabeth England, Digital Preservation Specialist, U.S National Archives and Records Administration (NARA) (social media specialist)-->
+- Dan Noonan, Digital Preservation Librarian, The Ohio State University (co-chair)
 - Grete Graf, Digital Preservation Librarian, Yale University Library
 <!--- Sadie Menchen, Digital Strategist, Smith College Libraries-->
 - Mary Grace Kosta, Congregational Archivist, Congregation of the Sisters of St. Joseph in Canada
-- Kathryn Michaelis, Digital Preservation Program Manager, Emory University Libraries (publication specialist)
+<!-- - Kathryn Michaelis, Digital Preservation Program Manager, Emory University Libraries (publication specialist)-->
 <!--- Nathan Tallman, Digital Preservation Librarian, Penn State--> 
-- Lauren Work, Digital Preservation Librarian, University of Virginia Library
+<!-- - Lauren Work, Digital Preservation Librarian, University of Virginia Library-->
