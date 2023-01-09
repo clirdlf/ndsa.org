@@ -3,7 +3,7 @@ title: Digital Preservation Virtual Gathering for 2022 Preserving Legacy Confere
 layout: page
 permalink: /conference/digital-preservation-virtual-2022/
 ---
-
+<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres-2022-820x400-virtual.jpg"  | prepend: site.baseurl }}'>
 <!--<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres-2022-820x400.jpg"  | prepend: site.baseurl }}'>-->
 
 
