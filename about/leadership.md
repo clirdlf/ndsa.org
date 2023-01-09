@@ -109,7 +109,7 @@ redirect_from: /leadership/
         <p>Shira Pelztman (1st term, 2023-2025) is the Digital Archivist for UCLA Library Special Collections where she works with stakeholders on an enterprise-wide basis to preserve and make LSC’s born-digital material accessible to the widest possible audience. As a current member of the NDSA Staffing Survey Working Group, she has seen firsthand the importance of undertaking this work collectively and the impact that it has on the field. Shira is interested in serving as a member of the NDSA Coordinating Committee because she would like to help guide and coordinate this work to maximize the quality, relevance, consistency, and overall effectiveness of the publications that come out of all Interest and Working Groups.</p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" class="img-responsive" alt="Shira Peltzman" src="https://www.library.ucla.edu/sites/default/files/styles/staff_profile_photo/public/Peltzman_Shira_cropped.jpg">
+        <img class="img-responsive" class="img-responsive" alt="Shira Peltzman" src="{{ '/images/coordinating-committee/peltzman2022.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
 
