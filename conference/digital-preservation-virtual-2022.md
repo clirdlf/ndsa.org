@@ -1,5 +1,5 @@
 ---
-title: Digital Preservation Virtual Gathering for 2022 Preserving Legacy Conference
+title: Digital Preservation Virtual Gathering for 2022 Conference
 layout: page
 permalink: /conference/digital-preservation-virtual-2022/
 ---
