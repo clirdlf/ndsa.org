@@ -12,6 +12,8 @@ NDSA will be hosting a virtual event on February 23, 2023, for those presenters 
 
 Schedule coming soon! 
 
+CLIR will also host virtual presentations in April; more information about that program can be found on [the DLF Forum Virtual Sessions web page](https://www.diglib.org/dlf-events/dlf-forum-virtual-event-sessions/).
+
 
 ### About the NDSA
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code).
