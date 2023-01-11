@@ -126,7 +126,7 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Bethany Scott</h3>
+        <h3>Bethany Scott, 2023 Vice Chair</h3>
         <p>Bethany Scott (1st term, 2023-2025) is the Head of Preservation & Reformatting at the University of Houston Libraries. In this role she provides strategic leadership for the Libraries’ physical and digital preservation programs, and digitization and reformatting services for the Libraries and its patrons. Bethany also serves as Product Owner of the Libraries' open-source digital access and preservation ecosystem, which incorporates Avalon, Hyrax, Archivematica, and ArchivesSpace. Her areas of expertise include digital preservation, born-digital archives, scanning and imaging, and reuse of archival metadata.</p>
     </div>
     <div class="col-sm-2">
