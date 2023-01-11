@@ -8,10 +8,27 @@ permalink: /conference/digital-preservation-virtual-2022/
 
 
 ### NDSA Virtual Events following the Digital Preservation 2022 Conference
-NDSA will be hosting a virtual event on February 23, 2023, for those presenters who were unable to participate in the in-person conference in Baltimore last fall. The event, held in collaboration with our host organization, CLIR, will consist of panels and presentations and will take place over Zoom events. Information regarding registration and the schedule is forthcoming for this special online event! All sessions will be free and open to the public. 
+NDSA will be hosting a virtual event on February 23, 2023, for those presenters who were unable to participate in the in-person conference in Baltimore last fall. The event, held in collaboration with our host organization, CLIR, will consist of panels and presentations and will take place over Zoom events. Information regarding registration is forthcoming for this special online event! All sessions will be free and open to the public. 
 
-Schedule coming soon! 
+### Sessions and Schedule 
+**All sessions will occur on Thursday, February 23, 2023**
 
+10:00am-11:00am EST 
+- Capturing Black American Voices of Resistance and Hope: Stories Shared and Lessons Learned from a 2020 Story-Gathering Initiative; 45-minute panel, 15-minute Q&A
+
+ 
+11:30am-12:30pm EST
+- Ownership in the Digital Space: Centering Contributors in Digital Memory Projects; 45-minute panel, 15-minute Q&A 
+
+
+1:00pm-2:00pm EST
+- Two 15-minute presentations, a lighting talk, and Q&A
+    - The POWRR of Peer Assessment (15 mins) 
+    - Preserving a community: Situating The Jewish Living Archive in the Global South (15 mins)
+    - Lightning talk TBD
+
+
+#### Related Events
 CLIR will also host virtual presentations in April; more information about that program can be found on [the DLF Forum Virtual Sessions web page](https://www.diglib.org/dlf-events/dlf-forum-virtual-event-sessions/).
 
 
