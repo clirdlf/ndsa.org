@@ -22,10 +22,11 @@ NDSA will be hosting a virtual event on February 23, 2023, for those presenters 
 
 
 1:00pm-2:00pm EST
-- Two 15-minute presentations, a lighting talk, and Q&A
+- A Lightning Talk, Two 15-minute presentations, and Q&A
+    - Not E-waste Yet: a Born-digital Media Survey in the 2020s (5 mins)
     - The POWRR of Peer Assessment (15 mins) 
     - Preserving a community: Situating The Jewish Living Archive in the Global South (15 mins)
-    - Lightning talk TBD
+    - Q&A
 
 
 #### Related Events
