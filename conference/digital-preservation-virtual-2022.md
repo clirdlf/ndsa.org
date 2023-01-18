@@ -13,15 +13,15 @@ NDSA will be hosting a virtual event on February 23, 2023, for those presenters 
 ### Sessions and Schedule 
 **All sessions will occur on Thursday, February 23, 2023**
 
-10:00am-11:00am EST 
+11:00am-12:00pm EST 
 - Capturing Black American Voices of Resistance and Hope: Stories Shared and Lessons Learned from a 2020 Story-Gathering Initiative; 45-minute panel, 15-minute Q&A
 
  
-11:30am-12:30pm EST
+12:30pm-1:30pm EST
 - Ownership in the Digital Space: Centering Contributors in Digital Memory Projects; 45-minute panel, 15-minute Q&A 
 
 
-1:00pm-2:00pm EST
+2:00pm-3:00pm EST
 - A Lightning Talk, Two 15-minute presentations, and Q&A
     - Not E-waste Yet: a Born-digital Media Survey in the 2020s (5 mins)
     - The POWRR of Peer Assessment (15 mins) 
