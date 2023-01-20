@@ -5,7 +5,7 @@ permalink: /groups/communications-publications/
 redirect_from: /groups/communications-outreach-publications/
 ---
 
-**Group Chair**: Carol Kussmann - kussmann at umn dot edu
+**Group Chairs**: Carol Kussmann (kussmann at umn dot edu) and Dan Noonan (noonan dot 37 at osu dot edu) 
 
 The Communications and Publication Working Group works with the Leadership team to schedule the publication activities of the Interest and Working groups, update the NDSA website, post social media and blog posts, and finalize NDSA publications and make them available.  *To join this Working Group, please contact the coordinators.*
 
@@ -20,10 +20,11 @@ The Communications and Publications Working Group generally meets monthly but al
 
 ## Group Members
 - Carol Kussmann, Digital Preservation Analyst, University of Minnesota Libraries (co-chair)
-- Elizabeth England, Digital Preservation Specialist, U.S National Archives and Records Administration (NARA) (social media specialist)
+<!--- Elizabeth England, Digital Preservation Specialist, U.S National Archives and Records Administration (NARA) (social media specialist)-->
+- Dan Noonan, Digital Preservation Librarian, The Ohio State University (co-chair)
 - Grete Graf, Digital Preservation Librarian, Yale University Library
 <!--- Sadie Menchen, Digital Strategist, Smith College Libraries-->
 - Mary Grace Kosta, Congregational Archivist, Congregation of the Sisters of St. Joseph in Canada
-- Kathryn Michaelis, Digital Preservation Program Manager, Emory University Libraries (publication specialist)
+<!-- - Kathryn Michaelis, Digital Preservation Program Manager, Emory University Libraries (publication specialist)-->
 <!--- Nathan Tallman, Digital Preservation Librarian, Penn State--> 
-- Lauren Work, Digital Preservation Librarian, University of Virginia Library
+<!-- - Lauren Work, Digital Preservation Librarian, University of Virginia Library-->

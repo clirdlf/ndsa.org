@@ -20,6 +20,18 @@ New publications are announced on the [NDSA Blog](/news/), while links to a few 
 - 2020 NDSA Agenda Publication (<a href="https://osf.io/3a7zn/" target="_blank">OSF Repository <i class="fas fa-external-link-alt"></i></a>)
 - The [NDSA Agenda Working Group](/national-agenda/) page provides background information on the work over the years and links to all available previous versions.
 
+### Highlighted Publication
+
+#### [2021 Staffing Survey](https://osf.io/emwy4/)
+The NDSA Staffing Survey is designed to gain insight into current staffing realities for digital preservation programs, and was substantially redesigned in 2021 based on feedback from previous surveys and changes in the field over the past decade.  
+
+Completed by 269 individuals, the report documents the survey responses related to the following areas of focus: 1) Background Information, 2) Digital Preservation Activities and Planning, 3) Digital Preservation Organization and Staffing, 4) Staffing Qualifications and Training, and 5) Final Thoughts about Digital Preservation Staffing and Organization.
+
+Several key points emerged from the 2021 survey and the [report](https://osf.io/emwy4/) provides additional analysis and further detail around the following:
+- **Perceptions of digital preservation seemed to shift according to respondents’ roles within their organizations.** Respondents’ answers to questions relating to a range of questions including digital preservation priority, policy, organization, skill sets, staffing levels, and more often reflected their reported role within digital preservation at their organization.
+- **Survey respondents overwhelmingly perceived digital preservation at their organizations as understaffed.** A majority of respondents reported that they did not feel like their organization had the staffing in place to manage the content for which they are responsible.
+- **Generalized longitudinal trends can be seen over the last ten years.** Data comparison across the 2012, 2017, and 2021 surveys allows for the observation of some general trends, including around how well digital preservation is implemented at organizations. Across the last ten years that the survey has been conducted, dissatisfaction rates around the organization and implementation of digital preservation rose from just over one-third of respondents in 2012 to nearly half in 2017 and 2021.
+
 
 ### Selected Publications
 

@@ -56,7 +56,7 @@ redirect_from: /leadership/
  <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Elizabeth England</h3>
-        <p>Elizabeth England (1st term, 2021-2023; <a href="/groups/staffing/">Staffing Survey Working Group</a> 2021 co-chair) is a Digital Preservation Specialist at the U.S. National Archives and Records Administration, where she participates in strategic and operational initiatives and services for the preservation of born-digital and digitized records of the federal government. In addition, she teaches an introduction to digital preservation continuing education course for the University of Wisconsin iSchool. Prior to joining NARA, Elizabeth was the Digital Archivist and a National Digital Stewardship Resident (NDSR) at Johns Hopkins University. Elizabeth currently serves on the NDSA Communications and Publications Working Group and has previously served on the Ivy Plus Libraries Consortium Web Collecting Advisory Group and NDSR Advisory Group.</p>
+        <p>Elizabeth England (1st term, 2021-2023) is Senior Digital Preservation Specialist at the U.S. National Archives and Records Administration, where she participates in strategic and operational initiatives and services for the preservation of born-digital and digitized records of the federal government. Prior to joining NARA, Elizabeth was the Digital Archivist and a National Digital Stewardship Resident (NDSR) at Johns Hopkins University. Elizabeth previously served as co-chair of the 2021 NDSA Staffing Survey and on the NDSA Communications and Publications Working Group.</p>
     </div>
     <div class="col-sm-2">
          <img class="img-responsive" class="img-responsive" alt="Elizabeth England" src="{{ '/images/coordinating-committee/England2020.jpg' | prepend: site.baseurl }}"> 
@@ -95,16 +95,6 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Courtney Mumma</h3>
-        <p>Courtney C. Mumma (1st term, 2020-2022), is a an archivist and a librarian. She is the Deputy Director of the Texas Digital Library consortium, a collective of university libraries working towards open, sustainable, and secure digital heritage and scholarly communications. She has over a decade of experience in open source software development and maintenance, infrastructure support and digital preservation good practice and education.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/Mumma2020.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
-
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
         <h3>Jessica Neal</h3>
         <p>Jessica C. Neal (1st term, 2021-2023; <a href="/conference/">2022 DigiPres</a> Chair) is an archivist, records manager, and memory worker. She is currently the Sterling A. Brown Archivist at Williams College and Records Management Program Assistant at the Massachusetts Institute of Technology. Jes’s work centers archives, preservation, data management, and developing ethical frameworks to better steward digital collections and projects that specifically focus on Black-led and -created social movements, oral histories, and literary history and culture. Jes received her B.A. in African World Studies from Dillard University and her M.L.I.S in Archival Studies from the University of Wisconsin-Milwaukee.</p>
     </div>
@@ -115,18 +105,39 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Daniel Noonan</h3>
-        <p>Dan (1st Term, 2020-2022) is an Associate Professor and the Digital Preservation Librarian for The Ohio State University Libraries (OSUL). Reporting to the Associate Director for Distinctive Collections and Digital Programs, Dan plays a key role in developing a trusted digital preservation ethos and infrastructure at OSUL. This position contributes strategy and expertise, and provides leadership through close collaboration with faculty, staff, and other leaders in OSUL’s Digital Programs, Preservation and Digitization, Distinctive Collections, Content and Access, Archival Description and Access, and Publishing and Repository Services groups. Previously, he was OSUL’s Electronic Records/Digital Resources Archivist and Electronic Records Manager/Archivist. Simultaneously, Dan was an adjunct faculty member for Kent State University, teaching an archives foundations course. Prior to joining OSUL, he was the Supervisor for Electronic Records Management for the State of New Jersey, and the Digital Documents Librarian for the New Jersey Institute of Technology. Dan has an extensive service record including co-chairing NDSA's Levels of Preservation Revision Work Group, teaching for the Society of American Archivists' Digital Archives Specialist program, and serving both as a faculty member (2012-2015 teaching digital strategies) and on the Steering Committee (2012-2018) of the Archives Leadership Institute. Dan served as NDSA Chair in 2021.</p>
+        <h3>Shira Peltzman</h3>
+        <p>Shira Pelztman (1st term, 2023-2025) is the Digital Archivist for UCLA Library Special Collections where she works with stakeholders on an enterprise-wide basis to preserve and make LSC’s born-digital material accessible to the widest possible audience. As a current member of the NDSA Staffing Survey Working Group, she has seen firsthand the importance of undertaking this work collectively and the impact that it has on the field. Shira is interested in serving as a member of the NDSA Coordinating Committee because she would like to help guide and coordinate this work to maximize the quality, relevance, consistency, and overall effectiveness of the publications that come out of all Interest and Working Groups.</p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" class="img-responsive" alt="Dan Noonan" src="{{ '/images/coordinating-committee/Noonan2020.jpg' | prepend: site.baseurl }}">
+        <img class="img-responsive" class="img-responsive" alt="Shira Peltzman" src="{{ '/images/coordinating-committee/peltzman2022.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Deon Schutte</h3>
+        <p>Deon Schutte (1st term, 2023-2025; <a href="/groups/content/">Content Interest Group</a> Co-Chair; 1st term, 2022-2024) worked as a freelance typesetter in the educational publishing industry in South Africa for many years. In 2018 he completed his B.INF (Bachelor of Information Science) through the University of South Africa and his B.INF Honours in 2019. Deon is a MPhil (Master of Philosophy, specialising in Digital Curation) candidate at the University of Cape Town (the first African member of the NDSA). He serves as the Chair of the Association of Southern African Indexers and Bibliographers and is a Fellow of the South African Chefs Association. He works at Africa Media Online in the production team that is busy arranging and digitising the extensive archive of one of the prominent politicians of the anti-Apartheid struggle. He resides in Pietermaritzburg, South Africa. 
+        </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Deon Schutte" src="{{ '/images/coordinating-committee/schutte2022.jpeg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Bethany Scott, 2023 Vice Chair</h3>
+        <p>Bethany Scott (1st term, 2023-2025) is the Head of Preservation & Reformatting at the University of Houston Libraries. In this role she provides strategic leadership for the Libraries’ physical and digital preservation programs, and digitization and reformatting services for the Libraries and its patrons. Bethany also serves as Product Owner of the Libraries' open-source digital access and preservation ecosystem, which incorporates Avalon, Hyrax, Archivematica, and ArchivesSpace. Her areas of expertise include digital preservation, born-digital archives, scanning and imaging, and reuse of archival metadata.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Bethany Scott" src="{{ '/images/coordinating-committee/Scott2023.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Linda Tadic</h3>
-        <p>Linda Tadic (2nd term, 2021-2023) is founder and CEO of Digital Bedrock, a managed digital preservation service provider that serves any type of organization, and even individuals. She has 30 years’ experience in leading preservation, metadata, and digital production operations at organizations such as ARTstor, HBO, the Media Archives and Peabody Awards Collection at the University of Georgia, and the Getty Research Institute. Currently an adjunct professor in UCLA’s Graduate School of Education and Information Studies teaching Digital Asset Management, she was previously an adjunct professor in NYU’s Moving Image Archiving and Preservation program (courses in collection management and cataloging and metadata). She consults and lectures on digital asset management, audiovisual and digital preservation, metadata, and copyright, with clients as diverse as WNET/Thirteen, the Academy of Motion Picture Arts and Sciences, SBS (Australia), Dunhuang Research Academy (China), ESPN, and the Missouri History Museum. She is a founding member and former President of the Association of Moving Image Archivists (AMIA).</p>
+        <p>Linda Tadic (2nd term, 2021-2023) is founder and CEO of Digital Bedrock, a managed digital preservation service provider that serves any type of organization, and even individuals. She has 30 years’ experience in leading preservation, metadata, and digital production operations at organizations such as ARTstor, HBO, the Media Archives and Peabody Awards Collection at the University of Georgia, and the Getty Research Institute. Over the course of 20 years, Linda also taught as an adjunct professor in UCLA’s Graduate School of Education and Information Studies (teaching Digital Asset Management), and at NYU’s Moving Image Archiving and Preservation program (courses in collection management and cataloging and metadata). She consults and lectures on digital asset management, audiovisual and digital preservation, metadata, and copyright, with clients as diverse as WNET/Thirteen, the Academy of Motion Picture Arts and Sciences, SBS (Australia), Dunhuang Research Academy (China), ESPN, and the Missouri History Museum. She is a founding member and former President of the Association of Moving Image Archivists (AMIA).</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Linda Tadic" src="{{ '/images/coordinating-committee/tadic.jpg' | prepend: site.baseurl }}">
@@ -135,18 +146,8 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Nathan Tallman, 2022 Chair</h3>
-        <p>Nathan Tallman (1st Term, 2020-2022) is Digital Preservation Librarian at Penn State University Libraries where he coordinates policies, workflows and best practices to ensure the long-term preservation and accessibility of PSU Libraries’ born-digital and digitized collections. He also advises on equipment, infrastructure, and vendors for Penn State digital content. Nathan serves on the APTrust Governing Board and MetaArchive Cooperative Steering Committee. Prior to his arrival at Penn State, Nathan was the Digital Content Strategist at the University of Cincinnati and Associate Archivist at the American Jewish Archives.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Nathan Tallman" src="{{ '/images/coordinating-committee/Tallman.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
-
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Hannah Wang, 2022 Vice Chair</h3>
-        <p>Hannah Wang (1st Term, 2022-2024) works at Educopia Institute, where she is the Community Facilitator for the MetaArchive Cooperative and the Project Manager for the BitCuratorEdu project. Her work and research focuses on digital archives pedagogy and amplifying and coordinating the work of digital preservation practitioners through communities of practice. She currently serves on the NDSA Staffing Survey Working Group. Hannah was previously the Electronic Records & Digital Preservation Archivist at the Wisconsin Historical Society, and has taught graduate-level archives classes as an Associate Lecturer at the University of Wisconsin-Madison iSchool. She received her MSIS from University of North Carolina-Chapel Hill and lives in Sheboygan, Wisconsin.</p>
+        <h3>Hannah Wang, 2023 Chair</h3>
+        <p>Hannah Wang (1st Term, 2022-2024) works at Educopia Institute, where she is the Program Officer for Digital Infrastructure. Her role encompasses research, consulting, and community cultivation for digital preservation communities and projects, including the MetaArchive Cooperative and the DPSC Planning Project. Her work and research focuses on issues related to sustaining technical communities, digital stewardship, and organizational development. Hannah was previously the Electronic Records & Digital Preservation Archivist at the Wisconsin Historical Society, and has taught graduate-level archives classes as an Associate Lecturer at the University of Wisconsin-Madison iSchool. She received her MSIS from University of North Carolina-Chapel Hill.</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Hannah Wang" src="{{ '/images/coordinating-committee/wang.jpg' | prepend: site.baseurl }}">
@@ -207,7 +208,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Felicity Dykas</h3>
-        <p>Felicity Dykas (<a href="/groups/standards-and-practices/">Standards and Practices Interest Group</a> Co-Chair; 1st term, 2019-2021) is Head of Digital Services at the University of Missouri (MU). In this role she oversees the work of MOspace, the University of Missouri institutional repository, the MU Digital Library, and digitization work. Prior roles include Cataloger and Head of the Catalog Department. Her current work interests include providing online access to information resources (now and into the future) by focusing on the development and use of international, national, and local standards for digital objects and metadata that enhances discoverability. Collaborating with others on digital projects also is a priority. As a mantra, Felicity frequently quotes the IFLA Library Reference Model user tasks: Our goal is to help our users Find, Identify, Select, Obtain, and Explore information resources. Felicity is active in ALA, with current membership on the Association of Library Collections and Technical Services Continuing Education Committee.</p>
+        <p>Felicity Dykas (<a href="/groups/standards-and-practices/">Standards and Practices Interest Group</a> Co-Chair; 1st term, 2019-2021) is an adjunct instructor and Librarian IV Emerita at the University of Missouri. Previously, she served as Head of Digital Services at the University of Missouri Libraries, overseeing the work of MOspace (the University of Missouri institutional repository), the MU Digital Library, and digitization work. She also has experience as a cataloger, catalog department head, library website co-chair, and ILS redesign chair. Her professional interests include open access, equitable access to digital resources, long-term preservation of digital resources, the organization of information, and the development and promotion of useful standards for discovery and preservation of information resources.</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Felicity Dykas" src="{{ '/images/coordinating-committee/Dykas2020.jpg' | prepend: site.baseurl }}">
@@ -249,6 +250,16 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Courtney Mumma</h3>
+        <p>Courtney C. Mumma (Long Term Conference Planning Working Group Co-Chair), is a an archivist and a librarian. She is the Deputy Director of the Texas Digital Library consortium, a collective of university libraries working towards open, sustainable, and secure digital heritage and scholarly communications. She has over a decade of experience in open source software development and maintenance, infrastructure support and digital preservation good practice and education.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/Mumma2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Krista Oldham</h3>
         <p>Krista Oldham (<a href="/groups/innovation-awards/">Excellence Awards Working Group</a> Co-Chair; 2nd term, 2021-2023) is the University Archivist at Texas A&M University, College Station, where her responsibilities include overseeing the acquisition, description, and preservation of University records, as well as supporting and promoting their use. Additionally, Krista provides oversight for the Texas A&M records management program. She earned a M.I.S. from the University of Tennessee, Knoxville and earned both a M.A. in History and a B.A. in History from the University of Arkansas, Fayetteville. Prior to starting her position at Texas A&M, Krista worked at Clemson University as the University Archivist, Haverford College as the College Archivist/Records Manager for Quaker and Special Collections and at the University of Arkansas, Fayetteville Special Collections as the Senior Archivist and the Senior Archives Manager. In addition to her archival work, Krista served as Co-Director of the Arkansas Delta Oral History Project, an initiative led by the endowed Brown Chair in English Literacy. She is a co-author of The Arkansas Delta Oral History Project: Culture, Place, and Authenticity, which was published in 2016 by Syracuse University Press.</p>
     </div>
@@ -267,75 +278,13 @@ redirect_from: /leadership/
     </div>
 </div>
 
-
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Deon Schutte</h3>
-        <p>Deon Schutte (<a href="/groups/content/">Content Interest Group</a> Co-Chair; 1st term, 2022-2024) worked as a freelance typesetter in the educational publishing industry in South Africa for many years. In 2018 he completed his B.INF (Bachelor of Information Science) through the University of South Africa and his B.INF Honours in 2019. Deon is a MPhil (Master of Philosophy, specialising in Digital Curation) candidate at the University of Cape Town (the first African member of the NDSA). He serves as the Chair of the Association of Southern African Indexers and Bibliographers and is a Fellow of the South African Chefs Association. He works at Africa Media Online in the production team that is busy arranging and digitising the extensive archive of one of the prominent politicians of the anti-Apartheid struggle. He resides in Pietermaritzburg, South Africa. 
+        <h3>Lance Stuchell</h3>
+        <p>Lance Stuchell (<a href="/groups/content/">Long Term Confence Planning Working Group</a> Co-Chair) is Head of the Digital Preservation Unit at the University of Michigan Library where he advises the library and campus communities and leads the continued development, implementation, and management of a comprehensive digital preservation program aimed at providing long-term access to the library’s digital collections. Work in this area often includes policy development and assessment, building and implementing workflows for the preservation of digital assets, and consulting with campus partners on how to incorporate digital preservation practice into research and publishing projects.
         </p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Deon Schutte" src="{{ '/images/coordinating-committee/schutte2022.jpeg' | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Lance Stuchell" src="{{ '/images/coordinating-committee/stuchell2022.jpeg' | prepend: site.baseurl }}">
     </div>
 </div>
-
-
-
-
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Lauren Work</h3>
-        <p>Lauren Work (<a href="/groups/staffing/">Staffing Survey Working Group</a> Co-Chair) is the Digital Preservation Librarian at the University of Virginia, where she is responsible for the implementation and maintenance of preservation strategy and systems for university digital resources. She also helps to lead digital stewardship collaboration within communities such as the Academic Preservation Trust, the National Digital Stewardship Alliance, the Software Preservation Network, and the BitCurator Consortium. She earned her Master of Library and Information Science degree from the University of Washington. 
-        </p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Lauren Work" src="{{ '/images/coordinating-committee/Work.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
-
-<!--<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Linda Reynolds</h3>
-        <p>Linda Reynolds (<a href="/groups/standards-and-practices/">Standards and Practices Interest Group</a> Co-Chair; 1st term, 2020-2022) is the Director of the East Texas Research Center at Stephen F. Austin State University (SFA) in Nacogdoches, Texas.  She is responsible for overseeing all aspects of archival work from paper processing to digital preservation.  Since there is no digital archivist at SFA, she has taken on that responsibility.  She is a one woman digital show and has thrown herself into the deep end of the digital pool to bring SFA’s chaotic digital assets into a manageable system. She advises and works with many cultural heritage institutions and community members in the east Texas area on processing, preservation of, and providing access to digital and non-digital material.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Linda Reynolds" src="{{ '/images/coordinating-committee/ReynoldsLinda2020.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Tricia Patterson</h3>
-        <p>Tricia Patterson (<a href="/conference/">2021 DigiPres</a> Chair) is a Digital Preservation Analyst at Harvard Library, where she champions communication with the future by ensuring long-term stewardship and usability of Harvard’s digital historical assets. Centrally positioned, she supports programmatic activities for the digital repository, web and email archiving, digital forensics, and other related enterprises across the Library. Prior to joining Harvard University, she was a National Digital Stewardship Resident (NDSR) at MIT Libraries, where she researched and documented digital preservation workflows. Tricia has served as a coordinator for the SAA Research Forum, an inaugural NDSR Advisory Group member, and she co-developed and instructs an SAA DAS course on email archiving.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" class="img-responsive" alt="Tricia Patterson" src="{{ '/images/coordinating-committee/Patterson_T2020.JPG' | prepend: site.baseurl }}">
-    </div>
-</div>
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Sibyl Schaefer</h3>
-        <p>Sibyl Schaefer (<a href="/groups/fixity/">Fixity Survey Working Group</a> 2021 co-chair) is the Chronopolis Program Manager and Digital Preservation Analyst for Research Data Curation at the University of California, San Diego. In addition to working with national digital preservation efforts like the National Digital Stewardship Alliance (NDSA), she helps define long-term digital preservation solutions for the UCSD campus. She previously served as the Head of Digital Programs for the Rockefeller Archive Center where she worked to fully integrate digital and traditional archival practices, including policy development, forensic and accessioning workflows, and training initiatives to support the long-term stewardship of digitized and born digital materials. She has been recognized as an Emerging Leader by the American Library Association and has participated in the Archival Leadership Institute. Schaefer holds an MLIS with a specialization in Archival Studies from the University of California, Los Angeles.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Sibyl Schaefer" src="{{ '/images/coordinating-committee/Schaefer.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>-->
-<!--<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Deb Verhoff</h3>
-        <p>Deb Verhoff (<a href="/groups/content/">Content Interest Group</a> Co-Chair; 2nd term, 2019-2021) is the digital collections manager for NYU Libraries with responsibility for planning repository services. In her role within the digital library technology services team, she guides digital preservation activities for born digital and digitized content. Prior to joining NYU, Deb worked as an arts librarian and led a digital library project for Robert Wilson's Watermill Center. She holds a Masters in Fine Arts from the School of the Museum of Fine Arts, Boston and a Masters in Library and Information Science from Simmons College. 
-        </p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Deb Verhoff" src="{{ '/images/coordinating-committee/verhoff2020.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Bradley Daigle</h3>
-        <p>Bradley Daigle (<a href="/groups/levels-of-preservation/">Levels of Digital Preservation</a> Co-Chair; 2nd term, 2020-2022) is Executive Director of Academic Preservation Trust (<a href="https://aptrust.org/">APTrust</a>) and has been active in the digital preservation field since 2005.Having been in the library profession for over twenty years, he has published and presented on a wide range of topics including mass digitization, digital curation and stewardship, sustaining digital scholarship, intellectual property issues, mentoring in libraries, and digital preservation. In addition to his professional field, his research interests also include the history of the book, natural history, and early modern British literature. He received his MA in literature from the University of Montreal and an MLS from Catholic University.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Bradley Daigle" src="{{ ' /images/coordinating-committee/daigle.png' | prepend: site.baseurl }}">
-    </div>
-</div>-->

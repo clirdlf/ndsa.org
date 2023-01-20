@@ -34,32 +34,32 @@ To report incidents after our events, in online venues, or on-site but in the ab
 If an incident occurs during an Interest Group meeting please use the method below that is most comfortable for you. 
 - Reach out to the identified co-chair or appointed code of conduct monitor via private Zoom chat during the meeting.
 - Reach out to any of the Interest Group co-chairs after the meeting.
-- Report the Code of Conduct concern/violations to the [NEW EMAIL ADDRESS] 
-- Report the Code of Conduct concern/violations to one or more people on the [Leadership team](https://ndsa.org/about/leadership/)
+- Report the Code of Conduct concern/violations to conduct@ndsa.org. This email is monitored by the Chair and Vice Chair of the Coordinating Committee.
 - Report the Code of Conduct concern/violations using the [anonymous form](https://forms.gle/73TPEDDfUjSd3aXC6).  This form is received by the Chair and Vice Chair of the Coordinating Committee.
+- Report the Code of Conduct concern/violations to one or more people on the [Leadership team](https://ndsa.org/about/leadership/)
 
 
 ### NDSA Working Group
 If an incident occurs during a Working Group meeting please use the method below that is most comfortable for you. 
 - Reach out to the identified co-chair or appointed code of conduct monitor via private Zoom chat during the meeting.
 - Reach out to any of the Working Group co-chairs after the meeting.
-- Report the Code of Conduct concern/violations to the [NEW EMAIL ADDRESS] 
-- Report the Code of Conduct concern/violations to one or more people on the [Leadership team](https://ndsa.org/about/leadership/)
+- Report the Code of Conduct concern/violations to conduct@ndsa.org. This email is monitored by the Chair and Vice Chair of the Coordinating Committee.
 - Report the Code of Conduct concern/violations using the [anonymous form](https://forms.gle/73TPEDDfUjSd3aXC6).  This form is received by the Chair and Vice Chair of the Coordinating Committee.
+- Report the Code of Conduct concern/violations to one or more people on the [Leadership team](https://ndsa.org/about/leadership/)
 
 
 ### Slack
 If an incident occurs on the Slack platform please use the method below that is most comfortable for you. 
-- Report the Code of Conduct concern/violations to the [NEW EMAIL ADDRESS] 
-- Report the Code of Conduct concern/violations to one or more people on the [Leadership team](https://ndsa.org/about/leadership/)
+- Report the Code of Conduct concern/violations to conduct@ndsa.org. This email is monitored by the Chair and Vice Chair of the Coordinating Committee. 
 - Report the Code of Conduct concern/violations using the [anonymous form](https://forms.gle/73TPEDDfUjSd3aXC6).  This form is received by the Chair and Vice Chair of the Coordinating Committee.
+- Report the Code of Conduct concern/violations to one or more people on the [Leadership team](https://ndsa.org/about/leadership/)
 
 
 ### Mailing Lists
 If an incident occurs on an NDSA mailing list please use the method below that is most comfortable for you. 
-- Report the Code of Conduct concern/violations to the [NEW EMAIL ADDRESS] 
-- Report the Code of Conduct concern/violations to one or more people on the [Leadership team](https://ndsa.org/about/leadership/)
+- Report the Code of Conduct concern/violations to conduct@ndsa.org. This email is monitored by the Chair and Vice Chair of the Coordinating Committee.
 - Report the Code of Conduct concern/violations using the [anonymous form](https://forms.gle/73TPEDDfUjSd3aXC6).  This form is received by the Chair and Vice Chair of the Coordinating Committee.
+- Report the Code of Conduct concern/violations to one or more people on the [Leadership team](https://ndsa.org/about/leadership/)
 
 
 *The NDSA Code of Conduct Workflow was inspired by the BitCurator Consortium Code of Conduct Workflow procedures document. NDSA would also like to thank members of the BCC CoC Committee for overall guidance.* 
