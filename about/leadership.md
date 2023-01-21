@@ -229,7 +229,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Carol Kussmann</h3>
-        <p>Carol Kussmann (<a href="/groups/communications-publications/">Communications and Publications Working Group</a> Chair; 1st term, 2020-2022) is the Digital Preservation Analyst at the University of Minnesota Libraries. In this role, she works across many departments within the Libraries, as well as outside the Libraries including through the statewide Minnesota Digital Library Program. She addresses current and future requirements for the long-term preservation of electronic records in the areas of archives and special collections, information and data repositories, and journal publishing. As co-chair of the Libraries Electronic Records Management Group her efforts focus on developing and implementing workflows for ingesting, processing, and providing access to incoming electronic materials that are part of the Archives and Special Collections units. As an inaugural Digital Preservation Outreach and Education (DPOE) trainer, she works with Minitex to provide digital preservation training in the region on a regular basis. After completing the initial implementation work for the Council of State Archivists’ (CoSA) Electronic Records Resource Center she remains a member of CoSA’s Tools and Resources Subcommittee. Other current activities include teaching Digital Archives Specialist courses for the Society of American Archivists.
+        <p>Carol Kussmann (<a href="/groups/communications-publications/">Communications and Publications Working Group</a> Chair; 2nd term, 2022-2025) is the Digital Preservation Analyst at the University of Minnesota Libraries. In this role, she works across many departments within the Libraries, as well as outside the Libraries including through the statewide Minnesota Digital Library Program. She addresses current and future requirements for the long-term preservation of electronic records in the areas of archives and special collections, information and data repositories, and journal publishing. As co-chair of the Libraries Electronic Records Management Group her efforts focus on developing and implementing workflows for ingesting, processing, and providing access to incoming electronic materials that are part of the Archives and Special Collections units. As an inaugural Digital Preservation Outreach and Education (DPOE) trainer, she works with Minitex to provide digital preservation training in the region on a regular basis. After completing the initial implementation work for the Council of State Archivists’ (CoSA) Electronic Records Resource Center she remains a member of CoSA’s Tools and Resources Subcommittee. Other current activities include teaching Digital Archives Specialist courses for the Society of American Archivists.
         </p>
     </div>
     <div class="col-sm-2">
@@ -257,6 +257,22 @@ redirect_from: /leadership/
         <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/Mumma2020.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Dan Noonan</h3>
+        <p>Dan (<a href="/groups/communications-publications/">Communications and Publications Working Group</a> co-chair; 1st term, 2023-2025) is an Associate Professor and the Digital Preservation Librarian for The Ohio State University Libraries University Libraries. Reporting to the Associate Dean for Distinctive Collections and Digital Programs, he plays a key role in developing a trusted digital preservation ethos and infrastructure at University Libraries. This position contributes strategy and expertise, and provides leadership through close collaboration with faculty, staff, and other leaders in the University Libraries. With over 20 years of experience in the archives, records management and library professions, he is a frequent contributor to the local, regional, national and international digital preservation communities. Most recently, Dan served on NDSA’s Coordinating Committee, and previously co-chaired NDSA's Levels of Preservation Revision Work Group. You can learn more about Dan at <a href="http://go.osu.edu/noonan">http://go.osu.edu/noonan</a>.
+
+</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" class="img-responsive" alt="Dan Noonan" src="{{ '/images/coordinating-committee/Noonan2023.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+
+
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
