@@ -55,6 +55,7 @@ You can read about past NDSA projects and activities on NDIIPP's [*The Signal*](
 - [Information about joining the NDSA](/get-involved/)
 - Current list of [NDSA Members](/members-list/)
 - NDSA groups follow the [DLF Code of Conduct](https://www.diglib.org/about/code-of-conduct/)
+- NDSA [Privacy Policy](https://docs.google.com/document/d/1AOjbtsNnIMu2Eq3nfH8X_K609t3c4kZxpApo2E4UZCs/edit?usp=sharing)
 
 ## Questions?
 - See our [FAQs](/faq/)
