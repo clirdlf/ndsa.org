@@ -14,12 +14,12 @@ The Infrastructure Interest Group works to identify and share emerging practices
 
  * NDSA Interest Groups now meet on a [rotating schedule](https://ndsa.org//2022/02/10/scheduling-changes-for-ndsa-interest-groups.html) with one per month to help members who have wanted to participate in multiple groups but didn't have the time for two or more calls a month.
   * All NDSA events can be found on the [NDSA Calendar](https://ndsa.org/about/calendar/)  
-  * The meetings for the Infrastructure Interest Group are held quarterly the third Monday of the month at 3pm EST.  
+  * The meetings for the Infrastructure Interest Group are held quarterly at 3pm EST.  
   * The 2023 dates are listed below:
     * March 20th
-    * June 26th (date change)
-    * September 12th (Tuesday, date change)
-    * December 18th
+    * June 26th 
+    * September 12th (Tuesday)
+    * December 4th
  
   * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below. 
   * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/1A_BnEgnDxRXGXGovZI06eY3OdCctrudf-H-Bxs-H4xE/edit#).
