@@ -10,14 +10,14 @@ redirect_from: /meetings/
 ### Planning for Digital Preservation 2023
 Efforts are underway for planning Digital Preservation 2023 which will be held November 15th-16th in St. Louis, Missouri. 
 
-We are currently looking for volunteers to join the 2023 Planning Committee, which will convene in early 2023. If you would like to volunteer, [please fill out this form,](https://forms.gle/Za91A14ojA8WtKnj9) and we will be in touch soon.
-
 ### About the NDSA and Digital Preservation Conference
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code). 
 
 Digital Preservation 2023 (#digipres23) will be a crucial venue for intellectual exchange, community-building, development of good practices, and national-level agenda-setting in the field, helping to chart future directions for both the NDSA and digital stewardship.
 
-<!--## Registration & Logistics
+<!--## We are currently looking for volunteers to join the 2023 Planning Committee, which will convene in early 2023. If you would like to volunteer, [please fill out this form,](https://forms.gle/Za91A14ojA8WtKnj9) and we will be in touch soon.
+
+Registration & Logistics
 Registration is now open! Please see the [DLF Forum's page on registration,](https://forum2022.diglib.org/registration/) for more information on registration categories, and to claim your spot. 
 
 ### Conference Program
@@ -35,6 +35,30 @@ Dorothy will give her keynote talk, "Keeping Whose History, For Whom: Writing th
 ## 2023 DigiPres Organizing Committee
 
 - **Stacey Erdman**, University of Arizona (2023 Chair)
+- **Déirdre Joyce, Syracuse University (2023 Vice Chair/2024 Chair)
+- **Rebecca Dillmeier, US Holocaust Memorial Museum
+- **Rebecca Thorn, Anheuser-Busch Corporate Archives
+- **Georgia Moppett, The Open Preservation Foundation
+- **Chelsea Denault, Michigan Digital Preservation Network
+- **Carol Kussmann, University of Minnesota
+- **Shiraz Bhathena, University of Wisconsin Milwaukee
+- **Vijayakumar Varadarajan, ADYPU Innovation University
+- **Julie Allen, The Open Preservation Foundation
+- **Matthew McEniry, Texas Tech University
+- **Özhan Saglik, Bursa Uludag University / University of British Columbia
+- **Jessica Branco Colati, discoverygarden, inc.
+- **Danielle Spalenka, The Filson Historical Society
+- **Tammy Troup, Iowa State University
+- **Jaime Schumacher, Northern Illinois University
+- **Nathan Gerth, University of Nevada, Reno Libraries
+- **Rona Razon, World Bank Group Archives 
+- **Thomas Pulhamus, University of Delaware
+- **Preetam Singhvi, Trinity College Dublin
+- **Panagiotis Papageorgiou, International College Portsmouth
+- **Stephen Klein, CUNY Graduate Center
+- **Andrew Weaver, University of Washington
+- **Robin Ruggaber, University of Virginia Library
+- **Eduard Jacob, member of IFLA, KNVI and ISKO-UK
  
 <!--## Sponsor Opportunities
 As a [Digital Preservation and DLF Forum sponsor](https://forum2021.diglib.org/sponsorship-opportunities/) you will be part of the premier digital stewardship conference that fosters leadership, builds community, sets grassroots agendas, and organizes for action. Sponsorship options are limited and will go quickly! The 2022 sponsorhip opportunities are forthcoming.-->
