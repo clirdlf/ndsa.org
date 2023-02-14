@@ -8,7 +8,11 @@ permalink: /conference/digital-preservation-virtual-2022/
 
 
 ### NDSA Virtual Events following the Digital Preservation 2022 Conference
-NDSA will be hosting a virtual event on February 23, 2023, for those presenters who were unable to participate in the in-person conference in Baltimore last fall. The event, held in collaboration with our host organization, CLIR, will consist of panels and presentations and will take place over Zoom events. Information regarding registration is forthcoming for this special online event! All sessions will be free and open to the public. 
+NDSA will be hosting a virtual event on February 23, 2023, for those presenters who were unable to participate in the in-person conference in Baltimore last fall. The event, held in collaboration with our host organization, CLIR, will consist of panels and presentations and will take place over Zoom events. All sessions will be free and open to the public. 
+
+### Registration Link
+Registration is now open!  
+Please join us by registering [here](https://events.zoom.us/ev/AkRIWrI1hxzkNRZhgdWUTpgF3ZWKY91mj_YQBfnxi2g8Rq6Nxzau~AggLXsr32QYFjq8BlYLZ5I06Dg).  
 
 ### Sessions and Schedule 
 **All sessions will occur on Thursday, February 23, 2023**
