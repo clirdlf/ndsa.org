@@ -17,6 +17,26 @@ Please join us by registering [here](https://events.zoom.us/ev/AkRIWrI1hxzkNRZhg
 ### Sessions and Schedule 
 **All sessions will occur on Thursday, February 23, 2023**
 
+11:00am-12:00pm EST: Ownership in the Digital Space: Centering Contributors in Digital Memory Projects, 45-minute panel, 15-minute Q&A 
+- Description: Four archivists will present on the process of developing creator-centered digital projects that honor the stories of individuals in their local communities and empower creators. Presenters will explore topics such as informed consent, agency, and intentionality, and discuss their implications for the acquisition, access, and preservation of digital materials. 
+
+12:30pm-1:30pm EST: Digital Preservation, Projects and Community Panel.  This panel will represent 3 presentations that detail digital preservation initiatives focused on surveying, assessment, and cultural community archives.  
+- 12:30pm-12:35pm: Lightning Talk: Not E-waste Yet: a Born-digital Media Survey in the 2020s 
+  - Description: Over the course of 2022, MIT Libraries Distinctive Collections has implemented a survey to find born-digital media within its archival collections. This lightning talk will share how the survey was prepared for and designed, implemented, the results, next steps, and lessons learned. 
+  
+- 12:35pm-12:50pm: Preserving a community: Situating The Jewish Living Archive in the Global South 
+  - Description: The Jewish Living Archive encompasses both physical and digital elements to preserve and present southern African history through the lens of a rapidly diminishing population. 
+  
+- 12:50pm-1:05pm: The POWRR of Peer Assessment 
+  - Description: The IMLS-funded Digital POWRR Peer Assessment Program is an innovative, all-virtual training and support program for individuals wishing to learn about and perform digital preservation assessments. 
+
+1:05pm-1:30pm EST: Question and Answer
+
+
+
+
+<!--
+
 11:00am-12:00pm EST 
 - Capturing Black American Voices of Resistance and Hope: Stories Shared and Lessons Learned from a 2020 Story-Gathering Initiative; 45-minute panel, 15-minute Q&A
 
@@ -31,7 +51,7 @@ Please join us by registering [here](https://events.zoom.us/ev/AkRIWrI1hxzkNRZhg
     - The POWRR of Peer Assessment (15 mins) 
     - Preserving a community: Situating The Jewish Living Archive in the Global South (15 mins)
     - Q&A
-
+-->
 
 #### Related Events
 CLIR will also host virtual presentations in April; more information about that program can be found on [the DLF Forum Virtual Sessions web page](https://www.diglib.org/dlf-events/dlf-forum-virtual-event-sessions/).
