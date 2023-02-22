@@ -5,10 +5,13 @@ permalink: /conference/
 redirect_from: /meetings/
 ---
 
-<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres2023.png"  | prepend: site.baseurl }}'>
+<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres-2023-820x400.jpg"  | prepend: site.baseurl }}'>
+<!--<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres2023.png"  | prepend: site.baseurl }}'>-->
 
 ### Planning for Digital Preservation 2023
 Efforts are underway for planning Digital Preservation 2023 which will be held November 15th-16th in St. Louis, Missouri. 
+
+Look for the Call for Proposals soon.  
 
 ### About the NDSA and Digital Preservation Conference
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code). 
