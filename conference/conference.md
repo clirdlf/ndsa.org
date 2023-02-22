@@ -13,6 +13,9 @@ Efforts are underway for planning Digital Preservation 2023 which will be held N
 
 Look for the Call for Proposals soon.  
 
+<!--### 2023 Call for Proposals
+The 2023 Digital Preservation Call for Proposals is now open.  You can view the CFP [here](/conference/digital-preservation-2023/cfp/).-->
+
 ### About the NDSA and Digital Preservation Conference
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code). 
 
