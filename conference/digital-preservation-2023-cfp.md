@@ -36,12 +36,13 @@ Similar systems of collective memory maintenance already exist. Conservation, hi
 **Submission length and format**
 Submissions are invited in the following lengths and formats:
 - **60-minute Workshops or Tutorials:** Hands-on training sessions on specific tools, techniques, workflows, or concepts. 
-- **60-minute Working Group Meetings:** NDSA working and interest group chairs are invited to propose group meetings or targeted collaboration sessions. 
+- **45-minute Working Group Meetings:** NDSA working and interest group chairs are invited to propose group meetings or targeted collaboration sessions. 
 - **45-minute Panels:** Panels with 3-4 speakers on a shared topic, and an emphasis on discussion. In line with the rest of the programming, strong preference will be given to panels that are fully inclusive and reflect a wide range of expression and identity.
 - **10-minute Talks/Demos:** Individual or shared presentations or demonstrations on a given topic.
+- **10-minute Digital Preservation Services Showcase Presentations:** Vendors and service providers are invited to submit proposals for 10 minute presentations providing updates on platforms, services, tools, development work, and research. Individuals working for vendors or service providers are welcome to submit proposals in other categories, although those proposals should be focused on research questions and direct collaboration within the community. 
 - **2-minute Lightning Talks:** Share your ideas and/or projects in a lightning talk of six slides, in 2 minutes. 
 - **Posters:** Posters provide the opportunity to share details on case studies, works in progress, and research projects.  We especially encourage submissions from students, new professionals, first-time presenters, and those from allied professions. Posters will be displayed during the conference reception. Guidelines for poster sizes will be provided on acceptance.
-- **Digital Preservation Services Showcase:** Vendors and service providers are invited to submit proposals for 10 minute presentations providing updates on platforms, services, tools, development work, and research. Individuals working for vendors or service providers are welcome to submit proposals in other categories, although those proposals should be focused on research questions and direct collaboration within the community. 
+
 
 
 If you’re interested in presenting on a particular topic and you’re looking for co-presenters, try using our [2023 CLIR Events Unofficial Program Sessions and Connections](https://docs.google.com/spreadsheets/d/1QLTMOxpQ_b_lhOMBoTX2F-40cXfAik-Yy-Z2Q6eHilU/edit?usp=sharing) for connecting with other prospective presenters. Note that the Program Committee and CLIR+DLF Staff do not monitor the document and it is not part of the official submission process.  
@@ -59,8 +60,8 @@ If you’re interested in presenting on a particular topic and you’re looking 
 <p>
 All submissions will be peer-reviewed by [NDSA’s Digital Preservation 2023 Program Committee](https://ndsa.org/conference/). The DigiPres Planning Committee will give strong preference to programming that is fully inclusive and reflects a wide range of expression and identity. When evaluating proposals, the Planning Committee will:
 - Consider the contribution of the submission to the overall conference program
-- Recommend the proposal on a scale of 0-10 whether to reject or accept the proposal, and 
-- Rate their familiarity on a scale of 0-10 (0 being completely new, 10 being very familiar). 
+- Recommend the proposal on a scale of 1-5 whether to reject or accept the proposal, and 
+- Rate their familiarity on a scale of 1-5 (1 being completely new, 5 being very familiar). 
 - They may also recommend the proposal for a shorter format.
 Broader community input will also be solicited through an open community voting process, which will inform the Planning Committee’s final decisions.
 </p>
