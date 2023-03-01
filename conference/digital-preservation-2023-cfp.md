@@ -1,5 +1,5 @@
 ---
-title: Digital Preservation 2023 Communities of Time and Place - Call for Proposals
+title: Digital Preservation 2023 - Call for Proposals
 layout: page
 permalink: /conference/digital-preservation-2023/cfp/
 ---
@@ -7,11 +7,11 @@ permalink: /conference/digital-preservation-2023/cfp/
 <img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres-2023-820x400.jpg"  | prepend: site.baseurl }}'>
 
 ## Conference Theme: Communities of Time and Place
-The NDSA invites proposals for **[Digital Preservation 2023: Communities of Time and Place (#DigiPres23)](https://ndsa.org/conference/).** 
-
 Communities are at the heart of digital stewardship work, and they underpin all of the work that is performed. Cooperation, collaboration, and the thought of work situated within a community context resonates with many practitioners, indeed, complex and varied professional communities are eventually required for scalable digital preservation. Likewise, service for myriad communities provides impetus for the institutional missions and collection policies which inform digital preservation. Communities emerge from specific events that require urgent attention and collaboration, and communities engage in collective sense-making to develop a shared understanding of events. All of these types of communities can be dynamic, transient, and ever-shifting. All are firmly rooted to both time and place. 
 
 Similar systems of collective memory maintenance already exist. Conservation, historic preservation, restoration, and related systems of reconstruction provide a lineage for the activity of digital preservation. One distinction, however, can mean the difference between persistence and neglect – tangibility. Decay, abandonment, loss, and rot are real world experiences. Evidence of these experiences can lead communities to muster action and resources to support the persistence of memory and maintenance of evidence. Digital forensics, metadata, and critical evaluation can expose some of the gaps in collectively shared digital records, but communities require additional structures to provide evidence for facts, forge emotional connections, and stimulate imagination. What do these structures look like? How do we expose through documentation or description the latent and patent neglect of digital projects, websites, or platforms? What evidence will inform communities about the sea changes in industry and culture? How do we carry forward the fact or memory of networks of connectivity - or of communities bound by time and/or place? 
+
+The NDSA invites proposals for **[Digital Preservation 2023: Communities of Time and Place (#DigiPres23)](https://ndsa.org/conference/).** 
 
 *Please note that proposals do not have to adhere to our conference theme to be considered, but we especially encourage proposals that attempt to engage with the following topics:*
 
@@ -80,7 +80,7 @@ Presenters will be notified of their acceptance in June. Presenters will receive
 **Note:** For the members of our community who are unable to join us for this fully in-person event in St. Louis, please stay tuned for future information on alternative ways to engage and participate at a later time.
 
 ## Questions?
-Feel free to reach out to ndsa-digipres@lists.clir.org and someone will get back to you as soon as possible.
+Feel free to reach out to ndsa.digipres@gmail.com and someone will get back to you as soon as possible.
 
 ## About the NDSA and Digital Preservation 2023
 The [NDSA is a consortium of over 275 organizations](https://ndsa.org/about/) committed to the long-term preservation and stewardship of digital information and cultural heritage. Digital Preservation is the major meeting and conference of the NDSA. Open to members and non-members alike, it highlights the theory and practice of digital stewardship and preservation, data curation, the digital object lifecycle, and related issues.
