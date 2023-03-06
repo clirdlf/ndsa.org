@@ -9,7 +9,7 @@ redirect_from: /meetings/
 <!--<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres2023.png"  | prepend: site.baseurl }}'>-->
 
 ### Planning for Digital Preservation 2023
-Efforts are underway for planning Digital Preservation 2023 which will be held November 15th-16th in St. Louis, Missouri. 
+Efforts are underway for planning Digital Preservation 2023 which will be held November 15th-16th in St. Louis, Missouri.  The Conference Venue and accommodations will be at the St. Louis Union Hotel, details are still forthcoming but will be available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).   
 
 
 ### 2023 Call for Proposals
