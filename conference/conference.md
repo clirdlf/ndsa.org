@@ -18,6 +18,15 @@ The 2023 Digital Preservation Call for Proposals is now open.
 - The submission deadline is Monday, May 1, 2023 at 11:59pm Eastern Time.
 - Presenters will be notified of their acceptance in June. Presenters will receive support in the form of tutorials, resources, and individual assistance.
 
+#### Funding Support
+[DPOE-N](https://www.dpoe.network/) is pleased to offer funding support for citizens and residents of the United States of America to attend NDSA Digital Preservation 2023 in St. Louis. Funding can be used to cover registration costs and associated travel expenses.
+ 
+Applications for funding from new and emerging professionals and those whose employment has been impacted by the COVID-19 pandemic will be prioritized.
+Applications will be accepted on a rolling basis.
+ 
+For more information and to submit an application for funding, please visit the [Professional Development Funding](https://www.dpoe.network/professional-development-support/) webpage. If you have any questions, please email Natalie Baur, Program Director, at nbaur@pratt.edu.
+
+
 
 ### About the NDSA and Digital Preservation Conference
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code). 
