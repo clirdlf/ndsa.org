@@ -32,6 +32,7 @@ The NDSA invites proposals for **[Digital Preservation 2023: Communities of Time
 - How can we draw on current and past maintenance practices to prepare for the potential deluge of artificially generated information? What are the technological and social challenges to the preservation of VR and AR? 
 - As imperfect as traditional systems of memory maintenance may be, they forged connections for care and maintenance, they inspired and elevated, and they offered routes to understanding a particular time and place. How can we cultivate the persistence of memory through digital preservation?
 
+
 ## Submission Information
 **Submission length and format**
 Submissions are invited in the following lengths and formats:
@@ -42,7 +43,6 @@ Submissions are invited in the following lengths and formats:
 - **10-minute Digital Preservation Services Showcase Presentations:** Vendors and service providers are invited to submit proposals for 10 minute presentations providing updates on platforms, services, tools, development work, and research. Individuals working for vendors or service providers are welcome to submit proposals in other categories, although those proposals should be focused on research questions and direct collaboration within the community. 
 - **2-minute Lightning Talks:** Share your ideas and/or projects in a lightning talk of six slides, in 2 minutes. 
 - **Posters:** Posters provide the opportunity to share details on case studies, works in progress, and research projects.  We especially encourage submissions from students, new professionals, first-time presenters, and those from allied professions. Posters will be displayed during the conference reception. Guidelines for poster sizes will be provided on acceptance.
-
 
 
 If you’re interested in presenting on a particular topic and you’re looking for co-presenters, try using our [2023 CLIR Events Unofficial Program Sessions and Connections](https://docs.google.com/spreadsheets/d/1QLTMOxpQ_b_lhOMBoTX2F-40cXfAik-Yy-Z2Q6eHilU/edit?usp=sharing) for connecting with other prospective presenters. Note that the Program Committee and CLIR+DLF Staff do not monitor the document and it is not part of the official submission process.  
@@ -78,6 +78,15 @@ Presenters will be notified of their acceptance in June. Presenters will receive
 
 
 **Note:** For the members of our community who are unable to join us for this fully in-person event in St. Louis, please stay tuned for future information on alternative ways to engage and participate at a later time.
+
+## Funding Support
+[DPOE-N](https://www.dpoe.network/) is pleased to offer funding support for citizens and residents of the United States of America to attend NDSA Digital Preservation 2023 in St. Louis. Funding can be used to cover registration costs and associated travel expenses.
+ 
+Applications for funding from new and emerging professionals and those whose employment has been impacted by the COVID-19 pandemic will be prioritized.
+Applications will be accepted on a rolling basis.
+ 
+For more information and to submit an application for funding, please visit the [Professional Development Funding](https://www.dpoe.network/professional-development-support/) webpage. If you have any questions, please email Natalie Baur, Program Director, at nbaur@pratt.edu.
+
 
 ## Questions?
 Feel free to reach out to ndsa.digipres@gmail.com and someone will get back to you as soon as possible.
