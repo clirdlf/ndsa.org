@@ -22,5 +22,9 @@ Contact the co-chairs with any questions: Rachel Appel, rappel [at] upenn [dot] 
 ## Group Members 
 - Rachel Appel (co-chair), Digital Preservation Librarian, University of Pennsylvania  
 - Stacey Erdman (co-chair), Digital Preservation Librarian, University of Arizona
+- Jes Neal, Records Management Project Manager, Massachusetts Institute of Technology
+- Ian Collins, Clinical Assistant Professor and Digital Services Librarian, University of Illinois-Chicago
+- Max Prud'homme, Director, Digital Curation, Oklahoma State University
+- Hannah Wang, Program Officer for Digital Infrastructure, Educopia Institute
 
 
