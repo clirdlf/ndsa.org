@@ -66,7 +66,7 @@ Dorothy will give her keynote talk, "Keeping Whose History, For Whom: Writing th
 - **Özhan Saglik**, Bursa Uludag University / University of British Columbia
 - **Jessica Branco Colati**, discoverygarden, inc.
 - **Danielle Spalenka**, The Filson Historical Society
-- **Tammy Troup**, Iowa State University
+- **Tammy Troup**, Independent Researcher
 - **Jaime Schumacher**, Northern Illinois University
 - **Nathan Gerth**, University of Nevada, Reno Libraries
 - **Rona Razon**, World Bank Group Archives 
