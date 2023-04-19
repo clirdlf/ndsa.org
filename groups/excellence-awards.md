@@ -24,12 +24,12 @@ These awards focus on recognizing excellence in the following areas:
 - **Educator Award:**  Recognizing academics, trainers, and curricular endeavors promoting effective and inventive approaches to digital preservation education through academic programs, partnerships, professional development opportunities, and curriculum development.
 
 ## Working Group Members
-- Kari May, co-chair  
-- Matt McEniry, co-chair
-- Julie Allen, member
-- Chris Banuelos, member
-- Dorothea Salo, member
-- Jessica Venlet, member
+- Kari May, co-chair (University of Pittsburgh)
+- Matt McEniry, co-chair (Texas Tech University)
+- Julie Allen (Open Preservation Foundation)
+- Chris Banuelos (Rice University)
+- Dorothea Salo (University of Wisconsin-Madison)
+- Jessica Venlet (University of North Carolina at Chapel Hill Libraries)
 
 
 <!-- ## ## 2021 NDSA Excellence Awards Call for Nominations
