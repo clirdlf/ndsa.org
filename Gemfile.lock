@@ -95,10 +95,10 @@ GEM
     memoist (0.16.2)
     mercenary (0.4.0)
     mini_mime (1.0.2)
-    mini_portile2 (2.8.0)
+    mini_portile2 (2.8.1)
     multi_json (1.15.0)
     multipart-post (2.1.1)
-    nokogiri (1.13.10)
+    nokogiri (1.14.3)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     nokogumbo (2.0.2)
@@ -111,7 +111,7 @@ GEM
     ra11y (0.0.1)
       colorator
       parallel
-    racc (1.6.1)
+    racc (1.6.2)
     rainbow (3.0.0)
     rake (13.0.6)
     rb-fsevent (0.10.4)
