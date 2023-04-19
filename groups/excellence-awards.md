@@ -24,13 +24,13 @@ These awards focus on recognizing excellence in the following areas:
 - **Educator Award:**  Recognizing academics, trainers, and curricular endeavors promoting effective and inventive approaches to digital preservation education through academic programs, partnerships, professional development opportunities, and curriculum development.
 
 ## Working Group Members
-- Stephen Abrams, co-chair (Harvard University) 
-- Krista Oldham, co-chair (Texas A&M University Libraries)
-- Samantha Abrams (Center for Research Libraries)
-- Lauren Goodley (Texas State University)
-- Grete Graf (Yale University)
-- Kari May (University of Pittsburgh)
-- Sharon McMeekin (Digital Preservation Coalition)
+- Kari May, co-chair  
+- Matt McEniry, co-chair
+- Julie Allen, member
+- Chris Banuelos, member
+- Dorothea Salo, member
+- Jessica Venlet, member
+
 
 <!-- ## ## 2021 NDSA Excellence Awards Call for Nominations
 Nominations for the 2021 NDSA Excellence Awards are now [open](https://forms.gle/ZXqLaGuqeUyHhTwp9) and will remain open through Friday, July 30, 2021.-->
