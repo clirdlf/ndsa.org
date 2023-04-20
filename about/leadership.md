@@ -251,6 +251,18 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Matthew McEniry</h3>
+        <p>Matthew McEniry (<a href="/groups/excellance-awards/">Excellence Awards Working Group</a> Co-Chair; 1st term, 2023-2025) is an Associate Librarian and the Director of the Digital Scholarship Lab at the Texas Tech University Libraries. The lab oversees multiple digitization projects including collections from the Southwest Collection/Special Collections Library, the Museum of Texas Tech, and other TTU research centers. He has a decade of experience involving digital stewardship including digitization, preservation, metadata description, and data management. In addition to his contributions to librarianship, he publishes on popular culture, graphic novels, and has presented at the Comic Arts Conference, on a supervillain chapter, at the 2019 San Diego Comic Con.
+        </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Matthew McEniry" src="{{ '/images/coordinating-committee/McEniry2023.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Kari May</h3>
         <p>Kari May (<a href="/groups/excellance-awards/">Excellence Awards Working Group</a> Co-Chair; 1st term, 2023-2025) is the first Digital Archives & Preservation Librarian for the University of Pittsburgh Library System (ULS). She designed and implemented the ULS digital preservation program and continues to guide and develop strategies, workflows, documentation, and policies to safely guide digital assets from receipt to full, secure preservation. Previously, Kari led the development and operation of Kentucky State Government Electronic Records Management Branch and launched the Kentucky State Digital Archives. She has served as a member of the NDSA Excellence Awards Working Group and represented the group as a judge for the Digital Preservation Coalition’s 2022 Digital Preservation Awards.
         </p>
