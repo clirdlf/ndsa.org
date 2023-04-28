@@ -54,8 +54,7 @@ Dorothy will give her keynote talk, "Keeping Whose History, For Whom: Writing th
 
 - **Stacey Erdman**, University of Arizona (2023 Chair)
 - **Déirdre Joyce**, Syracuse University (2023 Vice Chair/2024 Chair)
-- **Rebecca Dillmeier**, US Holocaust Memorial Museum
-- **Rebecca Thorn**, Anheuser-Busch Corporate Archives
+- **Rebecca Dillmeier**, U.S. Holocaust Memorial Museum
 - **Georgia Moppett**, The Open Preservation Foundation
 - **Chelsea Denault**, Michigan Digital Preservation Network
 - **Carol Kussmann**, University of Minnesota
