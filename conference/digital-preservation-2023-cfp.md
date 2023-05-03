@@ -66,11 +66,7 @@ All submissions will be peer-reviewed by [NDSA’s Digital Preservation 2023 Pro
 Broader community input will also be solicited through an open community voting process, which will inform the Planning Committee’s final decisions.
 </p>
 
-### Submit your proposal 
-<p></p>
-Conftool is being used for submissions for all CLIR events. [Create an account and submit your proposal](https://www.conftool.pro/clir2023/) for DigiPres. 
-
-**The submission deadline is Monday, May 1, 2023 at 11:59pm Eastern Time.** 
+**The Call for Proposals closed on May 1, 2023.** 
 
 Presenters will be notified of their acceptance in June. Presenters will receive support in the form of tutorials, resources, and individual assistance.
 
