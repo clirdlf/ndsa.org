@@ -76,7 +76,7 @@ Dorothy will give her keynote talk, "Keeping Whose History, For Whom: Writing th
 - **Robin Ruggaber**, University of Virginia Library
  
 ## Sponsor Opportunities
-As a [Digital Preservation and DLF Forum sponsor](https://forum2023.diglib.org/sponsorship/) you will be part of the premier digital stewardship conference that fosters leadership, builds community, sets grassroots agendas, and organizes for action. Sponsorship options are limited and will go quickly! The 2023 sponsorhip opportunities are forthcoming.-->
+As a [Digital Preservation and DLF Forum sponsor](https://forum2023.diglib.org/sponsorship/) you will be part of the premier digital stewardship conference that fosters leadership, builds community, sets grassroots agendas, and organizes for action. Sponsorship options are limited and will go quickly! The 2023 sponsorhip opportunities are forthcoming.
 
 ### 2023 Call for Proposals
 The 2023 Digital Preservation Call for Proposals closed on May 1, 2023. You can view the CFP [here](/conference/digital-preservation-2023/cfp/).
