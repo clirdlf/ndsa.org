@@ -1,5 +1,5 @@
 ---
-title: Digital Preservation 2023: Communities of Time and Place 
+title: Digital Preservation 2023 - Communities of Time and Place
 layout: page
 permalink: /conference/
 redirect_from: /meetings/
