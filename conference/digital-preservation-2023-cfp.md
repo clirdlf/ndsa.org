@@ -58,7 +58,8 @@ If you’re interested in presenting on a particular topic and you’re looking 
 
 **Evaluation Criteria**
 <p>
-All submissions will be peer-reviewed by NDSA’s Digital Preservation 2023 Program Committee. The DigiPres Program Committee will give strong preference to programming that is fully inclusive and reflects a wide range of expression and identity. When evaluating proposals, the Planning Committee will:
+All submissions will be peer-reviewed by NDSA’s Digital Preservation 2023 Program Committee. The DigiPres Program Committee will give strong preference to programming that is fully inclusive and reflects a wide range of expression and identity. When evaluating proposals, the Program Committee will:</p>
+ <p>
 - Consider the contribution of the submission to the overall conference program
 - Recommend the proposal on a scale of 1-5 whether to reject or accept the proposal, and 
 - Rate their familiarity on a scale of 1-5 (1 being completely new, 5 being very familiar). 
