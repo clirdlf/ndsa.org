@@ -28,6 +28,7 @@ More information on award categories and previous awardees can be found below.
 - Matt McEniry, co-chair (Texas Tech University)
 - Julie Allen (Open Preservation Foundation)
 - Chris Banuelos (Rice University)
+- Sarah Middleton (Digital Preservation Coalition Representative)
 - Dorothea Salo (University of Wisconsin-Madison)
 - Jessica Venlet (University of North Carolina at Chapel Hill Libraries)
 
