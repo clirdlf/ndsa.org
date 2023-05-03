@@ -81,7 +81,6 @@ Applications will be accepted on a rolling basis.
  
 For more information and to submit an application for funding, please visit the [Professional Development Funding](https://www.dpoe.network/professional-development-support/) webpage. If you have any questions, please email Natalie Baur, Program Director, at nbaur@pratt.edu.
 
-
 ## Questions?
 Feel free to reach out to ndsa.digipres@gmail.com and someone will get back to you as soon as possible.
 
