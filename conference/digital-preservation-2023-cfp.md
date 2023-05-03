@@ -56,16 +56,13 @@ If you’re interested in presenting on a particular topic and you’re looking 
 - Five keywords for your proposal
 - All submissions are under a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/), which allows for sharing and adaptation of content but which requires appropriate credit and an indication of any changes made by others. Presenters must agree to share their work under this license in the submission form.
 
-**Evaluation Criteria**
-<p>
-All submissions will be peer-reviewed by NDSA’s Digital Preservation 2023 Program Committee. The DigiPres Program Committee will give strong preference to programming that is fully inclusive and reflects a wide range of expression and identity. When evaluating proposals, the Program Committee will:</p>
- <p>
+**Evaluation Criteria:**
+All submissions will be peer-reviewed by NDSA’s Digital Preservation 2023 Program Committee. The DigiPres Program Committee will give strong preference to programming that is fully inclusive and reflects a wide range of expression and identity. When evaluating proposals, the Program Committee will:
 - Consider the contribution of the submission to the overall conference program
 - Recommend the proposal on a scale of 1-5 whether to reject or accept the proposal, and 
 - Rate their familiarity on a scale of 1-5 (1 being completely new, 5 being very familiar). 
 - They may also recommend the proposal for a shorter format.
 Broader community input will also be solicited through an open community voting process, which will inform the Planning Committee’s final decisions.
-</p>
 
 **The Call for Proposals closed on May 1, 2023.** 
 
