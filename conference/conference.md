@@ -8,15 +8,10 @@ redirect_from: /meetings/
 <img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres-2023-820x400.jpg"  | prepend: site.baseurl }}'>
 <!--<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres2023.png"  | prepend: site.baseurl }}'>-->
 
-### Planning for Digital Preservation 2023
-Efforts are underway for planning Digital Preservation 2023 which will be held November 15th-16th in St. Louis, Missouri.  The Conference Venue and accommodations will be at the St. Louis Union Hotel, details are still forthcoming but will be available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).   
+### About the NDSA and Digital Preservation 2023
+The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code). 
 
-
-### 2023 Call for Proposals
-The 2023 Digital Preservation Call for Proposals is now open.  
-- You can view details on how to submit a proposal for DigiPres on the Call for Proposals [website](/conference/digital-preservation-2023/cfp/). 
-- The submission deadline is Monday, May 1, 2023 at 11:59pm Eastern Time.
-- Presenters will be notified of their acceptance in June. Presenters will receive support in the form of tutorials, resources, and individual assistance.
+Efforts are underway for planning Digital Preservation 2023 which will be held November 15th-16th in St. Louis, Missouri.  The Conference Venue and accommodations will be at the St. Louis Union Hotel. Details are still forthcoming, but will be available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).   
 
 #### Funding Support
 [DPOE-N](https://www.dpoe.network/) is pleased to offer funding support for citizens and residents of the United States of America to attend NDSA Digital Preservation 2023 in St. Louis. Funding can be used to cover registration costs and associated travel expenses.
@@ -26,7 +21,11 @@ Applications will be accepted on a rolling basis.
  
 For more information and to submit an application for funding, please visit the [Professional Development Funding](https://www.dpoe.network/professional-development-support/) webpage. If you have any questions, please email Natalie Baur, Program Director, at nbaur@pratt.edu.
 
-
+<!--### 2023 Call for Proposals
+The 2023 Digital Preservation Call for Proposals is now open.  
+- You can view details on how to submit a proposal for DigiPres on the Call for Proposals [website](/conference/digital-preservation-2023/cfp/). 
+- The submission deadline is Monday, May 1, 2023 at 11:59pm Eastern Time.
+- Presenters will be notified of their acceptance in June. Presenters will receive support in the form of tutorials, resources, and individual assistance.
 
 ### About the NDSA and Digital Preservation Conference
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code). 
@@ -75,13 +74,12 @@ Dorothy will give her keynote talk, "Keeping Whose History, For Whom: Writing th
 - **Stephen Klein**, CUNY Graduate Center
 - **Andrew Weaver**, University of Washington
 - **Robin Ruggaber**, University of Virginia Library
-- **Eduard Jacob**, member of IFLA, KNVI and ISKO-UK
  
-<!--## Sponsor Opportunities
-As a [Digital Preservation and DLF Forum sponsor](https://forum2021.diglib.org/sponsorship-opportunities/) you will be part of the premier digital stewardship conference that fosters leadership, builds community, sets grassroots agendas, and organizes for action. Sponsorship options are limited and will go quickly! The 2022 sponsorhip opportunities are forthcoming.-->
+## Sponsor Opportunities
+As a [Digital Preservation and DLF Forum sponsor](https://forum2023.diglib.org/sponsorship/) you will be part of the premier digital stewardship conference that fosters leadership, builds community, sets grassroots agendas, and organizes for action. Sponsorship options are limited and will go quickly! The 2023 sponsorhip opportunities are forthcoming.-->
 
-<!--### 2022 Call for Proposals
-The 2022 Digital Preservation Call for Proposals closed on May 9, 2022. You can view the CFP [here](/conference/digital-preservation-2022/cfp/).-->
+### 2023 Call for Proposals
+The 2023 Digital Preservation Call for Proposals closed on May 1, 2023. You can view the CFP [here](/conference/digital-preservation-2023/cfp/).
  
 ## Calendar and Past Meetings
 **Future Events:** For the latest on upcoming events, see our [NDSA calendar](/calendar). More events relevant to the NDSA's mission are to be found on the [DLF Community Calendar](https://www.diglib.org/opportunities/calendar/).
