@@ -15,13 +15,21 @@ The annual NDSA Innovation Awards were established in 2012 to recognize and enco
 As a diverse international membership organization with a shared commitment to digital preservation, the NDSA understands the importance of innovation and risk-taking in developing and supporting a broad range of successful digital preservation activities. Acknowledging that excellent digital stewardship can take many forms, eligibility for these awards has been left purposely broad. Anyone, any institution, or any project acting in the context of the above categories can be nominated for an award. Nominees do not have to be or be affiliated with NDSA members or member institutions, but must evidence significant engagement with the theory and practice of long-term digital preservation stewardship at a level of national or international importance. Nominators similarly do not need to be affiliated with NDSA member institutions. Self-nomination is accepted and encouraged, as are submissions reflecting the needs and accomplishments of historically marginalized and underrepresented communities. 
 
 More information on award categories and previous awardees can be found below.
+- **Individuals:**  Recognizing those individuals making a significant contribution to the digital preservation community through advances in theory or practice.
+- **Educators:**  Recognizing academics, trainers, and curricular endeavors promoting effective and inventive approaches to digital preservation education through academic programs, partnerships, professional development opportunities, and curriculum development
+- **Future Stewards:**  Recognizing students and early-career professionals making an impact on advancing knowledge and practice of digital preservation stewardship.
+- **Organizations:**  Recognizing those organizations providing significant support, guidance, advocacy, or leadership for the digital preservation community.
+- **Projects:**  Recognizing those activities whose goals or outcomes make a significant contribution to strategic or conceptual understanding necessary for successful digital preservation stewardship.
+- **Sustainability Activities:**  Recognizing those activities whose goals or outcomes make a significant contribution to operational trustworthiness, monitoring, maintenance, or intervention necessary for sustainable digital preservation stewardship.
 
+
+<!--
 - **Individual Award:**  Recognizing those individuals making a significant contribution to the digital preservation community through advances in theory or practice.
 - **Project Award:**  Recognizing those activities whose goals or outcomes make a significant contribution to strategic or conceptual understanding necessary for successful digital preservation stewardship.
 - **Sustainability Award:**  Recognizing those activities whose goals or outcomes make a significant contribution to operational trustworthiness, monitoring, maintenance, or intervention necessary for sustainable digital preservation stewardship.
 - **Organization Award:**  Recognizing those organizations providing significant support, guidance, advocacy, or leadership for the digital preservation community.
 - **Future Steward Award:**  Recognizing students and early-career professionals making an impact on advancing knowledge and practice of digital preservation stewardship.
-- **Educator Award:**  Recognizing academics, trainers, and curricular endeavors promoting effective and inventive approaches to digital preservation education through academic programs, partnerships, professional development opportunities, and curriculum development.
+- **Educator Award:**  Recognizing academics, trainers, and curricular endeavors promoting effective and inventive approaches to digital preservation education through academic programs, partnerships, professional development opportunities, and curriculum development.-->
 
 ## Working Group Members
 - Kari May, co-chair (University of Pittsburgh)
