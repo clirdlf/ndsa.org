@@ -48,7 +48,7 @@ Nominations for the 2021 NDSA Excellence Awards are now [open](https://forms.gle
 
 ## Past Award Recipients
 <!-- Innovation winners from [2012-2019](https://ndsa.org/groups/previous-innovation-awards/) are provided on a separate page. -->
-* [2021 Excellence Award Winners](https://ndsa.org/groups/excellence-awards/2021Winners/)
+* [2021 Excellence Award Winners](excellence-awards-2021.md)
 * [2020 Innovation Award Winners](https://ndsa.org/2020/11/12/ndsa-announces-winners-of-2020-innovation-awards.html)
 * [2019 Innovation Award Winners](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html)
 * [2018 Innovation Award Winners](https://ndsa.org/2018/10/17/announcing-the-2018-ndsa-award-winners.html)
