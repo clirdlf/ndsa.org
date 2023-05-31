@@ -23,13 +23,12 @@ More information on award categories and previous awardees can be found below.
 - **Sustainability Activities:**  Recognizing those activities whose goals or outcomes make a significant contribution to operational trustworthiness, monitoring, maintenance, or intervention necessary for sustainable digital preservation stewardship.
 
 
-<!--
-- **Individual Award:**  Recognizing those individuals making a significant contribution to the digital preservation community through advances in theory or practice.
-- **Project Award:**  Recognizing those activities whose goals or outcomes make a significant contribution to strategic or conceptual understanding necessary for successful digital preservation stewardship.
-- **Sustainability Award:**  Recognizing those activities whose goals or outcomes make a significant contribution to operational trustworthiness, monitoring, maintenance, or intervention necessary for sustainable digital preservation stewardship.
-- **Organization Award:**  Recognizing those organizations providing significant support, guidance, advocacy, or leadership for the digital preservation community.
-- **Future Steward Award:**  Recognizing students and early-career professionals making an impact on advancing knowledge and practice of digital preservation stewardship.
-- **Educator Award:**  Recognizing academics, trainers, and curricular endeavors promoting effective and inventive approaches to digital preservation education through academic programs, partnerships, professional development opportunities, and curriculum development.-->
+## 2023 NDSA Excellence Awards Call for Nominations
+This is your chance! Help us highlight and reward clever, inventive, and risk-taking approaches to the challenges and potential of digital preservation. Awards will be presented on November 15th as part of the Opening Plenary at the 2023 NDSA [Digital Preservation conference](https://ndsa.org/conference/) in St. Louis, Missouri, USA. Attendance at the conference is encouraged but not required for awardees or nominators. 
+
+Nominations for the 2023 NDSA Excellence Awards are now [open](https://forms.gle/rHAgq9Lu8peEEfqE9) and will remain open through Friday, August 4, 2023. 
+### [Submit your nomination here.](https://forms.gle/rHAgq9Lu8peEEfqE9) 
+
 
 ## Working Group Members
 - Kari May, co-chair (University of Pittsburgh)
@@ -40,9 +39,6 @@ More information on award categories and previous awardees can be found below.
 - Dorothea Salo (University of Wisconsin-Madison)
 - Jessica Venlet (University of North Carolina at Chapel Hill Libraries)
 
-
-<!-- ## ## 2021 NDSA Excellence Awards Call for Nominations
-Nominations for the 2021 NDSA Excellence Awards are now [open](https://forms.gle/ZXqLaGuqeUyHhTwp9) and will remain open through Friday, July 30, 2021.-->
 
 
 
@@ -60,6 +56,14 @@ Nominations for the 2021 NDSA Excellence Awards are now [open](https://forms.gle
 * [2012 Innovation Award Winners](http://blogs.loc.gov/digitalpreservation/2012/06/announcing-five-ndsa-innovation-award-winners/)
 
 
+
+<!--
+- **Individual Award:**  Recognizing those individuals making a significant contribution to the digital preservation community through advances in theory or practice.
+- **Project Award:**  Recognizing those activities whose goals or outcomes make a significant contribution to strategic or conceptual understanding necessary for successful digital preservation stewardship.
+- **Sustainability Award:**  Recognizing those activities whose goals or outcomes make a significant contribution to operational trustworthiness, monitoring, maintenance, or intervention necessary for sustainable digital preservation stewardship.
+- **Organization Award:**  Recognizing those organizations providing significant support, guidance, advocacy, or leadership for the digital preservation community.
+- **Future Steward Award:**  Recognizing students and early-career professionals making an impact on advancing knowledge and practice of digital preservation stewardship.
+- **Educator Award:**  Recognizing academics, trainers, and curricular endeavors promoting effective and inventive approaches to digital preservation education through academic programs, partnerships, professional development opportunities, and curriculum development.-->
 
 
 <!--
