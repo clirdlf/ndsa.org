@@ -9,7 +9,7 @@ NDSA Interest Groups and Working Groups should be run by a chair or two co-chair
 
 Interest Group Co-chairs lead monthly calls around topics of interest to NDSA members and the digital curation community, contribute to the strategic planning for NDSA, participate in Leadership calls, update the group webpage, maintain group documentation, and may lead or collaborate on Working Group projects. Co-chairs are also expected to help create an annual roadmap of what the group hopes to accomplish during a given calendar year. It’s a great way to collaborate and contribute to the digital preservation and stewardship community.
 
-Working Group Co-chairs are like project managers. Working groups are created to achieve specific objectives or deliverables and are usually time-bound. Working Groups can be one-time (e.g. Web Content Strategy Working Group) or ongoing with periods of inactivity (Storage Survey Working Group). Working Group co-chairs lead, facilitate, organize, and manage the work of the group; participate in Leadership calls; maintain a Working Group webpage and documentation; and manage a group workspace.
+Working Group Co-chairs are like project managers. Working groups are created to achieve specific objectives or deliverables and are usually time-bound. Working Groups can be one-time (e.g. Web Content Strategy Working Group) or ongoing with periods of inactivity (Storage Survey Working Group). Working Group co-chairs lead, facilitate, organize, and manage the work of the group; participate in Leadership calls; maintain a Working Group webpage and documentation; and manage a group workspace.  Additional [guidance](https://docs.google.com/document/d/1bNzgNI5DtG5TQmV9MvLOXL7yBF6cmXz7seiLCgm3WW4/edit?usp=sharing) was created for co-chairs of Survey working groups to assist them with the many aspects of running this type of working group.
 
 ## How do I put myself forward?
 
@@ -40,5 +40,7 @@ Working Group co-chairs usually serve throughout the duration of the Working Gro
   - For the last several years, Leadership has held a meeting sometime during the Digital Preservation conference to allow for in-person strategic planning and review. Attendance is highly encouraged, but not mandatory.
 
 ### Working Groups
-Time commitments for Working Groups varies by the objectives or deliverables of the group. In general, Working Group co-chairs commit as much as or more time than Interest Group co-chairs and this may vary through the lifecycle. Working group co-chairs attend the quarterly NDSA group co-chairs  meeting.
+Time commitments for Working Groups varies by the objectives or deliverables of the group. In general, Working Group co-chairs commit as much as or more time than Interest Group co-chairs and this may vary through the lifecycle. Working group co-chairs attend the quarterly NDSA group co-chairs  meeting.  
+
+Additional [guidance](https://docs.google.com/document/d/1bNzgNI5DtG5TQmV9MvLOXL7yBF6cmXz7seiLCgm3WW4/edit?usp=sharing) was created for co-chairs of Survey working groups to assist them with the many aspects of running this type of working group. 
 

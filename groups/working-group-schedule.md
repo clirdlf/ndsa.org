@@ -9,6 +9,8 @@ redirect_from:
 
 The NDSA, chiefly through its [Working Groups](/groups/), conducts surveys and produces reports about different aspects of digital preservation practice. It also produces a [NDSA Agenda](/groups/NDSA-agenda/) for digital preservation and stewards the [Levels of Digital Preservation](/groups/levels-of-preservation/). The majority of these are made available on the <a href="https://osf.io/4d567/" target="_blank">NDSA OSF Repository <i class="fas fa-external-link-alt"></i></a>. 
 
+Additional [guidance](https://docs.google.com/document/d/1bNzgNI5DtG5TQmV9MvLOXL7yBF6cmXz7seiLCgm3WW4/edit?usp=sharing) was created for co-chairs of Survey working groups to assist them with the many aspects of running this type of working group.
+
 The following table summarizes the current plans for scheduling these working groups to begin their work. It is presented here to help NDSA members to easier plan for their participation. Each working group will conclude with a publication.
 
 <style>
@@ -27,8 +29,8 @@ th, td {
 | Year 	| Fixity Survey	| Levels of Preservation 	| Agenda	| Staffing Survey 	| Storage Survey 	| Web Archiving Survey	|
 |:----:	|:------:	|:----------------------:	|:------:	|:---------------:	|:--------------:	|:-------------:	|
 | 2021 	|    [Completed](https://osf.io/2qkea/)   	|                        	|        	|        [Completed](https://osf.io/emwy4/)        	|                	|           	|
-| 2022 	|        	|                        	|    Schedule under review   	|                 	|                	|  [In progress](https://ndsa.org/groups/web-archiving/)             	|
-| 2023 	|        	|                        	|        	|                 	|        X       	|               	|
+| 2022 	|        	|                        	|    Schedule under review   	|                 	|                	|  [Started](https://ndsa.org/groups/web-archiving/)             	|
+| 2023 	|        	|                        	|        	|                 	|        X       	|    [In progress](https://ndsa.org/groups/web-archiving/)           	|
 | 2024 	|        	|            X           	|       	|        X        	|                	|              	|
 | 2025 	|    X   	|                        	|        	|                 	|                	|       X       	|
 | 2026 	|        	|                        	|       	|                 	|        X       	|               	|
