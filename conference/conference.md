@@ -8,10 +8,22 @@ redirect_from: /meetings/
 <img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres-2023-820x400.jpg"  | prepend: site.baseurl }}'>
 <!--<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres2023.png"  | prepend: site.baseurl }}'>-->
 
+
 ### About the NDSA and Digital Preservation 2023
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code). 
 
 Efforts are underway for planning Digital Preservation 2023 which will be held November 15th-16th in St. Louis, Missouri.  The Conference Venue and accommodations will be at the St. Louis Union Hotel. Details are available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).   
+
+### Registration & Logistics
+**Registration is now open!** 
+
+Please see the [DLF Forum's page on registration,](https://forum2023.diglib.org/registration/) for more information on registration categories, and to claim your spot. 
+
+The conference will be held at the St. Louis Union Station Hotel on Wednesday, November 15th and Thursday, November 16th. It is held in concert with the Council on Library and Information Resources (CLIR) events: [Learn@DLF](https://forum2023.diglib.org/affiliated-events/learndlf/) (November 12) and the [DLF Forum](https://forum2023.diglib.org/) (November 13-15). Make your reservations today!  
+
+Program information will be available soon.
+
+
 
 #### Funding Support
 [DPOE-N](https://www.dpoe.network/) is pleased to offer funding support for citizens and residents of the United States of America to attend NDSA Digital Preservation 2023 in St. Louis. Funding can be used to cover registration costs and associated travel expenses.
@@ -34,8 +46,7 @@ Digital Preservation 2023 (#digipres23) will be a crucial venue for intellectual
 
 <!--## We are currently looking for volunteers to join the 2023 Planning Committee, which will convene in early 2023. If you would like to volunteer, [please fill out this form,](https://forms.gle/Za91A14ojA8WtKnj9) and we will be in touch soon.
 
-Registration & Logistics
-Registration is now open! Please see the [DLF Forum's page on registration,](https://forum2022.diglib.org/registration/) for more information on registration categories, and to claim your spot. 
+
 
 ### Conference Program
 The conference will be held at the Renaissance Baltimore Harborplace Hotel, on Wednesday, October 12th and Thursday, October 13th. It is held in concert with the [Council on Library and Information Resources (CLIR)](https://www.clir.org/) events [DLF Forum](https://forum2022.diglib.org/) (October 10-12), [Learn@DLF](https://forum2022.diglib.org/affiliated-events/learndlf/) (October 9) and [CLIR's Digitizing Hidden Collections Symposium](https://www.clir.org/hiddencollections/events/2022-symposium/) (October 12-13). The full schedule for all events can be viewed below.
