@@ -205,15 +205,7 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Zakiya Collier" src="{{ ' /images/coordinating-committee/CollierZ2021.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Felicity Dykas</h3>
-        <p>Felicity Dykas (<a href="/groups/standards-and-practices/">Standards and Practices Interest Group</a> Co-Chair; 1st term, 2019-2021) is an adjunct instructor and Librarian IV Emerita at the University of Missouri. Previously, she served as Head of Digital Services at the University of Missouri Libraries, overseeing the work of MOspace (the University of Missouri institutional repository), the MU Digital Library, and digitization work. She also has experience as a cataloger, catalog department head, library website co-chair, and ILS redesign chair. Her professional interests include open access, equitable access to digital resources, long-term preservation of digital resources, the organization of information, and the development and promotion of useful standards for discovery and preservation of information resources.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Felicity Dykas" src="{{ '/images/coordinating-committee/Dykas2020.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
+
 
 
 <div class="row coordinating-committee">
@@ -329,3 +321,13 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Lance Stuchell" src="{{ '/images/coordinating-committee/stuchell2022.jpeg' | prepend: site.baseurl }}">
     </div>
 </div>
+
+<!--<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Felicity Dykas</h3>
+        <p>Felicity Dykas (<a href="/groups/standards-and-practices/">Standards and Practices Interest Group</a> Co-Chair; 1st term, 2019-2021) is an adjunct instructor and Librarian IV Emerita at the University of Missouri. Previously, she served as Head of Digital Services at the University of Missouri Libraries, overseeing the work of MOspace (the University of Missouri institutional repository), the MU Digital Library, and digitization work. She also has experience as a cataloger, catalog department head, library website co-chair, and ILS redesign chair. Her professional interests include open access, equitable access to digital resources, long-term preservation of digital resources, the organization of information, and the development and promotion of useful standards for discovery and preservation of information resources.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Felicity Dykas" src="{{ '/images/coordinating-committee/Dykas2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>-->
