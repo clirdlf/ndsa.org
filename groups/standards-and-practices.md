@@ -5,7 +5,7 @@ permalink: /groups/standards-and-practices/
 redirect_from: /working-groups/standards-and-practices/
 ---
 
-**Standards and Practices Interest Group Co-Chairs**: Felicity Dykas, University of Missouri Libraries - dykasf [at] missouri [dot] edu; Ann Hanlon, University of Wisconsin - Milwaukee, hanlon [at] uwm [dot] edu
+**Standards and Practices Interest Group Co-Chairs**: Michael Dulock, University of Colorado Boulder - michael [dot] Dulock [at] colorado [dot] edu; Ann Hanlon, University of Wisconsin - Milwaukee, hanlon [at] uwm [dot] edu
 
 The Standards and Practices Interest Group works to facilitate a broad understanding of the role and benefit of standards in digital preservation and how to use them effectively to ensure durable and usable collections.
 
