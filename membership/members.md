@@ -13,6 +13,7 @@ javascript:
 - https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table.min.js
 ---
 <p>Browse geographically, or search and sort below!</p>
+<p>Please note that the technology creating the map is outdated and therefore the map is no longer up to date.  A new version of the map is being developed and will include the full list of members.  We appreciate your patience. </p>
 <style>
   #map {
     height: 400px;
