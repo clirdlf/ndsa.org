@@ -22,12 +22,14 @@ More information on award categories and previous awardees can be found below.
 - **Projects:**  Recognizing those activities whose goals or outcomes make a significant contribution to strategic or conceptual understanding necessary for successful digital preservation stewardship.
 - **Sustainability Activities:**  Recognizing those activities whose goals or outcomes make a significant contribution to operational trustworthiness, monitoring, maintenance, or intervention necessary for sustainable digital preservation stewardship.
 
+## 2023 NDSA Excellence Awards 
+Nominations for the 2023 Excellence Awareds have closed.  Awards will be presented on November 15th as part of the Opening Plenary at the 2023 NDSA [Digital Preservation conference](https://ndsa.org/conference/) in St. Louis, Missouri, USA. Attendance at the conference is encouraged but not required for awardees or nominators. 
 
-## 2023 NDSA Excellence Awards Call for Nominations
+<!--## 2023 NDSA Excellence Awards Call for Nominations
 This is your chance! Help us highlight and reward clever, inventive, and risk-taking approaches to the challenges and potential of digital preservation. Awards will be presented on November 15th as part of the Opening Plenary at the 2023 NDSA [Digital Preservation conference](https://ndsa.org/conference/) in St. Louis, Missouri, USA. Attendance at the conference is encouraged but not required for awardees or nominators. 
 
 Nominations for the 2023 NDSA Excellence Awards are now [open](https://forms.gle/rHAgq9Lu8peEEfqE9) and will remain open through Friday, August 4, 2023. 
-### [Submit your nomination here.](https://forms.gle/rHAgq9Lu8peEEfqE9) 
+### [Submit your nomination here.](https://forms.gle/rHAgq9Lu8peEEfqE9) -->
 
 
 ## Working Group Members
