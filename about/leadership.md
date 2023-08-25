@@ -225,7 +225,7 @@ redirect_from: /leadership/
         </p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Carol Kussmann" src="{{ '/images/coordinating-committee/Kussmann2023.jpg' | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Carol Kussmann" src="{{ '/images/coordinating-committee/kussmann2023.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
 
