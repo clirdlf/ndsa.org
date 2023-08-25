@@ -225,7 +225,7 @@ redirect_from: /leadership/
         </p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Carol Kussmann" src="{{ '/images/coordinating-committee/Kussmann_Carol_NDSA_CC_1.jpg' | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Carol Kussmann" src="{{ '/images/coordinating-committee/Kussmann2023.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
 
@@ -310,6 +310,17 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Robin Ruggaber" src="{{ '/images/coordinating-committee/Ruggaber.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Sibyl Schaefer</h3>
+        <p>Sibyl Schaefer (<a href="/groups/storage-survey/">Storage Survey Working Group</a> Co-Chair) is the Chronopolis Program Manager and Digital Preservation Librarian at the University of California, San Diego, where she helps define long-term digital preservation solutions for the UCSD campus. She previously served as the Head of Digital Programs for the Rockefeller Archive Center and as the Metadata Librarian for the University of Vermont's Center for Digital Initiatives. She has been recognized as an Emerging Leader by the American Library Association and has participated in the Archival Leadership Institute. Schaefer holds an MLIS with a specialization in Archival Studies from the University of California, Los Angeles.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Sibyl Schaefer" src="{{ '/images/coordinating-committee/Schaefer.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
