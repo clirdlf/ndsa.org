@@ -168,6 +168,16 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Amy Allen</h3>
+        <p>Amy Allen (<a href="/groups/storage-survey/">Storage Survey Working Group</a> Co-Chair) is the University Archivist at the University of Arkansas. In this role she is responsible for the life cycle of both physical and digital records, including donations, accessions, processing, preservation, and providing access. She creates policy for the University Archives and serves on leadership teams guiding policy and procedure development and revision for the broader division. </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Amy Allen" src="{{ '/images/coordinating-committee/AllenAmy2023.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Rachel Appel</h3>
         <p>Rachel Appel (Membership Working Group Co-Chair; 1st term, 2022-2024) is the Digital Preservation Librarian at the University of Pennsylvania where she develops, documents, implements and oversees preservation workflows, procedures and policies for the Penn Libraries' digital collections and assets, both digitized and born-digital. Prior to this role, Rachel was the Digital Projects and Services Librarian at Temple University, coordinating digital collections, implementing metadata projects related to cultural heritage and scholarly communication, and managing ongoing services. Rachel holds a Bachelor of Arts in Film Studies from Smith College and a Master of Science in Information Studies with a specialization in Digital Archives and Preservation from the University of Texas at Austin.</p>
     </div>
