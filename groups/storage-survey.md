@@ -6,20 +6,20 @@ redirect_from: /working-groups/storage-survey/
 ---
 
 ## Background
-In [2011](http://www.dlib.org/dlib/may13/altman/05altman.html), [2013](http://www.dlib.org/dlib/july17/gallinger/07gallinger.html), and [2019](https://osf.io/uwsg7/) members of the NDSA Infrastructure Interest Group conducted surveys on the preservation storage practices of NDSA member organizations. The goal of these surveys was “to develop a snapshot of storage practices within the organizations of the NDSA and insight into how those practices change over time.” 
-
+In [2011](http://www.dlib.org/dlib/may13/altman/05altman.html), [2013](http://www.dlib.org/dlib/july17/gallinger/07gallinger.html), and [2019](https://osf.io/uwsg7/) members of the NDSA Infrastructure Interest Group conducted surveys on the preservation storage practices of NDSA member organizations. The goal of these surveys was “to develop a snapshot of storage practices within the organizations of the NDSA and insight into how those practices change over time.”  The goal of the 2023 Survey is to gather current information and insight on trends, technologies, standards, and practices that impact digital preservation storage and evaluate changes from previous surveys.
 
 ## 2023 Working Group Objectives 
-The 2023 Storage Survey Working Group is currently setting up their first meetings.  Stay tuned for more information on their upcoming work.  <!--in late 2018 to gather new data on preservation storage practices. The goal of the 2019 survey was not only to collect updated information in order to compare to the [2011](https://hdl.handle.net/1902.1/19768) and [2013](https://doi.org/10.7910/DVN/8NYC97) survey data, but to gather information on how new technologies or standards have impacted preservation storage. Work was completed in 2019 and the final report was published in Feburuary 2020.  -->
+The 2023 Storage Survey Working Group will be releasing the 2023 Storage Survey in the fall of 2023, with the objective of producing a report on the survey findings by Summer of 2024. 
+
 
 ### 2023 Storage Survey Team
 - Amy Allen, co-chair
 - Sibyl Schaefer, co-chair
-Names will be added after individuals are confirmed.  
 
+Members: Kevin Latta, Eric Lopatin, Patrice-Andre "Max" Prud'homme, Danielle Spalenka, Kathryn Slover, Mark Shelstad, Kari May, Amanda Garfunkel, Jan Whalen, Alan Munshower, Rebecca Fraimow, Este Pope, Krista Oldham, Andrew McDonnell, Georgia Moppet, Stephanie Ayers 
 
-## 2019 Publication
-The [2019 Storage Infrastructure Survey Report](https://osf.io/uwsg7/) was completed in February 2020 and available on the NDSA OSF page. DLib Magazine published the [2011](http://www.dlib.org/dlib/may13/altman/05altman.html), [2013](http://www.dlib.org/dlib/july17/gallinger/07gallinger.html) reports. 
+## Previous Publications
+The [2019 Storage Infrastructure Survey Report](https://osf.io/uwsg7/) was completed in February 2020 and available on the NDSA OSF page. DLib Magazine published the [2011](http://www.dlib.org/dlib/may13/altman/05altman.html) and [2013](http://www.dlib.org/dlib/july17/gallinger/07gallinger.html) reports. 
 
 
 ## Get Involved
