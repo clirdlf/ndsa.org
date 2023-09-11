@@ -12,12 +12,15 @@ redirect_from: /meetings/
 ### About the NDSA and Digital Preservation 2023
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. It is an affiliate organization of CLIR and DLF. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the DLF Forum’s [Code of Conduct](https://www.diglib.org/code). 
 
-Efforts are underway for planning Digital Preservation 2023 which will be held November 15th-16th in St. Louis, Missouri.  The Conference Venue and accommodations will be at the St. Louis Union Hotel. Details are available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).   
+Efforts are underway for planning Digital Preservation 2023 which will be held November 15th-16th in St. Louis, Missouri.  The conference venue and accommodations will be at the [St. Louis Union Hotel](https://forum2023.diglib.org/conference-venue-and-hotel/). 
 
-### Registration & Logistics
+### Registration, Logistics, & Accommodations
 **Registration is now open!** 
 
 Please see the [DLF Forum's page on registration,](https://forum2023.diglib.org/registration/) for more information on registration categories, and to claim your spot. 
+
+Space at the conference hotel is filling quickly; be sure to book your room early for best availability. Details are available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).
+  
 
 ### Conference Program
 The conference will be held at the St. Louis Union Station Hotel on Wednesday, November 15th and Thursday, November 16th. It is held in concert with the Council on Library and Information Resources (CLIR) events: [Learn@DLF](https://forum2023.diglib.org/affiliated-events/learndlf/) (November 12) and the [DLF Forum](https://forum2023.diglib.org/) (November 13-15). Make your reservations today! The full schedule for all events can be viewed below.
