@@ -4,7 +4,7 @@ layout: page
 permalink: /groups/levels-of-preservation/
 redirect_from: /working-groups/levels-of-preservation/
 ---
-The Levels of Digital Preservation Working Group is managed by the Levels of Digital Preservation Steeing Group. This Steeing Group manages all activities related to the Levels of Digital Preservation created by the NDSA. The Steering Group was originally formed to guide and steer the work of the sub-groups that were created for [Levels reboot activities in 2018](/groups/levels-of-preservation/history/).
+The Levels of Digital Preservation Working Group is managed by the Levels of Digital Preservation Steering Group. This Steering Group manages all activities related to the Levels of Digital Preservation created by the NDSA. The Steering Group was originally formed to guide and steer the work of the sub-groups that were created for [Levels reboot activities in 2018](/groups/levels-of-preservation/history/).
 
 Once these activities were complete in 2019, the Steering Group continued to meet. Its purpose is to:
 
@@ -31,12 +31,12 @@ The Levels of Digital Preservation Working Group was re-formed in 2018 with the 
 
 
 ### Current Work
-The Levels Steering group meets bi-monthly to discuss the future needs around the Levels of Digital Preservation.  The group also holds bi-monlty open sessions to engage the community and to hear feedback on the Levels in preparation for updates to the exisitng Levels - anyone is welcome to attend these sessions.  The group continues to discuss the Levels with the community at conferences to solicit feedback and to better understand how the Levels are being used.  
+The Levels Steering group meets bi-monthly to discuss the future needs around the Levels of Digital Preservation.  The group also holds bi-monlhty open sessions to engage the community and to hear feedback on the Levels in preparation for updates to the exisitng Levels - anyone is welcome to attend these sessions.  The group continues to discuss the Levels with the community at conferences to solicit feedback and to better understand how the Levels are being used.  
 
 
 ### Version 2.0 
-**Version 2.0 of the Levels of Digital Preservation Matrix and all associted materials** can be found on both the NDSA website and the NDSA OSF site.  
-- NDSA Levels of Digital Preservation website [Website](/publications/levels-of-digital-preservation/)
+**Version 2.0 of the Levels of Digital Preservation Matrix and all associated materials** can be found on both the NDSA website and the NDSA OSF site.  
+- NDSA Levels of Digital Preservation [Website](/publications/levels-of-digital-preservation/)
 - 2019 Levels of Digital Preservation [OSF Project Page](https://osf.io/qgz98/)  
 
 
@@ -51,7 +51,7 @@ The Levels Steering group meets bi-monthly to discuss the future needs around th
 <!--- Join the conversation by adding your name to the [Levels of Digital Preservation Working Group mailing list](https://lists.clir.org/cgi-bin/wa?A0=NDSA-LEVELS)!  -->
 
 
-<!--The Levels of Digital Preservation Steeing Group is ongoing and manages activities related to the Levels of Digital Preservation created by the NDSA. The Steering Group is comprised of past and current sub-group leads.  Levels of Digital Preservation Working Groups or Subgroups are formed as needed to address the needs of the community. -->
+<!--The Levels of Digital Preservation Steering Group is ongoing and manages activities related to the Levels of Digital Preservation created by the NDSA. The Steering Group is comprised of past and current sub-group leads.  Levels of Digital Preservation Working Groups or Subgroups are formed as needed to address the needs of the community. -->
 
 <!--The Levels of Digital Preservation Working Group is ongoing and manages activities related to the Levels of Digital Preservation created by the NDSA.  Due to the complexity of the activities of the Levels of Digital Preservation Working Group, the group is managed by a Steering Group.  The Steering Group is comprised of past and current sub-group leads.  Subgroups are formed as needed to address the needs of the community. -->
 
