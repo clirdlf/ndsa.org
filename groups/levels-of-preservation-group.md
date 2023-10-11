@@ -31,10 +31,10 @@ The Levels of Digital Preservation Working Group was re-formed in 2018 with the 
 
 
 ### Current Work
-The Levels Steering group meets bi-monthly to discuss the future needs around the Levels of Digital Preservation.  The group also holds bi-monlhty open sessions to engage the community and to hear feedback on the Levels in preparation for updates to the exisitng Levels - anyone is welcome to attend these sessions.  The group continues to discuss the Levels with the community at conferences to solicit feedback and to better understand how the Levels are being used.  
+The Levels Steering group meets bi-monthly to discuss the future needs around the Levels of Digital Preservation.  The group also holds bi-monthly open sessions to engage the community and to hear feedback on the Levels in preparation for updates to the exisitng Levels - anyone is welcome to attend these sessions.  The group continues to discuss the Levels with the community at conferences to solicit feedback and to better understand how the Levels are being used.  
 
 
-### Version 2.0 
+### The Levels of Digital Preservation
 **Version 2.0 of the Levels of Digital Preservation Matrix and all associated materials** can be found on both the NDSA website and the NDSA OSF site.  
 - NDSA Levels of Digital Preservation [Website](/publications/levels-of-digital-preservation/)
 - 2019 Levels of Digital Preservation [OSF Project Page](https://osf.io/qgz98/)  
