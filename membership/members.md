@@ -12,15 +12,19 @@ javascript:
 - /js/map.js
 - https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table.min.js
 ---
-<p>Browse geographically, or search and sort below!</p>
-<p>Please note that the technology creating the map is outdated and therefore the map is no longer up to date.  A new version of the map is being developed and will include the full list of members.  We appreciate your patience. </p>
+<p>Browse the list of members using the table.  Search or sort to find a particular organization.</p>
+<p>NDSA is hoping to replace the graphical map that was previously available. We appreciate your patience. Stay tuned!</p>
+<!--
 <style>
   #map {
     height: 400px;
   }
 </style>
+-->
 
 <div id="map"></div>
+
+
 
 <table data-toggle="table" data-search="true" data-page-size="25" data-pagination="true" data-url="{{ '/data/members.json' | prepend: site.base_url }}">
   <thead>
