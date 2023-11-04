@@ -14,18 +14,21 @@ The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membe
 
 Digital Preservation 2023: Communities of Time and Place will be held November 15th-16th in St. Louis, Missouri at the [St. Louis Union Hotel](https://forum2023.diglib.org/conference-venue-and-hotel/). 
 
-### Registration, Logistics, & Accommodations
-**Registration is now open!** 
+<!--### Registration, Logistics, & Accommodations
+**Registration is closed.** 
 
-Please see the [DLF Forum's page on registration,](https://forum2023.diglib.org/registration/) for more information on registration categories, and to claim your spot. 
+Conference details are available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).-->  
 
-Space at the conference hotel is filling quickly; be sure to book your room early for best availability. Details are available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).
-  
+### Conference Details and Schedule
+Registration is now closed.
 
-### Conference Program
-The conference will be held at the St. Louis Union Station Hotel on Wednesday, November 15th and Thursday, November 16th. It is held in conjunction with the Council on Library and Information Resources (CLIR) events: [Learn@DLF](https://forum2023.diglib.org/affiliated-events/learndlf/) (November 12) and the [DLF Forum](https://forum2023.diglib.org/) (November 13-15). Make your reservations today! The full schedule for all events can be viewed below.
+The conference will be held at the St. Louis Union Station Hotel on Wednesday, November 15th and Thursday, November 16th. 
 
-[PROGRAM SCHEDULE](https://clirevents2023.sched.com/) 
+It is held in conjunction with the Council on Library and Information Resources (CLIR) events: [Learn@DLF](https://forum2023.diglib.org/affiliated-events/learndlf/) (November 12) and the [DLF Forum](https://forum2023.diglib.org/) (November 13-15).  
+
+The [full schedule](https://clirevents2023.sched.com/) for all events can be found online.
+
+Additional conference details are available on the [DLF Forum website](https://forum2023.diglib.org).
 
 <!--#### Funding Support
 [DPOE-N](https://www.dpoe.network/) is pleased to offer funding support for citizens and residents of the United States of America to attend NDSA Digital Preservation 2023 in St. Louis. Funding can be used to cover registration costs and associated travel expenses.
