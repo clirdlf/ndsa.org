@@ -29,8 +29,8 @@ th, td {
 | Year 	| Fixity Survey	| Levels of Preservation 	| Agenda	| Staffing Survey 	| Storage Survey 	| Web Archiving Survey	|
 |:----:	|:------:	|:----------------------:	|:------:	|:---------------:	|:--------------:	|:-------------:	|
 | 2021 	|    [Completed](https://osf.io/2qkea/)   	|                        	|        	|        [Completed](https://osf.io/emwy4/)        	|                	|           	|
-| 2022 	|        	|                        	|    Schedule under review   	|                 	|                	|  [Started](https://ndsa.org/groups/web-archiving/)             	|
-| 2023 	|        	|                        	|        	|                 	|        X       	|    [In progress](https://ndsa.org/groups/web-archiving/)           	|
+| 2022 	|        	|                        	|    Schedule under review   	|                 	|                	|    	|
+| 2023 	|        	|                        	|        	|                 	|        [In Progress](https://ndsa.org/groups/storage-survey/)      	|    [Completed](https://osf.io/n5myr/)           	|
 | 2024 	|        	|            X           	|       	|        X        	|                	|              	|
 | 2025 	|    X   	|                        	|        	|                 	|                	|       X       	|
 | 2026 	|        	|                        	|       	|                 	|        X       	|               	|

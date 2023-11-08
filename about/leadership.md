@@ -147,7 +147,8 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Hannah Wang, 2023 Chair</h3>
-        <p>Hannah Wang (1st Term, 2022-2024) works at Educopia Institute, where she is the Program Officer for Digital Infrastructure. Her role encompasses research, consulting, and community cultivation for digital preservation communities and projects, including the MetaArchive Cooperative and the DPSC Planning Project. Her work and research focuses on issues related to sustaining technical communities, digital stewardship, and organizational development. Hannah was previously the Electronic Records & Digital Preservation Archivist at the Wisconsin Historical Society, and has taught graduate-level archives classes as an Associate Lecturer at the University of Wisconsin-Madison iSchool. She received her MSIS from University of North Carolina-Chapel Hill.</p>
+        <p>Hannah Wang (1st Term, 2022-2024) is Digital Preservation Specialist at the U.S. National Archives and Records Administration. Prior to joining NARA, she held positions at Educopia Institute as the Program Officer for Digital Infrastructure and at the Wisconsin Historical Society as the Electronic Records & Digital Preservation Archivist; she has also taught graduate-level archives classes as an Associate Lecturer at the University of Wisconsin-Madison iSchool. She received her MSIS from University of North Carolina-Chapel Hill. Hannah has been involved in several NDSA initiatives, including the 2021 Staffing Survey and the Membership Working Group.
+</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Hannah Wang" src="{{ '/images/coordinating-committee/wang.jpg' | prepend: site.baseurl }}">
