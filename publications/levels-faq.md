@@ -3,12 +3,13 @@ title: Levels of Digital Preservation FAQ
 layout: page
 permalink: /publications/levels-of-digital-preservation/FAQ/
 ---
-Answers to frequently asked questions about the Levels of Digital Preservation are provided below. 
+Answers to frequently asked questions about the Levels of Digital Preservation are provided below. Last updated 11/2020. 
+
 ### FAQ Questions about the Levels
 - [FAQ Questions about the Levels](#faq-questions-about-the-levels)
 - [Using the Levels](#using-the-levels)
 - [Questions and Answers](#questions-and-answers)
-  - [What are the NDSA Levels of Preservation?](#what-are-the-ndsa-levels-of-preservation)
+  - [What are the NDSA Levels of Digital Preservation?](#what-are-the-ndsa-levels-of-digital-preservation)
   - [The NDSA Levels can be found here:](#the-ndsa-levels-can-be-found-here)
   - [Who are they for? Who can use them?](#who-are-they-for-who-can-use-them)
   - [How were the NDSA Levels revised?](#how-were-the-ndsa-levels-revised)
@@ -27,7 +28,7 @@ Answers to frequently asked questions about the Levels of Digital Preservation a
 
 ### Questions and Answers
 
-#### What are the NDSA Levels of Preservation?
+#### What are the NDSA Levels of Digital Preservation?
 The NDSA Levels of Preservation are a simple tool that institutions can use to assess their digital preservation maturity. Looking specifically at the technical aspects of digital preservation implementation, they are organized into five functional areas that are at the heart of digital preservation systems (storage, integrity, control, metadata and content) and describe four different levels of capability. Level one typically describes the first steps an institution might take towards understanding the digital content to be preserved. The levels get progressively more advanced up to level 4 which articulates some of the more advanced activities that need to be in place in order to fully implement digital preservation.
 
 The NDSA Levels were first created in 2013 and were widely adopted across the globe. Five years on, it was decided that the Levels should be reviewed and updated and a call was made for volunteers to get involved in this process. Version 2 of the NDSA Levels was released in 2019 alongside related reports and outputs from the various working groups. More information about the reboot process is described by Bradley Daigle in the blog post Levels of Preservation Reboot Overview and Update.

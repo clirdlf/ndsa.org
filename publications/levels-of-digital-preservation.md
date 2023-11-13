@@ -19,7 +19,7 @@ Version 2.0 of the Levels was created by the Levels of Digital Preservation Work
 On World Digital Preservation Day 2020, the Levels of Digital Preservation Working Group became a [Digital Preservation Award](https://www.dpconline.org/events/digital-preservation-awards) winner receiving the [International Council on Archives](https://www.ica.org/en) Award for Collaboration and Cooperation! This award is not possible without the collaboration of hundreds of people over the course of the project!  Thank you to everyone who participated and for those just joining in the work. 
 
 [![Levels of Digital Preservation, Version 2.0](/images/LOP_v2.png "Levels of Digital Preservation, Version 2.0")](https://osf.io/2mkwx/)
-<p align="center"><em>Levels of Digital Preservation Version 2.0 Matrix</em></p>
+<p align="center"><em>Levels of Digital Preservation Version 2.0 Matrix (Levels of Digital Preservation Working Group. "2019 Levels of Digital Preservation Matrix", October 2019, https://osf.io/2mkwx/.)</em></p>
 
 ### Levels of Digital Preservation V2.0 Matrix
 The Levels of Digital Preservation Matrix, shown above in color, is available in both color and black and white on the OSF site. The Matrix should be used in association with the working definitions document which gives further explanation on terms used within the grid.   
