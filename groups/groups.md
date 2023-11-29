@@ -30,6 +30,9 @@ There is one Interest Group meeting a month, with the three groups working on a 
 ### Working Groups
 Working Groups are created on an as needed basis.  Once formed, groups may perform a one-time activity, a cyclical activity, or an ongoing activity.  This activity level is listed after the Working Group name below.  Further details about each group is provided on their individual pages.
 
+#### [Climate Watch](/groups/climate-watch/) (ongoing)
+-  A group started to create annotated bibliographies on recent literature, news, and reports related to climate change and its impact on digital preservation with the goal of creating and adding to an ongoing list of potential risks climate change poses to digital preservation work.
+
 #### [Communications and Publications](/groups/communications-publications/) (ongoing)
 - Working with the Coordinating Committee and Group Chairs to assist with internal and external communications, blog posts, website updates, and editing and publishing NDSA reports and other materials.
 
