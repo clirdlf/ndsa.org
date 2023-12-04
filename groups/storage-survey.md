@@ -14,9 +14,9 @@ The 2023 Storage Survey Working Group will be releasing the 2023 Storage Survey 
 
 ### 2023 Storage Survey Team
 - Amy Allen, co-chair
-- Sibyl Schaefer, co-chair
+- Mark Shelstad, co-chair
 
-Members: Kevin Latta, Eric Lopatin, Patrice-Andre "Max" Prud'homme, Danielle Spalenka, Kathryn Slover, Mark Shelstad, Kari May, Amanda Garfunkel, Jan Whalen, Alan Munshower, Rebecca Fraimow, Este Pope, Krista Oldham, Andrew McDonnell, Georgia Moppet, Stephanie Ayers 
+Members: Kevin Latta, Eric Lopatin, Patrice-Andre "Max" Prud'homme, Danielle Spalenka, Kathryn Slover, Kari May, Amanda Garfunkel, Jan Whalen, Alan Munshower, Rebecca Fraimow, Este Pope, Krista Oldham, Andrew McDonnell, Georgia Moppet, Stephanie Ayers 
 
 ## Previous Publications
 The [2019 Storage Infrastructure Survey Report](https://osf.io/uwsg7/) was completed in February 2020 and available on the NDSA OSF page. DLib Magazine published the [2011](http://www.dlib.org/dlib/may13/altman/05altman.html) and [2013](http://www.dlib.org/dlib/july17/gallinger/07gallinger.html) reports. 
