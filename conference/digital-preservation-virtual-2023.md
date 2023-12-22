@@ -13,7 +13,39 @@ NDSA will be hosting a virtual event on January 31-February 1, 2024 for those un
 
 
 ### Sessions and Schedule 
-The schedule is currently being developed.  Details will be shared when available.
+As we finalize the schedule for the NDSA Virtual Event starting on January 31, the Program Committee wanted to share some additional details around the upcoming virtual program.
+
+At this event, we will hear from our new NDSA Chair, Bethany Scott who will welcome attendees and offer some thoughts on the coming year for NDSA. In addition, we will have an extended discussion and presentation with our NDSA Excellence Award winners as well as reports from our special interest and working groups, both of which offer an excellent way to get involved!
+
+Reprising their presentations from the fall conference, we look forward to welcoming back the following presenters: 
+
+- Ashley Champagne, Andrew Majcher, and Hilary Wang presenting **Gone in an Adobe Flash: Preserving Computational Electronic Art for Future Generations**
+  - The “New Frameworks for Preserve and Publish Born-Digital Art” project is developing five preservation models for multimodal, born-digital, and born-computational artworks. The project team, led by Ashley Champagne at the Center for Digital Scholarship at Brown, will share solutions and challenges in creating generalizable models for these innovative works
+
+- Jimi Jones, Karin Hodgin Jones, Robyn Bianconi, and Liam Morton will present on **The Curricular Asset Warehouse At The University Of Illinois: A Digital Archive’s Sustainability Case Study**
+  - This panel will feature several professionals from the University of Illinois at Urbana-Champaign, who will discuss how the digital asset management practices at the university’s high-throughput video production unit help to minimize its electronic waste. Participants will leave this session with real-world solutions that they can implement in their institutions.
+
+- Déirdre Joyce will present **At the Right Time and In the Right Place: Digital Stewardship at Syracuse University Libraries**
+  - This presentation focuses on the creation of the new Department of Digital Stewardship at Syracuse University Libraries. In particular, it recounts the process for advocating for this change and the resonance around the concept of "digital stewardship" that produced this desired outcome at this particular time and place.
+
+- Cal Lee will present on the **Dualities of Digital Curation**
+  - Digital curation requires the navigation of various dualities, i.e. pairs of options that are opposing but not contradictory or mutually exclusive. I will characterize several of these dualities, as well providing examples of how they impact specific types of digital curation decisions.
+
+- Starlina Rose will present on **The Mills Archive and Digital Heritage Realities: Navigating 21st-Century Digital Heritage as an Independent, Industry-Specific Archive** 
+  - The Mills Archive Trust began its largest grant-funded digitisation project to date in February 2023, making a significant portion of its century-spanning collection of American Northwestern Miller magazines freely available online. Project goals: utilise, drive interest, make use of the incredibly rare collection, create a workflow for large-scale digitisation projects.
+
+- Nicole Scalessa and Kimberly Gianfrancesco will present **How We Established a Digital Preservation Program at a Small Liberal Arts College: While Working Remote During a Pandemic**
+  - Vassar College Libraries established a never before digital preservation program, joined the NDSA, hired a digital preservation librarian, and built campus wide collaborations during the pandemic. Scalessa and Gianfrancesco will share how they accomplished this with institutional support, while maintaining sustainable workflows and a manageable intake of materials.
+
+- Sybil Schaefer will present **Facing 1.5° Celsius: Planning Now for an Uncertain Future**
+  - Digital preservation, at its most basic, is about risk management. Global warming increases not only the likelihood of the threats to digital preservation occurring, but occurring concurrently. We need to act now in order to safeguard our digital materials. This talk will discuss how we can get started preparing.
+
+- Sven Schlarb will offer a new presentation on **The eArchiving Initiative**
+  - The E-ARK Consortium has been active for over ten years. This paper will present an overview of the eArchiving Procurement awarded to the Consortium by the European Commission as part of its Digital Europe Programme. The aims, goals, consortium, structure and main features of the eArchiving Initiative will be delineated.
+
+Look for additional program details (including final schedules, poster session information, and more!) as we head into the new year.
+
+
 <!--**All sessions will occur on Thursday, February 23, 2023**
 -->
 
