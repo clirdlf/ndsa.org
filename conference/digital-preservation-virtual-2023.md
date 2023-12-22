@@ -45,7 +45,6 @@ Reprising their presentations from the fall conference, we look forward to welco
 
 Look for additional program details (including final schedules, poster session information, and more!) as we head into the new year.
 
-
 <!--**All sessions will occur on Thursday, February 23, 2023**
 -->
 
