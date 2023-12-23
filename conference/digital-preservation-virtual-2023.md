@@ -8,12 +8,16 @@ permalink: /conference/digital-preservation-virtual-2023/
 
 
 ### NDSA Virtual Event following the Digital Preservation 2023 Conference
-NDSA will be hosting a virtual event on January 31-February 1, 2024 for those unable to participate in the in-person conference in St. Louis last fall. The event will consist of panels and presentations and will take place over Zoom. All sessions will be free and open to the public. 
+NDSA will be hosting a virtual event on January 31-February 1, 2024 for those unable to participate in the in-person conference in St. Louis last fall. The event will consist of panels and presentations and will take place over Zoom. All sessions are free and open to the public. 
+**[Register Now](https://syracuseuniversity.zoom.us/webinar/register/WN_zdBtKQgeSGW9x9mBQGlW7A#/registration)**
+
 
 
 
 ### Sessions and Schedule 
 As we finalize the schedule for the NDSA Virtual Event starting on January 31, the Program Committee wanted to share some additional details around the upcoming virtual program.
+
+**[Register Now](https://syracuseuniversity.zoom.us/webinar/register/WN_zdBtKQgeSGW9x9mBQGlW7A#/registration)**
 
 At this event, we will hear from our new NDSA Chair, Bethany Scott who will welcome attendees and offer some thoughts on the coming year for NDSA. In addition, we will have an extended discussion and presentation with our NDSA Excellence Award winners as well as reports from our special interest and working groups, both of which offer an excellent way to get involved!
 
@@ -49,8 +53,7 @@ Look for additional program details (including final schedules, poster session i
 -->
 
 ### Registration Information<!--[Registration Link](https://events.zoom.us/ev/AkRIWrI1hxzkNRZhgdWUTpgF3ZWKY91mj_YQBfnxi2g8Rq6Nxzau~AggLXsr32QYFjq8BlYLZ5I06Dg)-->
-Registration information will be posted here when avaialble.  
-<!-- Please join us by [registering](https://events.zoom.us/ev/AkRIWrI1hxzkNRZhgdWUTpgF3ZWKY91mj_YQBfnxi2g8Rq6Nxzau~AggLXsr32QYFjq8BlYLZ5I06Dg) using your email or zoom account.  -->
+**Please join us by [registering](https://syracuseuniversity.zoom.us/webinar/register/WN_zdBtKQgeSGW9x9mBQGlW7A#/registration)**.
 
 
 
