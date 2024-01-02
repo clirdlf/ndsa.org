@@ -53,7 +53,7 @@ redirect_from: /leadership/
 <p></p>
 <h2>Coordinating Committee Members</h2>
 
- <div class="row coordinating-committee">
+ <!--<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Elizabeth England</h3>
         <p>Elizabeth England (1st term, 2021-2023) is Senior Digital Preservation Specialist at the U.S. National Archives and Records Administration, where she participates in strategic and operational initiatives and services for the preservation of born-digital and digitized records of the federal government. Prior to joining NARA, Elizabeth was the Digital Archivist and a National Digital Stewardship Resident (NDSR) at Johns Hopkins University. Elizabeth previously served as co-chair of the 2021 NDSA Staffing Survey and on the NDSA Communications and Publications Working Group.</p>
@@ -61,7 +61,7 @@ redirect_from: /leadership/
     <div class="col-sm-2">
          <img class="img-responsive" class="img-responsive" alt="Elizabeth England" src="{{ '/images/coordinating-committee/England2020.jpg' | prepend: site.baseurl }}"> 
     </div>
-</div>
+</div>-->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -93,15 +93,15 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<div class="row coordinating-committee">
+<!--<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Jessica Neal</h3>
         <p>Jessica C. Neal (1st term, 2021-2023) is an archivist, records manager, and memory worker. She is currently the Sterling A. Brown Archivist at Williams College and Records Management Program Assistant at the Massachusetts Institute of Technology. Jes’s work centers archives, preservation, data management, and developing ethical frameworks to better steward digital collections and projects that specifically focus on Black-led and -created social movements, oral histories, and literary history and culture. Jes received her B.A. in African World Studies from Dillard University and her M.L.I.S in Archival Studies from the University of Wisconsin-Milwaukee.</p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/Jes2020.jpg' | prepend: site.baseurl }}">
+        <img class="img-responsive" class="img-responsive" alt="Jes Neal" src="{{ '/images/coordinating-committee/Jes2020.jpg' | prepend: site.baseurl }}">
     </div>
-</div>
+</div>-->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -134,7 +134,7 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<div class="row coordinating-committee">
+<!--<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Linda Tadic</h3>
         <p>Linda Tadic (2nd term, 2021-2023) is founder and CEO of Digital Bedrock, a managed digital preservation service provider that serves any type of organization, and even individuals. She has 30 years’ experience in leading preservation, metadata, and digital production operations at organizations such as ARTstor, HBO, the Media Archives and Peabody Awards Collection at the University of Georgia, and the Getty Research Institute. Over the course of 20 years, Linda also taught as an adjunct professor in UCLA’s Graduate School of Education and Information Studies (teaching Digital Asset Management), and at NYU’s Moving Image Archiving and Preservation program (courses in collection management and cataloging and metadata). She consults and lectures on digital asset management, audiovisual and digital preservation, metadata, and copyright, with clients as diverse as WNET/Thirteen, the Academy of Motion Picture Arts and Sciences, SBS (Australia), Dunhuang Research Academy (China), ESPN, and the Missouri History Museum. She is a founding member and former President of the Association of Moving Image Archivists (AMIA).</p>
@@ -142,7 +142,7 @@ redirect_from: /leadership/
     <div class="col-sm-2">
         <img class="img-responsive" alt="Linda Tadic" src="{{ '/images/coordinating-committee/tadic.jpg' | prepend: site.baseurl }}">
     </div>
-</div>
+</div>-->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -274,7 +274,7 @@ redirect_from: /leadership/
 </div>
 
 
-<div class="row coordinating-committee">
+<!--<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Courtney Mumma</h3>
         <p>Courtney C. Mumma (Long Term Conference Planning Working Group Co-Chair), is a an archivist and a librarian. She is the Deputy Director of the Texas Digital Library consortium, a collective of university libraries working towards open, sustainable, and secure digital heritage and scholarly communications. She has over a decade of experience in open source software development and maintenance, infrastructure support and digital preservation good practice and education.</p>
@@ -282,7 +282,7 @@ redirect_from: /leadership/
     <div class="col-sm-2">
         <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/Mumma2020.jpg' | prepend: site.baseurl }}">
     </div>
-</div>
+</div>-->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -338,7 +338,7 @@ redirect_from: /leadership/
 </div>
 
 
-<div class="row coordinating-committee">
+<!--<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Lance Stuchell</h3>
         <p>Lance Stuchell (<a href="/groups/content/">Long Term Confence Planning Working Group</a> Co-Chair) is Head of the Digital Preservation Unit at the University of Michigan Library where he advises the library and campus communities and leads the continued development, implementation, and management of a comprehensive digital preservation program aimed at providing long-term access to the library’s digital collections. Work in this area often includes policy development and assessment, building and implementing workflows for the preservation of digital assets, and consulting with campus partners on how to incorporate digital preservation practice into research and publishing projects.
@@ -347,7 +347,7 @@ redirect_from: /leadership/
     <div class="col-sm-2">
         <img class="img-responsive" alt="Lance Stuchell" src="{{ '/images/coordinating-committee/stuchell2022.jpeg' | prepend: site.baseurl }}">
     </div>
-</div>
+</div>-->
 
 <!--<div class="row coordinating-committee">
     <div class="col-sm-10">
