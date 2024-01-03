@@ -53,20 +53,20 @@ redirect_from: /leadership/
 <p></p>
 <h2>Coordinating Committee Members</h2>
 
- <!--<div class="row coordinating-committee">
+<div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Elizabeth England</h3>
-        <p>Elizabeth England (1st term, 2021-2023) is Senior Digital Preservation Specialist at the U.S. National Archives and Records Administration, where she participates in strategic and operational initiatives and services for the preservation of born-digital and digitized records of the federal government. Prior to joining NARA, Elizabeth was the Digital Archivist and a National Digital Stewardship Resident (NDSR) at Johns Hopkins University. Elizabeth previously served as co-chair of the 2021 NDSA Staffing Survey and on the NDSA Communications and Publications Working Group.</p>
+        <h3>Michael Barera</h3>
+        <p>Michael Barera (1st term, 2024-2026) has been the Assistant Archivist and Digitization Specialist at the Milwaukee County Historical Society (MCHS) Research Library since June 2022. This position ranges broadly from traditional archival responsibilities such as digitization, processing, and reference to unique and often innovative programs and projects related to Milwaukee history, including creating questions for and calling Milwaukee History Trivia Nights at local breweries and leading historical kayak tours on the Milwaukee River. Michael earned a Bachelor of Arts (BA) in history from the University of Michigan in 2012 and obtained a Master of Science in Information (MSI) in both Archives and Records Management (ARM) and Preservation of Information (PI) from the University of Michigan School of Information in 2014. Prior to taking his current position at MCHS, he previously served as an Assistant Archivist at the Texas A&M University-Commerce Libraries (from 2015 to 2019) and as the University and Labor Archivist at the University of Texas at Arlington Libraries (from 2019 to 2022). He has been a Certified Archivist since 2016.</p>
     </div>
     <div class="col-sm-2">
-         <img class="img-responsive" class="img-responsive" alt="Elizabeth England" src="{{ '/images/coordinating-committee/England2020.jpg' | prepend: site.baseurl }}"> 
+         <img class="img-responsive" class="img-responsive" alt="Michael Barera" src="{{ '/images/coordinating-committee/Barera_M2024.jpg' | prepend: site.baseurl }}"> 
     </div>
-</div>-->
+</div>
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Stacey Erdman</h3>
-        <p>Stacey Erdman (1st term, 2022-2024; <a href="/conference/">2023 DigiPres</a> Chair; Membership Working Group Co-chair) is the Digital Preservation Librarian at University of Arizona Library. In this position, she has responsibility for designing and leading the digital preservation and curation program for UA Library. She is the former Digital Preservation Officer at Arizona State University; Digital Archivist at Beloit College; and Digital Collections Curator at Northern Illinois University. She has been a part of the Digital POWRR Project since its inception in 2012, and is serving as Principal Investigator for the recently funded IMLS initiative, the Digital POWRR Peer Assessment Program. Stacey currently serves on the 2021 NDSA Program Committee, the Membership Task Force, and was previously part of the Levels of Preservation Assessment subgroup. She received her MA in Library & Information Studies, with a concentration in Archival Administration from UW-Madison, and holds a Digital Archives Specialist certificate from the SAA.</p>
+        <p>Stacey Erdman (1st term, 2022-2024; 2023 DigiPres Chair; <a href="/groups/membership/">Membership Working Group</a> Co-chair) is the Digital Preservation Librarian at University of Arizona Library. In this position, she has responsibility for designing and leading the digital preservation and curation program for UA Library. She is the former Digital Preservation Officer at Arizona State University; Digital Archivist at Beloit College; and Digital Collections Curator at Northern Illinois University. She has been a part of the Digital POWRR Project since its inception in 2012, and is serving as Principal Investigator for the recently funded IMLS initiative, the Digital POWRR Peer Assessment Program. Stacey currently serves on the 2021 NDSA Program Committee, the Membership Task Force, and was previously part of the Levels of Preservation Assessment subgroup. She received her MA in Library & Information Studies, with a concentration in Archival Administration from UW-Madison, and holds a Digital Archives Specialist certificate from the SAA.</p>
     </div>
     <div class="col-sm-2">
          <img class="img-responsive" class="img-responsive" alt="Stacey Erdman" src="{{ '/images/coordinating-committee/Erdman.jpg' | prepend: site.baseurl }}"> 
@@ -93,15 +93,7 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<!--<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Jessica Neal</h3>
-        <p>Jessica C. Neal (1st term, 2021-2023) is an archivist, records manager, and memory worker. She is currently the Sterling A. Brown Archivist at Williams College and Records Management Program Assistant at the Massachusetts Institute of Technology. Jes’s work centers archives, preservation, data management, and developing ethical frameworks to better steward digital collections and projects that specifically focus on Black-led and -created social movements, oral histories, and literary history and culture. Jes received her B.A. in African World Studies from Dillard University and her M.L.I.S in Archival Studies from the University of Wisconsin-Milwaukee.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" class="img-responsive" alt="Jes Neal" src="{{ '/images/coordinating-committee/Jes2020.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>-->
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -126,7 +118,7 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Bethany Scott, 2023 Vice Chair</h3>
+        <h3>Bethany Scott, 2024 Chair</h3>
         <p>Bethany Scott (1st term, 2023-2025) is the Head of Preservation & Reformatting at the University of Houston Libraries. In this role she provides strategic leadership for the Libraries’ physical and digital preservation programs, and digitization and reformatting services for the Libraries and its patrons. Bethany also serves as Product Owner of the Libraries' open-source digital access and preservation ecosystem, which incorporates Avalon, Hyrax, Archivematica, and ArchivesSpace. Her areas of expertise include digital preservation, born-digital archives, scanning and imaging, and reuse of archival metadata.</p>
     </div>
     <div class="col-sm-2">
@@ -134,20 +126,21 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<!--<div class="row coordinating-committee">
+<div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Linda Tadic</h3>
-        <p>Linda Tadic (2nd term, 2021-2023) is founder and CEO of Digital Bedrock, a managed digital preservation service provider that serves any type of organization, and even individuals. She has 30 years’ experience in leading preservation, metadata, and digital production operations at organizations such as ARTstor, HBO, the Media Archives and Peabody Awards Collection at the University of Georgia, and the Getty Research Institute. Over the course of 20 years, Linda also taught as an adjunct professor in UCLA’s Graduate School of Education and Information Studies (teaching Digital Asset Management), and at NYU’s Moving Image Archiving and Preservation program (courses in collection management and cataloging and metadata). She consults and lectures on digital asset management, audiovisual and digital preservation, metadata, and copyright, with clients as diverse as WNET/Thirteen, the Academy of Motion Picture Arts and Sciences, SBS (Australia), Dunhuang Research Academy (China), ESPN, and the Missouri History Museum. She is a founding member and former President of the Association of Moving Image Archivists (AMIA).</p>
+        <h3>Jessica Venlet</h3>
+        <p>Jessica Venlet (1st Term, 2024-2026) works as the Assistant University Archivist for Digital Records and Records Management at the University of North Carolina at Chapel Hill Libraries. In this role, she is responsible for a variety of things related to both records management and digital preservation. In particular, she leads the processing and management of born-digital archival materials.</p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Linda Tadic" src="{{ '/images/coordinating-committee/tadic.jpg' | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Jessica Venlet" src="{{ '/images/coordinating-committee/Venlet_J2024.jpg' | prepend: site.baseurl }}">
     </div>
-</div>-->
+</div>
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Hannah Wang, 2023 Chair</h3>
-        <p>Hannah Wang (1st Term, 2022-2024) is Digital Preservation Specialist at the U.S. National Archives and Records Administration. Prior to joining NARA, she held positions at Educopia Institute as the Program Officer for Digital Infrastructure and at the Wisconsin Historical Society as the Electronic Records & Digital Preservation Archivist; she has also taught graduate-level archives classes as an Associate Lecturer at the University of Wisconsin-Madison iSchool. She received her MSIS from University of North Carolina-Chapel Hill. Hannah has been involved in several NDSA initiatives, including the 2021 Staffing Survey and the Membership Working Group.
+        <h3>Hannah Wang</h3>
+        <p>Hannah Wang (1st Term, 2022-2024, 2023 Chair) is Digital Preservation Specialist at the U.S. National Archives and Records Administration. Prior to joining NARA, she held positions at Educopia Institute as the Program Officer for Digital Infrastructure and at the Wisconsin Historical Society as the Electronic Records & Digital Preservation Archivist; she has also taught graduate-level archives classes as an Associate Lecturer at the University of Wisconsin-Madison iSchool. She received her MSIS from University of North Carolina-Chapel Hill. Hannah has been involved in several NDSA initiatives, including the 2021 Staffing Survey and the Membership Working Group.
 </p>
     </div>
     <div class="col-sm-2">
@@ -156,16 +149,6 @@ redirect_from: /leadership/
 </div>
 
 <h2>Interest and Working Group Chairs</h2>
-
-<!--<div class="row coordinating-committee">
-   <div class="col-sm-10">
-        <h3>Samantha Abrams</h3>
-        <p>Samantha Abrams (she/her/hers) (<a href="/groups/web-archiving/">Web Archiving</a> Co-Chair) is the Head of Collections at the Center for Research Libraries where she plays a key role in the development of collections, partnerships, and community engagement policy, strategy, and operations. As the Head of Collections, Samantha leads a team whose functional responsibilities span area studies, and digital and distinctive collections, with a focus on forming and managing forward-thinking partnerships that advance expanded forms of engagement with cultural heritage collections. She is also an Associate Lecturer at the University of Wisconsin-Madison's iSchool. Before joining the Center for Research Libraries, Samantha worked for the Ivy Plus Libraries Confederation as their Web Resources Collection Librarian, and at StoryCorps, as their Community Archivist. In addition to her role as co-chair of the Web Archiving Survey Working Group, Samantha serves on the Excellence Awards Working Group and the Membership Task Force. Samantha has a Master’s degree in Library and Information Studies from the University of Wisconsin-Madison and lives in Brooklyn, New York.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Samantha Abrams" src="{{ ' /images/coordinating-committee/AbramsSam2021.JPG' | prepend: site.baseurl }}">
-    </div>
-</div>-->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -180,7 +163,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Rachel Appel</h3>
-        <p>Rachel Appel (Membership Working Group Co-Chair; 1st term, 2022-2024) is the Digital Preservation Librarian at the University of Pennsylvania where she develops, documents, implements and oversees preservation workflows, procedures and policies for the Penn Libraries' digital collections and assets, both digitized and born-digital. Prior to this role, Rachel was the Digital Projects and Services Librarian at Temple University, coordinating digital collections, implementing metadata projects related to cultural heritage and scholarly communication, and managing ongoing services. Rachel holds a Bachelor of Arts in Film Studies from Smith College and a Master of Science in Information Studies with a specialization in Digital Archives and Preservation from the University of Texas at Austin.</p>
+        <p>Rachel Appel (<a href="/groups/membership/">Membership Working Group</a> Co-Chair; 1st term, 2022-2024) is the Digital Preservation Librarian at the University of Pennsylvania where she develops, documents, implements and oversees preservation workflows, procedures and policies for the Penn Libraries' digital collections and assets, both digitized and born-digital. Prior to this role, Rachel was the Digital Projects and Services Librarian at Temple University, coordinating digital collections, implementing metadata projects related to cultural heritage and scholarly communication, and managing ongoing services. Rachel holds a Bachelor of Arts in Film Studies from Smith College and a Master of Science in Information Studies with a specialization in Digital Archives and Preservation from the University of Texas at Austin.</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Rachel Appel" src="{{ '/images/coordinating-committee/appelRachel.jpg' | prepend: site.baseurl }}">
@@ -207,15 +190,7 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<!--<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Zakiya Collier</h3>
-        <p>Zakiya Collier (she/they) (<a href="/groups/web-archiving/">Web Archiving</a> Co-Chair) is the Digital Archivist at the Schomburg Center for Research in Black Culture where she uses web archiving tools to ethically expand the nature of archival collections to reflect 21st-century Black life and experiences. She is also the Project Archivist for the Weeksville Heritage Center and Semantic Lab at Pratt Linking Lost Jazz Shrines project, which seeks to apply linked open data principles to a jazz oral history collection. She is a Certified Archivist through the Academy of Certified Archivists (ACA) in 2020 and she holds an MA in Media, Culture, and Communication from New York University, an MLIS from Long Island University, and a BA in Anthropology from the University of South Carolina. Zakiya is an affiliate of the Center for Critical Race and Digital Studies (CR+DS) at New York University, an Interim Board Member of the Archival Education and Research Initiative (AERI), and a guest editor of a forthcoming special issue of The Black Scholar on Black Archival Practice.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Zakiya Collier" src="{{ ' /images/coordinating-committee/CollierZ2021.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>-->
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -274,15 +249,7 @@ redirect_from: /leadership/
 </div>
 
 
-<!--<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Courtney Mumma</h3>
-        <p>Courtney C. Mumma (Long Term Conference Planning Working Group Co-Chair), is a an archivist and a librarian. She is the Deputy Director of the Texas Digital Library consortium, a collective of university libraries working towards open, sustainable, and secure digital heritage and scholarly communications. She has over a decade of experience in open source software development and maintenance, infrastructure support and digital preservation good practice and education.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/Mumma2020.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>-->
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -338,6 +305,51 @@ redirect_from: /leadership/
 </div>
 
 
+
+
+
+
+
+<!--<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Felicity Dykas</h3>
+        <p>Felicity Dykas (<a href="/groups/standards-and-practices/">Standards and Practices Interest Group</a> Co-Chair; 1st term, 2019-2021) is an adjunct instructor and Librarian IV Emerita at the University of Missouri. Previously, she served as Head of Digital Services at the University of Missouri Libraries, overseeing the work of MOspace (the University of Missouri institutional repository), the MU Digital Library, and digitization work. She also has experience as a cataloger, catalog department head, library website co-chair, and ILS redesign chair. Her professional interests include open access, equitable access to digital resources, long-term preservation of digital resources, the organization of information, and the development and promotion of useful standards for discovery and preservation of information resources.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Felicity Dykas" src="{{ '/images/coordinating-committee/Dykas2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>-->
+
+ <!--<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Elizabeth England</h3>
+        <p>Elizabeth England (1st term, 2021-2023) is Senior Digital Preservation Specialist at the U.S. National Archives and Records Administration, where she participates in strategic and operational initiatives and services for the preservation of born-digital and digitized records of the federal government. Prior to joining NARA, Elizabeth was the Digital Archivist and a National Digital Stewardship Resident (NDSR) at Johns Hopkins University. Elizabeth previously served as co-chair of the 2021 NDSA Staffing Survey and on the NDSA Communications and Publications Working Group.</p>
+    </div>
+    <div class="col-sm-2">
+         <img class="img-responsive" class="img-responsive" alt="Elizabeth England" src="{{ '/images/coordinating-committee/England2020.jpg' | prepend: site.baseurl }}"> 
+    </div>
+</div>-->
+
+<!--<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Courtney Mumma</h3>
+        <p>Courtney C. Mumma (Long Term Conference Planning Working Group Co-Chair), is a an archivist and a librarian. She is the Deputy Director of the Texas Digital Library consortium, a collective of university libraries working towards open, sustainable, and secure digital heritage and scholarly communications. She has over a decade of experience in open source software development and maintenance, infrastructure support and digital preservation good practice and education.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" class="img-responsive" alt="Courtney Mumma" src="{{ '/images/coordinating-committee/Mumma2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>-->
+
+<!--<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Jessica Neal</h3>
+        <p>Jessica C. Neal (1st term, 2021-2023) is an archivist, records manager, and memory worker. She is currently the Sterling A. Brown Archivist at Williams College and Records Management Program Assistant at the Massachusetts Institute of Technology. Jes’s work centers archives, preservation, data management, and developing ethical frameworks to better steward digital collections and projects that specifically focus on Black-led and -created social movements, oral histories, and literary history and culture. Jes received her B.A. in African World Studies from Dillard University and her M.L.I.S in Archival Studies from the University of Wisconsin-Milwaukee.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" class="img-responsive" alt="Jes Neal" src="{{ '/images/coordinating-committee/Jes2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>-->
+
 <!--<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Lance Stuchell</h3>
@@ -351,10 +363,10 @@ redirect_from: /leadership/
 
 <!--<div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Felicity Dykas</h3>
-        <p>Felicity Dykas (<a href="/groups/standards-and-practices/">Standards and Practices Interest Group</a> Co-Chair; 1st term, 2019-2021) is an adjunct instructor and Librarian IV Emerita at the University of Missouri. Previously, she served as Head of Digital Services at the University of Missouri Libraries, overseeing the work of MOspace (the University of Missouri institutional repository), the MU Digital Library, and digitization work. She also has experience as a cataloger, catalog department head, library website co-chair, and ILS redesign chair. Her professional interests include open access, equitable access to digital resources, long-term preservation of digital resources, the organization of information, and the development and promotion of useful standards for discovery and preservation of information resources.</p>
+        <h3>Linda Tadic</h3>
+        <p>Linda Tadic (2nd term, 2021-2023) is founder and CEO of Digital Bedrock, a managed digital preservation service provider that serves any type of organization, and even individuals. She has 30 years’ experience in leading preservation, metadata, and digital production operations at organizations such as ARTstor, HBO, the Media Archives and Peabody Awards Collection at the University of Georgia, and the Getty Research Institute. Over the course of 20 years, Linda also taught as an adjunct professor in UCLA’s Graduate School of Education and Information Studies (teaching Digital Asset Management), and at NYU’s Moving Image Archiving and Preservation program (courses in collection management and cataloging and metadata). She consults and lectures on digital asset management, audiovisual and digital preservation, metadata, and copyright, with clients as diverse as WNET/Thirteen, the Academy of Motion Picture Arts and Sciences, SBS (Australia), Dunhuang Research Academy (China), ESPN, and the Missouri History Museum. She is a founding member and former President of the Association of Moving Image Archivists (AMIA).</p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Felicity Dykas" src="{{ '/images/coordinating-committee/Dykas2020.jpg' | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Linda Tadic" src="{{ '/images/coordinating-committee/tadic.jpg' | prepend: site.baseurl }}">
     </div>
 </div>-->
