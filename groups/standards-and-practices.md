@@ -13,19 +13,19 @@ In addition, the Interest Group seeks to identify, promote and widely disseminat
 
 Smaller working groups frequently emerge from the Standards and Practices Interest Group. 
 
-*Take me to the [Standards and Practices Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-STANDARDS)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, please contact the coordinators.*
+*Take me to the [Standards and Practices Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-STANDARDS)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, click the subscribe link on the page.*
 
 ## Meetings
-  * NDSA Interest Groups now meet on a [rotating schedule](https://ndsa.org//2022/02/10/scheduling-changes-for-ndsa-interest-groups.html) with one per month to help members who have wanted to participate in multiple groups but didn't have the time for two or more calls a month.
+  * NDSA Interest Groups now meet on a rotating schedule<!--[rotating schedule](https://ndsa.org//2022/02/10/scheduling-changes-for-ndsa-interest-groups.html)--> with one per month to help members who have wanted to participate in multiple groups but didn't have the time for two or more calls a month.
   * All NDSA events can be found on the [NDSA Calendar](https://ndsa.org/about/calendar/)  
-  * The meetings for the Standards and Practices Interest Group are held the second Monday of the month at 1pm EST.  The 2023 dates are listed below:
+  * The meetings for the Standards and Practices Interest Group are held the second Monday of the month at 1pm EST.  The 2024 dates are listed below:
     * January 9th
-    * April 17th (date change)
-    * July 10th
-    * October 16th (date change)
+    * April 1st
+    * July 1st
+    * October 7th
   * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below.
   
-  * Call in information is available on the 2023 running [meeting agenda/notes document](https://docs.google.com/document/d/1uZTLsrxG1UX4tWSK1Gd_rVcbDG0qw1x5rR2DTHSMImw/edit#).  The 2022 [meeting agenda/notes](https://docs.google.com/document/d/13mvPbJ3bNUDMyvuQHac0YryiRPEnwHQY7Tk_x_e3n4c/edit) are also available.
+  * Call in information is available on the 2024 running [meeting agenda/notes document](https://docs.google.com/document/d/1Cw1-Ai7eDQSSHMvc6mfhDTe9tmZp3PiKpy8uwR6cDjQ/edit#heading=h.9rdeh36zoiwv).  The 2023 [meeting agenda/notes](https://docs.google.com/document/d/1uZTLsrxG1UX4tWSK1Gd_rVcbDG0qw1x5rR2DTHSMImw/edit#heading=h.9rdeh36zoiwv) are also available.
  
 <!--Current activities include:
 
