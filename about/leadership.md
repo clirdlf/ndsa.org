@@ -65,6 +65,17 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Chelsea Denault</h3>
+        <p>Chelsea Denault (1st term, 2024-2026) Chelsea leads the Michigan Digital Preservation Network, a program of the Midwest Collaborative for Library Services with support from the Library of Michigan. As the MDPN’s Coordinator, she works to build a community-centered statewide service focused on leveraging shared resources and expertise to make digital preservation affordable and accessible to all cultural memory institutions. As part of her efforts, Chelsea provides guidance and training on digital preservation in Michigan and leads the MDPN’s policy development and member recruitment. She also serves as the PI for the MDPN’s IMLS-funded grant to explore simplifying digital preservation workflows and provide training for non-technical users at under-resourced institutions in Michigan and beyond. Chelsea has served the NDSA on the DigiPres Conference Planning Committee (2021-2023) and the Long-Term Conference Planning Working Group. She also represents the MDPN in the Private LOCKSS Network (PLN) Community, and contributes to the Cross-PLN Technical Committee and the Shared Messaging Group. Before joining the MDPN, Chelsea was a public historian engaged in community outreach and collections work, and she holds an MA and a PhD in Public History/US History from Loyola University Chicago. Chelsea is guided by the MDPN’s commitment to small, underserved organizations, and plans to represent their needs on the Coordinating Committee.</p>
+    </div>
+    <div class="col-sm-2">
+         <img class="img-responsive" class="img-responsive" alt="Chelsea Denault" src="{{ '/images/coordinating-committee/Denault_2024.jpg' | prepend: site.baseurl }}"> 
+    </div>
+</div>
+
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Stacey Erdman</h3>
         <p>Stacey Erdman (1st term, 2022-2024; 2023 DigiPres Chair; <a href="/groups/membership/">Membership Working Group</a> Co-chair) is the Digital Preservation Librarian at University of Arizona Library. In this position, she has responsibility for designing and leading the digital preservation and curation program for UA Library. She is the former Digital Preservation Officer at Arizona State University; Digital Archivist at Beloit College; and Digital Collections Curator at Northern Illinois University. She has been a part of the Digital POWRR Project since its inception in 2012, and is serving as Principal Investigator for the recently funded IMLS initiative, the Digital POWRR Peer Assessment Program. Stacey currently serves on the 2021 NDSA Program Committee, the Membership Task Force, and was previously part of the Levels of Preservation Assessment subgroup. She received her MA in Library & Information Studies, with a concentration in Archival Administration from UW-Madison, and holds a Digital Archives Specialist certificate from the SAA.</p>
     </div>
