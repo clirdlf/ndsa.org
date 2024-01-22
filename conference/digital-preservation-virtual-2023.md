@@ -41,7 +41,7 @@ Reprising their presentations from the fall conference, we look forward to welco
 - Nicole Scalessa and Kimberly Gianfrancesco will present **How We Established a Digital Preservation Program at a Small Liberal Arts College: While Working Remote During a Pandemic**
   - Vassar College Libraries established a never before digital preservation program, joined the NDSA, hired a digital preservation librarian, and built campus wide collaborations during the pandemic. Scalessa and Gianfrancesco will share how they accomplished this with institutional support, while maintaining sustainable workflows and a manageable intake of materials.
 
-- Sybil Schaefer will present **Facing 1.5° Celsius: Planning Now for an Uncertain Future**
+- Sibyl Schaefer will present **Facing 1.5° Celsius: Planning Now for an Uncertain Future**
   - Digital preservation, at its most basic, is about risk management. Global warming increases not only the likelihood of the threats to digital preservation occurring, but occurring concurrently. We need to act now in order to safeguard our digital materials. This talk will discuss how we can get started preparing.
 
 - Sven Schlarb will offer a new presentation on **The eArchiving Initiative**
