@@ -19,9 +19,9 @@ New members will be added to a larger Working Group once additional work is iden
 ### Steering Group Members
 * Angela Beking (co-chair), Manager, Information and Data Management Policy / Gestionnaire, Politique de gestion de l'information et des données, Privy Council Office; Government of Canada
 * Jenny Mitcham (co-chair), Head of Good Practice and Standards, Digital Preservation Coalition
-* Karen Cariani, The David O. Ives Executive Director of the WGBH Media Library and Archives
 * Ann Hanlon, Head of Digital Collections and Initiatives, University of Wisconsin Milwaukee Libraries
 * Carol Kussmann, Digital Preservation Analyst, University of Minnesota Libraries
+* Elizabeth La Beaud, Head of Library Technology at the University of Southern Mississippi, and Director of the Mississippi Digital Library
 * Nancy McGovern, Associate for Digital Preservation Instruction and Practice, Global Archivist
 * Nathan Tallman, Digital Preservation Librarian, Penn State University Libraries
 
