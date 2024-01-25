@@ -19,6 +19,7 @@ All times listed in Eastern Standard Time.
 
 **January 31, 2024**
 
+* 10:45am-11:00am: Zoom Webinar Opens
 * 11:00am-11:25am: Opening remarks, looking ahead into 2024
 * 11:25am-11:45am: Navigating 21st-Century Digital Heritage as an Independent, Industry-Specific Archive
 * 11:45am-12:05pm: The eArchiving Initiative
@@ -27,9 +28,10 @@ All times listed in Eastern Standard Time.
 * 1:25pm-1:45pm: Gone in an Adobe Flash: Preserving Computational Electronic Art for Future Generations
 * 1:45pm-2:05pm: How We Established a Digital Preservation Program at a Small Liberal Arts College: While Working Remote During a Pandemic
 * 2:05pm-2:25pm: Digitizing Community Institution Collections at Texas Tech University Libraries
-* 2:25pm-3:25pm: NDSA Working Group Updates and closing
+* 2:25pm-3:00pm: NDSA Working Group Updates and closing
 
 **February 1, 2024**
+* 10:45am-11:00am: Zoom Webinar Opens
 * 11:00am-11:10am: Opening remarks
 * 11:10am-11:30am: NDSA Levels: You had input, we listened!
 * 11:30am-11:50am: There is a future if there is Truth: The Digital Legacy of the Colombia Truth Commission / Hay futuro si hay verdad
