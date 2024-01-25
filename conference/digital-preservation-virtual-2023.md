@@ -14,7 +14,34 @@ NDSA will be hosting a virtual event on January 31-February 1, 2024 for those un
 
 
 
-### Sessions and Schedule 
+### Schedule 
+All times listed in Eastern Standard Time.
+
+**January 31, 2024**
+
+* 11:00am-11:25am: Opening remarks, looking ahead into 2024
+* 11:25am-11:45am: Navigating 21st-Century Digital Heritage as an Independent, Industry-Specific Archive
+* 11:45am-12:05pm: The eArchiving Initiative
+* 12:05pm-1:05pm: Excellence Awards
+* 1:05pm-1:25pm: Break
+* 1:25pm-1:45pm: Gone in an Adobe Flash: Preserving Computational Electronic Art for Future Generations
+* 1:45pm-2:05pm: How We Established a Digital Preservation Program at a Small Liberal Arts College: While Working Remote During a Pandemic
+* 2:05pm-2:25pm: Digitizing Community Institution Collections at Texas Tech University Libraries
+* 2:25pm-3:25pm: NDSA Working Group Updates and closing
+
+**February 1, 2024**
+* 11:00am-11:10am: Opening remarks
+* 11:10am-11:30am: NDSA Levels: You had input, we listened!
+* 11:30am-11:50am: There is a future if there is Truth: The Digital Legacy of the Colombia Truth Commission / Hay futuro si hay verdad
+* 11:50am-12:10pm: Dualities of Digital Curation
+* 12:10pm-12:45pm: Virtualization for Processing and Accessing Digital Archives
+* 12:45pm-1:05pm: Break
+* 1:05pm-1:30pm: Facing 1.5° Celsius: Planning Now for an Uncertain Future
+* 1:30pm-2:25pm: The Curricular Asset Warehouse at the University of Illinois: A Digital Archive's Sustainability Case Study
+* 2:25pm-2:45pm: At the Right Time & In the Right Place: Digital Stewardship at Syracuse University Libraries
+* 2:45pm-3:00pm: Closing remarks
+
+### Session Details 
 As we finalize the schedule for the NDSA Virtual Event starting on January 31, the Program Committee wanted to share some additional details around the upcoming virtual program.
 
 **[Register Now](https://syracuseuniversity.zoom.us/webinar/register/WN_zdBtKQgeSGW9x9mBQGlW7A#/registration)**
@@ -47,7 +74,6 @@ Reprising their presentations from the fall conference, we look forward to welco
 - Sven Schlarb will offer a new presentation on **The eArchiving Initiative**
   - The E-ARK Consortium has been active for over ten years. This paper will present an overview of the eArchiving Procurement awarded to the Consortium by the European Commission as part of its Digital Europe Programme. The aims, goals, consortium, structure and main features of the eArchiving Initiative will be delineated.
 
-Look for additional program details (including final schedules, poster session information, and more!) as we head into the new year.
 
 <!--**All sessions will occur on Thursday, February 23, 2023**
 -->
