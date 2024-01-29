@@ -16,8 +16,35 @@ The Climate Watch Working Group will meet twice a month with regular assignments
 
 
 ## Group Members 
-The group is chaired by Sibyl Schaefer and is in the process of forming.  
+Sibyl Schaefer the Lead Vision and Strategy Coordinator and Tricia Patterson is the Lead Coordinator and Logistics. 
 
-Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) by Dec. 11, 2023 if you are interested in joining the group.
+Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have questions for the group.  
 
-
+- Sibyl Schaefer, Lead Vision and Strategy
+- Tricia Patterson, Lead Coordinator and Logistics
+- Elvia Arroyo-Ramirez
+- Natalie Baur
+- Susan Borda
+- Moriah Caruso
+- Kristen Chua
+- Sarah Cuk
+- Emily Holmes
+- Rachel Jacobson
+- Elizabeth-Anne Johnson
+- Jimi Jones
+- Tawnya Mosier Keller
+- Cal Lee
+- John Moran
+- Grayson Murphy
+- Amit Patil
+- Nina Patterson
+- Eric Phetteplace
+- Andy Potter
+- Kristen Schuster
+- Julie Shi
+- Danielle Spalenka
+- Kelly Spring
+- Hannah Tashjian
+- Natalie Vielfaure
+- Sophia van Hoek
+- Amy Wickner
