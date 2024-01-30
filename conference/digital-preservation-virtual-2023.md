@@ -55,7 +55,7 @@ Reprising their presentations from the fall conference, we look forward to welco
 - Ashley Champagne, Andrew Majcher, and Hilary Wang presenting **Gone in an Adobe Flash: Preserving Computational Electronic Art for Future Generations**
   - The “New Frameworks for Preserve and Publish Born-Digital Art” project is developing five preservation models for multimodal, born-digital, and born-computational artworks. The project team, led by Ashley Champagne at the Center for Digital Scholarship at Brown, will share solutions and challenges in creating generalizable models for these innovative works
 
-- Jimi Jones, Karin Hodgin Jones, Robyn Bianconi, and Liam Morton will present on **The Curricular Asset Warehouse At The University Of Illinois: A Digital Archive’s Sustainability Case Study**
+- Jimi Jones, Karin Hodgin Jones, Robyn Bianconi, and Liam Moran will present on **The Curricular Asset Warehouse At The University Of Illinois: A Digital Archive’s Sustainability Case Study**
   - This panel will feature several professionals from the University of Illinois at Urbana-Champaign, who will discuss how the digital asset management practices at the university’s high-throughput video production unit help to minimize its electronic waste. Participants will leave this session with real-world solutions that they can implement in their institutions.
 
 - Déirdre Joyce will present **At the Right Time and In the Right Place: Digital Stewardship at Syracuse University Libraries**
