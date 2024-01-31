@@ -26,5 +26,6 @@ Contact the co-chairs with any questions: Rachel Appel, rappel [at] upenn [dot] 
 - Ian Collins, Clinical Assistant Professor and Digital Services Librarian, University of Illinois-Chicago
 - Max Prud'homme, Director, Digital Curation, Oklahoma State University
 - Hannah Wang, Program Officer for Digital Infrastructure, Educopia Institute
+- Thomas Pulhamus, Digital Technology Librarian, University of Delaware
 
 
