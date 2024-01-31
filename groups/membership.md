@@ -25,7 +25,7 @@ Contact the co-chairs with any questions: Rachel Appel, rappel [at] upenn [dot] 
 - Jes Neal, Records Management Project Manager, Massachusetts Institute of Technology
 - Ian Collins, Clinical Assistant Professor and Digital Services Librarian, University of Illinois-Chicago
 - Max Prud'homme, Director, Digital Curation, Oklahoma State University
-- Hannah Wang, Program Officer for Digital Infrastructure, Educopia Institute
+- Hannah Wang, Digital Preservation Specialist, NARA
 - Thomas Pulhamus, Digital Technology Librarian, University of Delaware
 
 
