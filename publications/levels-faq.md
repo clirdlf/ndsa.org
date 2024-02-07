@@ -4,8 +4,8 @@ layout: page
 permalink: /publications/levels-of-digital-preservation/FAQ/
 ---
 Answers to frequently asked questions about the Levels of Digital Preservation are provided in a [shared document](https://docs.google.com/document/d/1jxj7hlV9LNO0grucz88CSyk_WHrc_uAQB-EYJjJvexY/edit?usp=sharing). 
-<!--
-### FAQ Questions about the Levels
+
+<!--### FAQ Questions about the Levels
 - [FAQ Questions about the Levels](#faq-questions-about-the-levels)
 - [Using the Levels](#using-the-levels)
 - [Questions and Answers](#questions-and-answers)
@@ -75,7 +75,6 @@ The self-assessment helps you understand where you are and to highlight gaps you
 
 Note that like any self-assessment task, the Levels are best used iteratively over time rather than as a one-off exercise. Aim to repeat the assessment at regular intervals, perhaps in line with an annual assessment or regular strategic planning exercise. It can be encouraging to see where improvements have been made, and equally important to be able to demonstrate where progress has been slow, allowing for future resources to be allocated in the areas where the need is greatest. A self assessment exercise like the levels Assessment Tool can be a stepping stone towards other activities to help your organisation move forward in digital preservation. 
 
-There are other self assessment or maturity modelling frameworks in digital preservation but the benefits of using the NDSA Levels specifically are that they focus on the technological aspects of your program, they are easy to understand and quick to use, and they are widely recognised and adopted. Working to complete your self-assessment can provide a helpful prompt when having conversations with IT or solution providers about how digital archives are stored and managed.If you want to talk to others in the digital preservation community about the NDSA Levels, there is a high chance they will understand what you are talking about!
--->
+There are other self assessment or maturity modelling frameworks in digital preservation but the benefits of using the NDSA Levels specifically are that they focus on the technological aspects of your program, they are easy to understand and quick to use, and they are widely recognised and adopted. Working to complete your self-assessment can provide a helpful prompt when having conversations with IT or solution providers about how digital archives are stored and managed.If you want to talk to others in the digital preservation community about the NDSA Levels, there is a high chance they will understand what you are talking about!-->
 
 
