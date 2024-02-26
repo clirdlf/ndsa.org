@@ -109,7 +109,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Shira Peltzman</h3>
-        <p>Shira Pelztman (1st term, 2023-2025) is the Digital Archivist for UCLA Library Special Collections where she works with stakeholders on an enterprise-wide basis to preserve and make LSC’s born-digital material accessible to the widest possible audience. As a current member of the NDSA Staffing Survey Working Group, she has seen firsthand the importance of undertaking this work collectively and the impact that it has on the field. Shira is interested in serving as a member of the NDSA Coordinating Committee because she would like to help guide and coordinate this work to maximize the quality, relevance, consistency, and overall effectiveness of the publications that come out of all Interest and Working Groups.</p>
+        <p>Shira Peltzman (1st term, 2023-2025) is the Associate Director for Preservation Digital Strategies at Yale University Library where she provides leadership and direction for digital preservation, media preservation, and preservation imaging. In her role she serves as an advocate for sustainable stewardship and works with stakeholders across campus to champion ambitious preservation initiatives that support enduring access to Yale’s digital collections.</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" class="img-responsive" alt="Shira Peltzman" src="{{ '/images/coordinating-committee/peltzman2022.jpg' | prepend: site.baseurl }}">
@@ -259,9 +259,6 @@ redirect_from: /leadership/
     </div>
 </div>
 
-
-
-
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Dan Noonan</h3>
@@ -276,13 +273,7 @@ redirect_from: /leadership/
 
 
 <div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Krista Oldham</h3>
-        <p>Krista Oldham (<a href="/groups/innovation-awards/">Excellence Awards Working Group</a> Co-Chair; 2nd term, 2021-2023) is the University Archivist at Texas A&M University, College Station, where her responsibilities include overseeing the acquisition, description, and preservation of University records, as well as supporting and promoting their use. Additionally, Krista provides oversight for the Texas A&M records management program. She earned a M.I.S. from the University of Tennessee, Knoxville and earned both a M.A. in History and a B.A. in History from the University of Arkansas, Fayetteville. Prior to starting her position at Texas A&M, Krista worked at Clemson University as the University Archivist, Haverford College as the College Archivist/Records Manager for Quaker and Special Collections and at the University of Arkansas, Fayetteville Special Collections as the Senior Archivist and the Senior Archives Manager. In addition to her archival work, Krista served as Co-Director of the Arkansas Delta Oral History Project, an initiative led by the endowed Brown Chair in English Literacy. She is a co-author of The Arkansas Delta Oral History Project: Culture, Place, and Authenticity, which was published in 2016 by Syracuse University Press.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" class="img-responsive" alt="Krista Oldham" src="{{ '/images/coordinating-committee/Oldham2020.jpg' | prepend: site.baseurl }}">
-    </div>
+   
 </div>
 
 <div class="row coordinating-committee">
@@ -379,5 +370,12 @@ redirect_from: /leadership/
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Linda Tadic" src="{{ '/images/coordinating-committee/tadic.jpg' | prepend: site.baseurl }}">
+    </div>
+     <div class="col-sm-10">
+        <h3>Krista Oldham</h3>
+        <p>Krista Oldham (<a href="/groups/innovation-awards/">Excellence Awards Working Group</a> Co-Chair; 2nd term, 2021-2023) is the University Archivist at Texas A&M University, College Station, where her responsibilities include overseeing the acquisition, description, and preservation of University records, as well as supporting and promoting their use. Additionally, Krista provides oversight for the Texas A&M records management program. She earned a M.I.S. from the University of Tennessee, Knoxville and earned both a M.A. in History and a B.A. in History from the University of Arkansas, Fayetteville. Prior to starting her position at Texas A&M, Krista worked at Clemson University as the University Archivist, Haverford College as the College Archivist/Records Manager for Quaker and Special Collections and at the University of Arkansas, Fayetteville Special Collections as the Senior Archivist and the Senior Archives Manager. In addition to her archival work, Krista served as Co-Director of the Arkansas Delta Oral History Project, an initiative led by the endowed Brown Chair in English Literacy. She is a co-author of The Arkansas Delta Oral History Project: Culture, Place, and Authenticity, which was published in 2016 by Syracuse University Press.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" class="img-responsive" alt="Krista Oldham" src="{{ '/images/coordinating-committee/Oldham2020.jpg' | prepend: site.baseurl }}">
     </div>
 </div>-->
