@@ -40,7 +40,6 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 - Kristen Schuster
 - Julie Shi
 - Danielle Spalenka
-- Kelly Spring
 - Hannah Tashjian
 - Natalie Vielfaure
 - Sophia van Hoek
