@@ -50,8 +50,10 @@ Several key points emerged from the 2021 survey and the [report](https://osf.io/
 #### 2019 Storage Infrastructure Survey Report
 - A [report](https://osf.io/uwsg7/) (PDF) written by the [Storage Survey Working Group](/groups/storage-survey/) provides a third look over time at the storage infrastructure being used across 89 institutions. 
 
-#### 2017 Fixity Survey Report
-- A [report](/documents/Report_2017NDSAFixitySurvery.pdf) (PDF, 977 KB) written by the [Fixity Working Group](/fixity) that addresses the “… clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements” raised in the 2015 NDSA National Agenda.
+#### Fixity Survey Reports
+- The [2021 report](https://osf.io/2qkea/) (PDF) written by the [Fixity Working Group](/fixity) follows up on the 2017 [report](/documents/Report_2017NDSAFixitySurvery.pdf) (PDF) and analyzes trends and evolving practices around fixity.  
+
+- The [2017 report](/documents/Report_2017NDSAFixitySurvery.pdf) (PDF, 977 KB) written by the [Fixity Working Group](/fixity) that addresses the “… clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements” raised in the 2015 NDSA National Agenda.
 
 #### "Checking Your Digital Content: What is Fixity, and When Should I be Checking It?
 - A [report](/documents/NDSA-Fixity-Guidance-Report-final100214.pdf) (PDF, 150 KB) written by a joint action team of the [Infrastructure](/working-groups/infrastructure/) and [Standards and Practices](/working-groups/standards-and-practices/) Working Groups that addresses the need for guidance on fixity and audit and repair strategies as a core goal of digital preservation. This document aims to help stewards answer these questions in a way that makes sense for their organization based on their needs and resources.
@@ -75,7 +77,9 @@ Several key points emerged from the 2021 survey and the [report](https://osf.io/
 - A [report](/documents/NDSA_AppraisalSelection_report_final102413.pdf) (PDF, 554 KB) of the Geospatial Content Team of the [Content Working Group](/working-groups/content/) considering both appraisal and selection activities as they effect decisions defining geospatial content of enduring value to the nation.
 
 #### Staffing for Effective Digital Preservation
-- A 2017 [report](/documents/Report_2017DigitalPreservationStaffingSurvey.pdf) (PDF, 1.9 MB) created by [Staffing Survey Working Group](/working-groups/staffing/), sharing what the group learned by surveying 133 institutions, including information on organization type and size, information on how organizations view their digital preservation organization and staffing situation, and ideas about staffing qualifications and training needs. The report also compares the survey results to the results of the 2012 Staffing Survey.  
+- A 2021 [report](https://osf.io/emwy4/) (PDF) created by the [Staffing Survey Working Group](/working-groups/staffing/), sharing what the group learned by surveying 269 individuals who responded to questions about the organization as well as about individuals. The 2021 survey builds on and expands beyond previous iterations, asking why and how digital preservation is happening and who is doing the work. 
+
+- A 2017 [report](/documents/Report_2017DigitalPreservationStaffingSurvey.pdf) (PDF, 1.9 MB) created by the [Staffing Survey Working Group](/working-groups/staffing/), sharing what the group learned by surveying 133 institutions, including information on organization type and size, information on how organizations view their digital preservation organization and staffing situation, and ideas about staffing qualifications and training needs. The report also compares the survey results to the results of the 2012 Staffing Survey.  
 
 - A 2013 [report](/documents/NDSA-Staffing-Survey-Report-Final122013.pdf) (PDF, 1.8 MB) created by the [Standards and Practices Working Group](/working-groups/standards-and-practices/), sharing what the group learned by surveying 85 institutions with a mandate to preserve digital content about how they staffed and organized their preservation functions. The [poster](/documents/NDSA-staff-survey-poster-ipres2012.pdf) (PDF, 1.2 MB) describing this survey won second place at iPRES 2012 More information in a [12/16/13 blog post](http://blogs.loc.gov/digitalpreservation/2013/12/just-released-staffing-for-effective-digital-preservation-an-ndsa-report/) on the Signal.
 
