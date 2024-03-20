@@ -8,7 +8,7 @@ redirect_from:
   - /join/
 ---
 **Ready to join** the NDSA? Please submit a brief **[membership application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform)** ([PDF preview](/documents/ndsaMembershipApplication_2021-09-27.pdf)). More information about the Membership application process is shared below.  
-## Membership Information hi
+## Membership Information
 NDSA member organizations are committed to long-term digital stewardship. Individuals from member organizations share expertise, tools, and practices to benefit local efforts while contributing to the stewardship of a growing collective collection of diverse digital content. Our members collaborate in many ways that benefit the digital preservation community and their organizations. NDSA depends on members contributing their efforts in a variety of ways such as participation in our Interest and Working Groups, in order to develop, expand, and share their knowledge and expertise. Learn more [about the NDSA](/about/).
 
 There are no fees or dues for membership in the NDSA, but members are expected to be engaged and contribute to and participate in NDSA initiatives.
