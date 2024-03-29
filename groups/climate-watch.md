@@ -37,7 +37,6 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 - Nina Patterson
 - Eric Phetteplace
 - Andy Potter
-- Kristen Schuster
 - Julie Shi
 - Danielle Spalenka
 - Hannah Tashjian
