@@ -30,7 +30,6 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 - Elizabeth-Anne Johnson
 - Jimi Jones
 - Tawnya Mosier Keller
-- Cal Lee
 - John Moran
 - Grayson Murphy
 - Amit Patil
@@ -38,7 +37,6 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 - Eric Phetteplace
 - Andy Potter
 - Julie Shi
-- Danielle Spalenka
 - Hannah Tashjian
 - Natalie Vielfaure
 - Sophia van Hoek
