@@ -12,6 +12,7 @@ GEM
       timers (~> 4.1)
     base64 (0.2.0)
     bigdecimal (3.1.8)
+    chronic (0.10.2)
     colorator (1.1.0)
     colorize (1.1.0)
     concurrent-ruby (1.2.3)
@@ -176,6 +177,8 @@ GEM
     rexml (3.2.8)
       strscan (>= 3.0.9)
     rouge (4.2.1)
+    rss (0.2.9)
+      rexml
     ruby-rc4 (0.1.5)
     ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
@@ -206,6 +209,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  chronic
   colorize
   dotenv
   geocoder
@@ -218,6 +222,7 @@ DEPENDENCIES
   jekyll-sitemap
   ra11y
   rake
+  rss
 
 BUNDLED WITH
    2.1.4

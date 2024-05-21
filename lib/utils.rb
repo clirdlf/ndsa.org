@@ -82,7 +82,7 @@ end
 # Wrapper for RSS functions
 module Rss
   def self.import(feed_url)
-    open(feed_url) do |rss|
+    URI.open(feed_url) do |rss|
       feed = RSS::Parser.parse(rss)
       feed.items.each do |item|
         Utils.write_post(item)
