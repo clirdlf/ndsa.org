@@ -35,9 +35,7 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 - Amit Patil
 - Nina Patterson
 - Eric Phetteplace
-- Andy Potter
 - Julie Shi
 - Hannah Tashjian
 - Natalie Vielfaure
-- Sophia van Hoek
 - Amy Wickner
