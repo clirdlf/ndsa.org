@@ -1,5 +1,5 @@
 ---
-title: Climate Watch Working Group other pages
+title: Foundational Climate Watch Resources Main Page
 layout: page
 permalink: /publications/climate-watch/climate-watch-resources/foundational-resources
 ---
