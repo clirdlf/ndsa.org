@@ -35,6 +35,20 @@ module Utils
   end
 
   def self.format_title(item)
+    # based on https://apidock.com/rails/ActiveSupport/Inflector/parameterize
+    # parameterized_string = item.title.downcase!
+
+    # parameterized_string.gsub!(/[^a-z0-9\-_]+/, '-')
+    # re_duplicate_separator = /-{2,}/
+    # re_leading_trailing_separator = /^-|-$/
+
+    # # No more than one of the separator in a row.
+    # parameterized_string.gsub!(re_duplicate_separator, '-')
+
+    # # Remove leading/trailing separator.
+    # parameterized_string.gsub!(re_leading_trailing_separator, "")
+    # parameterized_string
+
     item.title.split(%r{ |!|\?|/|:|&|-|$|,|“|”|’}).map do |i|
       i.downcase if i != ''
     end.compact.join('-')
