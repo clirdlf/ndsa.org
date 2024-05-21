@@ -26,7 +26,6 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 - Moriah Caruso
 - Kristen Chua
 - Emily Holmes
-- Rachel Jacobson
 - Elizabeth-Anne Johnson
 - Jimi Jones
 - Tawnya Mosier Keller
@@ -35,9 +34,7 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 - Amit Patil
 - Nina Patterson
 - Eric Phetteplace
-- Andy Potter
 - Julie Shi
 - Hannah Tashjian
 - Natalie Vielfaure
-- Sophia van Hoek
 - Amy Wickner
