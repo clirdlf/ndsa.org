@@ -18,3 +18,7 @@ This is a list of resources
 
 ### Topie 2
 Or this could provide info on the topic and link out to another page. (?)  Not sure if it matters how many pages we have.   
+
+
+
+[back to climate watch resources page](/publications/climate-watch/climate-watch-resources/)
