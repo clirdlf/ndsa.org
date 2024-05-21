@@ -4,7 +4,7 @@ FEED_URL = 'https://www.diglib.org/category/ndsa/feed/'
 
 Dotenv.load
 
-task default: %w(geocode:empty convert:all import:rss)
+task default: %w(import:rss)
 
 namespace :import do
   desc "Import NDSA feed"

@@ -52,7 +52,7 @@ GEM
     faraday-patron (1.0.0)
     faraday-rack (1.0.0)
     faraday-retry (1.0.3)
-    ffi (1.16.3)
+    ffi (1.16.3-x64-mingw-ucrt)
     fiber-annotation (0.2.0)
     fiber-local (1.1.0)
       fiber-storage
@@ -73,7 +73,7 @@ GEM
       google-apis-core (>= 0.11.0, < 2.a)
     google-apis-sheets_v4 (0.26.0)
       google-apis-core (>= 0.11.0, < 2.a)
-    google-protobuf (4.26.1)
+    google-protobuf (4.26.1-x64-mingw-ucrt)
       rake (>= 13)
     google_drive (3.0.7)
       google-apis-drive_v3 (>= 0.5.0, < 1.0.0)
@@ -143,11 +143,9 @@ GEM
     memoist (0.16.2)
     mercenary (0.4.0)
     mini_mime (1.1.5)
-    mini_portile2 (2.8.6)
     multi_json (1.15.0)
     multipart-post (2.4.1)
-    nokogiri (1.16.5)
-      mini_portile2 (~> 2.8.2)
+    nokogiri (1.16.5-x64-mingw-ucrt)
       racc (~> 1.4)
     os (1.1.4)
     parallel (1.24.0)
@@ -177,14 +175,13 @@ GEM
     rexml (3.2.8)
       strscan (>= 3.0.9)
     rouge (4.2.1)
-    rss (0.2.9)
+    rss (0.3.0)
       rexml
     ruby-rc4 (0.1.5)
     ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
-    sass-embedded (1.77.2)
+    sass-embedded (1.77.2-x64-mingw-ucrt)
       google-protobuf (>= 3.25, < 5.0)
-      rake (>= 13.0.0)
     signet (0.19.0)
       addressable (~> 2.8)
       faraday (>= 0.17.5, < 3.a)
@@ -199,14 +196,19 @@ GEM
       bigdecimal (~> 3.1)
     typhoeus (1.4.1)
       ethon (>= 0.9.0)
+    tzinfo (2.0.6)
+      concurrent-ruby (~> 1.0)
+    tzinfo-data (1.2024.1)
+      tzinfo (>= 1.0.0)
     uber (0.1.0)
     unicode-display_width (2.5.0)
+    wdm (0.1.1)
     webrick (1.8.1)
     yell (2.2.2)
     zeitwerk (2.6.14)
 
 PLATFORMS
-  ruby
+  x64-mingw-ucrt
 
 DEPENDENCIES
   chronic
@@ -223,6 +225,9 @@ DEPENDENCIES
   ra11y
   rake
   rss
+  tzinfo
+  tzinfo-data
+  wdm (~> 0.1.1)
 
 BUNDLED WITH
-   2.1.4
+   2.4.10
