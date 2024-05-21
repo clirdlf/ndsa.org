@@ -1,5 +1,5 @@
 ---
-title: Climate Watch Working Group
+title: Climate Watch Working Group other pages
 layout: page
 permalink: /groups/climate-watch/foundational.md
 ---
