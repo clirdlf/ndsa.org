@@ -35,7 +35,7 @@ module Utils
   end
 
   def self.format_title(item)
-    item.title.split(%r{ |!|/|:|&|-|$|,|“|”}).map do |i|
+    item.title.split(%r{ |!|\?|/|:|&|-|$|,|“|”|’}).map do |i|
       i.downcase if i != ''
     end.compact.join('-')
   end
