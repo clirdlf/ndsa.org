@@ -26,7 +26,6 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 - Moriah Caruso
 - Kristen Chua
 - Emily Holmes
-- Rachel Jacobson
 - Elizabeth-Anne Johnson
 - Jimi Jones
 - Tawnya Mosier Keller
