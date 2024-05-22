@@ -22,7 +22,7 @@ google-tracking-id: UA-9461551-2
 #paginate_path: "/news/page:num/"
 #paginate: 5
 
-exclude: ['.gitignore', '.env', '.git', 'node_modules', 'temp', 'vendor', 'gulpfile.js', 'package*.json', 'README.md', '*.rb']
+exclude: ['.gitignore', '.github', '.env', '.git', 'node_modules', 'temp', 'vendor', 'gulpfile.js', 'package*.json', 'README.md', '*.rb', 'lib', '.vscode', 'config.json', 'Rakefile']
 sass:
   style: compressed
 

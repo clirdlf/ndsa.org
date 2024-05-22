@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/clirdlf/ndsa.org.svg?branch=gh-pages)](https://travis-ci.org/clirdlf/ndsa.org)
-
 # Getting Started
 1. Clone the repo to your projects directory (`mkdir -p ~/projects && git clone git@github.com:clirdlf/ndsa.org.git`). If you have a new computer, you may need to [set up your keys](https://help.github.com/articles/generating-ssh-keys/).
 2. Make sure you're on the `gh-pages` branch (`cd ~/projects/ndsa.org && git checkout gh-pages`).
@@ -13,10 +11,14 @@ cd ~/projects/ndsa.org && git checkout gh-pages && bundle install
 ```
 
 ## Local Development
-- Use [Atom](https://atom.io/)
-- Use the [Jekyll-Atom](https://github.com/arcath/jekyll-atom) plugin
-- Start the server (Packages -> Jekyll -> Open Toolbar) and click **Start/Stop Server**
+- Use [Visual Studio Code](https://code.visualstudio.com/)
+- You can run the server in the VS Code command palette with (`cmd + shift + P` on mac; `ctrl + shift + P`) and type `Run Build task`. To stop the server, press `ctrl-c` in the terminal section.
 - Open your browser to [http://localhost:3000](http://localhost:3000)
+
+### Useful Extensions
+
+* [Liquid](https://marketplace.visualstudio.com/items?itemName=sissel.shopify-liquid)
+* [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 Every time you save a change, Jekyll will rebuild the website.
 
@@ -29,6 +31,7 @@ Committee members are welcome to make content edits to
 GitHub repository.
 
 Content edits can be easily made on the browser-based GitHub editor.
+
 - Find the relevant page (for example, the page for the Standards and
   Practices Interest Group is
 [standards-and-practices.md](https://github.com/clirdlf/ndsa.org/blob/gh-pages/standards-and-practices.md))
@@ -36,9 +39,7 @@ Content edits can be easily made on the browser-based GitHub editor.
 - Make the edits, add a [short description](http://chris.beams.io/posts/git-commit/), and commit the changes to the
   gh-pages branch
 
-For information on formatting, please review the [Markdown
-  Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). GitHub keyboard shortcuts can be found
-[here](https://help.github.com/articles/using-keyboard-shortcuts/).
+For information on formatting, please review the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). GitHub keyboard shortcuts can be found [here](https://help.github.com/articles/using-keyboard-shortcuts/).
 
 Here are a couple of helpful video tutorials for [**how to add members**](https://drive.google.com/file/d/1zZP02OOE01G-KgDybCFWIIskvCBq62gs/view?usp=sharing) and [**how to update the website**](https://drive.google.com/file/d/1LFqH_dXVgTycB-xSCkjVWXazN57Zi96Y/view?usp=sharing).
 
@@ -52,7 +53,13 @@ After the blog post has been published on the DLF website, you must run a `rake`
 $ rake import:rss
 ```
 
+> There is also a convenience method that will run this specific task by simply typing `rake`
+
 After running the `rake` task locally, the changes will need to be committed to git and pushed to GitHub in order to be deployed to ndsa.org
+
+---
+
+# Legacy
 
 ## Membership Data
 
