@@ -140,7 +140,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Jessica Venlet</h3>
-        <p>Jessica Venlet (1st Term, 2024-2026) works as the Assistant University Archivist for Digital Records and Records Management at the University of North Carolina at Chapel Hill Libraries. In this role, she is responsible for a variety of things related to both records management and digital preservation. In particular, she leads the processing and management of born-digital archival materials.</p>
+        <p>Jessica Venlet (1st Term, 2024-2026) works as the Project Manager for Digital Repository Technology at the University of Michigan Library. In this role, she is responsible for facilitating and coordinating the planning and implementation of digital repository systems that meet the library's digital preservation and access goals.</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Jessica Venlet" src="{{ '/images/coordinating-committee/Venlet_J2024.jpg' | prepend: site.baseurl }}">
