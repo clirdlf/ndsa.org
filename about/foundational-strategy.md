@@ -1,5 +1,5 @@
 ---
-title: Foundational Strategy
+title: NDSA 2024 Strategy
 layout: page
 permalink: /about/foundational-strategy/
 redirect_from: 
@@ -12,21 +12,8 @@ The NDSA is an international alliance of members that fosters advocacy, expertis
 ## Vision
 The NDSA operates in a world in which digital material of long term value receives appropriate, effective, and sustainable stewardship from the preservation community to protect and enhance its persistence, availability, and (re)use. The NDSA provides national leadership on digital preservation issues in the United States and participates in the global community.
 
-## Goals
-The NDSA membership invests collaborative stewardship action towards three primary objectives:
-1. Convening and sustaining an engaged community to advance digital stewardship theory and practice.
-2. Identifying, communicating, and advocating for the common needs, concerns, standards, and best practices of that community.
-3. Providing outreach, resources, training, and professional development opportunities to bolster the effectiveness, productivity, and continuity of that community.
-
-## Strategies and Activities
-The NDSA’s specific strategic priorities and initiatives are articulated in the NDSA Stewardship Agenda.  In general, these divide into four high-level categories:
-* *Communications and publications*, to promote community and raise public awareness
-* *Reports and guidance*, to advocate standards, encourage sustainable infrastructure, and broaden access to and use of preserved digital materials
-* *Knowledge exchange*, to facilitate cooperation and promote innovation
-* *Sustainable Governance*, to maintain a clear, transparent, and accountable governance structure for the NDSA
-
 ## Values and Principles
-NDSA values are described below and are followed by derived principles that guide the NDSA.
+The NDSA's values are described below, followed by derived principles that guide the organization.
 
 * STEWARDSHIP is the core value of the NDSA. This recognizes the vital role played by digital heritage materials in all aspects of modern life and the pressing need to collect, protect, and make that heritage available for future generations. <br><br>
 The NDSA and its members recognize that:
@@ -55,18 +42,21 @@ The NDSA and its members recognize that:
   * transparency is essential for trust and is needed for fruitful digital preservation partnerships;
   * open development and sharing of software and code enhances the community.
 
-## Code of Conduct
-As the Digital Library Federation (DLF) acts as the host organization for NDSA, NDSA groups follow DLF's [Code of Conduct](https://www.diglib.org/about/code-of-conduct/).
+## Goals and Strategies
+The NDSA invests collaborative stewardship action towards three primary goals:
+1. Convening and sustaining an engaged community to advance digital stewardship theory and practice. In the next five years, we aim to do this by:
+  * Strengthening and stabilizing NDSA’s shared governance by defining additional officer roles to distribute labor more equitably, establishing a longer term for Coordinating Committee Chair, and/or performing more active outreach.
+  * Investigating avenues to develop a sustainable funding model, including but not limited to restructuring membership options, hosting events, and seeking sponsorships.
+  * Improving the new member on-boarding process, and provide opportunities for new members to understand how to get involved with NDSA.<br><br>
+2. Identifying, communicating, and advocating for the common needs, concerns, standards, and good practices of the community. In the next five years, we aim to do this by:
+  * Producing and maintaining core publications, including the Levels of Digital Preservation and longitudinal survey reports on fixity, staffing, storage, and web archiving; and expand publications in response to the needs of the community.
+  * Developing a regularly occurring “community call” or town hall open to all members, featuring discussions on relevant issues and topics.
+  * Leveraging the Interest Groups to identify and develop new areas for advocacy, improved practices, and shared information.
+  * Expanding guidance and/or provide a framework to enable members to create new groups, such as regional affinity groups or NDSA student chapters at iSchools.<br><br>
+3. Providing outreach, resources, training, and professional development opportunities to bolster the effectiveness, productivity, and continuity of the community. In the next five years, we aim to do this by:
+  *  Providing professional development and leadership opportunities for NDSA members through service on Working Groups and Interest Groups.
+  *  Identifying partnerships to offer enhanced training opportunities and events for NDSA members.
+  *  Increasing transparency around leadership actions and decision-making by developing a mechanism (such as a newsletter) to better communicate NDSA news, resources, announcements, and relevant contributions from members.
+  *  Developing new channels to publicize NDSA resources and publications to make them more discoverable for NDSA members and the broader public. (See the [Digital Preservation Publications Index](https://www.digipres.org/publications/))
+  *  Investigating methods of assessing the effectiveness of NDSA groups and activities.<br><br>
 
-
-## Current Organization
-
-The work of the NDSA is organized by Interest Groups and lead by an elected Coordinating Committee. The [Digital Library Federation](https://www.diglib.org/) acts as the host organization of NDSA and provides leadership and program support. NDSA questions? Send an email to <ndsa@diglib.org>. DLF questions? <info@diglib.org>.
-
-## History
-
-The National Digital Stewardship Alliance was launched in July 2010 by the [National Digital Information Infrastructure and Preservation Program](http://www.digitalpreservation.gov/about/index.html) at the Library of Congress. Founding NDSA members participated in an [organizing workshop](http://www.digitalpreservation.gov/news/2011/20110105news_ndsaworkshop.html) that determined how the NDSA would be structured and established how it would function as a collaborative, volunteer organization.
-
-In creating NDIIPP, Congress charged the Library of Congress with building the capacity for public and private organizations across the United States to save digital content of current and future value to the nation. The NDSA’s initial members were drawn from NDIIPP's partnership network.
-
-The organization's 2016 move to the [Digital Library Federation](https://www.diglib.org/) at [CLIR](https://www.clir.org/) was an opportunity to re-affirm NDSA's values, partner with a new host that shares them, and begin expanding activities and connections in new spheres.
