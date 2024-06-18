@@ -3,6 +3,7 @@ title: Strategic Plan
 layout: page
 permalink: /about/strategic-plan/
 ---
+<!--Replaced by NDSA 2024 Strategy; redirecting to about/foundational-strategy/
 ## NDSA Leadership 2020 Strategy Map
 The following outlines the strategic priorities of the NDSA in 2020.
 
@@ -66,5 +67,5 @@ The following outlines the strategic priorities of the NDSA in 2020.
 - Develop and document an onboarding process for new CC members, new WG members and new NDSA members
 - Clarify our mission/action/guiding principles
 - Grow conference revenues to support dedicated program coordination role
-- Explore growing the annual conference to build enough of a funding stream to support hiring a program manager for NDSA at CLIR
+- Explore growing the annual conference to build enough of a funding stream to support hiring a program manager for NDSA at CLIR-->
 

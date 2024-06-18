@@ -5,6 +5,7 @@ permalink: /about/foundational-strategy/
 redirect_from: 
   - /values/
   - /about/foundational-principles/
+  - /about/strategic-plan/
 ---
 ## Mission
 The NDSA is an international alliance of members that fosters advocacy, expertise, leadership, support, and a community of practice for the preservation of digital heritage. The NDSA works to benefit the entire digital preservation community of practitioners, service providers, and organizations on behalf of the creators, owners, and users of digital heritage content.
