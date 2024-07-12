@@ -26,7 +26,6 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 - Moriah Caruso
 - Kristen Chua
 - Emily Holmes
-- Elizabeth-Anne Johnson
 - Jimi Jones
 - John Moran
 - Grayson Murphy
@@ -34,4 +33,4 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 - Eric Phetteplace
 - Julie Shi
 - Natalie Vielfaure
-- Amy Wickner
+
