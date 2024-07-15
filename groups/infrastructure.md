@@ -19,7 +19,7 @@ The Infrastructure Interest Group works to identify and share emerging practices
  * The 2024 dates are listed below:
     * March 18th
     * June 17th 
-    * September 16th
+    * September 30th (date change)
     * December 10th (Tuesday)
  
   * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below. 
