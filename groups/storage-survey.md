@@ -6,10 +6,10 @@ redirect_from: /working-groups/storage-survey/
 ---
 
 ## Background
-In [2011](http://www.dlib.org/dlib/may13/altman/05altman.html), [2013](http://www.dlib.org/dlib/july17/gallinger/07gallinger.html), and [2019](https://osf.io/uwsg7/) members of the NDSA Infrastructure Interest Group conducted surveys on the preservation storage practices of NDSA member organizations. The goal of these surveys was “to develop a snapshot of storage practices within the organizations of the NDSA and insight into how those practices change over time.”  The goal of the 2023 Survey is to gather current information and insight on trends, technologies, standards, and practices that impact digital preservation storage and evaluate changes from previous surveys.
+In [2011](http://www.dlib.org/dlib/may13/altman/05altman.html), [2013](http://www.dlib.org/dlib/july17/gallinger/07gallinger.html), and [2019](https://osf.io/uwsg7/) members of the NDSA Infrastructure Interest Group conducted surveys on the preservation storage practices of NDSA member organizations. The goal of these surveys was “to develop a snapshot of storage practices within the organizations of the NDSA and insight into how those practices change over time.”  The goal of the most recent Survey [2023](https://osf.io/9qp4w/) is to gather current information and insight on trends, technologies, standards, and practices that impact digital preservation storage and evaluate changes from previous surveys.  
 
-## 2023 Working Group Objectives 
-The 2023 Storage Survey Working Group will be releasing the 2023 Storage Survey in the fall of 2023, with the objective of producing a report on the survey findings by Summer of 2024. 
+## 2023 Storage Survey Report  
+The [2023 Storage Survey Report](https://osf.io/9qp4w/) was published in October of 2024.  The report documents the answers provided by 138 responents from 14 countries.   
 
 
 ### 2023 Storage Survey Team
@@ -23,7 +23,7 @@ The [2019 Storage Infrastructure Survey Report](https://osf.io/uwsg7/) was compl
 
 
 ## Get Involved
-THe Storage Survey Working group runs on a cycle.  To get invovled in the next round, please contact someone on the [Leadership Team](https://ndsa.org/about/leadership/) if you are interested in participating.
+THe Storage Survey Working group runs on a cycle.  The Storage Survey is expected to be completed again in 2026. To get invovled in the next round, please contact someone on the [Leadership Team](https://ndsa.org/about/leadership/) if you are interested in participating.
 
 <!--### 2019 Storage Survey Team
 - Laura Alagna, Chair, Northwestern University

@@ -22,14 +22,9 @@ New publications are announced on the [NDSA Blog](/news/), while links to a few 
 
 ### Highlighted Publication
 
-#### [2022 Web Archiving Survey](https://osf.io/n5myr/)
-The 2022 Web Archiving Survey was based off of previous surveys to provide long-term analysis while also allowing further reflections upon changes in the field.  Accounting for the growth of the web archiving field and its impact, the 2022 Working Group developed a survey guided by the following questions:
+#### [2023 Storage Infrastructure Survey](https://osf.io/9qp4w/)
+The 2023 Storage Infrastucture survey was was based off of previous surveys to provide long-term analysis while also allowing further reflections upon changes in the field. The survey received 138 complete responses, with most coming from the United States, but it did have a global reach across 14 countries. The 2023 survey also incorporated two new questions relating to storage and environmental impact. 
  
-- Why archive the web? 
-- What do cultural heritage workers collect through web archiving tools? 
-- What infrastructure do practitioners need to support web archiving efforts?
-- What does web archiving look like at different types of institutions in the United States and abroad? 
-
 
 <!--#### [2021 Staffing Survey](https://osf.io/emwy4/)
 The NDSA Staffing Survey is designed to gain insight into current staffing realities for digital preservation programs, and was substantially redesigned in 2021 based on feedback from previous surveys and changes in the field over the past decade.  
@@ -81,6 +76,9 @@ Several key points emerged from the 2021 survey and the [report](https://osf.io/
 - The [NDSA Infrastructure Working Group](/working-groups/infrastructure/) conducted a 2011 survey of member institutions on their institutions' current long-term archival storage for digital materials and projected storage needs for the future. The information from this survey was shared though a series of blog posts and an article and was published in D-Lib article in the May/June 2013 edition, "[NDSA Storage Report: Reflections on National Digital Stewardship Alliance Member Approaches to Preservation Storage Technologies.](http://www.dlib.org/dlib/may13/altman/05altman.html)" Early analysis of the survey is available here.
 
 #### Web Archiving Surveys
+
+- This [2022 report](https://osf.io/n5myr/) (PDF, 1.8 MB) as based off of previous surveys to provide long-term analysis while also allowing further reflections upon changes in the field.  Accounting for the growth of the web archiving field and its impact, the 2022 Working Group developed a survey guided by the following questions: Why archive the web?; What do cultural heritage workers collect through web archiving tools; What infrastructure do practitioners need to support web archiving efforts?; What does web archiving look like at different types of institutions in the United States and abroad? All related materials can be found in the linked OSF page. 
+
 - This [report](https://osf.io/ht6ay/) (PDF, 1.4 MB) on the results of the 2017 survey of U.S. organizations engaged in web archiving or in the process of planning a web archive was published in October 2018. The goal of the survey was to better understand the landscape of web archiving activities in the United States, including identifying the organizations or individuals involved, the types of web content being preserved, the tools and services being used, and the types of access being provided. A list of the survey questions is available [here](https://osf.io/m8wzr/) (PDF, 442 KB).
 
 - The [report](/documents/WebArchivingintheUnitedStates_A2016Survey.pdf) (PDF, 761 KB) on the results of the Winter 2016 survey of U.S. organizations engaged in web archiving or in the process of planning a web archive was published in Spring 2017. The goal of the survey was to better understand the landscape of web archiving activities in the United States, including identifying the organizations or individuals involved, the types of web content being preserved, the tools and services being used, and the types of access being provided. A list of the survey questions is available [here](/documents/2016NDSAWebArchivingSurvey_SurveyMonkey.pdf) (PDF, 136 KB).

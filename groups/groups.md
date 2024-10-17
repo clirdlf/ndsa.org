@@ -58,7 +58,7 @@ Working Groups are created on an as needed basis.  Once formed, groups may perfo
 - Conducts a survey about staffing practices and needs.  Reports have been published in [2012](https://osf.io/5vpxt/), [2017](https://osf.io/3rcqk/), and [2022](https://osf.io/emwy4/).  
 
 #### [Storage Survey](/groups/storage-survey/) (cyclical)
-- Works to collect information about storage infrastructures over time.  The 2019 Storage Survey Working Group was convened in late 2018 to gather new data on preservation storage practices. The goal of the [2019 survey](https://osf.io/uwsg7/) collected updated information in order to compare to the NDSA [2011](https://hdl.handle.net/1902.1/19768) and [2013](https://doi.org/10.7910/DVN/8NYC97) surveys, but to gather information on how new technologies or standards have impacted preservation storage.
+- Works to collect information about storage infrastructures over time.  The 2023 Storage Survey Working Group was convened in late 2023 to gather new data on preservation storage practices. The goal of the [2023 survey](https://osf.io/9qp4w/) was to collect updated information in order to compare to the NDSA [2011](https://hdl.handle.net/1902.1/19768), [2013](https://doi.org/10.7910/DVN/8NYC97), and [2019](https://osf.io/uwsg7/) surveys, and to gather information on how new technologies or standards have impacted preservation storage.
 
 #### [Web Archiving](/groups/web-archiving/) (cyclical)
 - Conducts a survey about web archiving activities to organizations engaged in web archiving or in the process of planning a web archive to take the NDSA Web Archiving Survey. Reports have been published in 2011, 2013, 2017, and 2023.
