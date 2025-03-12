@@ -15,14 +15,14 @@ The Content Interest Group will intentionally engage the priorities and importan
  * NDSA Interest Groups meet on a rotating schedule with one per month to help members who have wanted to participate in multiple groups but didn't have the time for two or more calls a month.
   * All NDSA events can be found on the [NDSA Calendar](https://ndsa.org/about/calendar/)  
 
-  * The meetings for the Content Interest Group are held the first Thursda of the month at 12pm EST. The 2024 dates are listed below:
-    * February 1st
-    * May 2nd
-    * August 1st
-    * November 7th
+  * The meetings for the Content Interest Group are held the first Thursday of the month at 12pm EST. The 2025 dates are listed below:
+    * February 6th
+    * May 1st
+    * August 7th
+    * November 13th
   * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below.
 
-  * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/1wfx6LoxRtCh1-nrCyAAwNVMpkJ6gAF6bVKNyyKYk8c8/edit?usp=sharing).  The [2023](https://docs.google.com/document/d/1mavvUmKEzIhIHKUsm5o6D9K36GhGOK73cbrevdjyNaU/edit?usp=sharing) meeting agenda/notes are also available.  
+  * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/1-ejkTU3loLW0GHfBPSmilJpvwXjfguZOiNPp1t6z_c0/edit?tab=t.0#heading=h.fix3im8mkote).  The [2024](https://docs.google.com/document/d/1IXgE8M1XKtCh1jFKl8YtwppaC9-XQPHGhLID0ZqHa20/edit?tab=t.0#heading=h.fix3im8mkote) meeting agenda/notes are also available.  
   
 
 

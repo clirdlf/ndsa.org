@@ -18,14 +18,14 @@ Smaller working groups frequently emerge from the Standards and Practices Intere
 ## Meetings
   * NDSA Interest Groups now meet on a rotating schedule<!--[rotating schedule](https://ndsa.org//2022/02/10/scheduling-changes-for-ndsa-interest-groups.html)--> with one per month to help members who have wanted to participate in multiple groups but didn't have the time for two or more calls a month.
   * All NDSA events can be found on the [NDSA Calendar](https://ndsa.org/about/calendar/)  
-  * The meetings for the Standards and Practices Interest Group are held the second Monday of the month at 1pm EST.  The 2024 dates are listed below:
-    * January 9th
-    * April 1st
-    * July 1st
-    * October 7th
+  * The meetings for the Standards and Practices Interest Group are held the second Monday of the month at 1pm EST.  The 2025 dates are listed below:
+    * January 13th
+    * April 14th
+    * July 14th
+    * October 20th
   * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below.
   
-  * Call in information is available on the 2024 running [meeting agenda/notes document](https://docs.google.com/document/d/1Cw1-Ai7eDQSSHMvc6mfhDTe9tmZp3PiKpy8uwR6cDjQ/edit#heading=h.9rdeh36zoiwv).  The 2023 [meeting agenda/notes](https://docs.google.com/document/d/1uZTLsrxG1UX4tWSK1Gd_rVcbDG0qw1x5rR2DTHSMImw/edit#heading=h.9rdeh36zoiwv) are also available.
+  * Call in information is available on the 2025 running [meeting agenda/notes document](https://docs.google.com/document/d/1OHxQ3gtNRiq2J6Ss1f9vVvAYg6VoRWhvqag-6bOuL08/edit?tab=t.0#heading=h.qmmvoe1um8h).  The 2024 [meeting agenda/notes](https://docs.google.com/document/d/1Cw1-Ai7eDQSSHMvc6mfhDTe9tmZp3PiKpy8uwR6cDjQ/edit?usp=sharing) are also available.
  
 <!--Current activities include:
 
