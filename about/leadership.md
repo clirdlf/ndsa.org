@@ -311,6 +311,16 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Danielle Taylor</h3>
+        <p>Danielle Taylor (2025 <a href="/groups/fixity/">Fixity Survey Working Group</a> Co-Chair) is the Digital Preservation Librarian at Indiana University Libraries. In this role, she provides vision and leadership to the establishment of a comprehensive digital preservation program that works across departments and IU campuses. Danielle has over 10 years of experience in various digital collections and preservation roles and brings experience in assessment and training to her current role. She has been an instructor and facilitator for the Digital POWRR Project since 2013.  Originally from the Chicago suburbs, Danielle received her Bachelor's in History from Saint Mary's College (Notre Dame, IN) and her Master's in Library and Information Studies from the University of Wisconsin-Madison.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Danielle Taylor" src="{{ '/images/coordinating-committee/TaylorD_2025.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Hannah Wang</h3>
         <p>Hannah Wang (2025 Staffing Survey Co-chair) is a Senior Digital Preservation Specialist at the U.S. National Archives and Records Administration. Prior to joining NARA, she held positions at Educopia Institute as the Program Officer for Digital Infrastructure and at the Wisconsin Historical Society as the Electronic Records & Digital Preservation Archivist; she has also taught graduate-level archives classes as an Associate Lecturer at the University of Wisconsin-Madison iSchool. She received her MSIS from University of North Carolina-Chapel Hill. Hannah has been involved in several NDSA initiatives, including the 2021 Staffing Survey and the Membership Working Group.
 </p>

@@ -7,7 +7,7 @@ redirect_from: /fixity/
 
 The Fixity Working Group was originally established May 31, 2016 as a joint collaboration of the [Standards & Practices Interest Group](http://ndsa.org/working-groups/standards-and-practices/) and the [Infrastructure Interest Group](http://ndsa.org/working-groups/infrastructure/) in order to move forward with reccomendations from the [Fixity Guidance Report](http://ndsa.org/documents/NDSA-Fixity-Guidance-Report-final100214.pdf) and the [NDSA National Agenda](http://ndsa.org/national-agenda/). The Fixity Working Group created the Fixity Survey as a way to address the "... clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements" raised in the 2015 NDSA National Agenda.  The survey set a baseline for activities being done in 2016.  Future work will build off of these initial results and work towards developing longitudinal studies.   
 
-The Fixity Working Group will be spinning up again in early 2025.  
+The Fixity Working Group kicked off it's most recent work in March of 2025.   
 
 <!--## Contact Us
 While the most recent survey work is complete, if you have any questions or are interested in working on the next iteration of this survey in a few years, please contact the Fixity Working Group at NDSA-Fixity [@] lists [dot] clir [dot] org.  -->
@@ -22,11 +22,15 @@ The 2025 Fixity Working group will:
   
 
 ## 2025 Working Group Members
-Recruiting additional members starting in January 2025.
-
 - Carol Kussmann (co-chair)
-
-  
+- - Matthew McEniry (co-chair)
+- Danielle Taylor (co-chair)
+- Lauren Goodley
+- Margaret Kidd
+- Kari May
+- Kathryn Michaelis
+- Krista Oldham
+- Aaron Paul
 
 ## Past Products and Activities
 
