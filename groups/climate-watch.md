@@ -21,8 +21,7 @@ Sibyl Schaefer the Lead Vision and Strategy Coordinator and Tricia Patterson is 
 Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have questions for the group.  
 
 - Sibyl Schaefer, Lead Vision and Strategy
-- Tricia Patterson, Lead Coordinator and Logistics
-- Elvia Arroyo-Ramirez
+- Julie Shi, Lead Coordinator and Logistics
 - Moriah Caruso
 - Kristen Chua
 - Emily Holmes
@@ -30,7 +29,7 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 - John Moran
 - Grayson Murphy
 - Nina Patterson
+- Tricia Patterson
 - Eric Phetteplace
-- Julie Shi
 - Natalie Vielfaure
 
