@@ -16,7 +16,7 @@ The Climate Watch Working Group will meet twice a month with regular assignments
 
 
 ## Group Members 
-Sibyl Schaefer the Lead Vision and Strategy Coordinator and Tricia Patterson is the Lead Coordinator and Logistics. 
+Sibyl Schaefer the Lead Vision and Strategy Coordinator and Julie Shi is the Lead Coordinator and Logistics. 
 
 Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have questions for the group.  
 
