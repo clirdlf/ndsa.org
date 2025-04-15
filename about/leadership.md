@@ -158,7 +158,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Jessica Venlet</h3>
-        <p>Jessica Venlet (1st Term, 2024-2026) works as the Project Manager for Digital Repository Technology at the University of Michigan Library. In this role, she is responsible for facilitating and coordinating the planning and implementation of digital repository systems that meet the library's digital preservation and access goals.</p>
+        <p>Jessica Venlet (1st Term, 2024-2026; <a href="/groups/excellence-awards/">Excellence Awards Working Group</a> Co-Chair; 1st term, 2025-2027) co-chair of Excellence Awards) works as the Project Manager for Digital Repository Technology at the University of Michigan Library. In this role, she is responsible for facilitating and coordinating the planning and implementation of digital repository systems that meet the library's digital preservation and access goals.</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Jessica Venlet" src="{{ '/images/coordinating-committee/Venlet_J2024.jpg' | prepend: site.baseurl }}">
@@ -261,7 +261,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Matthew McEniry</h3>
-        <p>Matthew McEniry (<a href="/groups/excellance-awards/">Excellence Awards Working Group</a> Co-Chair; 1st term, 2023-2025) is an Associate Librarian and the Director of the Digital Scholarship Lab at the Texas Tech University Libraries. The lab oversees multiple digitization projects including collections from the Southwest Collection/Special Collections Library, the Museum of Texas Tech, and other TTU research centers. He has a decade of experience involving digital stewardship including digitization, preservation, metadata description, and data management. In addition to his contributions to librarianship, he publishes on popular culture, graphic novels, and has presented at the Comic Arts Conference, on a supervillain chapter, at the 2019 San Diego Comic Con.
+        <p>Matthew McEniry (<a href="/groups/excellence-awards/">Excellence Awards Working Group</a> Co-Chair; 1st term, 2023-2025) is an Associate Librarian and the Director of the Digital Scholarship Lab at the Texas Tech University Libraries. The lab oversees multiple digitization projects including collections from the Southwest Collection/Special Collections Library, the Museum of Texas Tech, and other TTU research centers. He has a decade of experience involving digital stewardship including digitization, preservation, metadata description, and data management. In addition to his contributions to librarianship, he publishes on popular culture, graphic novels, and has presented at the Comic Arts Conference, on a supervillain chapter, at the 2019 San Diego Comic Con.
         </p>
     </div>
     <div class="col-sm-2">
