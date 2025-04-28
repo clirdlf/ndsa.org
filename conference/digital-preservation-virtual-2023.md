@@ -9,10 +9,6 @@ permalink: /conference/digital-preservation-virtual-2023/
 
 ### NDSA Virtual Event following the Digital Preservation 2023 Conference
 NDSA will be hosting a virtual event on January 31-February 1, 2024 for those unable to participate in the in-person conference in St. Louis last fall. The event will consist of panels and presentations and will take place over Zoom. All sessions are free and open to the public. 
-**[Register Now](https://syracuseuniversity.zoom.us/webinar/register/WN_zdBtKQgeSGW9x9mBQGlW7A#/registration)**
-
-
-
 
 ### Schedule 
 All times listed in Eastern Standard Time.
@@ -46,8 +42,6 @@ All times listed in Eastern Standard Time.
 ### Session Details 
 As we finalize the schedule for the NDSA Virtual Event starting on January 31, the Program Committee wanted to share some additional details around the upcoming virtual program.
 
-**[Register Now](https://syracuseuniversity.zoom.us/webinar/register/WN_zdBtKQgeSGW9x9mBQGlW7A#/registration)**
-
 At this event, we will hear from our new NDSA Chair, Bethany Scott who will welcome attendees and offer some thoughts on the coming year for NDSA. In addition, we will have an extended discussion and presentation with our NDSA Excellence Award winners as well as reports from our special interest and working groups, both of which offer an excellent way to get involved!
 
 Reprising their presentations from the fall conference, we look forward to welcoming back the following presenters: 
@@ -75,20 +69,6 @@ Reprising their presentations from the fall conference, we look forward to welco
 
 - Sven Schlarb will offer a new presentation on **The eArchiving Initiative**
   - The E-ARK Consortium has been active for over ten years. This paper will present an overview of the eArchiving Procurement awarded to the Consortium by the European Commission as part of its Digital Europe Programme. The aims, goals, consortium, structure and main features of the eArchiving Initiative will be delineated.
-
-
-<!--**All sessions will occur on Thursday, February 23, 2023**
--->
-
-### Registration Information<!--[Registration Link](https://events.zoom.us/ev/AkRIWrI1hxzkNRZhgdWUTpgF3ZWKY91mj_YQBfnxi2g8Rq6Nxzau~AggLXsr32QYFjq8BlYLZ5I06Dg)-->
-**Please join us by [registering](https://syracuseuniversity.zoom.us/webinar/register/WN_zdBtKQgeSGW9x9mBQGlW7A#/registration)**.
-
-
-
-
-
-<!--#### Related Events
-CLIR will also host virtual presentations in April; more information about that program can be found on [the DLF Forum Virtual Sessions web page](https://www.diglib.org/dlf-events/dlf-forum-virtual-event-sessions/).-->
 
 
 ### About the NDSA

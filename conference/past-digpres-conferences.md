@@ -3,7 +3,7 @@ title: Past Digital Preservation Conferences
 layout: page
 permalink: /conference/digital-preservation/past/
 ---
-An archive of _Digital Preservation_ meetings from 2016-2022, hosted by DLF: <!--Links to information about the _Digital Preservation_ meetings from 2016-:-->
+An archive of _Digital Preservation_ meetings from 2016-2024, hosted by DLF: <!--Links to information about the _Digital Preservation_ meetings from 2016-:-->
 
 - [Digital Preservation 2016](/conference/digital-preservation-2016)
 - [Digital Preservation 2017](/conference/digital-preservation-2017)
@@ -14,6 +14,8 @@ An archive of _Digital Preservation_ meetings from 2016-2022, hosted by DLF: <!-
 - [Digital Preservation 2022](/conference/digital-preservation-2022)
 - [Digital Preservation 2022 Virtual Event](/conference/digital-preservation-virtual-2022/)
 - [Digital Preservation 2023](/conference/digital-preservation-2023/)
+- [Digital Preservation 2023 Virtual Event](/conference/digital-preservation-virtual-2023/)
+- There was no conference held in 2024.  
 
 
 An archive of _Digital Preservation_ meetings from 2011-2014, when they were a combined NDIIPP-NDSA conference for the digital preservation community, is on the [Digital Preservation Meetings page](http://www.digitalpreservation.gov/meetings/) at the Library of Congress.
