@@ -38,7 +38,7 @@ Nominations for the 2023 Excellence Awareds have closed.  [Awards](https://ndsa.
 - Jessica Venlet, co-chair (University of Michigan Library)
 - Sarah Middleton (Digital Preservation Coalition Representative)
 - Brian Dietz (NC State University Libraries)
-- Farrell (Duke University Libraries)
+- \[Matthew\] Farrell (Duke University Libraries)
 - Elvia Arroyo-Ramirez (UC Irvine Libraries)
 - John Dewees (University of Rochester) 
 - Lauren Work (Yale University Library)
