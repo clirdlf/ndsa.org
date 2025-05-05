@@ -60,16 +60,16 @@ Participants from member organizations share in the advantages of the NDSA, incl
 NDSA membership applications are **reviewed quarterly** using the following process:
 
 1. Prospective members submit an application through the [online form](https://docs.google.com/forms/d/e/1FAIpQLScAtyX61Rmnp0uxB7daaqnKEVSbgip2C7nO92C9Ybzox7LpEw/viewform).
-2. The Vice Chair of the Coordinating Committee (CC) sends an email to the contacts listed in the application confirming receipt of application. 
+2. A representative of the Membership Group sends an email to the contacts listed in the application confirming receipt of application. 
 3. Applications are reviewed by the [Coordinating Committee](https://ndsa.org/about/leadership/) during a quarterly membership application review call. Any objections/concerns are discussed and applicants may be contacted if additional information is needed. If necessary, CC members conduct a vote.
-   - If approved, the CC Vice Chair 
+   - If approved, a representative of the Membership Group
      - sends a formal welcome to the applicant. Appropriate Interest Group (IG) and Working Group (WG) chairs are cc-ed so that they may welcome new members and add them to IG and WG lists/meeting invites;
      - adds new representatives to NDSA-ALL and new IG and WG members to the relevant mailing lists;
      - works with the Communications and Publications Working Group to
        - update the [member list/map](https://ndsa.org/membership/members/),
        - announce new members on NDSA-ALL and the [NDSA News blog](https://ndsa.org/news/),
        - announce new members on social media.
-   - If not approved, the CC Vice Chair sends a formal notice to the applicant stating the reasons why membership was not approved.
+   - If not approved, a representative of the Membership Group sends a formal notice to the applicant stating the reasons why membership was not approved.
 
 ### Membership Contacts[](#membership-contacts)
 NDSA defines the following type of membership contacts. The membership application will ask for both a *program representative* and an *authorized signatory*.
