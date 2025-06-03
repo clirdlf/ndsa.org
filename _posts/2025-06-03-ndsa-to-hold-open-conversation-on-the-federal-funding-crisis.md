@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NDSA to Hold Open Conversation on the Federal Funding Crisis
-date: '2025-06-04 9:00:00 +0000'
+date: '2025-06-03 15:24:00 +0000'
 ---
 
 The National Digital Stewardship Alliance (NDSA) invites all members of the digital preservation community to a Community Town Hall on the Federal Funding Crisis, taking place **Tuesday, June 24, 2025, at 2:00 PM ET / 11:00 AM PT** via Zoom.
