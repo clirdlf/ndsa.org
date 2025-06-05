@@ -9,11 +9,9 @@ redirect_from: /meetings/
 <!--<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres2023.png"  | prepend: site.baseurl }}'>-->
 
 
-### About the NDSA and Digital Preservation 2025
+### About the NDSA and Digital Preservation 2025 (Virtual)
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the NDSA Code of Conduct.
 <!-- [Code of Conduct](https://www.diglib.org/code). -->
-
-A specific date for Digital Preservation 2025 has not been identified yet but the conference will be held virtually in September/October 2025.
 
 <!--### Registration, Logistics, & Accommodations
 **Registration is closed.** 
@@ -21,9 +19,14 @@ A specific date for Digital Preservation 2025 has not been identified yet but th
 Conference details are available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).-->  
 
 ### Conference Details and Schedule
+Digital Preservation 2025 will be held virtually October 9th and 10th, 2025.  
+
 Registration is forthcoming in summer 2025.
 
-The conference will be held virtually in September/October 2025.
+### Call for Proposals
+The 2025 Digital Preservation Call for Proposals will be distributed to the community in June 2025.
+<!--
+ [You can view the CFP here.](/conference/digital-preservation-2023/cfp/)-->
 
 
 <!--#### Funding Support
@@ -58,39 +61,42 @@ Dr. Lee will give their keynote talk, "Kairotic and Kin-centric Archives: Addres
 ## 2025 DigiPres Organizing Committee
 - **John Dewees**, University of Rochester (2025 Co-Chair)
 - **Thomas Pulhamus**, University of Delaware (2025 Co-Chair)
+- Aaron Pahl, University of Alabama at Birmingham
+- Adriane Hanson, University of Georgia
+- Alex Chassanoff, UNC Chapel Hill
+- Amanda Greenwood, Claude Moore Health Sciences Library, University of Virginia 
+- Brenna Edwards, Harry Ransom Center
+- Brian Dietz, NC State University Libraries
+- Caleb Simone, NYC Municipal Archives - Department of Records + Info Services
+- Chelsea Wells, Amherst College Library
+- Daniela Cialfi, National Research Council of Italy
+- Devora Geller, YIVO Institute for Jewish Research
+- Dianne Dietrich, Cornell University Library
+- Dr Panagiotis Papageorgiou, International College Portsmouth (ICP)
+- Georgia Moppett, Open Preservation Foundation
+- Halley Grogan, Preservica
+- Irina Schmid, AUC
+- James Van Mil, University of Cincinnati Libraries
+- Janet Carleton, Ohio University Libraries
+- Jianshan Yang, Tulane University
+- Jing Han, UC Riverside Orbach Library
+- Lara Friedman-Shedlov, University of Minnesota
+- Lauren Work, Yale University Library
+- Lydia Fletcher, UT-Austin/TACC
+- Matthew Mariner, University of Rochester
+- Max Prud'homme, Oklahoma State University
+- Mego Franks, Wake Forest University School of Medicine
+- Michelle Macinsky, Temple University Libraries
+- Moira Stockton, The Pennsylvania State University
+- Olga Tladi, Botswana International University Of Science And Technology
+- Rita Johnston, University of Miami
+- Sadhana , St.Helens Archive services
+- Snowden Becker, LOCKSS Program, Stanford University Libraries
+- Sylvia, Namibia University of Science and Technology
+- Tabitha Samuel, Waring Historical Library
 
-<!--
-- **Stacey Erdman**, University of Arizona (2023 Chair)
-- **Déirdre Joyce**, Syracuse University (2023 Vice Chair/2024 Chair)
-- **Julie Allen**, The Open Preservation Foundation
-- **Shiraz Bhathena**, University of Wisconsin Milwaukee
-- **Jessica Branco Colati**, discoverygarden, inc.
-- **Chelsea Denault**, Michigan Digital Preservation Network
-- **Rebecca Dillmeier**, U.S. Holocaust Memorial Museum
-- **Nathan Gerth**, University of Nevada, Reno Libraries
-- **Stephen Klein**, CUNY Graduate Center
-- **Carol Kussmann**, University of Minnesota
-- **Matthew McEniry**, Texas Tech University
-- **Georgia Moppett**, The Open Preservation Foundation
-- **Rona Razon**, World Bank Group Archives 
-- **Aliya Reich**, CLIR / DLF
-- **Robin Ruggaber**, University of Virginia Library
-- **Panagiotis Papageorgiou**, International College Portsmouth
-- **Özhan Saglik**, Bursa Uludag University / University of British Columbia
-- **Jaime Schumacher**, Northern Illinois University
-- **Preetam Singhvi**, Trinity College Dublin
-- **Danielle Spalenka**, The Filson Historical Society
-- **Tammy Troup**, Independent Researcher
-- **Vijayakumar Varadarajan**, ADYPU Innovation University
-- **Andrew Weaver**, University of Washington-->
- 
-<!--## Sponsor Opportunities
-As a [Digital Preservation and DLF Forum sponsor](https://forum2023.diglib.org/sponsorship/) you will be part of the premier digital stewardship conference that fosters leadership, builds community, sets grassroots agendas, and organizes for action. Sponsorship options are limited and will go quickly! [Click here to view our 2023 sponsor pack.](https://forum2023.diglib.org/sponsorship/)-->
 
-### Call for Proposals
-The 2025 Digital Preservation Call for Proposals will be distributed to the community in June 2025.
-<!--
- [You can view the CFP here.](/conference/digital-preservation-2023/cfp/)-->
+
 
 ## Calendar and Past Meetings
 **Future Events:** For the latest on upcoming events, see our [NDSA calendar](/calendar).
