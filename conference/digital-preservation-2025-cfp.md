@@ -53,8 +53,7 @@ All submissions will be peer-reviewed by NDSA’s Digital Preservation 2025 Prog
 - Consider the contribution of the submission to the overall conference program
 - Recommend the proposal on a scale of 1-5 whether to reject or accept the proposal, and 
 - Rate their familiarity on a scale of 1-5 (1 being completely new, 5 being very familiar). 
-- They may also recommend the proposal for a shorter format.
-Broader community input will also be solicited through an open community voting process, which will inform the Planning Committee’s final decisions.
+- They may also recommend the proposal for presentation as a lightning talk. 
 
 ## Submit your Proposal
 - **[Submit your proposal](https://forms.gle/jT8eyB8TbG8otHk26)** now
