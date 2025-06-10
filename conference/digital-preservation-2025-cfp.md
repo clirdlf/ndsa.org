@@ -4,7 +4,7 @@ layout: page
 permalink: /conference/digital-preservation-virtual-2025/cfp/
 ---
 
-<!--<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres-2023-820x400.jpg"  | prepend: site.baseurl }}'>-->
+<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/2025NDSABannerImage.jpg"  | prepend: site.baseurl }}'>
 
 ## Conference Format and Dates 
 Digital Preservation 2025 will be a **virtual conference** held **October 9-10, 2025**.

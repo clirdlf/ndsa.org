@@ -5,7 +5,7 @@ permalink: /conference/
 redirect_from: /meetings/
 ---
 
-<!--<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres-2023-820x400.jpg"  | prepend: site.baseurl }}'>-->
+<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/2025NDSABannerImage.jpg"  | prepend: site.baseurl }}'>
 <!--<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres2023.png"  | prepend: site.baseurl }}'>-->
 
 
@@ -24,7 +24,7 @@ Digital Preservation 2025 will be held virtually October 9th and 10th, 2025.
 Registration is forthcoming in summer 2025.
 
 ### Call for Proposals
-The 2025 Digital Preservation Call for Proposals is now open and will close on July 7, 2025 at 11:59 p.m. Eastern Time. For more information or to submit a proposal, visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2025/cfp/). Presenters will be notified of their acceptance in late July.
+The 2025 Digital Preservation Call for Proposals is now open and will close on July 7, 2025 at 11:59 p.m. Eastern Time. For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2025/cfp/)**. Presenters will be notified of their acceptance in late July.
 <!--
  [You can view the CFP here.](/conference/digital-preservation-2023/cfp/)-->
 
