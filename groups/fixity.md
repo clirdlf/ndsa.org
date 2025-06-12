@@ -23,7 +23,7 @@ The 2025 Fixity Working group will:
 
 ## 2025 Working Group Members
 - Carol Kussmann (co-chair)
-- - Matthew McEniry (co-chair)
+- Matthew McEniry (co-chair)
 - Danielle Taylor (co-chair)
 - Lauren Goodley
 - Margaret Kidd
