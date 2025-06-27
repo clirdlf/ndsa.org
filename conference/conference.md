@@ -19,9 +19,16 @@ The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membe
 Conference details are available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).-->  
 
 ### Conference Details and Schedule
-Digital Preservation 2025 will be held virtually October 9th and 10th, 2025.  
+Digital Preservation 2025 will be held virtually October 9th and 10th, 2025 from 11:00 am EDT to 4:45 EDT on both days.  
 
-Registration is forthcoming in summer 2025.
+Registration is forthcoming in summer 2025. Registration rates for the conference are:
+- Not affiliated with NDSA Member Institution:$150
+- Employee of NDSA Member Institution: $100
+- Current Student: $50
+
+A process to request a registration fee waiver will be available for those currently experienceing financial hardship and will be open in conjunction with conference registration.  
+
+A list of [NDSA Member Insitutions](https://ndsa.org/membership/members/) can be found on the membership section of the website.
 
 ### Call for Proposals
 The 2025 Digital Preservation Call for Proposals is now open and will close on July 7, 2025 at 11:59 p.m. Eastern Time. For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2025/cfp/)**. Presenters will be notified of their acceptance in late July.
