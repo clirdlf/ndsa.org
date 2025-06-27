@@ -28,7 +28,8 @@ More information on award categories and previous awardees can be found below.
 As an even-number year, the DPC will be awarding the [Digital Preservation Awards](https://www.dpconline.org/events/digital-preservation-awards).  The Excellence Awards will be presented again in 2025.  During 2024, the Excellence Awards committee will be sharing more infomration about the award categories to help you prepare for the 2025 award nominations.  Stay tuned for informational blog posts and/or videos. -->
 
 ## 2025 NDSA Excellence Awards Call for Nominations
-Nominations for the 2025 Excellence Awards are now open. This is your chance! Help us highlight and celebrate exemplary digital preservation efforts. Submit nominations using [this form](https://docs.google.com/forms/d/e/1FAIpQLSe6XejadOy4SUkgRa02_Ryd3j26VAcdgeOGx3tcLaDKnB2d-Q/viewform). Nominations accepted until Monday, June 23, 2025. Questions can be directed to the working group co-chairs. 
+The call for nominations for the 2025 Excellence Awards is now closed.  
+Winners will be announced at the NDSA Digital Preservation conference this fall.  <!-- now open. This is your chance! Help us highlight and celebrate exemplary digital preservation efforts. Submit nominations using [this form](https://docs.google.com/forms/d/e/1FAIpQLSe6XejadOy4SUkgRa02_Ryd3j26VAcdgeOGx3tcLaDKnB2d-Q/viewform). Nominations accepted until Monday, June 23, 2025. Questions can be directed to the working group co-chairs. -->
 
 <!--## 2023 NDSA Excellence Awards 
 Nominations for the 2023 Excellence Awareds have closed.  [Awards](https://ndsa.org//2023/11/16/announcing-the-2023-ndsa-excellence-award-winners.html) were presented on November 15th as part of the Opening Plenary at the 2023 NDSA [Digital Preservation conference](https://ndsa.org/conference/digital-preservation-2023/) in St. Louis, Missouri, USA. Attendance at the conference is encouraged but not required for awardees or nominators. -->
@@ -43,6 +44,7 @@ Nominations for the 2023 Excellence Awareds have closed.  [Awards](https://ndsa.
 - John Dewees (University of Rochester) 
 - Lauren Work (Yale University Library)
 - Brenna Edwards (Harry Ransom Center, The University of Texas at Austin)
+- Doreen Dixon (Drake University)
 
 ## Past Award Recipients
 <!-- Innovation winners from [2012-2019](https://ndsa.org/groups/previous-innovation-awards/) are provided on a separate page. -->
