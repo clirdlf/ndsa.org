@@ -31,8 +31,8 @@ th, td {
 | 2021 	|    [Completed](https://osf.io/2qkea/)   	|                        	|        	|        [Completed](https://osf.io/emwy4/)        	|                	|           	|
 | 2022 	|        	|                        	|    Schedule under review   	|                 	|                	|    	|
 | 2023 	|        	|                        	|        	|                 	|        [Completed](https://doi.org/10.17605/OSF.IO/9QP4W)      	|    [Completed](https://osf.io/n5myr/)           	|
-| 2024 	|        	|            In Progress           	|       	|                	|                	|              	|
-| 2025 	|    X   	|                        	|        	|        Starting early 2025         	|                	|       X       	|
+| 2024 	|        	|            [In Progress](https://ndsa.org/groups/levels-of-preservation/)           	|       	|                	|                	|              	|
+| 2025 	|    [In Progress](https://ndsa.org/groups/fixity/)   	|                        	|        	|        [In Progress](https://ndsa.org/groups/staffing/)         	|                	|       X       	|
 | 2026 	|        	|                        	|       	|                 	|        X       	|               	|
 | 2027 	|        	|                        	|        	|                 	|                	|              	|
 | 2028 	|        	|                        	|       	|        X         	|                	|       X        	|
