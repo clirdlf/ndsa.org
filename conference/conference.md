@@ -31,7 +31,7 @@ A process to request a registration fee waiver will be available for those curre
 A list of [NDSA Member Insitutions](https://ndsa.org/membership/members/) can be found on the membership section of the website.
 
 ### Call for Proposals
-The 2025 Digital Preservation Call for Proposals is now open and will close on July 7, 2025 at 11:59 p.m. Eastern Time. For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2025/cfp/)**. Presenters will be notified of their acceptance in late July.
+The 2025 Digital Preservation Call for Proposals is now closed. <!--For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2025/cfp/)**.--> Presenters will be notified of their acceptance in late July.
 <!--
  [You can view the CFP here.](/conference/digital-preservation-2023/cfp/)-->
 

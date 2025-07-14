@@ -56,8 +56,10 @@ All submissions will be peer-reviewed by NDSA’s Digital Preservation 2025 Prog
 - They may also recommend the proposal for presentation as a lightning talk. 
 
 ## Submit your Proposal
-- **[Submit your proposal](https://forms.gle/jT8eyB8TbG8otHk26)** now
-- The submission deadline is **July 7, 2025 at 11:59 p.m.** Eastern Time. 
+<!--- **[Submit your proposal](https://forms.gle/jT8eyB8TbG8otHk26)** now
+- The submission deadline is **July 7, 2025 at 11:59 p.m.** Eastern Time. -->
+
+The call for proposals is now closed. 
 
 Presenters will be notified of their acceptance in **late July**.  All presenters will need to record their presentation to be played at the conference and then be available for the question and answer period live during the scheduled session time. Presenters will receive support in the form of tutorials, resources, and individual assistance. 
 
