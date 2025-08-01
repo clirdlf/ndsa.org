@@ -68,6 +68,7 @@ Dr. Lee will give their keynote talk, "Kairotic and Kin-centric Archives: Addres
 ## 2025 DigiPres Organizing Committee
 - **John Dewees**, University of Rochester (2025 Co-Chair)
 - **Thomas Pulhamus**, University of Delaware (2025 Co-Chair)
+- **Bethany Scott**, Yale University Library (2025 Co-Chair)
 - Aaron Pahl, University of Alabama at Birmingham
 - Adriane Hanson, University of Georgia
 - Alex Chassanoff, UNC Chapel Hill
