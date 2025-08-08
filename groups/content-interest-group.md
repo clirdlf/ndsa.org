@@ -4,8 +4,9 @@ layout: page
 permalink: /groups/content/
 redirect_from: /working-groups/content/
 ---
-**Content Interest Group Co-Chair:** Deon Schutte- deon [at] africamediaonline [dot] com
+**Content Interest Group Co-Chair:** On hiatus <!--Deon Schutte- deon [at] africamediaonline [dot] com-->
 
+The Content Interest Group is currently on hiatus.  Please reach out to Leadership with any questions.
 
 The Content Interest Group will intentionally engage the priorities and important resources promoted by the NDSA and the broader profession, and explore a broad array of topics related to preserving digital content, including: viable approaches to institutional collaboration; sharing strategies to address issues of scale and complexity; and the development of policies, practices, and community action to promote ethical and sustainable labor for digital stewardship.
 
@@ -18,8 +19,8 @@ The Content Interest Group will intentionally engage the priorities and importan
   * The meetings for the Content Interest Group are held the first Thursday of the month at 12pm EST. The 2025 dates are listed below:
     * February 6th
     * May 1st
-    * August 7th
-    * November 13th
+    * August 7th - cancelled
+    * November 13th - unknown status
   * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below.
 
   * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/1-ejkTU3loLW0GHfBPSmilJpvwXjfguZOiNPp1t6z_c0/edit?tab=t.0#heading=h.fix3im8mkote).  The [2024](https://docs.google.com/document/d/1IXgE8M1XKtCh1jFKl8YtwppaC9-XQPHGhLID0ZqHa20/edit?tab=t.0#heading=h.fix3im8mkote) meeting agenda/notes are also available.  
