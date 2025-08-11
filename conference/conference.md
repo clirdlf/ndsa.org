@@ -31,7 +31,7 @@ Registration for DigiPres 2025 is now open – secure your spot today!
 
 **Registration rates for DigiPres, October 9-10**
 - Non-member: $150
-- Member: $100 (Check the list of NDSA member organizations)
+- Member: $100 (Check the list of [NDSA member organizations](https://ndsa.org/membership/members/))
 - Student: $50 (Note: Attendees must be currently enrolled full-time in a degree- or diploma-granting program to be eligible. Proof of student status will be requested.)
 
 **Software Preservation Network (SPN) pre-conference event, October 8**
