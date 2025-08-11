@@ -42,7 +42,7 @@ Registration for DigiPres 2025 is now open – secure your spot today!
 **Registration waivers**
 
 
-To allow full participation by our global community, NDSA is offering a waiver of the registration fee for individuals who are facing financial hardship or for whom the fee would present a barrier to their participation. A limited number of waivers will be available to applicants who wish to participate in the DigiPres 2025 Conference, with preference given both to those who demonstrate active support for NDSA in their organizations and communities of practice, and to interested participants from the Global South. Please fill out this form to apply for a waiver. **Applications will be due by August 29.**
+To allow full participation by our global community, NDSA is offering a waiver of the registration fee for individuals who are facing financial hardship or for whom the fee would present a barrier to their participation. A limited number of waivers will be available to applicants who wish to participate in the DigiPres 2025 Conference, with preference given both to those who demonstrate active support for NDSA in their organizations and communities of practice, and to interested participants from the Global South. Please [fill out this form](https://forms.gle/aGy9NqraGSGCoBGX7) to apply for a waiver. **Applications will be due by August 29.**
 
 Applications will be evaluated by members of NDSA Leadership, and applicants will be notified of their application status as soon as the week of September 8. If you intend to apply, please do not register for DigiPres until you are notified of the status of your application. If you are awarded a waiver, you will receive a discount registration code to apply at checkout.
 
