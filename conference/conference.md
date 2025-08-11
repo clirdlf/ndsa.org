@@ -19,16 +19,35 @@ The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membe
 Conference details are available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).-->  
 
 ### Conference Details and Schedule
-Digital Preservation 2025 will be held virtually October 9th and 10th, 2025 from 11:00 am EDT to 4:45 EDT on both days.  
+Digital Preservation 2025 will be held virtually October 9th and 10th, 2025 from 11:00 am EDT to 4:45 EDT on both days. Proposals are currently being reviewed.  The schedule will be shared when available. 
 
-Registration is forthcoming in summer 2025. Registration rates for the conference are:
-- Not affiliated with NDSA Member Institution:$150
-- Employee of NDSA Member Institution: $100
-- Current Student: $50
 
-A process to request a registration fee waiver will be available for those currently experienceing financial hardship and will be open in conjunction with conference registration.  
+<!--A list of [NDSA Member Insitutions](https://ndsa.org/membership/members/) can be found on the membership section of the website.-->
 
-A list of [NDSA Member Insitutions](https://ndsa.org/membership/members/) can be found on the membership section of the website.
+### Conference Registration 
+Registration for DigiPres 2025 is now open – secure your spot today!
+
+**[REGISTER NOW](https://www.eventbrite.com/e/ndsa-digipres2025-registration-1556989149459?aff=oddtdtcreator)** via eventbrite hosted by NISO
+
+**Registration rates for DigiPres, October 9-10**
+- Non-member: $150
+- Member: $100 (Check the list of NDSA member organizations)
+- Student: $50 (Note: Attendees must be currently enrolled full-time in a degree- or diploma-granting program to be eligible. Proof of student status will be requested.)
+
+**Software Preservation Network (SPN) pre-conference event, October 8**
+- Free for one representative of each SPN member organization
+- $20 add-on with your DigiPres Conference registration for non-SPN members
+- SPN pre-conference only: $40
+
+**Registration waivers**
+
+
+To allow full participation by our global community, NDSA is offering a waiver of the registration fee for individuals who are facing financial hardship or for whom the fee would present a barrier to their participation. A limited number of waivers will be available to applicants who wish to participate in the DigiPres 2025 Conference, with preference given both to those who demonstrate active support for NDSA in their organizations and communities of practice, and to interested participants from the Global South. Please fill out this form to apply for a waiver. **Applications will be due by August 29.**
+
+Applications will be evaluated by members of NDSA Leadership, and applicants will be notified of their application status as soon as the week of September 8. If you intend to apply, please do not register for DigiPres until you are notified of the status of your application. If you are awarded a waiver, you will receive a discount registration code to apply at checkout.
+
+
+
 
 ### Call for Proposals
 The 2025 Digital Preservation Call for Proposals is now closed. <!--For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2025/cfp/)**.--> Presenters will be notified of their acceptance in late July.
