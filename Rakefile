@@ -6,6 +6,52 @@ Dotenv.load
 
 task default: %w(import:rss)
 
+POSTS_DIR = '_posts'
+
+namespace :new do
+  desc 'Create a new post'
+  task :post do
+    print "Post title: "
+    title = STDIN.gets&.strip
+    if title.nil? || title.empty?
+      abort "Error: title cannot be empty."
+    end
+
+    slug = title.split(%r{ |!|\?|/|:|&|-|$|,|“|”|’}).map do |i|
+      i.downcase if i != ''
+    end.compact.join('-')
+    
+    # Dates (UTC)
+    date_ymd = Date.today.strftime('%Y-%m-%d')
+    date_full = Time.now.utc.strftime('%Y-%m-%d %H:%M:%S %z')
+
+    # Ensure _posts directory exists
+    FileUtils.mkdir_p(POSTS_DIR)
+
+    # Build the filename
+    filename = "#{POSTS_DIR}/#{date_ymd}-#{slug}.md"
+    if File.exist?(filename)
+      abort "Error: file already exists: #{filename}"
+    end
+
+    # YAML front matter
+    front_matter = <<~YAML
+    ---
+    layout: post
+    title: "#{title.gsub('"', '\"')}"
+    date: '#{date_full}'
+    ---
+  YAML
+
+    # Write the file
+    File.write(filename, front_matter)
+    puts "Created: #{filename}"
+
+    # Open in VS Code if available
+    system("code", "-r", filename) if system("which code > /dev/null 2>&1")
+  end
+end
+
 namespace :import do
   desc "Import NDSA feed"
   task :rss do
