@@ -119,7 +119,7 @@ Dr. Lee will give their keynote talk, "Kairotic and Kin-centric Archives: Addres
 - Rita Johnston, University of Miami
 - Sadhana Annamalai, St.Helens Archive services
 - Snowden Becker, LOCKSS Program, Stanford University Libraries
-- Sylvia, Namibia University of Science and Technology
+- Sylvia Umana, Namibia University of Science and Technology
 - Tabitha Samuel, Waring Historical Library
 
 
