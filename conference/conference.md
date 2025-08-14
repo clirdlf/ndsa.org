@@ -21,6 +21,7 @@ Conference details are available on the [DLF Forum website](https://forum2023.di
 ### Conference Details and Schedule
 Digital Preservation 2025 will be held virtually October 9th and 10th, 2025 from 11:00 am EDT to 4:45 EDT on both days. Proposals are currently being reviewed.  The schedule will be shared when available. 
 
+There will be a Software Preservation Network (SPN) pre-conference event on October 8th from 1-3pm EDT. 
 
 <!--A list of [NDSA Member Insitutions](https://ndsa.org/membership/members/) can be found on the membership section of the website.-->
 
@@ -34,7 +35,7 @@ Registration for DigiPres 2025 is now open – secure your spot today!
 - Member: $100 (Check the list of [NDSA member organizations](https://ndsa.org/membership/members/))
 - Student: $50 (Note: Attendees must be currently enrolled full-time in a degree- or diploma-granting program to be eligible. Proof of student status will be requested.)
 
-**Software Preservation Network (SPN) pre-conference event, October 8**
+**Software Preservation Network (SPN) pre-conference event, October 8 (1-3pm EDT)**
 - Free for one representative of each SPN member organization
 - $20 add-on with your DigiPres Conference registration for non-SPN members
 - SPN pre-conference only: $40
