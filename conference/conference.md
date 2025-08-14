@@ -10,7 +10,7 @@ redirect_from: /meetings/
 
 
 ### About the NDSA and Digital Preservation 2025 (Virtual)
-The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the NDSA Code of Conduct.
+The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the [NDSA Code of Conduct](https://ndsa.org/about/code-of-conduct/).
 <!-- [Code of Conduct](https://www.diglib.org/code). -->
 
 <!--### Registration, Logistics, & Accommodations
