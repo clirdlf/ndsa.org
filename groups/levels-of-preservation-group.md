@@ -28,7 +28,7 @@ As part of the [review cycle](https://ndsa.org/groups/schedule/), the Levels Wor
 * Elizabeth La Beaud, Head of Library Technology at the University of Southern Mississippi, and Director of the Mississippi Digital Library
 * Nancy McGovern, Associate for Digital Preservation Instruction and Practice, Global Archivist
 * Keith Pendergrass, Digital Archivist, Harvard Business School
-* Nathan Tallman, Executive Director, APTrust
+
 <!--### Background on Working Group Activities
 The Levels of Digital Preservation Working Group was re-formed in 2018 with the main purpose of updating the Levels of Digital Preservation Matrix. The **full set activities of the 2018 group are provided on the [history](/groups/levels-of-preservation/history/) page** for the LOP Working Group.  The Levels are scheduled to be reviewed again in 2024.   -->
 
