@@ -6,7 +6,7 @@
 
 Events are at the heart of the NDSA’s mission to support digital stewardship professionals. Guided by the recommendations of the Events Strategy Working Group (2024–2025), we are working toward a year-round calendar of opportunities that includes:
 
-- The annual Digital Preservation (DigiPres) Conference
+- The annual [Digital Preservation (DigiPres) Conference](https://ndsa.org/conference/)
 - Regular virtual events such as town halls, brown-bag discussions, and educational presentations
 - Collaborative Designated Community Events hosted with partner organizations
 
@@ -21,7 +21,7 @@ We want these events to reflect the needs and creativity of our members. Do you 
 - Brown-bag or skill-share sessions
 - Educational presentations or workshops
  
- 
+
 [Submit your event suggestion here](https://forms.gle/ZDktH4y5a5N1F7Gr7)
  
 Your input will help NDSA create inclusive, sustainable programming that strengthens our community of practice year-round.
