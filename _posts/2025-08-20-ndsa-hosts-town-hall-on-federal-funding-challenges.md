@@ -1,0 +1,15 @@
+---
+layout: post
+title: "NDSA Hosts Town Hall on Federal Funding Challenges"
+date: '2025-08-20 16:46:32 +0000'
+---
+
+On June 24, 2025, the NDSA Membership Working Group hosted a community town hall to discuss the impacts of the ongoing federal funding crisis on digital preservation efforts across the United States. More than 80 participants joined the open session to share experiences, express concerns, and brainstorm strategies for navigating an increasingly uncertain landscape.
+
+The conversation highlighted widespread consequences of federal grant terminations, including layoffs, hiring and spending freezes, loss of research capacity, reduced support for international students, and significant morale challenges. Attendees reported scores of projects paused, defunded, or left in limbo—ranging from digitization and processing initiatives to grant-funded staffing and infrastructure efforts.
+
+Participants also contributed creative ideas for alternative support models, such as leveraging private foundations, shared infrastructure, public outreach, cross-sector partnerships, and directly empowering communities to preserve their own heritage. Several emphasized the need for more strategic advocacy, resource tracking, and collaboration across professional associations and sectors.
+
+As the federal funding landscape continues to shift, NDSA remains committed to convening space for community connection, sharing knowledge, and amplifying the value of digital preservation work. We invite you to explore the [full town hall notes](https://docs.google.com/document/d/1HX2U3YCOCJbLnFvj3MkbSmognkATHTIsDad7P5L8-K4/edit?tab=t.0). In addition, we have created a [companion community resource list](https://docs.google.com/document/d/12QQ1KNLADFH1vX7kGjUElrntKaDPwUJ5fc0okuS2aCY/edit?usp=sharing) to track public-facing documentation of affected programs, projects, and initiatives. This “living” document, built from examples like spreadsheets and Airtable databases, offers a way to collectively surface the scope of the crisis and share strategies for resilience. We encourage members to contribute links, examples, and updates.
+
+We also want your ideas for future community gatherings. Please take a moment to share your suggestions for virtual events by filling out our [NDSA Community Event Suggestions Form](https://forms.gle/wJByatqxQ6DM36wJ8). Whether you have a specific topic in mind or simply want to help shape what comes next, your input will help us build engaging opportunities for connection and collaboration. Feel free to reach out to the NDSA Membership Working Group co-chairs, Bethany Scott (bethany.scott \[at\] yale.edu) and Stacey Jones (staceynjones \[at\] arizona.edu if you have any questions). Together, we can support one another and chart paths forward in challenging times.
