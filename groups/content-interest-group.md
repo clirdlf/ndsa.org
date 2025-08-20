@@ -23,7 +23,7 @@ The Content Interest Group will intentionally engage the priorities and importan
     * November 13th - cancelled
   * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below.
 
- <!--> * Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/1-ejkTU3loLW0GHfBPSmilJpvwXjfguZOiNPp1t6z_c0/edit?tab=t.0#heading=h.fix3im8mkote). --> There are no shared notes for 2025, however [2024](https://docs.google.com/document/d/1IXgE8M1XKtCh1jFKl8YtwppaC9-XQPHGhLID0ZqHa20/edit?tab=t.0#heading=h.fix3im8mkote) meeting agenda/notes are available.  
+ <!--* Call in information is available on the running [meeting agenda/notes document](https://docs.google.com/document/d/1-ejkTU3loLW0GHfBPSmilJpvwXjfguZOiNPp1t6z_c0/edit?tab=t.0#heading=h.fix3im8mkote). --> There are no shared notes for 2025, however [2024](https://docs.google.com/document/d/1IXgE8M1XKtCh1jFKl8YtwppaC9-XQPHGhLID0ZqHa20/edit?tab=t.0#heading=h.fix3im8mkote) meeting agenda/notes are available.  
   
 
 
