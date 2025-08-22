@@ -4,15 +4,15 @@ layout: page
 permalink: /groups/climate-watch/
 ---
 
-In 2023, NDSA Leadership supported the launch of a Climate Watch working group to focus on issues surrounding climate change. The Climate Watch Working Group will scan and report on the most recent literature, news, and reports related to climate change and its impact on digital preservation. After the Climate Watch Working Group has established a solid grounding in this work, a Climate Preparation Working Group will be created in order to synthesize information collected by the Climate Watch Working Group and outline options for action by the digital preservation community. Both groups are expected to work closely together and members who sign up for the Climate Watch Working Group will be welcome to move to the Climate Preparation group when it is established.
+In 2023, NDSA Leadership supported the launch of a Climate Watch working group to focus on issues surrounding climate change. The Climate Watch Working Group will scan and report on the most recent literature, news, and reports related to climate change and its impact on digital preservation. Annotated bibliographies are produced quarterly and published on [Substack](https://ndsaclimatewatch.substack.com/) 
  
 
-## 2023 Group Objectives 
+## Group Objectives 
 - Produce regular annotated bibliographies on recent literature, news, and reports related to climate change and its impact on digital preservation
 - Create and add to an ongoing list of potential risks climate change poses to digital preservation work
 - Create and add to lists of core climate change information resources to get a solid grounding in the issue, help with future projections, and lobby for preservation resources
 
-The Climate Watch Working Group will meet twice a month with regular assignments between meetings. The expected time commitment is approximately 30 minutes to one hour a week in addition to the bimonthly meeting time.      
+The Climate Watch Working Group will meet once a month with regular assignments between meetings. The expected time commitment is approximately 30 minutes to one hour a week in addition to the bimonthly meeting time.      
 
 
 ## Group Members 
@@ -22,14 +22,17 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 
 - Sibyl Schaefer, Lead Vision and Strategy
 - Julie Shi, Lead Coordinator and Logistics
+- Nina Patterson
+- Tricia Patterson
+- Eric Phetteplace
+- James Van Mil
+
+<!--
 - Moriah Caruso
 - Kristen Chua
 - Emily Holmes
 - Jimi Jones
 - John Moran
 - Grayson Murphy
-- Nina Patterson
-- Tricia Patterson
-- Eric Phetteplace
 - Natalie Vielfaure
-
+-->
