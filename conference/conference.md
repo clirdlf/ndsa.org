@@ -19,7 +19,7 @@ The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membe
 Conference details are available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).-->  
 
 ### Conference Details and Schedule
-Digital Preservation 2025 will be held virtually October 9th and 10th, 2025 from 11:00 am EDT to 4:45 EDT on both days. Proposals are currently being reviewed.  The schedule will be shared when available. 
+Digital Preservation 2025 will be held virtually October 9th and 10th, 2025 from 11:00 am EDT to 4:45 EDT on both days. <!--Proposals are currently being reviewed.  -->Please see this [document](https://ndsa.org/documents/NDSA_2025_DigiPres_Conference_Abstracts.pdf) for information on all accepted conference presentations and lightning talks. The full schedule will be shared when available. 
 
 There will be a Software Preservation Network (SPN) pre-conference event on October 8th from 1-3pm EDT. 
 
@@ -42,16 +42,16 @@ Registration for DigiPres 2025 is now open – secure your spot today!
 
 **Registration waivers**
 
+Applications for registration fee waivers are now closed and will be evaluated by members of NDSA Leadership. Applicants will be notified of their application status as soon as the week of September 8. If you have applied, please do not register for DigiPres until you are notified of the status of your application. If you are awarded a waiver, you will receive a discount registration code to apply at checkout.
 
-To allow full participation by our global community, NDSA is offering a waiver of the registration fee for individuals who are facing financial hardship or for whom the fee would present a barrier to their participation. A limited number of waivers will be available to applicants who wish to participate in the DigiPres 2025 Conference, with preference given both to those who demonstrate active support for NDSA in their organizations and communities of practice, and to interested participants from the Global South. Please [fill out this form](https://forms.gle/aGy9NqraGSGCoBGX7) to apply for a waiver. **Applications will be due by August 29.**
+<!--To allow full participation by our global community, NDSA is offering a waiver of the registration fee for individuals who are facing financial hardship or for whom the fee would present a barrier to their participation. A limited number of waivers will be available to applicants who wish to participate in the DigiPres 2025 Conference, with preference given both to those who demonstrate active support for NDSA in their organizations and communities of practice, and to interested participants from the Global South. 
+Please [fill out this form](https://forms.gle/aGy9NqraGSGCoBGX7) to apply for a waiver. **Applications will be due by August 29.**
 
-Applications will be evaluated by members of NDSA Leadership, and applicants will be notified of their application status as soon as the week of September 8. If you intend to apply, please do not register for DigiPres until you are notified of the status of your application. If you are awarded a waiver, you will receive a discount registration code to apply at checkout.
+Applications will be evaluated by members of NDSA Leadership, and applicants will be notified of their application status as soon as the week of September 8. If you intend to apply, please do not register for DigiPres until you are notified of the status of your application. If you are awarded a waiver, you will receive a discount registration code to apply at checkout.-->
 
-
-
-
+<!--
 ### Call for Proposals
-The 2025 Digital Preservation Call for Proposals is now closed. <!--For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2025/cfp/)**.--> Presenters will be notified of their acceptance in late July.
+The 2025 Digital Preservation Call for Proposals is now closed. For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2025/cfp/)**. Presenters will be notified of their acceptance in late July.
 <!--
  [You can view the CFP here.](/conference/digital-preservation-2023/cfp/)-->
 
