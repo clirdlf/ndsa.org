@@ -44,7 +44,7 @@ Nominations for the 2023 Excellence Awareds have closed.  [Awards](https://ndsa.
 - John Dewees (University of Rochester) 
 - Lauren Work (Yale University Library)
 - Brenna Edwards (Harry Ransom Center, The University of Texas at Austin)
-- Doreen Dixon (Drake University)
+- Doreen Dixon (Clemson University Library)
 
 ## Past Award Recipients
 <!-- Innovation winners from [2012-2019](https://ndsa.org/groups/previous-innovation-awards/) are provided on a separate page. -->
