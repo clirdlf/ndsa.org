@@ -19,7 +19,7 @@ The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membe
 Conference details are available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).-->  
 
 ### Conference Details and Schedule
-Digital Preservation 2025 will be held virtually October 9th and 10th, 2025 from 11:00 am EDT to 4:45 EDT on both days. <!--Proposals are currently being reviewed.  -->Please see this [schedule](https://ndsa.org/documents/NDSA_2025_DigiPres_Conference_Schedule.pdf) for information on all accepted conference presentations and lightning talks. The full schedule will be shared when available. 
+Digital Preservation 2025 will be held virtually October 9th and 10th, 2025 from 11:00 am EDT to 4:45 EDT on both days. <!--Proposals are currently being reviewed.  -->Please see this [schedule](https://ndsa.org/documents/NDSA_2025_DigiPres_Conference_Schedule.pdf) for information on all accepted conference presentations and lightning talks.
 
 There will be a Software Preservation Network (SPN) pre-conference event on October 8th from 1-3pm EDT. 
 
