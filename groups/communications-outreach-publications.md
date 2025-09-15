@@ -24,7 +24,7 @@ The Communications and Publications Working Group generally meets monthly but al
 - Dan Noonan, Digital Preservation Librarian, The Ohio State University (co-chair)
 - Grete Graf, Digital Preservation Librarian, Yale University Library
 <!--- Sadie Menchen, Digital Strategist, Smith College Libraries-->
-- Mary Grace Kosta, Congregational Archivist, Congregation of the Sisters of St. Joseph in Canada
+- Mary Grace Kosta, Archival Consultant, Canada
 - Sibyl Schaefer, Digital Preservation Librarian/Chronopolis Program Manager, UC San Diego
 <!-- - Kathryn Michaelis, Digital Preservation Program Manager, Emory University Libraries (publication specialist)-->
 <!--- Nathan Tallman, Digital Preservation Librarian, Penn State--> 
