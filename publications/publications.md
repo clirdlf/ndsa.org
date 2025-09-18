@@ -6,25 +6,25 @@ redirect_from:
  - /activities-overview/
  - /publications/overview/
 ---
-The NDSA Interest and Working Groups produce reports, survey outcomes, and articles based off of their interests and work. The majority of these are made available on the <a href="https://osf.io/4d567/" target="_blank">NDSA OSF Repository <i class="fas fa-external-link-alt"></i></a>.  
+The NDSA Interest and Working Groups produce reports, survey outcomes, articles, and annotated bibliographies based off of their interests and work. The majority of these are made available on the <a href="https://osf.io/4d567/" target="_blank">NDSA OSF Repository <i class="fas fa-external-link-alt"></i></a>.  
 
 New publications are announced on the [NDSA Blog](/news/), while links to a few of the NDSA's main products such as the Levels of Digital Preservation and the NDSA Agenda are provided below.
 
-### Signature Publications
+### Signature Publication
 #### Levels of Digital Preservation
 - [2019 Levels of Digital Preservation Working Group](/activities/levels-of-digital-preservation/)
 - 2019 Levels of Digital Preservation Publications (<a href="https://osf.io/qgz98/" target="_blank">OSF Repository <i class="fas fa-external-link-alt"></i></a>)
 
-#### NDSA Agenda
+<!--#### NDSA Agenda
 - Previously called the National Agenda, the NDSA Agenda integrates the persepctive of dozens of experts and hundreds of institutions to provide funders and executive decision‐makers insight into emerging technological trends, gaps in digital stewardship capacity, and key areas for funding, research and development to ensure that today’s valuable digital content remains accessible and comprehensible in the future, supporting a thriving economy, a robust democracy, and a rich cultural heritage.
 - 2020 NDSA Agenda Publication (<a href="https://osf.io/3a7zn/" target="_blank">OSF Repository <i class="fas fa-external-link-alt"></i></a>)
-- The [NDSA Agenda Working Group](/national-agenda/) page provides background information on the work over the years and links to all available previous versions.
+- The [NDSA Agenda Working Group](/national-agenda/) page provides background information on the work over the years and links to all available previous versions.-->
 
 ### Highlighted Publication
 
-#### [2023 Storage Infrastructure Survey](https://osf.io/9qp4w/)
-The 2023 Storage Infrastucture survey was was based off of previous surveys to provide long-term analysis while also allowing further reflections upon changes in the field. The survey received 138 complete responses, with most coming from the United States, but it did have a global reach across 14 countries. The 2023 survey also incorporated two new questions relating to storage and environmental impact. 
- 
+#### [NDSA Climate Watch Substack](https://ndsaclimatewatch.substack.com/)
+In 2023, NDSA Leadership supported the launch of a Climate Watch working group to focus on issues surrounding climate change. The Climate Watch Working Group will scan and report on the most recent literature, news, and reports related to climate change and its impact on digital preservation. Annotated bibliographies are produced quarterly and published on Substack
+
 
 <!--#### [2021 Staffing Survey](https://osf.io/emwy4/)
 The NDSA Staffing Survey is designed to gain insight into current staffing realities for digital preservation programs, and was substantially redesigned in 2021 based on feedback from previous surveys and changes in the field over the past decade.  
@@ -37,7 +37,7 @@ Several key points emerged from the 2021 survey and the [report](https://osf.io/
 - **Generalized longitudinal trends can be seen over the last ten years.** Data comparison across the 2012, 2017, and 2021 surveys allows for the observation of some general trends, including around how well digital preservation is implemented at organizations. Across the last ten years that the survey has been conducted, dissatisfaction rates around the organization and implementation of digital preservation rose from just over one-third of respondents in 2012 to nearly half in 2017 and 2021.
 -->
 
-### Selected Publications
+### Selected Publications 
 
 #### Good Migrations: A Checklist for Migrating Your Digital Preservation Infrastructure
 - A [checklist](https://osf.io/zmy65/) (PDF) written by the NDSA Good Migrations Working Group that provides guidance for practitioners migrating all or components of their infrastructure.
@@ -71,6 +71,9 @@ Several key points emerged from the 2021 survey and the [report](https://osf.io/
 
 
 #### Storage Infrastructure Survey Reports
+
+- The [2023 Storage Infrastructure Survey](https://osf.io/9qp4w/) was was based off of previous surveys to provide long-term analysis while also allowing further reflections upon changes in the field. The survey received 138 complete responses, with most coming from the United States, but it did have a global reach across 14 countries. The 2023 survey also incorporated two new questions relating to storage and environmental impact. 
+ 
 - A [2019 report](https://osf.io/uwsg7/) (PDF) written by the [Storage Survey Working Group](/groups/storage-survey/) provides a third look over time at the storage infrastructure being used across 89 institutions. 
 
 - The [NDSA Infrastructure Working Group](/working-groups/infrastructure/) conducted a 2011 survey of member institutions on their institutions' current long-term archival storage for digital materials and projected storage needs for the future. The information from this survey was shared though a series of blog posts and an article and was published in D-Lib article in the May/June 2013 edition, "[NDSA Storage Report: Reflections on National Digital Stewardship Alliance Member Approaches to Preservation Storage Technologies.](http://www.dlib.org/dlib/may13/altman/05altman.html)" Early analysis of the survey is available here.
