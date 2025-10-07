@@ -26,9 +26,10 @@ There will be a Software Preservation Network (SPN) pre-conference event on Octo
 <!--A list of [NDSA Member Insitutions](https://ndsa.org/membership/members/) can be found on the membership section of the website.-->
 
 ### Conference Registration 
-Registration for DigiPres 2025 is now open – secure your spot today!
+Registration for DigiPres 2025 is now closed.
+<!--Registration for DigiPres 2025 is now open – secure your spot today!-->
 
-**[REGISTER NOW](https://www.eventbrite.com/e/ndsa-digipres2025-registration-1556989149459?aff=oddtdtcreator)** via eventbrite hosted by NISO
+<!--**[REGISTER NOW](https://www.eventbrite.com/e/ndsa-digipres2025-registration-1556989149459?aff=oddtdtcreator)** via eventbrite hosted by NISO-->
 
 **Registration rates for DigiPres, October 9-10**
 - Non-member: $150
