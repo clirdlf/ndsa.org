@@ -18,7 +18,7 @@ Congratulations to this year’s awardees\!
 
 **This year’s awardee in the Individual category is Tyler Walters.**
 
-**![Headshot of Tyler Walters][image1]**
+![Headshot of Tyler Walters][image1]
 
 Since the 1990s, Tyler Walters has led local, regional, and national developments in digital preservation. Most recently, as Dean of University Libraries at Virginia Tech University, Tyler brings together technologies, policies, and people to sustain and preserve digital materials. The teams supported by Tyler have launched multiple preservation and access platforms, serving different types of digital materials and different communities of users, including most recently the Virginia Tech Digital Library. The transparency with which Virginia Tech’s [Digital Preservation](https://guides.lib.vt.edu/digipres/vtechdigipres) policy and procedures are publicly documented are a model for digital preservation practitioners at other institutions. Likewise, Tyler’s work has established new library units and positions to strengthen efforts in digital curation and preservation. Tyler’s nominators noted nine positions created during an overall expansion of digital library and preservation efforts, all of which are connected in part or in whole to the ongoing work of digital preservation.
 
@@ -34,7 +34,7 @@ The **Educator Award** recognizes academics, trainers, and curricular endeavors 
 
 **This year’s awardee for the Educator Award is Folasade Adepoju.**
 
-**![Headshot of Folasade Adepoju][image2]**
+![Headshot of Folasade Adepoju][image2]
 
 Folasade is a librarian, a union leader, literacy advocate, and champion for education, gender rights, and environmental sustainability. Currently serving as Assistant Director in the Public Services department at the National Library of Nigeria Headquarters in Abuja, she has dedicated her career to advancing climate literacy, information accessibility, and library development across Nigeria. Folasade is being recognized for her accomplishments in advancing digital preservation education and advocacy at the national and international level. Through a series of webinars initiated in November 2024, Folasade designs and delivers impactful professional development programs, integrating digital preservation principles into academic curricula.
 
