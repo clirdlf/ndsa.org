@@ -48,6 +48,7 @@ Nominations for the 2023 Excellence Awareds have closed.  [Awards](https://ndsa.
 
 ## Past Award Recipients
 <!-- Innovation winners from [2012-2019](https://ndsa.org/groups/previous-innovation-awards/) are provided on a separate page. -->
+* [2025 Excellence Award Winners](https://ndsa.org//2025/10/10/announcing-the-2025-ndsa-excellence-award-winners.html)
 * [2023 Excellence Award Winners](https://ndsa.org//2023/11/16/announcing-the-2023-ndsa-excellence-award-winners.html)
 * [2021 Excellence Award Winners](excellence-awards-2021.md)
 * [2020 Innovation Award Winners](https://ndsa.org/2020/11/12/ndsa-announces-winners-of-2020-innovation-awards.html)
