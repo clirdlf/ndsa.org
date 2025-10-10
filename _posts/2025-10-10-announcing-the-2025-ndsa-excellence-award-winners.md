@@ -34,7 +34,7 @@ The **Educator Award** recognizes academics, trainers, and curricular endeavors 
 
 **This year’s awardee for the Educator Award is Folasade Adepoju.**
 
-![Headshot of Folasade Adepoju](C:\Users\gg532\Documents\GitHub\ndsa.org\ndsa.org\images\2025-excellence-awards\Adepoju.jpg)
+![Headshot of Folasade Adepoju](images\2025-excellence-awards\Adepoju.jpg)
 
 Folasade is a librarian, a union leader, literacy advocate, and champion for education, gender rights, and environmental sustainability. Currently serving as Assistant Director in the Public Services department at the National Library of Nigeria Headquarters in Abuja, she has dedicated her career to advancing climate literacy, information accessibility, and library development across Nigeria. Folasade is being recognized for her accomplishments in advancing digital preservation education and advocacy at the national and international level. Through a series of webinars initiated in November 2024, Folasade designs and delivers impactful professional development programs, integrating digital preservation principles into academic curricula.
 
