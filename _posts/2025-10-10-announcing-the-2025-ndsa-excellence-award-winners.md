@@ -18,7 +18,7 @@ Congratulations to this year’s awardees\!
 
 **This year’s awardee in the Individual category is Tyler Walters.**
 
-<img src="https://www.ndsa.org/images/2025-excellence-awards/Walters.jpg" alt="photo of Tyler Walters" width="300">
+<img src="https://www.ndsa.org/images/2025-excellence-awards/Walters.jpg" alt="photo of Tyler Walters" width="400">
 
 Since the 1990s, Tyler Walters has led local, regional, and national developments in digital preservation. Most recently, as Dean of University Libraries at Virginia Tech University, Tyler brings together technologies, policies, and people to sustain and preserve digital materials. The teams supported by Tyler have launched multiple preservation and access platforms, serving different types of digital materials and different communities of users, including most recently the Virginia Tech Digital Library. The transparency with which Virginia Tech’s [Digital Preservation](https://guides.lib.vt.edu/digipres/vtechdigipres) policy and procedures are publicly documented are a model for digital preservation practitioners at other institutions. Likewise, Tyler’s work has established new library units and positions to strengthen efforts in digital curation and preservation. Tyler’s nominators noted nine positions created during an overall expansion of digital library and preservation efforts, all of which are connected in part or in whole to the ongoing work of digital preservation.
 
@@ -52,7 +52,7 @@ Congratulations to Folasade\!
 
 In the United States, under the current administration, the federal government is removing, altering, and threatening the long-term access to federally funded research created by and for the American public. The individuals involved with the [Data Rescue Project (DRP)](https://www.datarescueproject.org/) saw an opportunity for action. As the nominator noted, “the grassroots response to this event, exemplified by the Data Rescue Project (DRP), has prevented the crisis from becoming a disaster, and deserves recognition. While previous changes in administration have resulted in modifications to websites, that information loss was mitigated by the End of Term crawl through the Internet Archive. However, this approach is insufficient for datasets.” Since February 2025, the DRP has served as a central support for those safeguarding US digital government data resources. This includes coordinating volunteers, enabling communication across collaborators, educating participants on robust data curation practices, and advocating for the long term preservation of and access to federally funded research. Through their volunteer coordination, documentation on data curation for data rescue, Data Rescue Tracker, and Data Rescue Event toolkit, the DRP is setting forth a playbook for future data rescue moments.
 
-<img src="https://www.ndsa.org/images/2025-excellence-awards/DRP.png" alt="photos of DRP steering committee members" width="300">
+<img src="https://www.ndsa.org/images/2025-excellence-awards/DRP.png" alt="photos of DRP steering committee members" width="400">
 
 Top row, left to right: Sebastian Majstorovic, Lynda Kellam, Lena Bohman  
 Middle row, l-r: Tess Grynoch, Amy Nurnberger  
@@ -68,7 +68,7 @@ Projects are recognized for activities whose goals or outcomes represent an inve
 
 **This year’s awardee in the Projects category is BACKER: Building Archival Capacity for Keeping Electronic Records**.
 
-<img src="https://www.ndsa.org/images/2025-excellence-awards/BACKER.png" alt="Map showing BACKER/SERI participants across 56 state, territory and DC archives" width="300">
+<img src="https://www.ndsa.org/images/2025-excellence-awards/BACKER.png" alt="Map showing BACKER/SERI participants across 56 state, territory and DC archives" width="500">
 
 The [project](https://statearchivists.org/funded-projects/) represents an effort by the Council of State Archivists (CoSA) and State Electronic Records Institute’s (SERI) work to build on years of previous SERI work, extending the impact of electronic records management and digital preservation education and training among the 56 state, territory, and District of Columbia archives. This work was specifically designed to increase capacities within these agencies, and was designed to be accomplished in a 4-year timeframe which responded to the time and budgetary constraints of CoSA members.
 
