@@ -73,7 +73,15 @@ redirect_from: /leadership/
     </div>
 </div>
 
-
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>John Dewees</h3>
+        <p>John Dewees (1st term, 2026-2028) is the Senior Digital Asset Management Specialist at the University of Rochester. In this role he manages the digital preservation and digital asset management program for the university libraries, oversees repository activities, and acts as a stakeholder for all interdepartmental digital project's governance.</p>
+    </div>
+    <div class="col-sm-2">
+         <img class="img-responsive" class="img-responsive" alt="John Dewees" src="{{ '/images/coordinating-committee/Dewees2025.JPG' | prepend: site.baseurl }}"> 
+    </div>
+</div>
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
