@@ -19,18 +19,22 @@ The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membe
 Conference details are available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).-->  
 
 ### Conference Details and Schedule
-Digital Preservation 2025 will be held virtually October 9th and 10th, 2025 from 11:00 am EDT to 4:45 EDT on both days. <!--Proposals are currently being reviewed.  -->Please see this [schedule](https://ndsa.org/documents/NDSA_2025_DigiPres_Conference_Schedule.pdf) for information on all accepted conference presentations and lightning talks.
+Digital Preservation 2025 was held virtually on October 9th and 10th, 2025 from 11:00 am EDT to 4:45 EDT on both days. <!--Proposals are currently being reviewed.  -->Please see this [schedule](https://ndsa.org/documents/NDSA_2025_DigiPres_Conference_Schedule.pdf) for information on accepted conference presentations and lightning talks.
 
-There will be a Software Preservation Network (SPN) pre-conference event on October 8th from 1-3pm EDT. 
+There was a Software Preservation Network (SPN) pre-conference event on October 8th from 1-3pm EDT. 
+
+### Presentation Recordings
+Recordings of all presentations and lightning talks are now available on the NDSA YouTube channel and distributed under a CC-BY 4.0 license. These sessions can be viewed in the NDSA's [Digital Preservation Conference 2025 playlist](https://www.youtube.com/playlist?list=PLbrnSo90UuHjdfnAgsnfISMw8kpK-D0DK).
 
 <!--A list of [NDSA Member Insitutions](https://ndsa.org/membership/members/) can be found on the membership section of the website.-->
 
-### Conference Registration 
+<!--### Conference Registration 
 Registration for DigiPres 2025 is now closed.
-<!--Registration for DigiPres 2025 is now open – secure your spot today!-->
+Registration for DigiPres 2025 is now open – secure your spot today!-->
 
 <!--**[REGISTER NOW](https://www.eventbrite.com/e/ndsa-digipres2025-registration-1556989149459?aff=oddtdtcreator)** via eventbrite hosted by NISO-->
 
+<!--
 **Registration rates for DigiPres, October 9-10**
 - Non-member: $150
 - Member: $100 (Check the list of [NDSA member organizations](https://ndsa.org/membership/members/))
@@ -44,7 +48,7 @@ Registration for DigiPres 2025 is now closed.
 **Registration waivers**
 
 Applications for registration fee waivers are now closed and will be evaluated by members of NDSA Leadership. Applicants will be notified of their application status as soon as the week of September 8. If you have applied, please do not register for DigiPres until you are notified of the status of your application. If you are awarded a waiver, you will receive a discount registration code to apply at checkout.
-
+-->
 <!--To allow full participation by our global community, NDSA is offering a waiver of the registration fee for individuals who are facing financial hardship or for whom the fee would present a barrier to their participation. A limited number of waivers will be available to applicants who wish to participate in the DigiPres 2025 Conference, with preference given both to those who demonstrate active support for NDSA in their organizations and communities of practice, and to interested participants from the Global South. 
 Please [fill out this form](https://forms.gle/aGy9NqraGSGCoBGX7) to apply for a waiver. **Applications will be due by August 29.**
 
