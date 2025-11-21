@@ -201,6 +201,16 @@ redirect_from: /leadership/
     </div>
 </div>
 
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Elena Colon-Marrero</h3>
+        <p>Elena Colon-Marrero (<a href="/groups/web-archiving/">Web Archiving Survey Working Group</a> Co-Chair) is the Archivist for Digital Curation at the Bentley Historical Library, University of Michigan. She has served in this position since 2021. At the Bentley, she is responsible for the preservation and access to born-digital materials. Previously Elena was the Digital Archivist at the Computer History Museum in Mountain View, California. At the Computer History Museum she was responsible for the preservation of the museum’s historical software collection. Elena is a member of the BitCurator Consortium's (BCC) Executive Council and has served as President of the BCC since 2024.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Elena Colon-Marrero" src="{{ '/images/coordinating-committee/ColonMarrero_2025.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
 <!--<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Brenda Burk</h3>
