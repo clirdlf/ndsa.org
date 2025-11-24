@@ -358,7 +358,15 @@ redirect_from: /leadership/
     </div>
 </div>
 
-
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Melissa Wertheimer</h3>
+        <p>Melissa Wertheimer (<a href="/groups/web-archiving/">Web Archiving Survey Working Group</a> Co-Chair) is a Senior Digital Collections Specialist for Web Archiving at the Library of Congress since 2025. She first joined the Library in 2018 in the Music Division as a Music Reference Specialist. Melissa is also an Adjunct Lecturer for graduate archives and digital curation courses at the University of Maryland College of Information. She regularly presents at conferences of organizations including the International Internet Preservation Consortium (IIPC), National Digital Stewardship Alliance (NDSA), Mid-Atlantic Regional Archives Conference (MARAC), and Music Library Association (MLA). Melissa currently serves as Co-Chair of  the NDSA Web Archiving Survey Working Group and Co-Chair of IIPC's Content Development Group. She has previously served as Chair of the Society of American Archivists (SAA) Web Archiving Section, MLA Archivist, MARAC mentor for early-career archivists, and member of the 2023 NDSA Web Archiving Working Group. Melissa has been an invited speaker about the intersections of information science and the performing arts at events hosted by the Library of Congress, Center for Digital Culture and Society at the University of Pennsylvania, University of Maryland College of Information, Digital Preservation Consortium, and National League of American Pen Women. She holds a Digital Archives Specialist Certificate from the Society of American Archivists; MLIS in Archives and Digital Curation from the University of Maryland, College Park; Master of Music in Piccolo from the Peabody Institute of the Johns Hopkins University; and Bachelor of Music in Flute from Ithaca College.</p>
+    </div>
+<div class="col-sm-2">
+        <img class="img-responsive" alt="Melissa Wertheimer" src="{{ '/images/coordinating-committee/Wertheimer-2025.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
 
 
 <!--<div class="row coordinating-committee">
