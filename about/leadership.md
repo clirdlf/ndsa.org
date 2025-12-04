@@ -149,6 +149,16 @@ redirect_from: /leadership/
     </div>
 </div>
 
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Danielle Taylor</h3>
+        <p>Danielle Taylor (1st Term, 2026-2028, 2025 <a href="/groups/fixity/">Fixity Survey Working Group</a> Co-Chair) is the Digital Preservation Librarian at Indiana University Libraries. In this role, she provides vision and leadership to the establishment of a comprehensive digital preservation program that works across departments and IU campuses. Danielle has over 10 years of experience in various digital collections and preservation roles and brings experience in assessment and training to her current role. She has been an instructor and facilitator for the Digital POWRR Project since 2013.  Originally from the Chicago suburbs, Danielle received her Bachelor's in History from Saint Mary's College (Notre Dame, IN) and her Master's in Library and Information Studies from the University of Wisconsin-Madison.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Danielle Taylor" src="{{ '/images/coordinating-committee/TaylorD_2025.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -337,15 +347,6 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Danielle Taylor</h3>
-        <p>Danielle Taylor (2025 <a href="/groups/fixity/">Fixity Survey Working Group</a> Co-Chair) is the Digital Preservation Librarian at Indiana University Libraries. In this role, she provides vision and leadership to the establishment of a comprehensive digital preservation program that works across departments and IU campuses. Danielle has over 10 years of experience in various digital collections and preservation roles and brings experience in assessment and training to her current role. She has been an instructor and facilitator for the Digital POWRR Project since 2013.  Originally from the Chicago suburbs, Danielle received her Bachelor's in History from Saint Mary's College (Notre Dame, IN) and her Master's in Library and Information Studies from the University of Wisconsin-Madison.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Danielle Taylor" src="{{ '/images/coordinating-committee/TaylorD_2025.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
