@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NDSA Governing Procedures
-permalink: /governing-procedures/
+permalink: /about/governing-procedures/
 ---
 
 ### Membership

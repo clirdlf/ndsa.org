@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NDSA Bylaws
-permalink: /bylaws/
+permalink: /about/bylaws/
 ---
 
 ### Article I. Name
