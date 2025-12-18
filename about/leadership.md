@@ -6,38 +6,29 @@ redirect_from: /leadership/
 ---
 
 <h3>Leadership Team</h3>
-<p>The NDSA Leadership consists of the elected Coordinating Committee,  the chairs/co-chairs of the <a href="/working-groups/">Interest and Working Groups</a>, and a representative from the <a href="https://www.diglib.org/">Host Organization</a>. Together,
-    the Coordinating Committee and the Interest and Working Group chairs work to articulate a long-term, strategic vision for NDSA. The Leadership group meets once a month online and in person once during the Digital Preservation Annual Conference.</p>
+<p>The NDSA Leadership Team is made up of the Coordinating Committee members, the co-chairs of Interest Groups, and the co-chairs of active Working Groups, which in collaboration provide strategic leadership for the organization.</p>
 
-<p>Select activities of the Leadership group include:</p>
+<p>Select activities of the Leadership Team include:</p>
 <ul>
-    <li>Approving new NDSA member applications.</li>
-    <li>Creating and reviewing NDSA publications (e.g. The NDSA Agenda).</li>
-    <li>Evaluating the effectiveness of the Interest and Working Groups and providing guidance and assistance to the Group chairs as appropriate. This can include recommending the creation, consolidation, or disbanding of Interest or Working Groups and working
-        to eliminate unnecessary duplication of effort.</li>
-    <li>Coordinating with DLF on administrative management of the NDSA.</li>
+    <li>Creating and/or reviewing NDSA publications.</li>
+    <li>Evaluating the effectiveness of the Interest and Working Groups and providing guidance and assistance to the Group chairs as appropriate. This can include recommending the creation, consolidation, or disbanding of Interest or Working Groups and working to eliminate unnecessary duplication of effort.</li>
+    <li>Coordinating with the host organization on administrative management of the NDSA.</li>
     <li>Working with international partners to extend digital preservation advocacy and awareness.</li>
-    <li>Working with parent organization to plan the DigiPres conference.</li>
-    <li>Creating and reviewing the annual roadmap for the NDSA.</li>
+    <li>Approving the timeline and initiating the creation of the program committee for the DigiPres conference.</li>
 </ul>
-
-<p>For items that need to be voted on, the Interest and Working group chairs are considered to be ex officio members; they do not vote and their presence is not counted as part of a quorum. Only the elected CC members may vote.</p>
 
 <h2>Coordinating Committee</h2>
-<p>Members may also pursue becoming a member of the Coordinating Committee (CC). Members of the Coordinating Committee serve a three-year elected position that works with the chairs of the Interest and Working groups on the strategic goals of the NDSA. Details
-    about the purpose, charge, and expectations of the committee are recorded in the <a href="https://docs.google.com/document/d/1tjGqH0B6T7kBti0Un6US_3pTnprdou-6O-SjZgkfDro/edit?usp=sharing">Coordinating Committee Information</a> document. The primary
-    responsibilities and expectations of individual CC members include:</p>
+<p>Members may also pursue becoming a member of the Coordinating Committee (CC). Members of the Coordinating Committee are elected to serve a three-year term, working with the chairs of the Interest and Working Groups on the strategic goals of the NDSA. Details about the purpose, charge, and expectations of the committee are recorded in the <a href="/about/bylaws/">Bylaws</a> and <a href="/about/governing-procedures/">Governing Procedures</a>.</p>
+    
+<p>The primary responsibilities and expectations of individual CC members include:</p>
 <ul>
+    <li>Setting the strategic vision and priorities for NDSA, updating eligibility standards for membership as necessary, and proposing changes to the mission or principles.</li>
+    <li>Nominating a Chair, Vice Chair, and Secretary from the elected CC members, and voting on elements of NDSA management.</li>
     <li>Approving and/or participating in Interest Groups and Working Groups as needed or required.</li>
     <li>Actively promoting and representing the work of the NDSA in their own professional communities.</li>
-    <li>Actively engaging in the ongoing work of the CC, with an expected 75% attendance record for monthly CC meetings. </li>
+    <li>Actively engaging in the ongoing work of the CC, with an expected 75% attendance record for monthly Leadership meetings.</li>
     <li>Communicating clearly, respectfully, and in a timely fashion to support active participation by all members of the project team, especially when leading or participating in CC projects.</li>
 </ul>
-
-<p>
-    The NDSA Leadership Group comprises the Coordinating Committee, the <a href="/working-groups/">Interest Group and Working Group co-chairs</a>, and the <a href="https://www.diglib.org/">Host Organization</a> representatives, which in collaboration
-    provide strategic leadership for the organization. Committee members serve staggered terms of three years.
-</p>
 
 <h2>Host Organization</h2>
 <p>NDSA derives its administrative and financial support through a Host Organization. The Host Organization:</p>
