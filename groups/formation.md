@@ -14,7 +14,7 @@ The Leadership team monitors activities of both Interest Groups and Working Grou
 ### Requirements
 * Groups must have at least one chair to help organize and facilitate the meetings, calls, and work to be done. For the sake of continuity, two co-chairs should be in place for each group.
 * Groups must have a minimum of three other participants from different organizations.
-* Groups shall follow the DLF’s Code of Conduct
+* Groups shall follow the NDSA's <a href="/about/code-of-conduct/">Code of Conduct</a>.
 * Groups will keep the Leadership team up to date with group activities through chair participation in the monthly Leadership meetings.
 * Groups will also update the annual strategic map, providing an outline of their anticipated activities for the year.
 * Group activities should be made public via the NDSA website, NDSA-All listserv, NDSA blog, and other means as appropriate.  
@@ -38,4 +38,4 @@ The Leadership team monitors activities of both Interest Groups and Working Grou
 * Reports will use NDSA branding as determined by the Communications and Publications Working Group.
 
 
-<font size="1">[page last updated: May 10, 2021]</font>
+<font size="1">[page last updated: December 18, 2025]</font>
