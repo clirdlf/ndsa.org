@@ -3,7 +3,6 @@ layout: post
 title: "The Future of NDSA"
 date: '2025-12-18 17:43:51 +0000'
 ---
-# The Future of NDSA
 
 As NDSA continues to evolve, the Coordinating Committee and broader leadership team would like to close the year by sharing updates on the current state of the organization and where NDSA is heading in 2026\. What follows is an edited version of the presentation given by NDSA Chair **Shira Peltzman** during the Digital Preservation 2025 session “**The State of the NDSA**.”
 
