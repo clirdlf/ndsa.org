@@ -4,8 +4,6 @@ title: NDSA Governing Procedures
 permalink: /governing-procedures/
 ---
 
-# NDSA Governing Procedures
-
 ### Membership
 
 **Application Process.** Membership is open. The process for submitting an application to join NDSA is made available on the NDSA website.

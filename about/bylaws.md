@@ -4,8 +4,6 @@ title: NDSA Bylaws
 permalink: /bylaws/
 ---
 
-# NDSA Bylaws
-
 ### Article I. Name
 
 The name of this organization is NDSA. It was formerly named the National Digital Stewardship Alliance. 
