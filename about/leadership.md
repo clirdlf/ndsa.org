@@ -86,18 +86,6 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Kari May</h3>
-        <p>Kari May (1st term, 2025-2027) began in the field of digital stewardship when she led the development and operation of Kentucky State Government Electronic Records Management Branch and launched the Kentucky State Digital Archives.  In 2018, she became the first Digital Archives & Preservation Librarian for the University of Pittsburgh Library System (ULS). She designed and implemented the ULS digital preservation program and continues to guide and develop strategies, workflows, documentation, and policies to safely guide digital assets from receipt to full, secure preservation. She became one of the university's NDSA representatives and a member of the Excellence (Innovation) Awards Working Group (EAWG) in 2019. In 2023, Kari became a Co-Chair for the EAWG and has sought to increase transparency and ensure equity and inclusion in all aspects of EAWG processes by initiating new activities and encouraging more standardization in completing and documenting the awards cycle. Kari has also been a member of the NDSA DigiPres Planning Committee (PC) for 2022 and the 2023 Storage Survey Working Group and is currently a member of the Events Strategy Working Group. Her work with other professional organizations includes Co-Chair of the 2025 BPE Program Committee, member of DLF PC 2020-2024, member of LD4 PC 2022, Digital Preservation Coalition Digital Preservation Awards guest Judge 2022, member of SAA Collection Management Steering Committee 2023-2025, and member of SAA’s bloggERS Editorial Team.
-        </p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Kari May" src="{{ '/images/coordinating-committee/May_April2023.JPG' | prepend: site.baseurl }}">
-    </div>
-</div>
-
-
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
         <h3>Margo Padilla</h3>
         <p>Margo Padilla (1st term, 2025-2027) is the Digital Preservation Librarian at New York University where she unifies strategies and processes across the Division of Libraries to facilitate the preservation of digital resources. Prior to NYU, she was the Digital Archivist at the New-York Historical Society where she led the development of infrastructure for collecting, preserving, and providing access to born-digital collections. Margo recently served as a member of the National Best Practices for Archival Accessioning Working Group born-digital accessioning and digital preservation subgroup, and previously participated in Collective Responsibility: National Forum on Labor Practices for Grant-Funded Digital Positions.
         </p>
