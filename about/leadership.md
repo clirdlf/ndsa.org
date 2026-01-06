@@ -76,6 +76,13 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Lauren Goodley</h3>
+        <p>Lauren Goodley is the Digital Archivist at Texas State University.</p>
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Louisa Kwasigroch</h3>
         <p>Louisa Kwasigroch (<a href="https://www.clir.org/">CLIR</a> representative) is the director of outreach and engagement for the Council on Library and Information Resources (CLIR) and Interim Senior Program Officer for the Digital Library Federation (DLF). Her mission at CLIR centers around working with members, funders, affiliates, and the overlapping library/information communities to find places to collaborate and further the field. Louisa’s experience spans organizational design, marketing, business development, nonprofit management, fundraising, and communications. She is a Kodak Portfolio award-winning photographer and part of the Beta Phi Mu International Library & Information Studies Honor Society. Her work in higher education and library and information science is dedicated to breaking down barriers via cross-industry collaboration. Louisa holds a Master of Business Administration and a Master of Science in Library and Information Science from the University of Illinois at Urbana-Champaign, and a Bachelor of Arts in photography from Columbia College Chicago.</p>
     </div>
