@@ -102,8 +102,6 @@ redirect_from: /leadership/
     </div>
 </div>
 
-
-
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Shira Peltzman, 2025 Chair</h3>
@@ -111,17 +109,6 @@ redirect_from: /leadership/
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" class="img-responsive" alt="Shira Peltzman" src="{{ '/images/coordinating-committee/peltzman2022.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
-
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Deon Schutte</h3>
-        <p>Deon Schutte (1st term, 2023-2025; <a href="/groups/content/">Content Interest Group</a> Co-Chair; 1st term, 2022-2024) worked as a freelance typesetter in the educational publishing industry in South Africa for many years. In 2018 he completed his B.INF (Bachelor of Information Science) through the University of South Africa and his B.INF Honours in 2019. Deon is a MPhil (Master of Philosophy, specialising in Digital Curation) student at the University of Cape Town. He is a Fellow of the South African Chefs Association, the Chair of the Association of Southern African Indexers and Bibliographers and he serves on the Coordinating Committee of the NDSA, he is a national committee member of the ISO/SABS/Technical Committee 0046 (Information and documentation), and further serves on the Dewey Decimal Classification (DDC) Editorial Policy Committee (EPC). Deon lives in Pietermaritzburg (ZA) and is a freelance consultant for metadata quality control, curation of collections, digital arrangement of archives and quality assurance of projects.     
-        </p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Deon Schutte" src="{{ '/images/coordinating-committee/schutte2022.jpeg' | prepend: site.baseurl }}">
     </div>
 </div>
 
