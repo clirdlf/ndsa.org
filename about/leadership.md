@@ -76,6 +76,13 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Rebecca Frank</h3>
+        <p>Rebecca Frank is Assistant Professor at the University of Michigan School of Information.</p>
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Lauren Goodley</h3>
         <p>Lauren Goodley is the Digital Archivist at Texas State University.</p>
     </div>
