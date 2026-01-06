@@ -221,18 +221,6 @@ redirect_from: /leadership/
     </div>
 </div>
 
-
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Stacey Erdman</h3>
-        <p>Stacey Erdman (<a href="/groups/membership/">Membership Working Group</a> Co-chair) is the Digital Preservation Librarian at University of Arizona Library. In this position, she has responsibility for designing and leading the digital preservation and curation program for UA Library. She is the former Digital Preservation Officer at Arizona State University; Digital Archivist at Beloit College; and Digital Collections Curator at Northern Illinois University. She has been a part of the Digital POWRR Project since its inception in 2012, and is serving as Principal Investigator for the recently funded IMLS initiative, the Digital POWRR Peer Assessment Program. Stacey currently serves on the 2021 NDSA Program Committee, the Membership Task Force, and was previously part of the Levels of Preservation Assessment subgroup. She received her MA in Library & Information Studies, with a concentration in Archival Administration from UW-Madison, and holds a Digital Archives Specialist certificate from the SAA.</p>
-    </div>
-    <div class="col-sm-2">
-         <img class="img-responsive" class="img-responsive" alt="Stacey Erdman" src="{{ '/images/coordinating-committee/Erdman.jpg' | prepend: site.baseurl }}"> 
-    </div>
-</div>
-
-
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Ann Hanlon</h3>
@@ -242,6 +230,17 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Ann Hanlon" src="{{ '/images/coordinating-committee/hanlon-2022.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Stacey Jones</h3>
+        <p>Stacey Jones (<a href="/groups/membership/">Membership Working Group</a> Co-chair) is the Digital Preservation Librarian at University of Arizona Library. In this position, she has responsibility for designing and leading the digital preservation and curation program for UA Library. She is the former Digital Preservation Officer at Arizona State University; Digital Archivist at Beloit College; and Digital Collections Curator at Northern Illinois University. She has been a part of the Digital POWRR Project since its inception in 2012, and is serving as Principal Investigator for the recently funded IMLS initiative, the Digital POWRR Peer Assessment Program. Stacey served as the 2023 DigiPres Conference Chair, as the 2022 DigiPres Vice Chair, and was previously a member of the Membership Task Force, and on the Levels of Preservation Assessment subgroup. She received her MA in Library & Information Studies, with a concentration in Archival Administration from UW-Madison, and holds a Digital Archives Specialist certificate from the SAA.</p>
+    </div>
+    <div class="col-sm-2">
+         <img class="img-responsive" class="img-responsive" alt="Stacey Erdman" src="{{ '/images/coordinating-committee/Erdman.jpg' | prepend: site.baseurl }}"> 
+    </div>
+</div>
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
