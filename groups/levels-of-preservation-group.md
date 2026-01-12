@@ -21,13 +21,16 @@ The Levels Steering group meets monthly to discuss the future needs around the L
 As part of the [review cycle](https://ndsa.org/groups/schedule/), the Levels Working Group was re-formed in mid-2024 in order to carry out a targeted revision to the Levels on the topic of environmental sustainability. The focus of this work is a result of community feedback gathered by the Steering Group in 2023 and earlier.  The group is currently doing background work and will formally get started in September 2024.  Work is expected to continue throughout 2024 and into 2025.  
 
 ### Steering Group Members
-* Angela Beking (co-chair), Manager, Information and Data Management Policy / Gestionnaire, Politique de gestion de l'information et des données, Privy Council Office; Government of Canada
-* Jenny Mitcham (co-chair), Chief Digital Preservation Officer, Digital Preservation Coalition
-* Ann Hanlon, Head of Digital Collections and Initiatives, University of Wisconsin Milwaukee Libraries
-* Carol Kussmann, Digital Preservation Analyst, University of Minnesota Libraries
+* Jacqueline Devereaux (co-chair), Curator of Born Digital Special Collections, Special Collections and University Archives; Vanderbilt University
+* Matthew Mceniry (co-chair), Associate Librarian and the Director of the Digital Scholarship Lab; Texas Tech University Libraries
+* Angela Beking, Manager, Information and Data Management Policy / Gestionnaire, Politique de gestion de l'information et des données, Privy Council Office; Government of Canada
+* Ann Hanlon, Head of Digital Collections and Initiatives; University of Wisconsin Milwaukee Libraries
+* Carol Kussmann, Digital Preservation Analyst; University of Minnesota Libraries
 * Elizabeth La Beaud, Head of Library Technology at the University of Southern Mississippi, and Director of the Mississippi Digital Library
-* Nancy McGovern, Associate for Digital Preservation Instruction and Practice, Global Archivist
-* Keith Pendergrass, Digital Archivist, Harvard Business School
+* Jenny Mitcham, Chief Digital Preservation Officer; Digital Preservation Coalition
+* Keith Pendergrass, Digital Archivist; Harvard Business School
+<!--* Nancy McGovern, Associate for Digital Preservation Instruction and Practice, Global Archivist-->
+
 
 <!--### Background on Working Group Activities
 The Levels of Digital Preservation Working Group was re-formed in 2018 with the main purpose of updating the Levels of Digital Preservation Matrix. The **full set activities of the 2018 group are provided on the [history](/groups/levels-of-preservation/history/) page** for the LOP Working Group.  The Levels are scheduled to be reviewed again in 2024.   -->
