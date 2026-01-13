@@ -79,22 +79,15 @@ redirect_from: /leadership/
         <h3>Rebecca Frank</h3>
         <p>Rebecca Frank (1st term, 2026 - 2028) is an Assistant Professor at the University of Michigan School of Information and a Faculty Affiliate at the Inter-university Consortium for Political and Social Research (ICPSR). She is also affiliated with the Einstein Center Digital Future in Berlin, Germany. Her research examines the social construction of risk in trustworthy digital repository audit and certification. She also conducts research in the areas of open data, digital preservation, digital curation, and data reuse, focusing on social and ethical barriers that limit or prevent the preservation, sharing, and reuse of digital information. She has a PhD from the University of Michigan School of Information, and an MSI from the University of Michigan School of Information with a specialization in Preservation of Information. Her work has been supported by the Institute for Museum and Library Services (IMLS), the Deutsche Stiftung Friedensforschung (German Foundation for Peace Research), the Einstein Centre Digital Future, the InfraLab Berlin, the National Science Foundation (United States), and the Australian Academy of Science.</p>
     </div>
+       <div class="col-sm-2">
+         <img class="img-responsive" class="img-responsive" alt="Rebecca Frank" src="{{ '/images/coordinating-committee/FrankR-2026.JPG' | prepend: site.baseurl }}"> 
+    </div>
 </div>
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Lauren Goodley</h3>
         <p>Lauren Goodley is the Digital Archivist at Texas State University.</p>
-    </div>
-</div>
-
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Louisa Kwasigroch</h3>
-        <p>Louisa Kwasigroch (<a href="https://www.clir.org/">CLIR</a> representative) is the director of outreach and engagement for the Council on Library and Information Resources (CLIR) and Interim Senior Program Officer for the Digital Library Federation (DLF). Her mission at CLIR centers around working with members, funders, affiliates, and the overlapping library/information communities to find places to collaborate and further the field. Louisa’s experience spans organizational design, marketing, business development, nonprofit management, fundraising, and communications. She is a Kodak Portfolio award-winning photographer and part of the Beta Phi Mu International Library & Information Studies Honor Society. Her work in higher education and library and information science is dedicated to breaking down barriers via cross-industry collaboration. Louisa holds a Master of Business Administration and a Master of Science in Library and Information Science from the University of Illinois at Urbana-Champaign, and a Bachelor of Arts in photography from Columbia College Chicago.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Louisa Kwasigroch" src="{{ '/images/coordinating-committee/kwasigroch2021.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
 
