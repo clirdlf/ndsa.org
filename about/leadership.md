@@ -77,7 +77,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Rebecca Frank</h3>
-        <p>Rebecca Frank is Assistant Professor at the University of Michigan School of Information.</p>
+        <p>Rebecca Frank (1st term, 2026 - 2028) is an Assistant Professor at the University of Michigan School of Information and a Faculty Affiliate at the Inter-university Consortium for Political and Social Research (ICPSR). She is also affiliated with the Einstein Center Digital Future in Berlin, Germany. Her research examines the social construction of risk in trustworthy digital repository audit and certification. She also conducts research in the areas of open data, digital preservation, digital curation, and data reuse, focusing on social and ethical barriers that limit or prevent the preservation, sharing, and reuse of digital information. She has a PhD from the University of Michigan School of Information, and an MSI from the University of Michigan School of Information with a specialization in Preservation of Information. Her work has been supported by the Institute for Museum and Library Services (IMLS), the Deutsche Stiftung Friedensforschung (German Foundation for Peace Research), the Einstein Centre Digital Future, the InfraLab Berlin, the National Science Foundation (United States), and the Australian Academy of Science.</p>
     </div>
 </div>
 
