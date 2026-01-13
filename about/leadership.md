@@ -87,7 +87,10 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Lauren Goodley</h3>
-        <p>Lauren Goodley is the Digital Archivist at Texas State University.</p>
+        <p>Lauren Goodley is the Digital Archivist at the Wittliff Collections, Texas State University. Her duties include digital preservation initiatives and actions; managing digitization projects; and processing, access, and reference for digital manuscript and audio-visual materials. Lauren currently serves on the NDSA Fixity Survey Working Group, and was on the NDSA Excellence Awards from 2019-2021. Lauren has also served as the Secretary for the Academy of Certified Archivists, Chair of the Texas Digital Library Awards Committee, and is a member of the Archival Workers Collective. She regularly presents at the annual meetings of the Society of Southwest Archivists, the Society of American Archivists, and the Association of Tribal Archives, Libraries, and Museums.  Lauren holds a MSIS from the University of Texas at Austin, a Digital Archives Specialist certificate from SAA, is a Certified Archivist, and recently completed the CopyrightX-Libraries course.</p>
+    </div>
+       <div class="col-sm-2">
+         <img class="img-responsive" class="img-responsive" alt="Rebecca Frank" src="{{ '/images/coordinating-committee/GoodleyL-2026.png' | prepend: site.baseurl }}"> 
     </div>
 </div>
 
