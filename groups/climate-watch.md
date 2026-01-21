@@ -22,17 +22,6 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 
 - Sibyl Schaefer, Lead Vision and Strategy
 - Julie Shi, Lead Coordinator and Logistics
-- Nina Patterson
-- Tricia Patterson
+- Chelsea Denault 
 - Eric Phetteplace
-- James Van Mil
 
-<!--
-- Moriah Caruso
-- Kristen Chua
-- Emily Holmes
-- Jimi Jones
-- John Moran
-- Grayson Murphy
-- Natalie Vielfaure
--->
