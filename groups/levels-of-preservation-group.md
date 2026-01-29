@@ -18,7 +18,7 @@ New members will be added to a larger Working Group once additional work is iden
 ### Current Work
 The Levels Steering group meets monthly to discuss the future needs around the Levels of Digital Preservation.  The group also holds quarterly open sessions to engage the community and to hear feedback on the Levels in preparation for updates to the existing Levels - anyone is welcome to attend these sessions.  The group continues to discuss the Levels with the community at conferences to solicit feedback and to better understand how the Levels are being used.  
 
-As part of the [review cycle](https://ndsa.org/groups/schedule/), the Levels Working Group was re-formed in mid-2024 in order to carry out a targeted revision to the Levels on the topic of environmental sustainability. The focus of this work is a result of community feedback gathered by the Steering Group in 2023 and earlier.  The group is currently doing background work and will formally get started in September 2024.  Work is expected to continue throughout 2024 and into 2025.  
+As part of the [review cycle](https://ndsa.org/groups/schedule/), the Levels Working Group was re-formed in mid-2024 in order to carry out a targeted revision to the Levels on the topic of environmental sustainability. The focus of this work is a result of community feedback gathered by the Steering Group in 2023 and earlier.  The Levels Working Group is updating the Levels's outputs and new versions are expected in early 2026.   
 
 ### Steering Group Members
 * Jacqueline Devereaux (co-chair), Curator of Born Digital Special Collections, Special Collections and University Archives; Vanderbilt University
