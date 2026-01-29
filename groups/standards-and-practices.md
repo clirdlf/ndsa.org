@@ -13,19 +13,23 @@ In addition, the Interest Group seeks to identify, promote and widely disseminat
 
 Smaller working groups frequently emerge from the Standards and Practices Interest Group. 
 
-*Take me to the [Standards and Practices Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-STANDARDS)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, click the subscribe link on the page.*
+<!--*Take me to the [Standards and Practices Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-STANDARDS)! If you are already a member of this Interest Group, you can always access the listserv (including its archives) at that link. To join this Interest Group, click the subscribe link on the page.*-->
 
 ## Meetings
   * NDSA Interest Groups now meet on a rotating schedule<!--[rotating schedule](https://ndsa.org//2022/02/10/scheduling-changes-for-ndsa-interest-groups.html)--> with one per month to help members who have wanted to participate in multiple groups but didn't have the time for two or more calls a month.
   * All NDSA events can be found on the [NDSA Calendar](https://ndsa.org/about/calendar/)  
-  * The meetings for the Standards and Practices Interest Group are held the second Monday of the month at 1pm EST.  The 2025 dates are listed below:
-    * January 13th
-    * April 14th
-    * July 14th
-    * October 20th
+  * The meetings for the Standards and Practices Interest Group are held the second Monday of the month at 1pm EST.  The 2026 dates are listed below:
+    * January 12th
+    * April 20th
+    * July 13th
+    * October 19th
   * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below.
   
-  * Call in information is available on the 2025 running [meeting agenda/notes document](https://docs.google.com/document/d/1OHxQ3gtNRiq2J6Ss1f9vVvAYg6VoRWhvqag-6bOuL08/edit?tab=t.0#heading=h.qmmvoe1um8h).  The 2024 [meeting agenda/notes](https://docs.google.com/document/d/1Cw1-Ai7eDQSSHMvc6mfhDTe9tmZp3PiKpy8uwR6cDjQ/edit?usp=sharing) are also available.
+  * Call in information is available on the 2026 running [meeting agenda/notes document](https://docs.google.com/document/d/1HLXPfDCPL7Vm_wizVv3HZHEtJ5ZpnjIdQ2SWzD_cnNM/edit?usp=sharing).
+
+## Past Meetings
+  * [2025 meeting agenda/notes document](https://docs.google.com/document/d/1OHxQ3gtNRiq2J6Ss1f9vVvAYg6VoRWhvqag-6bOuL08/edit?tab=t.0#heading=h.qmmvoe1um8h).  
+  * [2024 meeting agenda/notes](https://docs.google.com/document/d/1Cw1-Ai7eDQSSHMvc6mfhDTe9tmZp3PiKpy8uwR6cDjQ/edit?usp=sharing)
  
 <!--Current activities include:
 
