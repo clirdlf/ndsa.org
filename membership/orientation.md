@@ -18,8 +18,8 @@ The challenges of digital stewardship are greater than any single institution ca
 - Attend and participate in monthly Interest or Working Group meetings.  Contact your [Interest Group or Working Group co-chairs](/groups/) to learn more about how to get involved in a specific group or activity.
   - Offer to help take meeting minutes (this is always truly appreciated!).
   - Help with small or large tasks to accomplish Interest Group or Working Group goals.
-- Chat with your fellow members via the listserv - ask questions, tell us about your projects, introduce yourself! You will be added to the listserv upon joining the NDSA, and can always access it [here](http://lists.clir.org/cgi-bin/wa?A0=NDSA-ALL)
 - Encourage your co-workers to get involved.
+<!--- Chat with your fellow members via the listserv - ask questions, tell us about your projects, introduce yourself! You will be added to the listserv upon joining the NDSA, and can always access it [here](http://lists.clir.org/cgi-bin/wa?A0=NDSA-ALL)-->
 
 ## Have an idea for a project or activity?
 New Working Groups can be formed at any time based on the interest of NDSA participants.  Action teams may also be formed outside of (or within) the Interest Groups to perform specific tasks or accomplish goals. To suggest a new project or activity...
